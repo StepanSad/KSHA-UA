@@ -1,0 +1,7 @@
+*
+!/game/
+!/game/*
+*.rpyb
+*.rpyc
+*.png
+!.gitignore
