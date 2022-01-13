@@ -1035,27 +1035,7 @@ init 2 python:
         if afm < 1:
             afm = 1
         return afm
-    gui.text_size = 22
-    fz = gui.text_size
-
-    def fz_get():
-        
-        global fz
-        
-        fz -= 1
-        if fz < 1:
-            fz = 1
-        return fz
-    
-
-    def fz_set(fz):
-        
-        fz += 1
-        if fz > 40:
-            fz = 40
-        if _preferences.font_size > 0:
-            _preferences.font_size = fz
-        persistent.font_size = fz
+   
 
     def afm_set(afm):
         
@@ -1065,6 +1045,30 @@ init 2 python:
         if _preferences.afm_time > 0:
             _preferences.afm_time = afm
         persistent.afm_time = afm
+    
+    persistent.fontsize = 1
+    def fz_get():
+        fz = persistent.fontsize
+        fz -= 1
+        if fz < 1:
+            fz = 1
+        style.default.size = fz
+        return fz
+        style.rebuild()
+    
+
+    def fz_set(fz):
+        fz += 1
+        if fz > 100:
+            fz = 40
+        if style.default.size > 0:
+            style.default.size = fz
+        persistent.fontsize = fz
+        style.rebuild()
+
+
+        
+        
 
 
 
@@ -1077,7 +1081,7 @@ init 2 python:
         store.musicvol_p = customVolumePreference(displayStrings.config_musicvol_label, 'music')
         store.musicvol_p_jukebox = customVolumePreference(displayStrings.config_musicvol_jukebox_label, 'music')
         store.sfxvol_p = customVolumePreference(displayStrings.config_sfxvol_label, 'sfx')
-        store.textsize_p = customSliderPreference(displayStrings.config_fontsize_label, 150, fz_get, fz_set)
+        store.textsize_p = customSliderPreference(displayStrings.config_fontsize_label, 100,fz_get ,fz_set)
 
 
 
