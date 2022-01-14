@@ -251,10 +251,11 @@ label prefs_screen:
         unreadskip_p.render_preference(widgetysize=widgetysize)
         choiceskip_p.render_preference(widgetysize=widgetysize)
         ui.null(height=group_spacing)
+        textsize_p.render_preference()
+        ui.null(height=group_spacing)
         textspeed_p.render_preference()
         ui.null(height=group_spacing)
         afm_p.render_preference()
-        textsize_p.render_preference()
         ui.null(height=group_spacing)
         musicvol_p.render_preference()
         ui.null(height=group_spacing)
@@ -267,7 +268,7 @@ label prefs_screen:
         widget_button(displayStrings.config_sfxtest_label, "ui/bt-musicplay.png", test_sound, widgetyoffset=-3, textxoffset=50, ysize=50, ypos=13)
         ui.close()
         ui.null(height=group_spacing*5)
-        widget_button(displayStrings.config_language_sel, "ui/bt-language.png", ui.jumps("language_screen"), xsize=300, widgetyoffset=-3, textxoffset=50, ypos=-541)
+        widget_button(displayStrings.config_language_sel, "ui/bt-language.png", ui.jumps("language_screen"), xsize=300, widgetyoffset=-3, textxoffset=50, ypos=-341)
         if renpy.display.joystick.enabled: 
             widget_button(displayStrings.config_gamepad_label, "ui/bt-gamepad.png", ui.jumps("joystick_screen"), xsize=700, widgetyoffset=-3, textxoffset=50, ypos=-495)
 
