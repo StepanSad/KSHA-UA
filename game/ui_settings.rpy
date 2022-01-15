@@ -3193,7 +3193,7 @@ init python:
         return im.MatrixColor(image, im.matrix.opacity(0.1), **options)
 
 
-    style.default.font = mainfont
+    style.default.font = persistent.fontsize
     style.default.size = 36
     def turn_wide():
         if not persistent.widesay:

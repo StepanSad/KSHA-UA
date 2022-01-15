@@ -1046,24 +1046,20 @@ init 2 python:
             _preferences.afm_time = afm
         persistent.afm_time = afm
     
-    persistent.fontsize = 1
+    persistent.fontsize
     def fz_get():
         fz = persistent.fontsize
         fz -= 1
         if fz < 1:
             fz = 1
-        style.default.size = fz
         return fz
         style.rebuild()
     
 
     def fz_set(fz):
         fz += 1
-        if fz > 100:
-            fz = 40
-        if style.default.size > 0:
-            style.default.size = fz
         persistent.fontsize = fz
+        style.default.size = persistent.fontsize
         style.rebuild()
 
 
