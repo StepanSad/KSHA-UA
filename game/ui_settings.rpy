@@ -3193,8 +3193,8 @@ init python:
         return im.MatrixColor(image, im.matrix.opacity(0.1), **options)
 
 
-    style.default.font = persistent.fontsize
-    style.default.size = 36
+    style.default.font = mainfont
+    style.default.size = persistent.fontsize
     def turn_wide():
         if not persistent.widesay:
             style.say_window.background = "ui/bg-say_notwide.png"
