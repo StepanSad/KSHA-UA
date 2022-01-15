@@ -1058,6 +1058,8 @@ init 2 python:
 
     def fz_set(fz):
         fz += 1
+        if fz < 36:
+            fz = 36
         persistent.fontsize = fz
         style.default.size = persistent.fontsize
         style.rebuild()
