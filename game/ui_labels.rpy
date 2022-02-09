@@ -251,7 +251,6 @@ label prefs_screen:
         unreadskip_p.render_preference(widgetysize=widgetysize)
         choiceskip_p.render_preference(widgetysize=widgetysize)
         ui.null(height=group_spacing)
-        textsize_p.render_preference()
         ui.null(height=group_spacing)
         textspeed_p.render_preference()
         ui.null(height=group_spacing)
@@ -275,6 +274,9 @@ label prefs_screen:
 
         ui.close()
         ui.close()
+        ui.close()
+        ui.fixed()
+        ui.imagebutton("ui/bt-cf-font.png", "ui/bt-cf-font-hover.png", clicked=ui.jumps("font_test"), style="opt_imagebtn")
         ui.close()
         if entered_from_game:
             ui.add(renpy.Keymap(K_F4=gm_page_return_to_game))
@@ -1071,8 +1073,8 @@ label credits(c_movie=False):
 
     $ renpy.pause(1.0, hard=True)
 
-    $ textheight = creditstext_disp.laidout_height
-    $ textwidth = creditstext_disp.laidout_width
+    $ textheight = config.screen_height
+    $ textwidth = config.screen_width
 
     hide textsniff
     with None
