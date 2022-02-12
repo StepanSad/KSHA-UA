@@ -10,13 +10,23 @@ init -500:
 
         window:
             id "window"
-
-            
-
             text what id "what"
+            $ t = Text(what)
+            # $ tw = int((t.size()[0]))
+            # $ th = int((t.size()[1]))
+            # $ print(str(tw) + ' ' + str(th))
+            $ t.render(1920,1080,1,1)
+            $ vl = t.get_virtual_layout()
+            $ tw = vl.size[0]
+            $ th = vl.size[1]
+            $ print("width: " + str(tw)+ " h: "+ str(th))
+            
         if who is not None:
 
                 window:
+                    # xpos 1920tw
+                    # ypos th
+                    
                     style "namebox"
                     text who id "who"
 
@@ -36,16 +46,17 @@ init -500:
         # background 'ui/bg-saybox.png'
 
         
-    style namebox:
-        xalign 0.1
-        yalign 0.4
+    # style namebox:
+        # fixed
+        # xpos tw
+        # ypos th
 
     
 
     style say_label:
         properties gui.text_properties("name")
-        xalign 0.5
-        yalign 0.5
+        # xalign 0.5
+        # yalign 0.5
         
 
     style say_dialogue:
