@@ -3194,7 +3194,14 @@ init python:
 
 
     style.default.font = mainfont
-    style.default.size = persistent.fontsize
+    if persistent.fontsize == None:
+        persistent.fontsize = 36
+        style.default.size = persistent.fontsize
+    else:
+        style.default.size = persistent.fontsize
+
+    
+    
     def turn_wide():
         if not persistent.widesay:
             style.say_window.background = Frame ("ui/bg-saybox.png")
@@ -3545,6 +3552,7 @@ init python:
 
     style.prefs_label = Style(style.label, help="a preference label (window)")
     style.prefs_label_text = Style(style.label_text, help="a preference label (text)")
+    style.label.size = 36
 
     style.prefs_button = Style(style.radio_button, help="preference value button")
     style.prefs_button_text = Style(style.radio_button_text, help="preference value button (text)")
