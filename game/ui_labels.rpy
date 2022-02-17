@@ -275,9 +275,6 @@ label prefs_screen:
         ui.close()
         ui.close()
         ui.close()
-        ui.fixed()
-        ui.imagebutton("ui/bt-cf-font.png", "ui/bt-cf-font-hover.png", clicked=ui.jumps("font_test"), style="opt_imagebtn")
-        ui.close()
         if entered_from_game:
             ui.add(renpy.Keymap(K_F4=gm_page_return_to_game))
         return_button(ui.returns("return"))

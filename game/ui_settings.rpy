@@ -3194,17 +3194,31 @@ init python:
 
 
     style.default.font = mainfont
+    tw = None
+    th = None
+    persistent.fontsize
     if persistent.fontsize == None:
         persistent.fontsize = 36
         style.default.size = persistent.fontsize
     else:
         style.default.size = persistent.fontsize
 
+    persistent.say_xfill
+    if persistent.sayxfill == None:
+        persistent.sayxfill = False
+    
+    checkbox = None
+    
+
+    # style.say_window.xfill=persistent.say_xfill
+    # style.say_window.xminimum=1136
+    # style.say_window.xpadding=30
+
     
     
     def turn_wide():
         if not persistent.widesay:
-            style.say_window.background = Frame ("ui/bg-saybox.png")
+            # style.say_window.background = Frame ("ui/bg-saybox.png")
             # style.say_window.left_padding = 384
             # style.say_window.right_padding = 400
             
@@ -3215,16 +3229,16 @@ init python:
             
             style.nvl_window.background = "ui/bg-nvl_old.png"
             style.nvl_window.top_padding = 59
-            # style.nvl_window.left_padding = 300
-            # style.nvl_window.right_padding = 300
+            style.nvl_window.left_padding = 300
+            style.nvl_window.right_padding = 300
             
             style.create("b_nvl_window", "nvl_window")
             style.b_nvl_window.background = None
             style.b_nvl_window.top_padding = 140
-            # style.b_nvl_window.left_padding = 300
-            # style.b_nvl_window.right_padding = 300
+            style.b_nvl_window.left_padding = 300
+            style.b_nvl_window.right_padding = 300
         else:
-            style.say_window.background = "ui/bg-say_wide.png"
+            # style.say_window.background = Frame("ui/bg-say_wide.png")
             style.say_window.left_padding = 30
             style.say_window.right_padding = 65
             

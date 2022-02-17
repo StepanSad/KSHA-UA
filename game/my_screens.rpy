@@ -1,68 +1,65 @@
-init -500:
-
-    style default:
-        properties gui.text_properties()
+init:
     
     
 
     screen say(who, what):
         style_prefix "say"
+        vbox:
+            xalign 0.5
+            yalign 1.0
+            if who != " ":
+                vbox:
+                    # python:
+                    #     t = Text(what)
+                    #     t.render(1920,1080,1,1)
+                    #     vl = t.get_virtual_layout()
+                    #     tw = vl.size[0]
+                    #     if tw < 1136:
+                    #         tw = 1136
+                    #     th = vl.size[1]
+                    #     if th < 100:
+                    #         th = 100
+                    #     th = th*2
+                    #     if th > 228:
+                    #         th = 228
+                    #     print(int(tw), int(th))
+                    frame:
+                        # xsize int(tw/2.7)
+                        # ysize int(th)
+                        text who id "who"
+                        
+                            
+                            
+            vbox:
+                frame:
 
-        window:
-            id "window"
-            text what id "what"
-            $ t = Text(what)
-            # $ tw = int((t.size()[0]))
-            # $ th = int((t.size()[1]))
-            # $ print(str(tw) + ' ' + str(th))
-            $ t.render(1920,1080,1,1)
-            $ vl = t.get_virtual_layout()
-            $ tw = vl.size[0]
-            $ th = vl.size[1]
-            $ print("width: " + str(tw)+ " h: "+ str(th))
-            
-        if who is not None:
-
-                window:
-                    # xpos 1920tw
-                    # ypos th
-                    
-                    style "namebox"
-                    text who id "who"
+                    id "window"
+                    text what id "what"
 
 
-        ## If there's a side image, display it above the text. Do not display on the
-        ## phone variant - there's no room.
-        if not renpy.variant("small"):
-            add SideImage() xalign 0.0 yalign 1.0
+    #     ## If there's a side image, display it above the text. Do not display on the
+    #     ## phone variant - there's no room.
+    #     if not renpy.variant("small"):
+    #         add SideImage() xalign 0.0 yalign 1.0
 
-    style namebox is default
 
-    style window:
+    style say_window:
         xminimum 1136
-        xfill False
-        yfill False
+        yminimum 155
+        xfill persistent.sayxfill
+        background Frame("ui/bg-saybox.png")
     
-        # background 'ui/bg-saybox.png'
-
+    style say_frame:
+        xminimum 300
+        yminimum 100
+        # ysize say_window.xsize
+        # ypos 0.58
+        # xpos -0.06
         
-    # style namebox:
-        # fixed
-        # xpos tw
-        # ypos th
-
+        # left_padding 0.1
+        # yanchor -0.5
+        background Frame("ui/bg-saybox.png")
     
-
-    style say_label:
-        properties gui.text_properties("name")
-        # xalign 0.5
-        # yalign 0.5
-        
-
-    style say_dialogue:
-        properties gui.text_properties("dialogue")
-    style say_dialogue:
-        background 'ui/bg-saybox.png'
 
 
 
@@ -133,23 +130,35 @@ init -500:
 
     screen text_options:
         
-        
 
         frame:
             xsize 908
             ysize 400
-            background "#00000066"
-            
-            hbox:
-                    python:
-                        textsize_p.render_preference()
+            background Frame("ui/bg-config.png")
+            xpadding 20
+            ypadding 20
 
-style bar:
-    yminimum 200
+            $ ui.textbutton("Close", clicked=Function(hideTextOptions), xalign = 1.0, yalign = 1.0, style = "button")
+            
+            vbox:
+                vbox:
+                    python:
+                        widgetysize = 30
+                        if not persistent.sayxfill:
+                            checkboximage = "ui/bt-cf-unchecked.png"
+                        else:
+                            checkboximage = "ui/bt-cf-checked.png"
+                        ui.text(displayStrings.config_fontsize_label, style='prefs_label')
+                        textsize_p.render_preference()
+                        widget_button(displayStrings.config_sayXfill_label, checkboximage, enableXfill, xsize=600, ysize=widgetysize, widgetyoffset=-8, textxoffset=40)
+                
+
 
 style button:
     background None
+    size 36
 style button_text:
+    size 36
     color "#00000066"
     hover_color "#000"
     insensitive_color "#00000019"

@@ -68,7 +68,8 @@ init -3 python:
     displayDict["en"].config_musicvol_label = u"Music volume"
     displayDict["en"].config_musicvol_jukebox_label = u"Vol."
     displayDict["en"].config_sfxvol_label = u"SFX volume"
-    displayDict["en"].config_fontsize_label = u"fz"
+    displayDict["en"].config_fontsize_label = u"Text size"
+    displayDict["en"].config_sayXfill_label = u"Say Xfill"
     displayDict["en"].config_sfxtest_label = u"Test"
     displayDict["en"].config_gamepad_label = u"Gamepad keymap…"
 

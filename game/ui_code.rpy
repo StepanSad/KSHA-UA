@@ -1,7 +1,6 @@
 
 
 
-
 init -1 python:
 
     def is_glrenpy():
@@ -1045,8 +1044,7 @@ init 2 python:
         if _preferences.afm_time > 0:
             _preferences.afm_time = afm
         persistent.afm_time = afm
-    
-    persistent.fontsize
+
     def fz_get():
         fz = persistent.fontsize
         fz -= 1
@@ -1064,6 +1062,29 @@ init 2 python:
         style.default.size = persistent.fontsize
         style.rebuild()
 
+    
+    
+    def showTextOptions():
+        renpy.show_screen("text_options")
+        renpy.restart_interaction()
+    
+    def hideTextOptions():
+        renpy.hide_screen("text_options")
+        renpy.restart_interaction()
+
+    def enableXfill():
+        if persistent.sayxfill == False:
+            persistent.sayxfill = True
+            style.say_window.xfill = True
+            renpy.restart_interaction()
+            style.rebuild()
+        else:
+            persistent.sayxfill = False
+            style.say_window.xfill = False
+            renpy.restart_interaction()
+            style.rebuild()
+
+        
 
         
         
@@ -1079,7 +1100,7 @@ init 2 python:
         store.musicvol_p = customVolumePreference(displayStrings.config_musicvol_label, 'music')
         store.musicvol_p_jukebox = customVolumePreference(displayStrings.config_musicvol_jukebox_label, 'music')
         store.sfxvol_p = customVolumePreference(displayStrings.config_sfxvol_label, 'sfx')
-        store.textsize_p = customSliderPreference(displayStrings.config_fontsize_label, 100,fz_get ,fz_set)
+        store.textsize_p = customSliderPreference(str(persistent.fontsize), 100,fz_get ,fz_set)
 
 
 
