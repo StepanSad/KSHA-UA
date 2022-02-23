@@ -86,7 +86,8 @@ init -1 python:
         if may_afm:
             renpy.game_menu('image_key')
 
-    # def additional_keys():
+    def additional_keys():
+        ui.keymap(k=Function(showTextOptions))
         
     #     ui.keymap(a=turn_afm_on)
     #     ui.keymap(t=go_history)
@@ -96,7 +97,7 @@ init -1 python:
     #     ui.keymap(h=go_image)
     #     ui.keymap(mouseup_2=go_image)
     #     ui.keymap(joy_hide=go_image)
-    # config.overlay_functions.append(additional_keys)
+    config.overlay_functions.append(additional_keys)
 
     def gm_page_return_to_game():
         store.entered_from_game = False
@@ -1051,7 +1052,6 @@ init 2 python:
         if fz < 1:
             fz = 1
         return fz
-        style.rebuild()
     
 
     def fz_set(fz):
@@ -1066,6 +1066,7 @@ init 2 python:
     
     def showTextOptions():
         renpy.show_screen("text_options")
+        print("yep")
         renpy.restart_interaction()
     
     def hideTextOptions():
@@ -1083,7 +1084,11 @@ init 2 python:
             style.say_window.xfill = False
             renpy.restart_interaction()
             style.rebuild()
-
+    # renpy.key("k", showTextOptions)
+    config.gestures["e"] = "toggle_skip"
+    config.gestures["w"] = "rollback"
+    config.gestures["n"] = "game_menu"
+    config.gestures["s"] = "k"
         
 
         

@@ -3210,10 +3210,6 @@ init python:
     checkbox = None
     
 
-    # style.say_window.xfill=persistent.say_xfill
-    # style.say_window.xminimum=1136
-    # style.say_window.xpadding=30
-
     
     
     def turn_wide():
