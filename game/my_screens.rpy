@@ -56,10 +56,10 @@ init:
 
     style centered_window:
         xalign 0.5
-        # xfill True
+        xfill True
         xpadding 10
         yalign 0.5
-        # yfill True
+        yfill True
     
     style centered_text:
         layout "subtitle"
@@ -87,61 +87,28 @@ init:
         # yanchor -0.5
         # background Frame("ui/bg-saybox.png")
     
-    screen choice(items):
-        style_prefix "choice"
-
-        vbox:
-            for i in items:
-                textbutton i.caption action i.action
 
 
-    # screen nvl(dialogue, items=None):
+    screen nvl(dialogue, items=None):
 
-    #     window:
-    #         style "nvl_window"
+        window:
+            style "nvl_window"
 
-    #         # has vbox:
-    #             # spacing gui.nvl_spacing
+            has vbox:
+                style "nvl_vbox"
 
-    #         ## Displays dialogue in either a vpgrid or the vbox.
-    #         if True:
+            # Display dialogue.
+            for d in dialogue:
+                window:
+                    id d.window_id
 
-    #             vpgrid:
-    #                 cols 1
-    #                 yinitial 1.0
+                    has hbox:
+                        spacing 10
 
-    #                 # use nvl_dialogue(dialogue)
+                    if d.who is not None:
+                        text d.who id d.who_id
 
-    #         # else:
-
-    #             # use nvl_dialogue(dialogue)
-
-    #         ## Displays the menu, if given. The menu may be displayed incorrectly if
-    #         ## config.narrator_menu is set to True, as it is above.
-
-
-    # #     add SideImage() xalign 0.0 yalign 1.0
-
-    
-    # # screen nvl_dialogue(dialogue):
-
-    # #     # for d in dialogue:
-
-    # #     window:
-    # #         # id window_id
-
-            
-    # #             # yfit gui.nvl_height is None
-
-    # #         if who is not None and d.who !=" ":
-
-    # #             text who
-    # #                 # id who_id
-
-    # #         text what
-    # #             # id what_id
-
-
+                    text d.what id d.what_id
 
 
     screen confirm(message, yes_action, no_action):
@@ -219,20 +186,26 @@ init:
             xpadding 20
             ypadding 20
 
-            $ ui.textbutton("Close", clicked=Function(hideTextOptions), xalign = 1.0, yalign = 1.0, style = "button")
+            $ui.textbutton ("Close", clicked = Function(hideTextOptions))
+                
             
             vbox:
-                vbox:
-                    python:
-                        widgetysize = 30
-                        if not persistent.sayxfill:
-                            checkboximage = "ui/bt-cf-unchecked.png"
-                        else:
-                            checkboximage = "ui/bt-cf-checked.png"
-                        ui.text(displayStrings.config_fontsize_label, style='prefs_label')
-                        textsize_p.render_preference()
-                        widget_button("xfill", checkboximage, enableXfill, xsize=600, ysize=widgetysize, widgetyoffset=-8, textxoffset=40)
-                
+                python:
+                    if not persistent.sayxfill:
+                        checkboximage = "ui/bt-cf-unchecked.png"
+                    else:
+                        checkboximage = "ui/bt-cf-checked.png"
+                    
+                    ui.text(displayStrings.config_fontsize_label, style='prefs_label')
+
+                    ui.hbox()
+                    textsize_p.render_preference()
+
+                    ui.text(str(persistent.fontsize), style='prefs_label')
+                    ui.close()
+
+                    widget_button("xfill", checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
+            
 
 
 style button:

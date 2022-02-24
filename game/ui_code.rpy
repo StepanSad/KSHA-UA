@@ -1105,7 +1105,7 @@ init 2 python:
         store.musicvol_p = customVolumePreference(displayStrings.config_musicvol_label, 'music')
         store.musicvol_p_jukebox = customVolumePreference(displayStrings.config_musicvol_jukebox_label, 'music')
         store.sfxvol_p = customVolumePreference(displayStrings.config_sfxvol_label, 'sfx')
-        store.textsize_p = customSliderPreference(str(persistent.fontsize), 100,fz_get ,fz_set)
+        store.textsize_p = customSliderPreference("", 100,fz_get ,fz_set)
 
 
 
