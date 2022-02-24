@@ -5,3 +5,5 @@
 *.rpyc
 *.png
 !.gitignore
+!/game/ui/bg-namebox.png
+!/game/ui/bg-saybox.png
