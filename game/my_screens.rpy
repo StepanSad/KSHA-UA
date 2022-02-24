@@ -24,6 +24,7 @@ init:
                         if th > 228:
                             th = 228
                     frame:
+                        style "nameBox"
                         xsize int(tw/2.7)
                         ysize int(th)
                         xpadding int(tw*0.03)
@@ -60,10 +61,10 @@ init:
         xfill False
         background Frame("ui/bg-saybox.png")
     
-    style say_frame:
+    style nameBox:
         xminimum 300
         yminimum 100
-        xpos -0.06
+        xpos -0.055
         ypos 0.6
         background Frame("ui/bg-namebox.png")
     
