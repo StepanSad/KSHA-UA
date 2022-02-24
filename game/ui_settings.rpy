@@ -3242,6 +3242,7 @@ init python:
             style.say_window.xmargin = 0
             style.say_window.ymargin = 0
             style.say_window.yminimum = 200
+            
             style.nvl_window.background = "ui/bg-nvl.png"
             style.nvl_window.top_padding = 59
             style.nvl_window.left_padding = 55

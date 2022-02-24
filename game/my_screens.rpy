@@ -58,6 +58,11 @@ init:
         xminimum 1136
         xmaximum 1890
         yminimum 155
+        xmargin 0
+        ymargin 0
+        left_padding 30
+        right_padding 65
+        top_padding 10 #22
         xfill False
         background Frame("ui/bg-saybox.png")
     
@@ -90,6 +95,14 @@ init:
                         text d.who id d.who_id
 
                     text d.what id d.what_id
+
+    style nvl_window:
+        background "ui/bg-nvl.png"
+        top_padding 59
+        left_padding 55
+        right_padding 70
+
+
 
 
     screen confirm(message, yes_action, no_action):

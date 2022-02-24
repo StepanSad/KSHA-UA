@@ -6107,8 +6107,6 @@ play music music_timeskip fadein 4.0
 
 centered_b "Настоящее{fast}" with Dissolve(4.0)
 
-label sos:
-
 nb "Понятие «настоящее», в лучшем случае, мимолётно и расплывчато.\n"
 
 extend "Миг между прошлым и будущим?\n"
