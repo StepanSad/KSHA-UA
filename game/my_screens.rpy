@@ -10,35 +10,24 @@ init:
             yalign 1.0
             if who != " " and who is not None:
                 vbox:
-                    # python:
-                        # d = Text(what)
-                        # d.render(1920,1080,1,1)
-                        # vl = d.get_virtual_layout()
-                        # dw = vl.size[0]
-                        # if dw < 1136:
-                        #     dw = 1136
-                        # dh = vl.size[1]
-                        # if dh < 100:
-                        #     dh = 100
-                        # dh = dh*2
-                        # if dh > 228:
-                        #     dh = 228
-                    #     print(int(tw), int(th))
+                    python:
+                        t = Text(what)
+                        t.render(1920,1080,1,1)
+                        vl = t.get_virtual_layout()
+                        tw = vl.size[0]
+                        if tw < 1136:
+                            tw = 1136
+                        th = vl.size[1]
+                        if th < 100:
+                            th = 100
+                        th = th*2
+                        if th > 228:
+                            th = 228
                     frame:
-                        # xsize int(tw/2.7)
-                        # ysize int(th)
+                        xsize int(tw/2.7)
+                        ysize int(th)
+                        xpadding int(tw*0.03)
                         text who id "who"
-                        # python:
-                        #     t= Text(who)
-                        #     t.render(1920,1080,1,1)
-                        #     vl = t.get_virtual_layout()
-                        #     tw = vl.size[0]
-                        #     if tw < 300:
-                        #         tw = 300
-                        #     th = vl.size[1]
-                        #     if th < 100:
-                        #         th = 100
-                        
                             
                             
             vbox:
@@ -47,12 +36,6 @@ init:
 
                     id "window"
                     text what id "what"
-        # if who != " " and who is not None:    
-        #     add (Fixed("ui/bg-saybox.png", xpos = int(tw), ypos = int(1080 - th-dh)))
-            
-
-
-        # add SideImage() xalign 0.0 yalign 1.0
 
     style centered_window:
         xalign 0.5
@@ -72,20 +55,17 @@ init:
 
     style say_window:
         xminimum 1136
+        xmaximum 1890
         yminimum 155
-        xfill persistent.sayxfill
+        xfill False
         background Frame("ui/bg-saybox.png")
     
     style say_frame:
         xminimum 300
         yminimum 100
-        # ysize say_window.xsize
-        # ypos 0.58
-        # xpos -0.06
-        
-        # left_padding 0.1
-        # yanchor -0.5
-        # background Frame("ui/bg-saybox.png")
+        xpos -0.06
+        ypos 0.6
+        background Frame("ui/bg-namebox.png")
     
 
 
@@ -186,7 +166,7 @@ init:
             xpadding 20
             ypadding 20
 
-            $ui.textbutton ("Close", clicked = Function(hideTextOptions))
+            $ui.textbutton ("Close", clicked = Function(hideTextOptions), xalign = 1.0, yalign = 1.0)
                 
             
             vbox:
