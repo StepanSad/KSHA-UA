@@ -3312,7 +3312,6 @@ init python:
     style.note_window.xmaximum=643
     style.note_window.yfill = False
     style.note_window.xminimum=643
-    style.note_window.ymaximum=483
     style.note_window.yminimum=483
 
     style.create("note_text", "centered_text")
