@@ -102,13 +102,6 @@ init:
         top_padding 59
         left_padding 55
         right_padding 70
-    
-    style b_nvl_window:
-        background None
-        top_padding 140
-        left_padding 100
-        right_padding 100
-
 
 
 
@@ -139,7 +132,7 @@ init:
                 yminimum 83
                 # spacing 30
 
-                label _("Are You Sure to \nquit Katawa Shoujo?"):
+                label _(displayStrings.yesno_quit):
                     style "confirm_prompt"
                     # xalign 0.5
 
@@ -147,8 +140,8 @@ init:
                     xalign 0.5
                     spacing 40
 
-                    textbutton _("Yes") action yes_action
-                    textbutton _("No") action no_action
+                    textbutton _(displayStrings.yesno_yes) action yes_action
+                    textbutton _(displayStrings.yesno_no) action no_action
         
         image ("ui/sd-hanako.png"):
             xpos 638
@@ -188,7 +181,7 @@ init:
             xpadding 20
             ypadding 20
 
-            $ui.textbutton ("Close", clicked = Function(hideTextOptions), xalign = 1.0, yalign = 1.0)
+            $ui.textbutton (displayStrings.XstringClose, clicked = Function(hideTextOptions), xalign = 1.0, yalign = 1.0)
                 
             
             vbox:
@@ -205,8 +198,8 @@ init:
 
                     ui.text(str(persistent.fontsize), style='prefs_label')
                     ui.close()
-
-                    widget_button("xfill", checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
+                    stringXFill= displayStrings.Xfill_label
+                    widget_button(stringXFill, checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
             
 
 
