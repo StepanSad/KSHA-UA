@@ -101,6 +101,13 @@ init:
         top_padding 59
         left_padding 55
         right_padding 70
+    
+    style b_nvl_window:
+        background None
+        top_padding 140
+        left_padding 100
+        right_padding 100
+
 
 
 
