@@ -1070,8 +1070,8 @@ label credits(c_movie=False):
 
     $ renpy.pause(1.0, hard=True)
 
-    $ textheight = config.screen_height
-    $ textwidth = config.screen_width
+    $ textheight = 2610
+    $ textwidth = 221
 
     hide textsniff
     with None
