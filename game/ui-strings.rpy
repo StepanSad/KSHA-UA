@@ -39,6 +39,7 @@ init -3 python:
     displayDict["en"].main_menu_extra = u"Extras"
     displayDict["en"].main_menu_config = u"Options"
     displayDict["en"].main_menu_quit = u"Quit"
+    displayDict["en"].XstringClose = u"Close"
 
     displayDict["en"].game_menu_return = u"Return"
     displayDict["en"].game_menu_show = u"Show image"
@@ -53,6 +54,7 @@ init -3 python:
     displayDict["en"].game_menu_current_scene = u"Current scene"
     displayDict["en"].game_menu_current_music = u"Current music track"
     displayDict["en"].game_menu_replay_indicator = u"Replay"
+    displayDict["en"].Xfill_label = u"Fill Dialogue Window"
 
     displayDict["en"].return_button_text = u"Return"
 

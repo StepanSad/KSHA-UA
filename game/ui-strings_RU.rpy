@@ -55,6 +55,8 @@ init -3 python:
     displayDict['ru'].widesay_label = ruw(u"Включить широкое диалоговое поле")
 
     displayDict['ru'].config_page_caption = ruw(u"Настройки")
+    displayDict['ru'].Xfill_label = ruw(u"Заполнить окно диалога")
+    displayDict['ru'].XstringClose = ruw(u"Закрыть")
     displayDict['ru'].config_fullscreen_label = ruw(u"Полноэкранный режим")
     displayDict['ru'].config_transitions_label = ruw(u"Отключить переходы")
     displayDict['ru'].config_skip_unseen_label = ruw(u"Пропускать непрочитанный текст")
