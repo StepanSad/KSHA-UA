@@ -49,6 +49,7 @@ init -2 python:
     displayDict['es'].config_musicvol_jukebox_label = u"Vol."
     displayDict['es'].config_sfxvol_label = u"Volumen SFX"
     displayDict['es'].config_sfxtest_label = u"Probar"
+    displayDict['es'].config_fontsize_label = u"Tamaño de fuente"
     displayDict['es'].config_gamepad_label = u"Mapeo del control de mando…"
     displayDict['es'].config_language_sel = u"Selección de idioma…"
     displayDict['es'].config_language_caption = u"Opciones > Selección de idioma"
