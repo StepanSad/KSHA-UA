@@ -16,7 +16,7 @@ init -1 python:
     config.file_entry_format = "" 
     config.preferences = { }
     config.all_preferences = { }
-    config.minimumvolume = -10.0
+    config.minimumvolume = 0.0
 
 
 
