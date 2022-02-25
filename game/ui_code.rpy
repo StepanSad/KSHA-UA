@@ -1066,7 +1066,6 @@ init 2 python:
     
     def showTextOptions():
         renpy.show_screen("text_options")
-        print("yep")
         renpy.restart_interaction()
     
     def hideTextOptions():
