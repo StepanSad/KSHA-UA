@@ -3203,9 +3203,7 @@ init python:
     else:
         style.default.size = persistent.fontsize
 
-    persistent.say_xfill
-    if persistent.sayxfill == None:
-        persistent.sayxfill = False
+    persistent.sayXsize
     
     checkbox = None
     

@@ -1074,14 +1074,14 @@ init 2 python:
         renpy.restart_interaction()
 
     def enableXfill():
-        if persistent.sayxfill == False:
-            persistent.sayxfill = True
-            style.say_window.xsize = 1890
+        if persistent.sayXsize == None:
+            persistent.sayXsize = 1890
+            style.say_window.xsize = persistent.sayXsize
             renpy.restart_interaction()
             style.rebuild()
         else:
-            persistent.sayxfill = False
-            style.say_window.xsize = None
+            persistent.sayXsize = None
+            style.say_window.xsize = persistent.sayXsize
             style.say_window.xmaximum = 1890
             style.say_window.xminimum = 1136
             renpy.restart_interaction()

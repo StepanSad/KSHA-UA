@@ -34,6 +34,7 @@ init:
             vbox:
                 
                 frame:
+                    xsize persistent.sayXsize
 
                     id "window"
                     text what id "what"
@@ -192,7 +193,7 @@ init:
             
             vbox:
                 python:
-                    if not persistent.sayxfill:
+                    if not persistent.sayXsize:
                         checkboximage = "ui/bt-cf-unchecked.png"
                     else:
                         checkboximage = "ui/bt-cf-checked.png"
