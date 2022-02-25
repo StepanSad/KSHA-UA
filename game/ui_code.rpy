@@ -89,14 +89,14 @@ init -1 python:
     def additional_keys():
         ui.keymap(k=Function(showTextOptions))
         
-    #     ui.keymap(a=turn_afm_on)
-    #     ui.keymap(t=go_history)
-    #     ui.keymap(K_F2=go_load)
-    #     ui.keymap(K_F3=go_save)
-    #     ui.keymap(K_F4=go_prefs)
-    #     ui.keymap(h=go_image)
-    #     ui.keymap(mouseup_2=go_image)
-    #     ui.keymap(joy_hide=go_image)
+        ui.keymap(a=turn_afm_on)
+        ui.keymap(t=go_history)
+        ui.keymap(K_F2=go_load)
+        ui.keymap(K_F3=go_save)
+        ui.keymap(K_F4=go_prefs)
+        ui.keymap(h=go_image)
+        ui.keymap(mouseup_2=go_image)
+        ui.keymap(joy_hide=go_image)
     config.overlay_functions.append(additional_keys)
 
     def gm_page_return_to_game():
@@ -1085,7 +1085,6 @@ init 2 python:
             style.say_window.xminimum = 1136
             renpy.restart_interaction()
             style.rebuild()
-    # renpy.key("k", showTextOptions)
     config.gestures["e"] = "toggle_skip"
     config.gestures["w"] = "rollback"
     config.gestures["n"] = "game_menu"
