@@ -1126,7 +1126,7 @@ label credits(c_movie=False):
     with None
 
 
-    show expression Text(u"©MMXV Four Leaf Studios", text_align=0.5, size=29)  at Position(xalign=0.5, yalign=0.602) as copyright
+    show expression Text(u"©MMXV Four Leaf Studios, Liken & Shura_joy", text_align=0.5, size=29)  at Position(xalign=0.5, yalign=0.602) as copyright
     with Dissolve(2.0)
     $ renpy.pause(5.0, hard=True)
 
