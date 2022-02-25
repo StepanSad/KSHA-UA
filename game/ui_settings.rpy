@@ -3210,50 +3210,6 @@ init python:
     checkbox = None
     
 
-    
-    
-    def turn_wide():
-        if not persistent.widesay:
-            # style.say_window.background = Frame ("ui/bg-saybox.png")
-            # style.say_window.left_padding = 384
-            # style.say_window.right_padding = 400
-            
-            style.say_window.top_padding = 22
-            # style.say_window.xmargin = 0
-            # style.say_window.ymargin = 0
-            # style.say_window.yminimum = 253   
-            
-            style.nvl_window.background = "ui/bg-nvl_old.png"
-            style.nvl_window.top_padding = 59
-            style.nvl_window.left_padding = 300
-            style.nvl_window.right_padding = 300
-            
-            style.create("b_nvl_window", "nvl_window")
-            style.b_nvl_window.background = None
-            style.b_nvl_window.top_padding = 140
-            style.b_nvl_window.left_padding = 300
-            style.b_nvl_window.right_padding = 300
-        else:
-            # style.say_window.background = Frame("ui/bg-say_wide.png")
-            style.say_window.left_padding = 30
-            style.say_window.right_padding = 65
-            
-            style.say_window.top_padding = 10
-            style.say_window.xmargin = 0
-            style.say_window.ymargin = 0
-            style.say_window.yminimum = 200
-            
-            style.nvl_window.background = "ui/bg-nvl.png"
-            style.nvl_window.top_padding = 59
-            style.nvl_window.left_padding = 55
-            style.nvl_window.right_padding = 70
-            
-            style.create("b_nvl_window", "nvl_window")
-            style.b_nvl_window.background = None
-            style.b_nvl_window.top_padding = 140
-            style.b_nvl_window.left_padding = 100
-            style.b_nvl_window.right_padding = 100
-    turn_wide()
 
     def main_menu_composer(is_animated):
         
