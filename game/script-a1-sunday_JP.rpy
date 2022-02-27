@@ -3400,7 +3400,7 @@ with None
 
 show rin negative_spaciness_close at tworight 
 show bg mural at Transform(xalign=0.6) 
-with MoveTransition(3.0, factory=MoveFactory(time_warp=_ease_time_warp))
+with MoveTransition(3.0, time_warp=_ease_time_warp)
 
 
 "琳の表情に退屈が表れ始めている。まるで琳が周囲の喧騒から隔てられているかのように。"

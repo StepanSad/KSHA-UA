@@ -2615,7 +2615,7 @@ with None
 
 show rin negative_spaciness_close at tworight  
 show bg mural at Transform(xalign=0.6)  
-with MoveTransition(3.0, factory=MoveFactory(time_warp=_ease_time_warp))
+with MoveTransition(3.0, time_warp=_ease_time_warp)
 
 "На лице Рин появляется какое-то утомлённо-скучающее выражение, из-за чего она кажется отстранённой от всего, что происходит вокруг."
 

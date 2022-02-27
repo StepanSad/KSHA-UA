@@ -2953,8 +2953,8 @@ init python:
 
     def Dissolvemove(time, time_warp=_ease_time_warp):
         top = Dissolve(time)
-        before = MoveTransition(time, factory=MoveFactory(time_warp=time_warp), old=True)
-        after = MoveTransition(time, factory=MoveFactory(time_warp=time_warp))
+        before = MoveTransition(time, time_warp=time_warp, old=True)
+        after = MoveTransition(time, time_warp=time_warp)
         return ComposeTransition(top, before=before, after=after)
 
     dissolvecharamove = Dissolvemove(1.0)

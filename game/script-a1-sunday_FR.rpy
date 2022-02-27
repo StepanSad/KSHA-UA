@@ -3338,7 +3338,7 @@ with None
 
 show rin negative_spaciness_close at tworight 
 show bg mural at Transform(xalign=0.6) 
-with MoveTransition(3.0, factory=MoveFactory(time_warp=_ease_time_warp))
+with MoveTransition(3.0, time_warp=_ease_time_warp)
 
 
 "Une expression quelque peu ennuyée s'installe sur le visage de Rin, lui donnant l'air d'être détachée de tout ce qui se passe autour d'elle."
