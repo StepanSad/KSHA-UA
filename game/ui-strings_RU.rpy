@@ -67,7 +67,7 @@ init -3 python:
     displayDict['ru'].config_musicvol_jukebox_label = ruw(u"Гр.")
     displayDict['ru'].config_sfxvol_label = ruw(u"Звуки")
     displayDict["ru"].config_fontsize_label = ruw(u"Размер текста")
-    displayDict["ru"].config_sayXfill_label = ruw(u"Say Xfill")
+    displayDict["ru"].config_sayXfill_label = ruw(u"Заполнить окно диалога")
     displayDict['ru'].config_sfxtest_label = ruw(u"Проверка")
     displayDict['ru'].config_gamepad_label = ruw(u"Настройка геймпада…")
     displayDict['ru'].config_language_sel = ruw(u"Выбор языка…")
