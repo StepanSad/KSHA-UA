@@ -28,7 +28,7 @@ label NOP2:
     jump_out tc_act1
 
 label tc_act1:
-    call act_op ("tc_act1.mkv")
+    call act_op ("tc_act1.webm")
     jump_out A1
 
 label A1:
@@ -553,7 +553,7 @@ label H2:
     jump_out tc_act2_hanako
 
 label tc_act2_hanako:
-    call act_op ("tc_act2_hanako.mkv")
+    call act_op ("tc_act2_hanako.webm")
     jump_out H3
 
 label H3:
@@ -608,7 +608,7 @@ label H10:
     jump_out tc_act3_hanako
 
 label tc_act3_hanako:
-    call act_op ("tc_act3_hanako.mkv")
+    call act_op ("tc_act3_hanako.webm")
     jump_out H11
 
 label H11:
@@ -677,7 +677,7 @@ label H20:
     jump_out tc_act4_hanako
 
 label tc_act4_hanako:
-    call act_op ("tc_act4_hanako.mkv")
+    call act_op ("tc_act4_hanako.webm")
     jump_out H21
 
 label H21:
@@ -757,7 +757,7 @@ label H31:
 
 
 label tc_act2_lilly:
-    call act_op ("tc_act2_lilly.mkv")
+    call act_op ("tc_act2_lilly.webm")
     jump_out L1
 
 label L1:
@@ -805,7 +805,7 @@ label L8:
     jump_out tc_act3_lilly
 
 label tc_act3_lilly:
-    call act_op ("tc_act3_lilly.mkv")
+    call act_op ("tc_act3_lilly.webm")
     jump_out L9
 
 label L9:
@@ -894,7 +894,7 @@ label L20:
     jump_out tc_act4_lilly
 
 label tc_act4_lilly:
-    call act_op ("tc_act4_lilly.mkv")
+    call act_op ("tc_act4_lilly.webm")
     jump_out L21
 
 label L21:
@@ -978,7 +978,7 @@ label L33:
 
 
 label tc_act2_emi:
-    call act_op ("tc_act2_emi.mkv")
+    call act_op ("tc_act2_emi.webm")
     jump_out E3
 
 label E3:
@@ -1058,7 +1058,7 @@ label E15:
 
 
 label tc_act3_emi:
-    call act_op ("tc_act3_emi.mkv")
+    call act_op ("tc_act3_emi.webm")
     jump_out E16
 
 label E16:
@@ -1164,7 +1164,7 @@ label E27:
     jump_out tc_act4_emi
 
 label tc_act4_emi:
-    call act_op ("tc_act4_emi.mkv")
+    call act_op ("tc_act4_emi.webm")
     if seen_scene ("E27b"):
         jump_out E30
     jump_out E28
@@ -1209,7 +1209,7 @@ label E32:
 
 
 label tc_act2_rin:
-    call act_op ("tc_act2_rin.mkv")
+    call act_op ("tc_act2_rin.webm")
     jump_out R1
 
 label R1:
@@ -1371,7 +1371,7 @@ label R16:
     jump_out tc_act3_rin
 
 label tc_act3_rin:
-    call act_op ("tc_act3_rin.mkv")
+    call act_op ("tc_act3_rin.webm")
     jump_out R17
 
 label R17:
@@ -1482,7 +1482,7 @@ label R29:
 
 
 label tc_act4_rin:
-    call act_op ("tc_act4_rin.mkv")
+    call act_op ("tc_act4_rin.webm")
     jump_out R30
 
 label R30:
@@ -1570,7 +1570,7 @@ label R42:
 
 
 label tc_act2_shizune:
-    call act_op ("tc_act2_shizune.mkv")
+    call act_op ("tc_act2_shizune.webm")
     jump_out S8
 
 label S8:
@@ -1618,7 +1618,7 @@ label S16:
     jump_out tc_act3_shizune
 
 label tc_act3_shizune:
-    call act_op ("tc_act3_shizune.mkv")
+    call act_op ("tc_act3_shizune.webm")
     jump_out S17
 
 label S17:
@@ -1730,7 +1730,7 @@ label S29_2:
     jump_out tc_act4_shizune
 
 label tc_act4_shizune:
-    call act_op ("tc_act4_shizune.mkv")
+    call act_op ("tc_act4_shizune.webm")
     jump_out S30
 
 label S30:

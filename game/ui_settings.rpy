@@ -3126,8 +3126,8 @@ init python:
     sfx_whiteout = "sfx/whiteout.ogg"
 
 
-    vid_op = "op_1.mkv"
-    vid_4ls = "video/4ls.mkv"
+    vid_op = "op_1.webm"
+    vid_4ls = "video/4ls.webm"
 
 
 
@@ -3659,8 +3659,8 @@ init python:
     if not persistent.bad:
         persistent.bad = 0
 
-    if not persistent.seen_videos or not 'video/4ls.mkv' in persistent.seen_videos:
-        persistent.seen_videos = ['video/4ls.mkv']
+    if not persistent.seen_videos or not 'video/4ls.webm' in persistent.seen_videos:
+        persistent.seen_videos = ['video/4ls.webm']
 
 
 
