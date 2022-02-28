@@ -3204,6 +3204,11 @@ init python:
         style.default.size = persistent.fontsize
 
     persistent.sayXsize
+    if persistent.sayXsize == None:
+        style.say_window.xmaximum = 1890
+        style.say_window.xminimum = 1136
+    else:
+        style.say_window.xsize = 1890
     
     checkbox = None
     
