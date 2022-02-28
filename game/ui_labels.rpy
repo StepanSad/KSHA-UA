@@ -564,7 +564,7 @@ label video_menu:
         ui.grid(3,2, padding=30, xpos=37, ypos=95)
         for this_video in displayStrings.videos:
             
-            this_tn = this_video[1].replace(".mkv", "_tn.jpg")
+            this_tn = this_video[1].replace(".webm", "_tn.jpg")
             
             button_base = LiveComposite((110*2, 85*2),
                                                 (0, 0), ib_base("ui/bt-cg-locked.png"),
@@ -589,7 +589,7 @@ label video_menu:
         result = ui.interact()
         is_black = False
 
-    if result == "video/op_1.mkv":
+    if result == "video/op_1.webm":
         $ is_black = True
     call act_op_ex (result, is_black)
     $ renpy.music.play(music_menus, fadein=5.0, fadeout=0.5)
@@ -1282,8 +1282,8 @@ label path_end(character="", is_good=False):
             with Dissolve(4.0)
             call credits
         elif is_good:
-            if renpy.loadable("video/credits_"+character+".mkv"):
-                $ myvid = "video/credits_"+character+".mkv"
+            if renpy.loadable("video/credits_"+character+".webm"):
+                $ myvid = "video/credits_"+character+".webm"
             else:
                 $ myvid = False
             scene white
