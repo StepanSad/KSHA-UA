@@ -1,5 +1,4 @@
 *
-*.bak
 !/game/
 !/game/*
 *.rpyb
@@ -9,3 +8,4 @@
 !/game/ui/bg-namebox.png
 !/game/ui/bg-saybox.png
 !/Russian/*
+*.bak
