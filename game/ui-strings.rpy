@@ -182,12 +182,12 @@ init -3 python:
     displayDict["en"].name_emm_ = "Woman with braid"
     displayDict["en"].name_hx_ = "Huge man"
 
-    displayDict["en"].videos = (("Opening", "video/op_1.mkv"),
-                                    ("Emi", "video/tc_act2_emi.mkv"),
-                                    ("Hanako", "video/tc_act2_hanako.mkv"),
-                                    ("Lilly", "video/tc_act2_lilly.mkv"),
-                                    ("Rin", "video/tc_act2_rin.mkv"),
-                                    ("Shizune", "video/tc_act2_shizune.mkv"),
+    displayDict["en"].videos = (("Opening", "video/op_1.webm"),
+                                    ("Emi", "video/tc_act2_emi.webm"),
+                                    ("Hanako", "video/tc_act2_hanako.webm"),
+                                    ("Lilly", "video/tc_act2_lilly.webm"),
+                                    ("Rin", "video/tc_act2_rin.webm"),
+                                    ("Shizune", "video/tc_act2_shizune.webm"),
                                    )
 
 
