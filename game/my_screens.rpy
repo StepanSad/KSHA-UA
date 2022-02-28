@@ -34,7 +34,6 @@ init:
             vbox:
                 
                 frame:
-                    xsize persistent.sayXsize
 
                     id "window"
                     text what id "what"
