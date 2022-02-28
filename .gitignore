@@ -4,6 +4,7 @@
 *.rpyb
 *.rpyc
 *.png
+!.webm
 !.gitignore
 !/game/ui/4pda.png
 !/game/ui/bg-namebox.png
