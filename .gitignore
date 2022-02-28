@@ -6,6 +6,7 @@
 *.rpyc
 *.png
 !.gitignore
+!/game/ui/4pda.png
 !/game/ui/bg-namebox.png
 !/game/ui/bg-saybox.png
 !/Russian/*
