@@ -67,8 +67,6 @@ init:
         background Frame("ui/bg-saybox.png")
     
     style nameBox:
-        xminimum 300
-        yminimum 100
         xpos -0.055
         ypos 0.6
         background Frame("ui/bg-namebox.png")
@@ -143,54 +141,46 @@ init:
                 else:
                     store_say(speaker[0], msg0)
                     store_say(speaker[1], msg1)
-        $ui.textbutton("aaa", clicked=Function(Return), xsize=1920, ysize=1080)
+        $ui.textbutton("", clicked=Function(Return), xsize=1920, ysize=1080)
 
             
                   
               
         window:
             style "dwrapper"
-            # background "black"
-            # # background None
-            # # xfill True
-    
-            
-            
             grid 2 1:
-                xspacing 20
-                # background None
-                xalign 0.5
-                yalign 1.0
-                # xsize 1890
-                vbox:
-                    # xsize 1890
-                    frame:
-                        xsize int(925*0.6)
-                        yminimum 228
+                style "dgrid"
+                frame:
+                    background Frame("ui/bg-say.png")
+                    vbox:
+                        # xsize 1890
+                        xsize 925
+                        ysize 383
+                        # style "firstSpeaker"
+                        # xsize int(925*0.6)
                         text speaker[0]:
                             style "say_label"
                             
                             # **displayStrings.styleoverrides
-                    frame:
-                        # xsize 0.5
-                        xsize 925
-                        yminimum 155
+                        # frame:
+                            # style "firstMessage"
+                            # xsize 925
                         text msg0:
                             slow True
                             style "say_dialogue"
                             # **displayStrings.styleoverrides
-                vbox:
-                    # xsize 1890
-                    # xalign 0.6
-                    frame:
-                        xsize int(925*0.6)
-                        yminimum 228
+                frame:
+                    background Frame("ui/bg-say.png")
+                    vbox:
+                        xsize 925
+                        ysize 383
+                        # style "secondSpeaker"
+                        # xsize int(925*0.6)
                         text speaker[1]:
                             style "say_label"
                             # **displayStrings.styleoverrides
-                    frame:
-                        xsize 925
-                        yminimum 155
+                        # style "secondMessage"
+                        # xsize 925
                         text msg1:
                             slow True
                             style "say_dialogue"
@@ -200,10 +190,28 @@ init:
     style dwrapper:
         xfill True
         yfill True
-        # background "black"
-                
-                
-            
+    
+    style dgrid:
+        xspacing 20
+        xalign 0.5
+        yalign 1.0
+
+    # style firstSpeaker:
+    #     yminimum 190
+    #     xpos -0.035
+    #     ypos 0.55
+    #     background Frame("ui/bg-namebox.png")
+    # style secondSpeaker:
+    #     yminimum 190
+    #     xpos -0.035
+    #     ypos 0.55
+    #     background Frame("ui/bg-namebox.png")            
+    style firstMessage:
+        yminimum 155
+        background Frame("ui/bg-saybox.png")
+    style secondMessage:
+        yminimum 155
+        background Frame("ui/bg-saybox.png")
 
                     
 
