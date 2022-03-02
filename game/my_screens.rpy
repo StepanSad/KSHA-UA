@@ -109,6 +109,105 @@ init:
         right_padding 100
 
 
+    screen dspeak(char0, char1, msg0, msg1=False):
+        python:
+                global current_line
+                speaker=dict()
+                ctc=dict()
+                for (n, char) in enumerate((char0,char1)):
+                    if hasattr(char,"name"):
+                        if hasattr(char,"dynamic") and char.dynamic == True:
+                            myname = eval(char.name)
+                        else:
+                            myname = char.name
+                        if hasattr(char,"who_args") and "color" in char.who_args:
+                            speaker[n] = "{color="+char.who_args["color"]+"}"+myname+"{/color}"
+                        else:
+                            speaker[n] = myname
+                    else:
+                        speaker[n] = str(char)
+                    if hasattr(char,"display_args") and "ctc" in char.display_args:
+                        ctc[n] = char.display_args["ctc"]
+                    else:
+                        ctc[n] = config.nvl_page_ctc
+                
+                msg0 = char0.what_prefix + msg0 + char0.what_suffix
+                if not msg1:
+                    msg1 = msg0
+                else:
+                    msg1 = char1.what_prefix + msg1 + char1.what_suffix
+                
+                current_line = None
+                if msg0 == msg1:
+                    store_say(speaker[0] + " & " + speaker[1], msg0)
+                else:
+                    store_say(speaker[0], msg0)
+                    store_say(speaker[1], msg1)
+        $ui.textbutton("aaa", clicked=Function(Return), xsize=1920, ysize=1080)
+
+            
+                  
+              
+        window:
+            style "dwrapper"
+            # background "black"
+            # # background None
+            # # xfill True
+    
+            
+            
+            grid 2 1:
+                xspacing 20
+                # background None
+                xalign 0.5
+                yalign 1.0
+                # xsize 1890
+                vbox:
+                    # xsize 1890
+                    frame:
+                        xsize int(925*0.6)
+                        yminimum 228
+                        text speaker[0]:
+                            style "say_label"
+                            
+                            # **displayStrings.styleoverrides
+                    frame:
+                        # xsize 0.5
+                        xsize 925
+                        yminimum 155
+                        text msg0:
+                            slow True
+                            style "say_dialogue"
+                            # **displayStrings.styleoverrides
+                vbox:
+                    # xsize 1890
+                    # xalign 0.6
+                    frame:
+                        xsize int(925*0.6)
+                        yminimum 228
+                        text speaker[1]:
+                            style "say_label"
+                            # **displayStrings.styleoverrides
+                    frame:
+                        xsize 925
+                        yminimum 155
+                        text msg1:
+                            slow True
+                            style "say_dialogue"
+                            # **displayStrings.styleoverrides
+        # image (ctc[1]):
+        #     ypos 0.5
+    style dwrapper:
+        xfill True
+        yfill True
+        # background "black"
+                
+                
+            
+
+                    
+
+
 
 
     screen confirm(message, yes_action, no_action):

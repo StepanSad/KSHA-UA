@@ -3991,6 +3991,8 @@ show lilly basic_giggle_paj
 show akira basic_laugh
 with charachange
 
+label sos:
+
 $ doublespeak(li, aki, u"Ура!")
 
 show hanagown smile
