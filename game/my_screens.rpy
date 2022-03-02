@@ -149,38 +149,35 @@ init:
         window:
             style "dwrapper"
             grid 2 1:
+                xpos 0.508
                 style "dgrid"
-                frame:
-                    background Frame("ui/bg-say.png")
-                    vbox:
-                        # xsize 1890
-                        xsize 925
-                        ysize 383
-                        # style "firstSpeaker"
-                        # xsize int(925*0.6)
+                vbox:
+                    frame:
+                        style "firstSpeaker"
+                        xsize int(925*0.6)
                         text speaker[0]:
                             style "say_label"
                             
                             # **displayStrings.styleoverrides
-                        # frame:
-                            # style "firstMessage"
-                            # xsize 925
+                    frame:
+                        bottom_margin 10
+                        style "firstMessage"
+                        xsize 925
                         text msg0:
                             slow True
                             style "say_dialogue"
                             # **displayStrings.styleoverrides
-                frame:
-                    background Frame("ui/bg-say.png")
-                    vbox:
-                        xsize 925
-                        ysize 383
-                        # style "secondSpeaker"
-                        # xsize int(925*0.6)
+                vbox:
+                    frame:
+                        style "secondSpeaker"
+                        xsize int(925*0.6)
                         text speaker[1]:
                             style "say_label"
                             # **displayStrings.styleoverrides
-                        # style "secondMessage"
-                        # xsize 925
+                    frame:
+                        bottom_margin 10
+                        style "secondMessage"
+                        xsize 925
                         text msg1:
                             slow True
                             style "say_dialogue"
@@ -192,26 +189,36 @@ init:
         yfill True
     
     style dgrid:
-        xspacing 20
+        spacing 40
         xalign 0.5
         yalign 1.0
 
-    # style firstSpeaker:
-    #     yminimum 190
-    #     xpos -0.035
-    #     ypos 0.55
-    #     background Frame("ui/bg-namebox.png")
-    # style secondSpeaker:
-    #     yminimum 190
-    #     xpos -0.035
-    #     ypos 0.55
-    #     background Frame("ui/bg-namebox.png")            
+    style firstSpeaker:
+        yminimum 210
+        xpos -0.035
+        ypos 0.55
+        left_padding 15
+        top_padding -5
+        background Frame("ui/bg-namebox.png")
+    style secondSpeaker:
+        yminimum 210
+        xpos -0.035
+        ypos 0.55
+        left_padding 15
+        top_padding -5
+        background Frame("ui/bg-namebox.png")            
     style firstMessage:
         yminimum 155
         background Frame("ui/bg-saybox.png")
+        # left_padding 30
+        # right_padding 65
+        top_padding 10
     style secondMessage:
         yminimum 155
         background Frame("ui/bg-saybox.png")
+        # left_padding 20
+        # right_padding 65
+        top_padding 10
 
                     
 
