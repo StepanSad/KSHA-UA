@@ -153,24 +153,20 @@ init:
                 vbox:
                     frame:
                         style "firstSpeaker"
-                        xsize int(925*0.6)
                         text speaker[0]:
                             style "say_label"
                     frame:
                         style "firstMessage"
-                        xsize 925
                         text msg0:
                             slow True
                             style "say_dialogue"
                 vbox:
                     frame:
                         style "secondSpeaker"
-                        xsize int(925*0.6)
                         text speaker[1]:
                             style "say_label"
                     frame:
                         style "secondMessage"
-                        xsize 925
                         text msg1:
                             slow True
                             style "say_dialogue"
@@ -187,6 +183,7 @@ init:
         yalign 1.0
 
     style firstSpeaker:
+        xsize int(925*0.6)
         yminimum 210
         xpos -0.035
         ypos 0.55
@@ -194,6 +191,7 @@ init:
         top_padding -5
         background Frame("ui/bg-namebox.png")
     style secondSpeaker:
+        xsize int(925*0.6)
         yminimum 210
         xpos -0.035
         ypos 0.55
@@ -201,11 +199,13 @@ init:
         top_padding -5
         background Frame("ui/bg-namebox.png")            
     style firstMessage:
+        xsize 925
         yminimum 155
         background Frame("ui/bg-saybox.png")
         top_padding 10
         bottom_margin 10
     style secondMessage:
+        xsize 925
         yminimum 155
         background Frame("ui/bg-saybox.png")
         top_padding 10

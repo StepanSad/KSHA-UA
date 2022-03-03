@@ -1488,62 +1488,6 @@ init 2 python:
     def doublespeak(char0, char1, msg0, msg1=False):
         _window_hide()
         renpy.call_screen("dspeak", char0, char1, msg0, msg1=False)
-        
-        # global current_line
-        # speaker=dict()
-        # ctc=dict()
-        # for (n, char) in enumerate((char0,char1)):
-        #     if hasattr(char,"name"):
-        #         if hasattr(char,"dynamic") and char.dynamic == True:
-        #             myname = eval(char.name)
-        #         else:
-        #             myname = char.name
-        #         if hasattr(char,"who_args") and "color" in char.who_args:
-        #             speaker[n] = "{color="+char.who_args["color"]+"}"+myname+"{/color}"
-        #         else:
-        #             speaker[n] = myname
-        #     else:
-        #         speaker[n] = str(char)
-        #     if hasattr(char,"display_args") and "ctc" in char.display_args:
-        #         ctc[n] = char.display_args["ctc"]
-        #     else:
-        #         ctc[n] = config.nvl_page_ctc
-        
-        # msg0 = char0.what_prefix + msg0 + char0.what_suffix
-        # if not msg1:
-        #     msg1 = msg0
-        #     print (msg1)
-        # else:
-        #     msg1 = char1.what_prefix + msg1 + char1.what_suffix
-        #     print(msg1)
-        
-        # current_line = None
-        # if msg0 == msg1:
-        #     store_say(speaker[0] + " & " + speaker[1], msg0)
-        # else:
-        #     store_say(speaker[0], msg0)
-        #     store_say(speaker[1], msg1)
-        
-        # renpy.shown_window()
-        # ui.frame(background="ui/bg-doublespeak.png", yminimum=253, style="say_window")
-        # ui.grid(2,1,xfill=False)
-        # ui.vbox(style="say_vbox")
-        # ui.text(speaker[0], style="say_label", **displayStrings.styleoverrides)
-        # ui.text(msg0, slow=True, style="say_dialogue", xmaximum=700, **displayStrings.styleoverrides)
-        # ui.close()
-        # ui.vbox(style="say_vbox", xpos=50)
-        # ui.text(speaker[1], style="say_label", **displayStrings.styleoverrides)
-        # ui.text(msg1, slow=True, style="say_dialogue", xmaximum=700, **displayStrings.styleoverrides)
-        # ui.close()
-        # ui.close()
-        
-        # ui.fixed(xpos=-960)
-        
-        # ui.close()
-        # ui.image(ctc[1])
-        
-        # ui.saybehavior(afm=msg0+msg1)
-        # ui.interact(roll_forward=True, type="say")
         renpy.checkpoint()
 
 
