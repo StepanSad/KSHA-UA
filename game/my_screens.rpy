@@ -149,7 +149,6 @@ init:
         window:
             style "dwrapper"
             grid 2 1:
-                xpos 0.508
                 style "dgrid"
                 vbox:
                     frame:
@@ -157,40 +156,34 @@ init:
                         xsize int(925*0.6)
                         text speaker[0]:
                             style "say_label"
-                            
-                            # **displayStrings.styleoverrides
                     frame:
-                        bottom_margin 10
                         style "firstMessage"
                         xsize 925
                         text msg0:
                             slow True
                             style "say_dialogue"
-                            # **displayStrings.styleoverrides
                 vbox:
                     frame:
                         style "secondSpeaker"
                         xsize int(925*0.6)
                         text speaker[1]:
                             style "say_label"
-                            # **displayStrings.styleoverrides
                     frame:
-                        bottom_margin 10
                         style "secondMessage"
                         xsize 925
                         text msg1:
                             slow True
                             style "say_dialogue"
-                            # **displayStrings.styleoverrides
-        # image (ctc[1]):
-        #     ypos 0.5
+        image (ctc[1]):
+            xpos 1870
+            ypos 1020
     style dwrapper:
         xfill True
         yfill True
     
     style dgrid:
         spacing 40
-        xalign 0.5
+        xalign 1.0
         yalign 1.0
 
     style firstSpeaker:
@@ -210,15 +203,13 @@ init:
     style firstMessage:
         yminimum 155
         background Frame("ui/bg-saybox.png")
-        # left_padding 30
-        # right_padding 65
         top_padding 10
+        bottom_margin 10
     style secondMessage:
         yminimum 155
         background Frame("ui/bg-saybox.png")
-        # left_padding 20
-        # right_padding 65
         top_padding 10
+        bottom_margin 10
 
                     
 
@@ -276,7 +267,6 @@ init:
     
 
     style confirm_prompt_text:
-        # text_align 0.5
         size 35
         layout "tex"
     
