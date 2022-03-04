@@ -111,11 +111,11 @@ init:
 
 
 
-    screen ctc(arg=None):
+    screen _ctc(arg=None, ctc):
         zorder 100
         frame:
             xpos 1850
-            ypos 10
+            ypos 35
             background Frame ("ui/circle.png")
             add "ui/ctc.png" at ctc_anim()
 
