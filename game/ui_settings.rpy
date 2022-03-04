@@ -32,6 +32,7 @@ init 1:
 
 
 
+
     $ config.searchpath.append('archived')
     $ config.developer = True
     $ config.window_title = u"" 
@@ -2794,7 +2795,7 @@ init python:
 
 
 
-    config.nvl_page_ctc = anim.Filmstrip("ui/ctc_strip.png", (32,32), (8,8), 0.03, ypos=0.94166, xpos=0.84)
+    config.nvl_page_ctc = Image("ui/ctc.png")
     config.nvl_page_ctc_position = "fixed"
 
 
@@ -2821,7 +2822,7 @@ init python:
         
         
         store.adv = ReadbackADVCharacter(name=None,
-                                             ctc=anim.Filmstrip("ui/ctc_strip.png", (32,32), (8,8), 0.03, ypos=0.94166, xpos=0.8),
+                                             ctc=Image("ui/ctc.png"),
                                              ctc_position = "fixed",
                                              show_function=quotefixer,
                                              what_prefix=displayStrings.quote_outer_open,
@@ -3194,8 +3195,6 @@ init python:
 
 
     style.default.font = mainfont
-    tw = None
-    th = None
     persistent.fontsize
     if persistent.fontsize == None:
         persistent.fontsize = 36
