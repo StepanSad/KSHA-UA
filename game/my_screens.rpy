@@ -67,8 +67,6 @@ init:
         background Frame("ui/bg-saybox.png")
     
     style nameBox:
-        xminimum 300
-        yminimum 100
         xpos -0.055
         ypos 0.6
         background Frame("ui/bg-namebox.png")
@@ -107,6 +105,113 @@ init:
         top_padding 140
         left_padding 100
         right_padding 100
+
+
+    screen dspeak(char0, char1, msg0, msg1=False):
+        python:
+                global current_line
+                speaker=dict()
+                ctc=dict()
+                for (n, char) in enumerate((char0,char1)):
+                    if hasattr(char,"name"):
+                        if hasattr(char,"dynamic") and char.dynamic == True:
+                            myname = eval(char.name)
+                        else:
+                            myname = char.name
+                        if hasattr(char,"who_args") and "color" in char.who_args:
+                            speaker[n] = "{color="+char.who_args["color"]+"}"+myname+"{/color}"
+                        else:
+                            speaker[n] = myname
+                    else:
+                        speaker[n] = str(char)
+                    if hasattr(char,"display_args") and "ctc" in char.display_args:
+                        ctc[n] = char.display_args["ctc"]
+                    else:
+                        ctc[n] = config.nvl_page_ctc
+                
+                msg0 = char0.what_prefix + msg0 + char0.what_suffix
+                if not msg1:
+                    msg1 = msg0
+                else:
+                    msg1 = char1.what_prefix + msg1 + char1.what_suffix
+                
+                current_line = None
+                if msg0 == msg1:
+                    store_say(speaker[0] + " & " + speaker[1], msg0)
+                else:
+                    store_say(speaker[0], msg0)
+                    store_say(speaker[1], msg1)
+        $ui.textbutton("", clicked=Function(Return), xsize=1920, ysize=1080)
+
+            
+                  
+              
+        window:
+            style "dwrapper"
+            grid 2 1:
+                style "dgrid"
+                vbox:
+                    frame:
+                        style "firstSpeaker"
+                        text speaker[0]:
+                            style "say_label"
+                    frame:
+                        style "firstMessage"
+                        text msg0:
+                            slow True
+                            style "say_dialogue"
+                vbox:
+                    frame:
+                        style "secondSpeaker"
+                        text speaker[1]:
+                            style "say_label"
+                    frame:
+                        style "secondMessage"
+                        text msg1:
+                            slow True
+                            style "say_dialogue"
+        image (ctc[1]):
+            xpos 1870
+            ypos 1020
+    style dwrapper:
+        xfill True
+        yfill True
+    
+    style dgrid:
+        spacing 40
+        xalign 1.0
+        yalign 1.0
+
+    style firstSpeaker:
+        xsize int(925*0.6)
+        yminimum 210
+        xpos -0.035
+        ypos 0.55
+        left_padding 15
+        top_padding -5
+        background Frame("ui/bg-namebox.png")
+    style secondSpeaker:
+        xsize int(925*0.6)
+        yminimum 210
+        xpos -0.035
+        ypos 0.55
+        left_padding 15
+        top_padding -5
+        background Frame("ui/bg-namebox.png")            
+    style firstMessage:
+        xsize 925
+        yminimum 155
+        background Frame("ui/bg-saybox.png")
+        top_padding 10
+        bottom_margin 10
+    style secondMessage:
+        xsize 925
+        yminimum 155
+        background Frame("ui/bg-saybox.png")
+        top_padding 10
+        bottom_margin 10
+
+                    
 
 
 
@@ -162,7 +267,6 @@ init:
     
 
     style confirm_prompt_text:
-        # text_align 0.5
         size 35
         layout "tex"
     
