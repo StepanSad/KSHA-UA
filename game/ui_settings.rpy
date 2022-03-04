@@ -3194,8 +3194,6 @@ init python:
 
 
     style.default.font = mainfont
-    tw = None
-    th = None
     persistent.fontsize
     if persistent.fontsize == None:
         persistent.fontsize = 36

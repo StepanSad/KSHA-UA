@@ -3,8 +3,8 @@ init:
     
 
     screen say(who, what):
-        
         style_prefix "say"
+
         vbox:
             xalign 0.5
             yalign 1.0
@@ -23,6 +23,7 @@ init:
                         th = th*2
                         if th > 228:
                             th = 228
+                        
                     frame:
                         style "nameBox"
                         xsize int(tw/2.7)
@@ -32,11 +33,11 @@ init:
                             
                             
             vbox:
-                
                 frame:
 
                     id "window"
                     text what id "what"
+                    
 
     style centered_window:
         xalign 0.5
@@ -107,6 +108,24 @@ init:
         top_padding 140
         left_padding 100
         right_padding 100
+
+
+
+    screen ctc(arg=None):
+        zorder 100
+        frame:
+            xpos 1850
+            ypos 10
+            background Frame ("ui/circle.png")
+            add "ui/ctc.png" at ctc_anim()
+
+    transform ctc_anim():
+        alpha 0.0
+        block:
+            ease 1.0 alpha 1.0
+            pause 0.25
+            ease 1.0 alpha 0.25
+            repeat
 
 
 
