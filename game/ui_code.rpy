@@ -1506,7 +1506,7 @@ init 2 python:
             ui.text(text, style="note_text", **default_text_args)
             ui.text("", style="note_text")
             ui.close()
-            ui.image(centered.display_args["ctc"])
+            renpy.show_screen("_ctc", arg=None, ctc=True)
             ui.saybehavior(afm=text)
         
         renpy.shown_window()

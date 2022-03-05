@@ -142,6 +142,7 @@ init:
                 else:
                     store_say(speaker[0], msg0)
                     store_say(speaker[1], msg1)
+        
         $ui.textbutton("", clicked=Function(Return), xsize=1920, ysize=1080)
 
             
@@ -171,9 +172,12 @@ init:
                         text msg1:
                             slow True
                             style "say_dialogue"
-        image (ctc[1]):
-            xpos 1870
-            ypos 1020
+        frame:
+            xpos 1850
+            ypos 35
+            background Frame ("ui/circle.png")
+            add "ui/ctc.png" at ctc_anim()
+            
     style dwrapper:
         xfill True
         yfill True
