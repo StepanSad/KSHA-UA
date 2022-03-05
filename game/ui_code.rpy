@@ -48,7 +48,11 @@ init -1 python:
 
     config.locked = False
     config.keymap['mute_toggle'] = ['m']
-    config.keymap['abort_video'] = ['K_ESCAPE']
+    config.keymap['abort_video'] = ['K_ESCAPE', 'mouseup_1', 'K_AC_BACK']
+    config.keymap['rollback'].remove('K_AC_BACK')
+    config.keymap['game_menu'].remove('K_MENU')
+    config.keymap['game_menu'].append('K_AC_BACK')
+    # config.keymap['game_menu'] = ['repeat_K_ESCAPE']
     mymap = renpy.Keymap(mute_toggle = mute_toggle)
     config.underlay.append(mymap)
     config.keymap['dismiss'].remove('K_RETURN')
@@ -88,7 +92,10 @@ init -1 python:
 
     def additional_keys():
         ui.keymap(k=Function(showTextOptions))
+        ui.keymap(repeat_K_AC_BACK=Function(showTextOptions))
         
+
+
         ui.keymap(a=turn_afm_on)
         ui.keymap(t=go_history)
         ui.keymap(K_F2=go_load)
