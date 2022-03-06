@@ -329,6 +329,14 @@ init:
                     textsize_p.render_preference()
 
                     ui.text(str(persistent.fontsize), style='prefs_label')
+                    ui.null(30)
+                    ui.hbox()
+
+                    ui.textbutton("+1",clicked = Function(fz_increment, 1))
+                    ui.textbutton("+10",clicked = Function(fz_increment, 10))
+                    ui.textbutton("-1",clicked = Function(fz_decrement, 1))
+                    ui.textbutton("-10",clicked = Function(fz_decrement, 10))
+                    ui.close()
                     ui.close()
                     stringXFill= displayStrings.Xfill_label
                     widget_button(stringXFill, checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)

@@ -1093,6 +1093,20 @@ init 2 python:
             renpy.restart_interaction()
             style.rebuild()
 
+    def fz_increment(num):
+        persistent.fontsize += num
+        if persistent.fontsize > 100:
+            persistent.fontsize = 100
+        style.default.size = persistent.fontsize
+        style.rebuild()
+
+    def fz_decrement(num):
+        persistent.fontsize -= num
+        if persistent.fontsize < 36:
+            persistent.fontsize = 36
+        style.default.size = persistent.fontsize
+        style.rebuild()
+
     config.gestures["e"] = "toggle_skip"
     config.gestures["w"] = "rollback"
     config.gestures["n"] = "game_menu"
