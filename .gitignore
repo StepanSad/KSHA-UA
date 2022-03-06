@@ -6,6 +6,7 @@
 *.png
 !*.webm
 !.gitignore
+!.android.json
 !/game/ui/4pda.png
 !/game/ui/bg-namebox.png
 !/game/ui/bg-saybox.png
