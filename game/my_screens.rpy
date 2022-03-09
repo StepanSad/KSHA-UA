@@ -305,7 +305,7 @@ init:
 
     screen text_options:
         
-
+        $ui.key ('K_AC_BACK', Function(hideTextOptions))
         frame:
             xsize 908
             ysize 400
@@ -326,20 +326,28 @@ init:
                     ui.text(displayStrings.config_fontsize_label, style='prefs_label')
 
                     ui.hbox()
+                    ui.textbutton("+1",clicked = Function(fz_increment, 1), ypos=0.1)
+                    ui.textbutton("+10",clicked = Function(fz_increment, 10), ypos=0.1)
                     textsize_p.render_preference()
-
                     ui.text(str(persistent.fontsize), style='prefs_label')
-                    ui.null(30)
-                    ui.hbox()
+                    ui.textbutton("-1",clicked = Function(fz_decrement, 1), ypos=0.1)
+                    ui.textbutton("-10",clicked = Function(fz_decrement, 10), ypos=0.1)
 
-                    ui.textbutton("+1",clicked = Function(fz_increment, 1))
-                    ui.textbutton("+10",clicked = Function(fz_increment, 10))
-                    ui.textbutton("-1",clicked = Function(fz_decrement, 1))
-                    ui.textbutton("-10",clicked = Function(fz_decrement, 10))
+                    
+
+                    
+                    
                     ui.close()
-                    ui.close()
-                    stringXFill= displayStrings.Xfill_label
-                    widget_button(stringXFill, checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
+                    widget_button(displayStrings.Xfill_label, checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
+                    ui.null(height=30)
+                    if renpy.display.controller.exists():
+                        ui.text(displayStrings.Joy_prefs, style = "prefs_label")
+                        if not persistent.joySwapped:
+                            checkboximage2 = "ui/bt-cf-unchecked.png"
+                        else:
+                            checkboximage2 = "ui/bt-cf-checked.png"
+
+                        widget_button(displayStrings.Trigger_swap, checkboximage2, changeSwap, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
             
 
 
