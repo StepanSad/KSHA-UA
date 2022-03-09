@@ -55,6 +55,8 @@ init -3 python:
     displayDict["en"].game_menu_current_music = u"Current music track"
     displayDict["en"].game_menu_replay_indicator = u"Replay"
     displayDict["en"].Xfill_label = u"Fill Dialogue Window"
+    displayDict["en"].Joy_prefs = u"Controller"
+    displayDict["en"].Trigger_swap = u"Swap triggers"
 
     displayDict["en"].return_button_text = u"Return"
 
@@ -71,7 +73,6 @@ init -3 python:
     displayDict["en"].config_musicvol_jukebox_label = u"Vol."
     displayDict["en"].config_sfxvol_label = u"SFX volume"
     displayDict["en"].config_fontsize_label = u"Text size"
-    displayDict["en"].config_sayXfill_label = u"Say Xfill"
     displayDict["en"].config_sfxtest_label = u"Test"
     displayDict["en"].config_gamepad_label = u"Gamepad keymap…"
 

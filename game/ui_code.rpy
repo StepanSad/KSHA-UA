@@ -53,6 +53,12 @@ init -1 python:
     config.keymap['game_menu'].remove('K_MENU')
     config.keymap['game_menu'].append('K_AC_BACK')
     # config.keymap['game_menu'] = ['repeat_K_ESCAPE']
+
+    if renpy.variant ("tv"):
+        config.keymap['skip'].append('repeat_K_RIGHT')
+        config.keymap['stop_skipping'].append('K_RIGHT')
+        config.keymap['rollback'].append('K_LEFT')
+
     mymap = renpy.Keymap(mute_toggle = mute_toggle)
     config.underlay.append(mymap)
     config.keymap['dismiss'].remove('K_RETURN')
@@ -90,9 +96,17 @@ init -1 python:
         if may_afm:
             renpy.game_menu('image_key')
 
+    
+
     def additional_keys():
         ui.keymap(k=Function(showTextOptions))
-        ui.keymap(repeat_K_AC_BACK=Function(showTextOptions))
+        ui.keymap(j=Function(hideTextOptions))
+        # ui.keymap(repeat_K_AC_BACK=Function(showTextOptions))
+        if renpy.variant ("tv"):
+            ui.keymap(repeat_K_UP=showTextOptions)
+
+
+        
         
 
 
@@ -105,6 +119,75 @@ init -1 python:
         ui.keymap(mouseup_2=go_image)
         ui.keymap(joy_hide=go_image)
     config.overlay_functions.append(additional_keys)
+
+    
+        
+
+    # if persistent.padbinds == None or persistent.padbinds == {}:
+    config.pad_bindings = {
+        "pad_leftshoulder_press" : [  ],
+        "pad_lefttrigger_pos" : [  ],
+        "pad_back_press" : [ "rollback", ],
+
+        "pad_guide_press" : [ "game_menu", ],
+        "pad_start_press" : [ "game_menu", ],
+
+        "pad_y_press" : [ "hide_windows", ],
+
+        "pad_rightshoulder_press" : [  ],
+
+        "pad_righttrigger_pos" : [  ],
+        "pad_a_press" : [ "dismiss", "button_select", "bar_activate", "bar_deactivate"],
+        "pad_b_press" : [ "button_alternate" ],
+
+        "pad_dpleft_press" : [ "focus_left", "bar_left", "viewport_leftarrow" ],
+        "pad_leftx_neg" : [ "focus_left", "bar_left", "viewport_leftarrow" ],
+        "pad_rightx_neg" : [ "focus_left", "bar_left", "viewport_leftarrow" ],
+
+        "pad_dpright_press" : [ "focus_right", "bar_right", "viewport_rightarrow" ],
+        "pad_leftx_pos" : [ "focus_right", "bar_right", "viewport_rightarrow" ],
+        "pad_rightx_pos" : [ "focus_right", "bar_right", "viewport_rightarrow" ],
+
+        "pad_dpup_press" : [ "focus_up", "bar_up", "viewport_uparrow" ],
+        "pad_lefty_neg" :  [ "focus_up", "bar_up", "viewport_uparrow" ],
+        "pad_righty_neg" : [ "focus_up", "bar_up", "viewport_uparrow" ],
+
+        "pad_dpdown_press" : [ "focus_down", "bar_down", "viewport_downarrow" ],
+        "pad_lefty_pos" : [ "focus_down", "bar_down", "viewport_downarrow" ],
+        "pad_righty_pos" : [ "focus_down", "bar_down", "viewport_downarrow" ],
+    }
+        
+    def changeSwap():
+        if persistent.joySwapped:
+            persistent.joySwapped = False
+            config.pad_bindings["pad_rightshoulder_press"]= ["toggle_skip",]
+            config.pad_bindings["pad_leftshoulder_press"]= ["j",]
+            config.pad_bindings["pad_righttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
+            config.pad_bindings["pad_lefttrigger_pos"]= [ "rollback", ]
+            renpy.restart_interaction()
+        else:
+            persistent.joySwapped = True
+            config.pad_bindings["pad_rightshoulder_press"]= ["j",]
+            config.pad_bindings["pad_leftshoulder_press"]= ["toggle_skip",]
+            config.pad_bindings["pad_righttrigger_pos"]= ["rollback",]
+            config.pad_bindings["pad_lefttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
+            renpy.restart_interaction()
+
+
+    if persistent.joySwapped!=True:
+        config.pad_bindings["pad_rightshoulder_press"]= ["toggle_skip",]
+        config.pad_bindings["pad_leftshoulder_press"]= ["k",]
+        config.pad_bindings["pad_righttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
+        config.pad_bindings["pad_lefttrigger_pos"]= [ "rollback", ]
+    else:
+        config.pad_bindings["pad_rightshoulder_press"]= ["k",]
+        config.pad_bindings["pad_leftshoulder_press"]= ["toggle_skip",]
+        config.pad_bindings["pad_righttrigger_pos"]= ["rollback",]
+        config.pad_bindings["pad_lefttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
+    
+
+
+
 
     def gm_page_return_to_game():
         store.entered_from_game = False
@@ -1073,10 +1156,23 @@ init 2 python:
     
     def showTextOptions():
         renpy.show_screen("text_options")
+        config.rollback_enabled = False
+        config.allow_skipping = False
+        if persistent.joySwapped:
+            config.pad_bindings["pad_rightshoulder_press"]= ['j']
+        else:
+            config.pad_bindings["pad_leftshoulder_press"]= ['j']
+
         renpy.restart_interaction()
     
     def hideTextOptions():
         renpy.hide_screen("text_options")
+        config.rollback_enabled = True
+        config.allow_skipping = True
+        if persistent.joySwapped:
+            config.pad_bindings["pad_rightshoulder_press"]= ['k',]
+        else:
+            config.pad_bindings["pad_leftshoulder_press"]= ['k',]
         renpy.restart_interaction()
 
     def enableXfill():

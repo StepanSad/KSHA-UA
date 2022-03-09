@@ -56,6 +56,8 @@ init -3 python:
 
     displayDict['ru'].config_page_caption = ruw(u"Настройки")
     displayDict['ru'].Xfill_label = ruw(u"Заполнить окно диалога")
+    displayDict['ru'].Joy_prefs = ruw(u"Контроллер")
+    displayDict['ru'].Trigger_swap = ruw(u"Поменять триггеры местами")
     displayDict['ru'].XstringClose = ruw(u"Закрыть")
     displayDict['ru'].config_fullscreen_label = ruw(u"Полноэкранный режим")
     displayDict['ru'].config_transitions_label = ruw(u"Отключить переходы")
@@ -67,7 +69,6 @@ init -3 python:
     displayDict['ru'].config_musicvol_jukebox_label = ruw(u"Гр.")
     displayDict['ru'].config_sfxvol_label = ruw(u"Звуки")
     displayDict["ru"].config_fontsize_label = ruw(u"Размер текста")
-    displayDict["ru"].config_sayXfill_label = ruw(u"Заполнить окно диалога")
     displayDict['ru'].config_sfxtest_label = ruw(u"Проверка")
     displayDict['ru'].config_gamepad_label = ruw(u"Настройка геймпада…")
     displayDict['ru'].config_language_sel = ruw(u"Выбор языка…")
