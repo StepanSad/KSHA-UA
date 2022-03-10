@@ -56,8 +56,6 @@ init -3 python:
 
     displayDict['ru'].config_page_caption = ruw(u"Настройки")
     displayDict['ru'].Xfill_label = ruw(u"Заполнить окно диалога")
-    displayDict['ru'].Joy_prefs = ruw(u"Контроллер")
-    displayDict['ru'].Trigger_swap = ruw(u"Поменять триггеры местами")
     displayDict['ru'].XstringClose = ruw(u"Закрыть")
     displayDict['ru'].config_fullscreen_label = ruw(u"Полноэкранный режим")
     displayDict['ru'].config_transitions_label = ruw(u"Отключить переходы")

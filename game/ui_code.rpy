@@ -15,6 +15,8 @@ init -1 python:
             return True
         return False
 
+    config.image_cache_size = 3
+
     disallow_fullscreen = False
 
     if is_lion() and not is_glrenpy():
@@ -125,8 +127,8 @@ init -1 python:
 
     # if persistent.padbinds == None or persistent.padbinds == {}:
     config.pad_bindings = {
-        "pad_leftshoulder_press" : [  ],
-        "pad_lefttrigger_pos" : [  ],
+        "pad_leftshoulder_press" : [ "k", ],
+        "pad_lefttrigger_pos" : [ "rollback", ],
         "pad_back_press" : [ "rollback", ],
 
         "pad_guide_press" : [ "game_menu", ],
@@ -134,9 +136,9 @@ init -1 python:
 
         "pad_y_press" : [ "hide_windows", ],
 
-        "pad_rightshoulder_press" : [  ],
+        "pad_rightshoulder_press" : [ "toggle_skip", ],
 
-        "pad_righttrigger_pos" : [  ],
+        "pad_righttrigger_pos" : [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ],
         "pad_a_press" : [ "dismiss", "button_select", "bar_activate", "bar_deactivate"],
         "pad_b_press" : [ "button_alternate" ],
 
@@ -157,35 +159,7 @@ init -1 python:
         "pad_righty_pos" : [ "focus_down", "bar_down", "viewport_downarrow" ],
     }
         
-    def changeSwap():
-        if persistent.joySwapped:
-            persistent.joySwapped = False
-            config.pad_bindings["pad_rightshoulder_press"]= ["toggle_skip",]
-            config.pad_bindings["pad_leftshoulder_press"]= ["j",]
-            config.pad_bindings["pad_righttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
-            config.pad_bindings["pad_lefttrigger_pos"]= [ "rollback", ]
-            renpy.restart_interaction()
-        else:
-            persistent.joySwapped = True
-            config.pad_bindings["pad_rightshoulder_press"]= ["j",]
-            config.pad_bindings["pad_leftshoulder_press"]= ["toggle_skip",]
-            config.pad_bindings["pad_righttrigger_pos"]= ["rollback",]
-            config.pad_bindings["pad_lefttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
-            renpy.restart_interaction()
-
-
-    if persistent.joySwapped!=True:
-        config.pad_bindings["pad_rightshoulder_press"]= ["toggle_skip",]
-        config.pad_bindings["pad_leftshoulder_press"]= ["k",]
-        config.pad_bindings["pad_righttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
-        config.pad_bindings["pad_lefttrigger_pos"]= [ "rollback", ]
-    else:
-        config.pad_bindings["pad_rightshoulder_press"]= ["k",]
-        config.pad_bindings["pad_leftshoulder_press"]= ["toggle_skip",]
-        config.pad_bindings["pad_righttrigger_pos"]= ["rollback",]
-        config.pad_bindings["pad_lefttrigger_pos"]= [ "dismiss", "button_select", "bar_activate", "bar_deactivate" ]
     
-
 
 
 
@@ -1158,21 +1132,12 @@ init 2 python:
         renpy.show_screen("text_options")
         config.rollback_enabled = False
         config.allow_skipping = False
-        if persistent.joySwapped:
-            config.pad_bindings["pad_rightshoulder_press"]= ['j']
-        else:
-            config.pad_bindings["pad_leftshoulder_press"]= ['j']
-
         renpy.restart_interaction()
     
     def hideTextOptions():
         renpy.hide_screen("text_options")
         config.rollback_enabled = True
         config.allow_skipping = True
-        if persistent.joySwapped:
-            config.pad_bindings["pad_rightshoulder_press"]= ['k',]
-        else:
-            config.pad_bindings["pad_leftshoulder_press"]= ['k',]
         renpy.restart_interaction()
 
     def enableXfill():

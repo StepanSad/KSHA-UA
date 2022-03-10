@@ -55,8 +55,6 @@ init -3 python:
     displayDict["en"].game_menu_current_music = u"Current music track"
     displayDict["en"].game_menu_replay_indicator = u"Replay"
     displayDict["en"].Xfill_label = u"Fill Dialogue Window"
-    displayDict["en"].Joy_prefs = u"Controller"
-    displayDict["en"].Trigger_swap = u"Swap triggers"
 
     displayDict["en"].return_button_text = u"Return"
 

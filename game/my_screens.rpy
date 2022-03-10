@@ -268,6 +268,7 @@ init:
                 label _(displayStrings.yesno_quit):
                     style "confirm_prompt"
                     # xalign 0.5
+                    bottom_margin 30
 
                 hbox:
                     xalign 0.5
@@ -339,16 +340,7 @@ init:
                     
                     ui.close()
                     widget_button(displayStrings.Xfill_label, checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
-                    ui.null(height=30)
-                    if renpy.display.controller.exists():
-                        ui.text(displayStrings.Joy_prefs, style = "prefs_label")
-                        if not persistent.joySwapped:
-                            checkboximage2 = "ui/bt-cf-unchecked.png"
-                        else:
-                            checkboximage2 = "ui/bt-cf-checked.png"
-
-                        widget_button(displayStrings.Trigger_swap, checkboximage2, changeSwap, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
-            
+                    
 
 
 style button:
