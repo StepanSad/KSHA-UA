@@ -662,8 +662,14 @@ label music_menu_loop:
         return_button(_intra_jumps("extra_menu", "intra_transition"))
 
         result = ui.interact()
-        renpy.music.play(result[1], fadeout=0.5, if_changed=True)
-        nowplaying = result[0]
+        print(type(result))
+        print(result)
+        if result != ('',''):
+            renpy.music.play(result[1], fadeout=0.5, if_changed=True)
+            nowplaying = result[0]
+        else:
+            nowplaying = False
+            renpy.music.stop()
         renpy.jump("music_menu_loop")
 
 label scene_select:

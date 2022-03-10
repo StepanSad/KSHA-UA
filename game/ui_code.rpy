@@ -16,6 +16,7 @@ init -1 python:
         return False
 
     config.image_cache_size = 3
+    config.debug_image_cache = True
 
     disallow_fullscreen = False
 
