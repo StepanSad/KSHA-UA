@@ -1130,12 +1130,14 @@ init 2 python:
     
     def showTextOptions():
         renpy.show_screen("text_options")
+        config.pad_bindings["pad_leftshoulder_press"]= 'j'
         config.rollback_enabled = False
         config.allow_skipping = False
         renpy.restart_interaction()
     
     def hideTextOptions():
         renpy.hide_screen("text_options")
+        config.pad_bindings["pad_leftshoulder_press"]= 'k'
         config.rollback_enabled = True
         config.allow_skipping = True
         renpy.restart_interaction()
