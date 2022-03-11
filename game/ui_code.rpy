@@ -57,11 +57,11 @@ init -1 python:
     config.keymap['game_menu'].append('K_AC_BACK')
     # config.keymap['game_menu'] = ['repeat_K_ESCAPE']
 
-    if renpy.variant ("tv"):
-        config.keymap['skip'].append('repeat_K_RIGHT')
-        config.keymap['stop_skipping'].append('K_RIGHT')
-        config.keymap['rollback'].append('K_LEFT')
-
+    # if renpy.variant ("tv"):
+        # config.keymap['skip'].append('repeat_K_RIGHT')
+        # config.keymap['stop_skipping'].append('K_RIGHT')
+        # config.keymap['rollback'].append('K_LEFT')
+    # print(renpy.variant())
     mymap = renpy.Keymap(mute_toggle = mute_toggle)
     config.underlay.append(mymap)
     config.keymap['dismiss'].remove('K_RETURN')
@@ -105,8 +105,8 @@ init -1 python:
         ui.keymap(k=Function(showTextOptions))
         ui.keymap(j=Function(hideTextOptions))
         # ui.keymap(repeat_K_AC_BACK=Function(showTextOptions))
-        if renpy.variant ("tv"):
-            ui.keymap(repeat_K_UP=showTextOptions)
+        # if renpy.variant ("tv"):
+        # ui.keymap(repeat_K_UP=showTextOptions)
 
 
         
