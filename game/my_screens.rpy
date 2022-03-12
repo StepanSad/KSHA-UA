@@ -1,5 +1,9 @@
 init:
     
+    python early:
+        import copy
+        port_version = "KSHD Port version 1.4"
+
     
 
     screen say(who, what):
