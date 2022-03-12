@@ -13343,4 +13343,3 @@ with shorttimeskip
 window hide
 
 return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

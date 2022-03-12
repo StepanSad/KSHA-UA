@@ -205,4 +205,3 @@ init:
         yalign 0.5  xalign 0.5  alpha 0.0  zoom 1.0  subpixel True 
         0.5 
         linear 0.5  alpha 1.0 
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

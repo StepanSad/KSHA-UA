@@ -1316,4 +1316,3 @@ label restart:
         jump cruise_control
     else:
         $ renpy.full_restart()
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

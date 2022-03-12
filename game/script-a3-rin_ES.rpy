@@ -5557,4 +5557,3 @@ stop ambient fadeout 3.0
 
 window hide
 return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

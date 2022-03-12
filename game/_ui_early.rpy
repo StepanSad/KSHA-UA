@@ -195,4 +195,3 @@ label imenu(target):
 
 label invoke_scene_select:
     $ renpy.call_in_new_context("_main_menu", "scene_select")
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

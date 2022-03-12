@@ -134,4 +134,3 @@ init 3 python:
 
 
     tl_notes = {}
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

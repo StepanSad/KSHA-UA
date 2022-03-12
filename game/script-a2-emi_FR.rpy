@@ -11582,4 +11582,3 @@ stop music fadeout 5.0
 window hide
 
 return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

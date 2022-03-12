@@ -12479,4 +12479,3 @@ stop ambient fadeout 4.0
 window hide
 
 return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

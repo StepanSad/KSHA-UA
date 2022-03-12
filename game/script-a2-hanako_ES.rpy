@@ -4470,4 +4470,3 @@ $ renpy.music.set_volume(1.0, 0.0, channel="music")
 window hide
 
 return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

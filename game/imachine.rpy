@@ -1798,4 +1798,3 @@ label S40:
     call iscene ("S40")
     call path_end ("shizune")
     jump_out restart
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

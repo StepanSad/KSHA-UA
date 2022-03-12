@@ -363,4 +363,3 @@ label replay_S34:
     call iscene ("S34b")
     call iscene ("S34c")
     $ replay_end()
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

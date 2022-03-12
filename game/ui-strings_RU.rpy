@@ -182,4 +182,3 @@ init -3 python:
 label show_credits:
     call credits
     jump restart
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

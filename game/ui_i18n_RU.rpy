@@ -24,4 +24,3 @@ init 2 python:
     ks_music('Magnet_Mind_(bonus_by_Ajoura)', 'bonus')
     ks_music('Nine_(bonus_by_Ajoura)', 'bonus')
     ks_music('Soft_Machine_(bonus_by_Ajoura)', 'bonus')
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -3698,4 +3698,3 @@ init python:
     may_afm = True
     animate_mm = True
     statechangesincesave = True
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

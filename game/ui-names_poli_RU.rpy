@@ -18,4 +18,3 @@ init -3 python:
     name_uchan = u"Ю-тян"
     name_takahashi = u"Такахаси"
     name_keiko = u"Кэйко"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

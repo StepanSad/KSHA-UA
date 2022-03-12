@@ -5146,4 +5146,3 @@ stop music fadeout 0.1
 play sound sfx_crunchydeath
 
 return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

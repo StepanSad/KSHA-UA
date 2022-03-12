@@ -55,13 +55,6 @@ init -1 python:
     config.keymap['rollback'].remove('K_AC_BACK')
     config.keymap['game_menu'].remove('K_MENU')
     config.keymap['game_menu'].append('K_AC_BACK')
-    # config.keymap['game_menu'] = ['repeat_K_ESCAPE']
-
-    # if renpy.variant ("tv"):
-        # config.keymap['skip'].append('repeat_K_RIGHT')
-        # config.keymap['stop_skipping'].append('K_RIGHT')
-        # config.keymap['rollback'].append('K_LEFT')
-    # print(renpy.variant())
     mymap = renpy.Keymap(mute_toggle = mute_toggle)
     config.underlay.append(mymap)
     config.keymap['dismiss'].remove('K_RETURN')
@@ -104,14 +97,6 @@ init -1 python:
     def additional_keys():
         ui.keymap(k=Function(showTextOptions))
         ui.keymap(j=Function(hideTextOptions))
-        # ui.keymap(repeat_K_AC_BACK=Function(showTextOptions))
-        # if renpy.variant ("tv"):
-        # ui.keymap(repeat_K_UP=showTextOptions)
-
-
-        
-        
-
 
         ui.keymap(a=turn_afm_on)
         ui.keymap(t=go_history)
@@ -126,7 +111,6 @@ init -1 python:
     
         
 
-    # if persistent.padbinds == None or persistent.padbinds == {}:
     config.pad_bindings = {
         "pad_leftshoulder_press" : [ "k", ],
         "pad_lefttrigger_pos" : [ "rollback", ],
@@ -1930,4 +1914,3 @@ init 2 python:
         return rv
 
     renpy.movie_cutscene = custom_movie_cutscene
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1627,4 +1627,3 @@ window hide
 stop music fadeout 3.0
 
 return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

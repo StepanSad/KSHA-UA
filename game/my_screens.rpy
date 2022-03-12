@@ -63,7 +63,7 @@ init:
         ymargin 0
         left_padding 30
         right_padding 65
-        top_padding 10 #22
+        top_padding 10
         xfill False
         background Frame("ui/bg-saybox.png")
     
@@ -82,7 +82,6 @@ init:
             has vbox:
                 style "nvl_vbox"
 
-            # Display dialogue.
             for d in dialogue:
                 window:
                     id d.window_id
@@ -263,11 +262,9 @@ init:
                 yalign 0.5
                 xminimum 337
                 yminimum 83
-                # spacing 30
 
                 label _(displayStrings.yesno_quit):
                     style "confirm_prompt"
-                    # xalign 0.5
                     bottom_margin 30
 
                 hbox:
