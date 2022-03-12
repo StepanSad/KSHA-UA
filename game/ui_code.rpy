@@ -1108,6 +1108,7 @@ init 2 python:
         if fz < 36:
             fz = 36
         persistent.fontsize = fz
+        style.centered_text.size = persistent.fontsize
         style.default.size = persistent.fontsize
         style.rebuild()
 

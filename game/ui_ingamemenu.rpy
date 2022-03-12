@@ -142,7 +142,7 @@ init python:
 
     def ingamebutton(text, clicked, previously=None):
         
-        img = Fixed(Text(text, xalign=0.5, yalign=0.5, color="#000"), xmaximum=1126)
+        img = Fixed(Text(text, xalign=0.5, yalign=0.5, color="#000", size = 36), xmaximum=1126)
         if previously:
             bgim = im.Composite(None,
                                     (0,0), "ui/bg-choice.png",

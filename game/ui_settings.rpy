@@ -3299,8 +3299,7 @@ init python:
     style.say_dialogue['rollback'].color="#CCCCCC"
 
 
-    style.centered_text.size = 37
-    style.centered_text.outlines = [ (1,"#000C") ]
+
 
     style.create("alive_text", "centered_text")
     style.alive_text.outlines = []

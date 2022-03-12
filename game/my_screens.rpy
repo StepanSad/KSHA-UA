@@ -47,9 +47,11 @@ init:
     style centered_text:
         layout "subtitle"
         outlines [(1, "#000C")]
-        text_align 0.5
         xalign 0.5
         yalign 0.5 
+        size persistent.fontsize
+
+    
 
 
 
@@ -360,3 +362,5 @@ style opt_btn_text:
 style opt_imagebtn:
     xalign 0.2
     yalign 0.5
+
+
