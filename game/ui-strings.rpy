@@ -65,6 +65,7 @@ init -3 python:
     displayDict["en"].config_transitions_label = u'Disable transitions'
     displayDict["en"].config_skip_unseen_label = u'Skip unread text'
     displayDict["en"].config_skip_after_choice_label = u'Keep skipping after choices'
+    displayDict["en"].config_render_prefs_label = u'Render'
     displayDict["en"].config_textspeed_label = u'Text speed'
     displayDict["en"].config_afmspeed_label = u'Auto mode delay'
     displayDict["en"].config_musicvol_label = u"Music volume"

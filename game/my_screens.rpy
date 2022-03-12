@@ -333,13 +333,11 @@ init:
                     ui.text(str(persistent.fontsize), style='prefs_label')
                     ui.textbutton("-1",clicked = Function(fz_decrement, 1), ypos=0.1)
                     ui.textbutton("-10",clicked = Function(fz_decrement, 10), ypos=0.1)
-
-                    
-
-                    
-                    
                     ui.close()
+
                     widget_button(displayStrings.Xfill_label, checkboximage, enableXfill, xsize=600, ysize=30, widgetyoffset=-8, textxoffset=40)
+
+                    
                     
 
 

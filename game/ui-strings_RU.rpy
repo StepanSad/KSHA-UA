@@ -61,6 +61,7 @@ init -3 python:
     displayDict['ru'].config_transitions_label = ruw(u"Отключить переходы")
     displayDict['ru'].config_skip_unseen_label = ruw(u"Пропускать непрочитанный текст")
     displayDict['ru'].config_skip_after_choice_label = ruw(u"Продолжать пропуск после выбора")
+    displayDict['ru'].config_render_prefs_label = ruw(u"Рендер")
     displayDict['ru'].config_textspeed_label = ruw(u"Скорость текста")
     displayDict['ru'].config_afmspeed_label = ruw(u"Задержка авточтения")
     displayDict['ru'].config_musicvol_label = ruw(u"Музыка")

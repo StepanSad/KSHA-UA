@@ -217,7 +217,9 @@ label prefs_screen:
         coming_from_prefs_sub = False
         ui.image(style.gm_root.background)
         prefs_looped = False 
-        ui.image("ui/bg-config.png", xalign=0.5, yalign=0.5)
+        ui.fixed(xalign=0.5, yalign=0.5, xsize=908, ysize=760)
+        ui.image(Frame("ui/bg-config.png"))
+        ui.close()
         """ if not entered_from_game and mm_context():
             inMenu = True
             widgetysize = 50
@@ -250,6 +252,7 @@ label prefs_screen:
         fullscreen_p.render_preference(disabled=disallow_fullscreen, widgetysize=widgetysize)
         unreadskip_p.render_preference(widgetysize=widgetysize)
         choiceskip_p.render_preference(widgetysize=widgetysize)
+        ui.textbutton(displayStrings.config_render_prefs_label,clicked=Function(showRenderScreen),xpos = 0.01)
         ui.null(height=group_spacing)
         ui.null(height=group_spacing)
         textspeed_p.render_preference()
@@ -267,7 +270,7 @@ label prefs_screen:
         widget_button(displayStrings.config_sfxtest_label, "ui/bt-musicplay.png", test_sound, widgetyoffset=-3, textxoffset=50, ysize=50, ypos=13)
         ui.close()
         ui.null(height=group_spacing*5)
-        widget_button(displayStrings.config_language_sel, "ui/bt-language.png", ui.jumps("language_screen"), xsize=300, widgetyoffset=-3, textxoffset=50, ypos=-541)
+        widget_button(displayStrings.config_language_sel, "ui/bt-language.png", ui.jumps("language_screen"), xsize=300, widgetyoffset=-3, textxoffset=50, ypos=-490)
         
         
 
@@ -280,7 +283,7 @@ label prefs_screen:
         ui.close()
         if entered_from_game:
             ui.add(renpy.Keymap(K_F4=gm_page_return_to_game))
-        return_button(ui.returns("return"))
+        return_button(ui.returns("return"),ypos = 830)
 
         if config.developer:
             ui.keymap(I=devlvl_I)
@@ -662,8 +665,6 @@ label music_menu_loop:
         return_button(_intra_jumps("extra_menu", "intra_transition"))
 
         result = ui.interact()
-        print(type(result))
-        print(result)
         if result != ('',''):
             renpy.music.play(result[1], fadeout=0.5, if_changed=True)
             nowplaying = result[0]

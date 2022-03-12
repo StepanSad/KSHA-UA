@@ -1171,6 +1171,12 @@ init 2 python:
         style.default.size = persistent.fontsize
         style.rebuild()
 
+
+    def showRenderScreen():
+        renpy.call_in_new_context("_choose_renderer")
+        renpy.restart_interaction()
+        
+
     config.gestures["e"] = "toggle_skip"
     config.gestures["w"] = "rollback"
     config.gestures["n"] = "game_menu"
