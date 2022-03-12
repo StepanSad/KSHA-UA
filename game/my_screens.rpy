@@ -1,9 +1,4 @@
 init:
-    
-    python early:
-        port_version = "KSHD Port version 1.5"
-
-    
 
     screen say(who, what):
         style_prefix "say"
