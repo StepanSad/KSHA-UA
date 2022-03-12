@@ -3240,7 +3240,7 @@ init python:
         
         basedelay = 0.07
         delay = basedelay * len (widget_map)                       
-        widget_list = [(1920,1080), (0,0), "ui/main/bg-main.png", (1700,1010),Text(game_version+"\n"+renpy.version()+"\nPorted by Liken, Mod by Shura Joy \nSpecial for {image=ui/4pda.png}",color="#00000080", size=15, font="font/playtime.ttf")]
+        widget_list = [(1920,1080), (0,0), "ui/main/bg-main.png", (1700,1007),Text(port_version+"\n"+renpy.version()+"\nPorted by Liken, Mod by Shura Joy \nSpecial for {image=ui/4pda.png}",color="#00000080", size=15, font="font/playtime.ttf")]
         for trigger, offset, widget in widget_map:
             if persistent_seen(trigger) or has_devlvl():
                 widget_list.append(offset)
