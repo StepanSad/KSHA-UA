@@ -10,23 +10,30 @@ init:
                 vbox:
                     python:
                         t = Text(what)
-                        t.render(1920,1080,1,1)
-                        vl = t.get_virtual_layout()
-                        tw = vl.size[0]
-                        if tw < 1136:
-                            tw = 1136
-                        th = vl.size[1]
+                        nbt = Text(who)
+
+                        nbt.render(1920,1080,0,0)
+                        nbts=nbt.get_virtual_layout().size[0]
+
+                        if nbts < 420:
+                            nbts = 420
+
+                        t.render(1920,1080,0,0)
+                        th = t.get_virtual_layout().size[1]
+
                         if th < 100:
                             th = 100
+
                         th = th*2
+                        
                         if th > 228:
                             th = 228
                         
                     frame:
                         style "nameBox"
-                        xsize int(tw/2.7)
+                        xsize int(nbts*1.5)
                         ysize int(th)
-                        xpadding int(tw*0.03)
+                        xpadding int(nbts*0.1)
                         text who id "who"
                             
                             
