@@ -1,4 +1,5 @@
 init -4 python:
+    config.new_substitutions = False  #comment out to use devtools
     config.image_cache_size = 3
 
     displayStrings = object()
