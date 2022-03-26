@@ -109,19 +109,6 @@ init -2 python:
                ( "mainmenu", displayStrings.game_menu_main, ui.jumps("confirm_mm", "intra_transition"), 'not mm_context()' ),
                ( "quit", displayStrings.game_menu_quit, ui.jumps("confirm_quit", "intra_transition"), 'True' ),
                ]
-        
-        config.joystick_keys = [
-                (displayStrings.joy_left, 'joy_left'),
-                (displayStrings.joy_right, 'joy_right'),
-                (displayStrings.joy_up, 'joy_up'),
-                (displayStrings.joy_down, 'joy_down'),
-                (displayStrings.joy_dismiss, 'joy_dismiss'),
-                (displayStrings.joy_rollback, 'joy_rollback'),
-                (displayStrings.joy_holdskip, 'joy_holdskip'),
-                (displayStrings.joy_toggleskip, 'joy_toggleskip'),
-                (displayStrings.joy_hide, 'joy_hide'),
-                (displayStrings.joy_menu, 'joy_menu'),
-                ]
 
 
 init 5 python:

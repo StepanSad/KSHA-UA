@@ -1668,33 +1668,6 @@ init 2 python:
         persistent.mpicker_yoffset = input
         yadj.change(input)
 
-
-    def joy_button(label,key):
-        myclicked = renpy.curry(joy_clicked)(label=label, key=key)
-        layout.button(_(label) + " - " + _(_preferences.joymap.get(key, displayStrings.gamepad_key_na)), "mm", clicked=myclicked, index=label)
-
-    def joy_clicked(label, key):
-        return renpy.invoke_in_new_context(set_binding, label, key)
-
-    def set_binding(label, key):
-        renpy.transition(config.intra_transition)
-        if mm_context(): 
-            bgimage = style.mm_static.background
-        else:
-            bgimage = None
-        
-        message = displayStrings.gamepad_request_key % label
-        
-        _prompt(None, message, background=bgimage, interact=False)
-        
-        _joystick_get_binding()
-        ui.add(renpy.Keymap(game_menu=ui.returns(True)))
-        binding = ui.interact()
-        _joystick_take_binding(binding, key)
-        
-        return True
-
-
     def refresh_label(a,b):
         
         global ss_desc
