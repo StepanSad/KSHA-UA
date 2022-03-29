@@ -1082,8 +1082,6 @@ label credits(c_movie=False):
 
     $ textheight = int(creditstext_disp.size()[1])
     $ textwidth = int(creditstext_disp.size()[0])
-    $ print (textwidth)
-    $ print (textheight)
 
     hide textsniff
     with None
