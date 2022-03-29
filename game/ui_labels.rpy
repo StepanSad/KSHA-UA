@@ -271,12 +271,6 @@ label prefs_screen:
         ui.close()
         ui.null(height=group_spacing*5)
         widget_button(displayStrings.config_language_sel, "ui/bt-language.png", ui.jumps("language_screen"), xsize=300, widgetyoffset=-3, textxoffset=50, ypos=-490)
-        
-        
-
-        if renpy.display.joystick.enabled: 
-            widget_button(displayStrings.config_gamepad_label, "ui/bt-gamepad.png", ui.jumps("joystick_screen"), xsize=700, widgetyoffset=-3, textxoffset=50, ypos=-495)
-
 
         ui.close()
         ui.close()
@@ -358,33 +352,6 @@ label language_screen:
         ui.interact()
 
     jump language_screen
-
-label joystick_screen:
-    python:
-        coming_from_prefs_sub = True
-        renpy.transition(config.intra_transition)
-        if mm_context(): 
-            ui.image(style.mm_static.background)
-        ui.image(style.gm_root.background)
-        ui.image("ui/bg-config.png", xalign=0.5, yalign=0.5)
-        layout.navigation(None)
-        ui.vbox(xpos = 565, ypos = 222)
-        ui.text(displayStrings.gamepad_caption, style="page_caption")
-        ui.null(height=8)
-        ui.hbox()
-        ui.null(width=10)
-        ui.vbox()
-        for label, key in config.joystick_keys:
-            joy_button(label, key)
-        ui.close()
-        ui.close()
-        ui.close()
-
-        return_button(ui.jumps("prefs_screen"))
-
-        ui.interact()
-
-    jump joystick_screen
 
 label load_key:
     $ renpy.transition(config.main_game_transition)
