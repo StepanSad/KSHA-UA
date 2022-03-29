@@ -1080,8 +1080,10 @@ label credits(c_movie=False):
 
     $ renpy.pause(1.0, hard=True)
 
-    $ textheight = config.screen_height
-    $ textwidth = config.screen_width
+    $ textheight = int(creditstext_disp.size()[1])
+    $ textwidth = int(creditstext_disp.size()[0])
+    $ print (textwidth)
+    $ print (textheight)
 
     hide textsniff
     with None
@@ -1123,7 +1125,7 @@ label credits(c_movie=False):
 
     if c_movie:
         play movie c_movie
-        show expression Movie(fps=30, size=(800, 600), yalign=0.5, xanchor=0.5, xpos=0.3)  as themovie behind roll
+        show expression Movie(fps=30, size=(800, 600), yalign=0.5, xanchor=0.5, xpos=0.27)  behind roll
     with None
 
     $ renpy.pause(52.0, hard=True)
