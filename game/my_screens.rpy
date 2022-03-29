@@ -318,10 +318,6 @@ init:
             xpadding 20
             ypadding 20
             
-            textbutton "": 
-                action NullAction()
-                xsize 908
-                ysize 400
 
             $ui.textbutton (displayStrings.XstringClose, clicked = Function(hideTextOptions), xalign = 1.0, yalign = 1.0)
                 
