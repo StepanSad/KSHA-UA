@@ -56,7 +56,7 @@ init:
         outlines [(1, "#000C")]
         xalign 0.5
         yalign 0.5 
-        size persistent.fontsize
+        # size persistent.fontsize
 
     
 
@@ -317,6 +317,11 @@ init:
             background Frame("ui/bg-config.png")
             xpadding 20
             ypadding 20
+            
+            textbutton "": 
+                action NullAction()
+                xsize 908
+                ysize 400
 
             $ui.textbutton (displayStrings.XstringClose, clicked = Function(hideTextOptions), xalign = 1.0, yalign = 1.0)
                 
