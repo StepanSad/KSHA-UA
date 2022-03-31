@@ -1059,17 +1059,15 @@ label credits(c_movie=False):
         totalsize = textheight + (buffer * 2) + (1080 * 2)
         textoffset = 960 - textwidth / 2
 
-        if c_movie:
-            textoffset += 384
-
         credits_final = LiveComposite((1920, totalsize),
                                               (685,347), "ui/cred_logo.png",
                                               (textoffset, 1080 + buffer ), creditstext_disp,
                                               (779, totalsize - 1080 + 435), "ui/4lsl-small.png",
                                               )
 
-    show expression credits_final  as roll at Position(xalign=0.5, yalign=0.0) behind credits
-    with Dissolve(2.0)
+    if not c_movie:    
+        show expression credits_final  as roll at Position(xalign=0.5, yalign=0.0) behind credits
+        with Dissolve(2.0)
 
     $ renpy.pause(2.0, hard=True)
 
@@ -1079,21 +1077,33 @@ label credits(c_movie=False):
 
     if c_movie:
         $ renpy.music.play(music_credits, loop=False)
+    else:
+        show expression credits_final  as roll behind credits:
+            xalign 0.5  yalign 0.0  subpixel True 
+            acdc20_warp 60.0  yalign 1.0 
+        with None
 
-    show expression credits_final  as roll behind credits:
-        xalign 0.5  yalign 0.0  subpixel True 
-        acdc20_warp 60.0  yalign 1.0 
-    with None
-
-    $ renpy.pause(8.0, hard=True)
+        $ renpy.pause(8.0, hard=True)
 
 
     if c_movie:
         play movie c_movie
-        show expression Movie(fps=30, size=(800, 600), yalign=0.5, xanchor=0.5, xpos=0.27)  behind roll
+        $ renpy.pause(47.0, hard=True)
+
+
+        show expression credits_final  as roll at Position(xalign=0.5, yalign=0.0) behind credits
+        with Dissolve(2.0)
+        $ renpy.pause(1.0, hard=True)
+        show expression credits_final  as roll behind credits:
+            xalign 0.5  yalign 0.0  subpixel True 
+            acdc20_warp 60.0  yalign 1.0 
+        with None
+        $ renpy.pause(60.0, hard=True)
+    else:
+        $ renpy.pause(52.0, hard=True)
     with None
 
-    $ renpy.pause(52.0, hard=True)
+    
 
 
 
