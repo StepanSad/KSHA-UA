@@ -172,9 +172,9 @@ label iscene(target, is_h=False, is_end=False):
     $ last_visited_label = target
     if not notextmode:
         if is_h and persistent.hdisabled:
-            call scene_deleted (is_end)
+            call scene_deleted (is_end) from _call_scene_deleted
         else:
-            call expression wrap_label(target)
+            call expression wrap_label(target) from _call_expression
     window hide None
     return
 
@@ -185,7 +185,7 @@ label imenu(target):
         last_visited_label = target
         renpy.music.set_volume(0.3, 1.0, "music")
         renpy.music.set_volume(0.3, 1.0, "ambient")
-    call expression wrap_label(target)
+    call expression wrap_label(target) from _call_expression_1
     python:
         renpy.music.set_volume(1.0, 1.0, "music")
         renpy.music.set_volume(1.0, 1.0, "ambient")

@@ -564,7 +564,7 @@ label video_menu:
 
     if result == "video/op_1.webm":
         $ is_black = True
-    call act_op_ex (result, is_black)
+    call act_op_ex (result, is_black) from _call_act_op_ex
     $ renpy.music.play(music_menus, fadein=5.0, fadeout=0.5)
     jump video_menu
 
@@ -1206,7 +1206,7 @@ label act_op(this_video):
                         _localized_tc = name
                         break
 
-    call localized_tc (_localized_tc, True)
+    call localized_tc (_localized_tc, True) from _call_localized_tc
     $ wdt_on()
 
     return
@@ -1257,7 +1257,7 @@ label path_end(character="", is_good=False):
         if end_id == "bad":
             scene bloodred
             with Dissolve(4.0)
-            call credits
+            call credits from _call_credits_1
         elif is_good:
             if renpy.loadable("video/credits_"+character+".webm"):
                 $ myvid = "video/credits_"+character+".webm"
@@ -1265,11 +1265,11 @@ label path_end(character="", is_good=False):
                 $ myvid = False
             scene white
             with Dissolve(4.0)
-            call credits (myvid)
+            call credits (myvid) from _call_credits_2
         else:
             scene black
             with Dissolve(2.0)
-            call credits
+            call credits from _call_credits_3
     return
 
 
