@@ -129,16 +129,7 @@ init -3 python:
     displayDict["en"].scene_playthrough_label = "Use replay flow (recommended)"
     displayDict["en"].scene_launch_path = "Do you wish to start\nthe entire path?"
 
-    displayDict["en"].joy_left = "Left"
-    displayDict["en"].joy_right = "Right"
-    displayDict["en"].joy_up = "Up"
-    displayDict["en"].joy_down = "Down"
-    displayDict["en"].joy_dismiss = "Select/Advance"
-    displayDict["en"].joy_rollback = "Text history"
-    displayDict["en"].joy_holdskip = "Hold to skip"
-    displayDict["en"].joy_toggleskip = "Skip mode"
-    displayDict["en"].joy_hide = "Show image"
-    displayDict["en"].joy_menu = "Show menu"
+
 
 
 

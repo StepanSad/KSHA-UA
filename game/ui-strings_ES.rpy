@@ -94,16 +94,7 @@ init -2 python:
     displayDict['es'].scene_completion_label = 'Completado: %s%%'
     displayDict['es'].scene_playthrough_label = u"Usar flujo de repetición (recomendado)"
     displayDict['es'].scene_launch_path = u"¿Desea empezar\nel camino entero?"
-    displayDict['es'].joy_left = u"Izquierda"
-    displayDict['es'].joy_right = u"Derecha"
-    displayDict['es'].joy_up = u"Arriba"
-    displayDict['es'].joy_down = u"Abajo"
-    displayDict['es'].joy_dismiss = u"Seleccionar/Avanzar"
-    displayDict['es'].joy_rollback = u"Historial del texto"
-    displayDict['es'].joy_holdskip = u"Mantener presionado para saltar"
-    displayDict['es'].joy_toggleskip = u"Avance rápido"
-    displayDict['es'].joy_hide = u"Mostrar imagen"
-    displayDict['es'].joy_menu = u"Mostrar menú"
+    
     displayDict['es'].name_hi = 'Hisao'
     displayDict['es'].name_ha = 'Hanako'
     displayDict['es'].name_emi = 'Emi'

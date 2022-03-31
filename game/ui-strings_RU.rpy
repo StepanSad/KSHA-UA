@@ -124,16 +124,7 @@ init -3 python:
     displayDict['ru'].scene_playthrough_label = ruw(u"Использовать режим потока (рекомендуется)")
     displayDict['ru'].scene_launch_path = ruw(u"Вы хотите начать\nзаново?")
 
-    displayDict['ru'].joy_left = ruw(u"Лево")
-    displayDict['ru'].joy_right = ruw(u"Право")
-    displayDict['ru'].joy_up = ruw(u"Верх")
-    displayDict['ru'].joy_down = ruw(u"Низ")
-    displayDict['ru'].joy_dismiss = ruw(u"Выбор \u0434альше")
-    displayDict['ru'].joy_rollback = ruw(u"История")
-    displayDict['ru'].joy_holdskip = ruw(u"Удерживать для пропуска")
-    displayDict['ru'].joy_toggleskip = ruw(u"Режим пропуска")
-    displayDict['ru'].joy_hide = ruw(u"Показать изображение")
-    displayDict['ru'].joy_menu = ruw(u"Показать меню")
+
 
     displayDict['ru'].name_hi = u"Хисао"
     displayDict['ru'].name_ha = u"Ханако"
