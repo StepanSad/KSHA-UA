@@ -2775,7 +2775,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\nLo admito, es casi reconfortante saber que no somos la única escuela como esta."
+n " {vspace=30}Lo admito, es casi reconfortante saber que no somos la única escuela como esta."
 
 n "Después de que ves que puede haber {b}dos{/b} escuelas con un montón de… niños defectuosos, bueno."
 
@@ -4362,7 +4362,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.3, 0.0, channel="ambient")
 play ambient sfx_rooftop fadein 1.0
 
-n "\n\nEs extraño que se sienta tan natural ir a la azotea estos días."
+n " {vspace=60}Es extraño que se sienta tan natural ir a la azotea estos días."
 
 n "Nunca habría hecho tal cosa en mi vieja escuela."
 
@@ -5040,7 +5040,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nLa última vez que vi a Iwanako fue terriblemente incómodo; hasta vergonzoso. Ella vino a mi cuarto del hospital, me peló una manzana por cortesía y luego prácticamente permanecimos en silencio por media hora."
+n " {vspace=150}La última vez que vi a Iwanako fue terriblemente incómodo; hasta vergonzoso. Ella vino a mi cuarto del hospital, me peló una manzana por cortesía y luego prácticamente permanecimos en silencio por media hora."
 
 n "Ella dijo “adiós” y no me miró a los ojos cuando cerró la puerta."
 
@@ -5053,7 +5053,7 @@ n "Cada vez que callaba hacía la siguiente ocasión aún más difícil."
 
 nvl clear
 
-n "\n\n\n\nSe veía tan llena de remordimiento que no quería decir nada que pudiera molestarla, y nunca pude encontrar las palabras correctas."
+n " {vspace=120}Se veía tan llena de remordimiento que no quería decir nada que pudiera molestarla, y nunca pude encontrar las palabras correctas."
 
 n "Creo que Iwanako se culpaba a sí misma por mi ataque al corazón. Eso es ridículo, por supuesto, pero saberlo y creerlo son dos cosas muy distintas."
 
@@ -5077,15 +5077,15 @@ window show
 
 window hide
 
-$ written_note("Querido Hisao,\n\n¿Cómo estás? Espero que estés bien y feliz en tu nueva escuela. Todos aquí te extrañan. Casi todo nuestro grupo de segundo año fue colocado junto en el grupo 3-1 para el último año, así que hemos estado bastante cómodos desde el principio. Estoy segura de que habrías sido asignado a este, también.")
+$ written_note("Querido Hisao,\n {vspace=30}¿Cómo estás? Espero que estés bien y feliz en tu nueva escuela. Todos aquí te extrañan. Casi todo nuestro grupo de segundo año fue colocado junto en el grupo 3-1 para el último año, así que hemos estado bastante cómodos desde el principio. Estoy segura de que habrías sido asignado a este, también.")
 
-$ written_note("Los ánimos entre los de tercer año parecen ser de muchas ansias por los exámenes finales, aun estando tan lejos. Los maestros nos fastidian por ello todo el tiempo, incluso el viejo señor Tachibana quien es, por cierto, nuestro maestro de cabecera este año. ¿Podrías creerlo? Estaba segura de que se retiraría después de nuestro segundo año, pero aquí está, dándonos lata a todos para que estudiemos para los exámenes.\n")
+$ written_note("Los ánimos entre los de tercer año parecen ser de muchas ansias por los exámenes finales, aun estando tan lejos. Los maestros nos fastidian por ello todo el tiempo, incluso el viejo señor Tachibana quien es, por cierto, nuestro maestro de cabecera este año. ¿Podrías creerlo? Estaba segura de que se retiraría después de nuestro segundo año, pero aquí está, dándonos lata a todos para que estudiemos para los exámenes.\n ")
 
-$ written_note("Creo que cosas como esa son la principal razón de que los ánimos entre los de tercero sean de tanto nerviosismo. Debo admitir que de algún modo también estoy perdiendo confianza en mí misma, a pesar de que siempre me ha ido razonablemente bien en los exámenes.\n\n\n\n\n")
+$ written_note("Creo que cosas como esa son la principal razón de que los ánimos entre los de tercero sean de tanto nerviosismo. Debo admitir que de algún modo también estoy perdiendo confianza en mí misma, a pesar de que siempre me ha ido razonablemente bien en los exámenes. {vspace=150} ")
 
-$ written_note("Es tan extraño pensar que ya estamos en el último año, ¿no es así? El tiempo realmente ha pasado volando. Me pregunto adónde fue. Los nuevos de primer año parecen tan jóvenes y de algún modo tan inocentes. No dejo de preguntarme si yo era como ellos en mi primer año. He estado sintiéndome así de nostálgica durante todo el primer trimestre.\n\n\n")
+$ written_note("Es tan extraño pensar que ya estamos en el último año, ¿no es así? El tiempo realmente ha pasado volando. Me pregunto adónde fue. Los nuevos de primer año parecen tan jóvenes y de algún modo tan inocentes. No dejo de preguntarme si yo era como ellos en mi primer año. He estado sintiéndome así de nostálgica durante todo el primer trimestre. {vspace=90} ")
 
-$ written_note("Hay otras cosas que quiero decir. Te estoy escribiendo porque sentí que hay cosas que debería haber dicho después del incidente en aquel invierno. Realmente me arrepiento de no haber sido capaz de decirlas en persona, y no tengo excusa para ello.\n\n\n\n\n")
+$ written_note("Hay otras cosas que quiero decir. Te estoy escribiendo porque sentí que hay cosas que debería haber dicho después del incidente en aquel invierno. Realmente me arrepiento de no haber sido capaz de decirlas en persona, y no tengo excusa para ello. {vspace=150} ")
 
 window show
 
@@ -6630,7 +6630,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nFue extraño no tenerla aquí."
+n "\n {vspace=30}Fue extraño no tenerla aquí."
 
 n "Completamente desconcertante."
 
@@ -7847,7 +7847,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nDecirle que la amo, decirle que pienso que es hermosa, decirle que estaré allí cuando me necesite."
+n "\n {vspace=30}Decirle que la amo, decirle que pienso que es hermosa, decirle que estaré allí cuando me necesite."
 
 n "Quiero quedarme con ella, sostenerla cerca mientras se duerme de nuevo."
 
@@ -7869,7 +7869,7 @@ n "Y ahora para añadir a mis problemas, pareciera que Emi ya tiene interés en 
 
 nvl clear
 
-n "\n\n\n\n\n\nEste capitán suyo que parece tan interesado en su bienestar."
+n " {vspace=180}Este capitán suyo que parece tan interesado en su bienestar."
 
 n "Cierto, solo los he visto juntos unas pocas veces, pero eso no cambia el hecho de que parecen más adecuados el uno para el otro."
 
@@ -7942,7 +7942,7 @@ nvl show dissolve
 
 nvl clear
 
-n "\n¿Qué pasará hoy?"
+n " {vspace=30}¿Qué pasará hoy?"
 
 n "¿Las cosas simplemente volverán a la normalidad?"
 
@@ -7966,7 +7966,7 @@ n "Una razón para no intentarlo."
 
 nvl clear
 
-n "\n\n\n\nNo es como si los hubiera visto juntos fuera de las prácticas de atletismo."
+n " {vspace=120}No es como si los hubiera visto juntos fuera de las prácticas de atletismo."
 
 n "Y claramente nunca la ha visitado. La misma Emi lo dijo. Si fueran cercanos, él seguramente la visitaría."
 
@@ -7983,7 +7983,7 @@ n "Tal vez por este capitán. Es posible que ella tenga algún tipo de romance n
 
 nvl clear
 
-n "\n\n\n\n\n\n¿Pero quién sería capaz de aclararme su relación?"
+n " {vspace=180}¿Pero quién sería capaz de aclararme su relación?"
 
 n "Es imposible que sea Emi. Ella probablemente solo reiría y preguntaría por qué quiero saberlo… y aún no estoy listo para responder eso."
 
@@ -7993,7 +7993,7 @@ n "Me pregunto…"
 
 nvl clear
 
-n "\n\n\n\n\n¿Podría salirme con la mía preguntándole al enfermero? Él se ve muy protector con Emi. Estoy seguro de que sabría si hubiera algo ahí…"
+n " {vspace=150}¿Podría salirme con la mía preguntándole al enfermero? Él se ve muy protector con Emi. Estoy seguro de que sabría si hubiera algo ahí…"
 
 n "Y él me debe una por no dejar que Emi se enterase de que olvidó decirme que ella estaba enferma, así que se quedará callado."
 
@@ -8018,7 +8018,7 @@ with locationskip
 
 nvl show dissolve
 
-n "\n\n\n\nNo hay señales de Emi cuando llego a la pista. ¿Aún está muy enferma?"
+n " {vspace=120}No hay señales de Emi cuando llego a la pista. ¿Aún está muy enferma?"
 
 n "Decido darle diez minutos."
 
@@ -8728,7 +8728,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\nEsta es una manera terriblemente indirecta de intentar averiguar si ella está libre el fin de semana."
+n " {vspace=240}Esta es una manera terriblemente indirecta de intentar averiguar si ella está libre el fin de semana."
 
 n "Si está libre, entonces tal vez pueda pedirle una cita o algo."
 
@@ -9035,7 +9035,7 @@ with Pause (5.0)
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nSus labios saben ligeramente a fresas."
+n " {vspace=120}Sus labios saben ligeramente a fresas."
 
 n "Ella se acerca más, y sus brazos se tensan alrededor de mi cuello, asegurándose de que yo no retroceda."
 

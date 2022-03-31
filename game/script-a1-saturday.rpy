@@ -3299,7 +3299,7 @@ with charaexit
 
 window hide
 
-$ written_note("You probably don't know how to get back to school from here.\n\nThere will be work waiting for you when you do. See you then~")
+$ written_note("You probably don't know how to get back to school from here.\n {vspace=30}There will be work waiting for you when you do. See you then~")
 
 window show
 

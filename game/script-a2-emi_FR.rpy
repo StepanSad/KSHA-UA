@@ -3458,7 +3458,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\nJe l'avoue, c'est presque rassurant de savoir qu'on n'est pas la seule école comme ça."
+n " {vspace=30}Je l'avoue, c'est presque rassurant de savoir qu'on n'est pas la seule école comme ça."
 
 
 n "Après avoir vu qu'il y a {b}deux{/b} écoles avec des étudiants... déficient..."
@@ -5462,7 +5462,7 @@ $ renpy.music.set_volume(0.3, 0.0, channel="ambient")
 play ambient sfx_rooftop fadein 1.0
 
 
-n "\n\nBizarre que ça me paraisse si naturel d'aller sur le toit ces jours-ci."
+n " {vspace=60}Bizarre que ça me paraisse si naturel d'aller sur le toit ces jours-ci."
 
 
 n "Je n'aurais jamais fait ça dans mon ancienne école."
@@ -6311,7 +6311,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\n\nLa dernière fois que j'ai vu Iwanako c'était vraiment étrange, même embarrassant. Elle est venue dans ma chambre d’hôpital, m'a épluché une pomme par courtoisie et on est presque restés assis en silence pendant une heure."
+n " {vspace=150}La dernière fois que j'ai vu Iwanako c'était vraiment étrange, même embarrassant. Elle est venue dans ma chambre d’hôpital, m'a épluché une pomme par courtoisie et on est presque restés assis en silence pendant une heure."
 
 
 n "Elle a dit “au revoir” et ne m'a pas regardé dans les yeux quand elle est partie."
@@ -6328,7 +6328,7 @@ n "Chaque fois que je n'ai pas parlé a rendu la fois d’après encore plus dif
 nvl clear
 
 
-n "\n\n\n\nElle semblait se sentir si coupable que je ne voulais pas dire quoi que ce soit qui pourrait lui faire du mal, et je n'ai jamais trouvé les bons mots."
+n " {vspace=120}Elle semblait se sentir si coupable que je ne voulais pas dire quoi que ce soit qui pourrait lui faire du mal, et je n'ai jamais trouvé les bons mots."
 
 
 n "Je crois qu'Iwanako se blâmait pour ma crise cardiaque. C'est ridicule bien sûr, mais le savoir et le croire sont deux choses très différentes."
@@ -6358,19 +6358,19 @@ window show
 window hide
 
 
-$ written_note("Cher Hisao,\n\nComment vas-tu ? J’espère que tu vas bien et que tu es content dans ta nouvelle école. Tu manques à tout le monde ici. Presque toute la classe de seconde année s'est retrouvée en classe 3-1 pour la dernière année, donc nous sommes plutôt confiants pour le début de l'année. Je suis sûre que tu aurais été assigné à cette classe aussi.")
+$ written_note("Cher Hisao,\n {vspace=30}Comment vas-tu ? J’espère que tu vas bien et que tu es content dans ta nouvelle école. Tu manques à tout le monde ici. Presque toute la classe de seconde année s'est retrouvée en classe 3-1 pour la dernière année, donc nous sommes plutôt confiants pour le début de l'année. Je suis sûre que tu aurais été assigné à cette classe aussi.")
 
 
-$ written_note("Pas mal de monde est anxieux parmi les étudiants de troisième année pour les examens finaux, même s'ils ont lieu beaucoup plus tard. Les professeurs nous harcèlent tout le temps avec ça - même M. Tachibana qui est, d'ailleurs, notre professeur principal cette année. Tu y crois à ça ? J'étais sûre qu'il prendrait sa retraite après la deuxième année, mais il est là, embêtant tout le monde pour les examens.\n")
+$ written_note("Pas mal de monde est anxieux parmi les étudiants de troisième année pour les examens finaux, même s'ils ont lieu beaucoup plus tard. Les professeurs nous harcèlent tout le temps avec ça - même M. Tachibana qui est, d'ailleurs, notre professeur principal cette année. Tu y crois à ça ? J'étais sûre qu'il prendrait sa retraite après la deuxième année, mais il est là, embêtant tout le monde pour les examens.\n ")
 
 
-$ written_note("Je crois que des choses comme ça sont la raison principale pour laquelle tout le monde est nerveux parmi les troisième année. Je dois admettre que je perds quelque peu confiance aussi, même si j'ai toujours assez bien géré les examens.\n\n\n\n\n")
+$ written_note("Je crois que des choses comme ça sont la raison principale pour laquelle tout le monde est nerveux parmi les troisième année. Je dois admettre que je perds quelque peu confiance aussi, même si j'ai toujours assez bien géré les examens. {vspace=150} ")
 
 
-$ written_note("Ça fait bizarre de penser qu'on est déjà des seniors, hein ? Le temps passe vraiment vite. Je me demande où il est passé. Les nouveaux semblent si jeunes et, d'une certaine façon, si innocents. Je me demande si j'étais comme eux en première année. J'ai eu ce sentiment nostalgique pendant tout le premier trimestre.\n\n\n")
+$ written_note("Ça fait bizarre de penser qu'on est déjà des seniors, hein ? Le temps passe vraiment vite. Je me demande où il est passé. Les nouveaux semblent si jeunes et, d'une certaine façon, si innocents. Je me demande si j'étais comme eux en première année. J'ai eu ce sentiment nostalgique pendant tout le premier trimestre. {vspace=90} ")
 
 
-$ written_note("Il y a d'autres choses dont je veux te parler. Je t'écris parce que j'ai l'impression que j'aurais dû te dire certaines choses après l'incident de l'hiver. Je regrette vraiment de ne pas avoir été capable de le dire en personne, et je n'ai aucune excuse pour ça.\n\n\n\n\n")
+$ written_note("Il y a d'autres choses dont je veux te parler. Je t'écris parce que j'ai l'impression que j'aurais dû te dire certaines choses après l'incident de l'hiver. Je regrette vraiment de ne pas avoir été capable de le dire en personne, et je n'ai aucune excuse pour ça. {vspace=150} ")
 
 window show
 
@@ -8295,7 +8295,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nC'était bizarre de ne pas l'avoir avec moi."
+n " {vspace=60}C'était bizarre de ne pas l'avoir avec moi."
 
 
 n "Carrément troublant."
@@ -9858,7 +9858,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nLui dire que je l'aime, lui dire que je la trouve magnifique, lui dire que je serai là quand elle aura besoin de moi."
+n " {vspace=60}Lui dire que je l'aime, lui dire que je la trouve magnifique, lui dire que je serai là quand elle aura besoin de moi."
 
 
 n "Je veux rester avec elle, la tenir contre moi alors qu'elle se rendort."
@@ -9890,7 +9890,7 @@ n "Et maintenant, comme pour accumuler les problèmes, on dirait qu'Emi est déj
 nvl clear
 
 
-n "\n\n\n\n\n\nCe capitaine d’athlétisme qui semble si intéressé par son bien-être."
+n " {vspace=180}Ce capitaine d’athlétisme qui semble si intéressé par son bien-être."
 
 
 n "Il est vrai, je ne les ai vus ensemble que quelques fois, mais ça ne change pas le fait qu'ils semblent bien aller ensemble."
@@ -9977,7 +9977,7 @@ nvl show dissolve
 nvl clear
 
 
-n "\nQu'est-ce qui se passera aujourd'hui ?"
+n " {vspace=30}Qu'est-ce qui se passera aujourd'hui ?"
 
 
 n "Est-ce que les choses redeviendront juste comme avant ?"
@@ -10012,7 +10012,7 @@ n "Une raison pour ne pas essayer."
 nvl clear
 
 
-n "\n\n\n\nCe n'est pas comme si je les avais déjà vus ensemble en dehors d'un entraînement sur le terrain."
+n " {vspace=120}Ce n'est pas comme si je les avais déjà vus ensemble en dehors d'un entraînement sur le terrain."
 
 
 n "Et visiblement il n'a jamais été la voir. Emi l'a dit elle-même. S'ils étaient proches, il y serait sûrement allé."
@@ -10035,7 +10035,7 @@ n "Peut-être à cause du capitaine du club. Il est possible qu'elle vive un amo
 nvl clear
 
 
-n "\n\n\n\n\n\nMais qui pourrait être capable de clarifier leur relation ?"
+n " {vspace=180}Mais qui pourrait être capable de clarifier leur relation ?"
 
 
 n "Emi n'est même pas envisageable. Elle rirait sûrement et me demanderait pourquoi je veux savoir... et je ne suis pas encore prêt à répondre à ça."
@@ -10049,7 +10049,7 @@ n "Je me demande..."
 nvl clear
 
 
-n "\n\n\n\n\nEst-ce que je pourrais demander à l'infirmier ? Il semble très protecteur avec Emi. Je suis sûr qu'il le saurait si quelque chose se passait..."
+n " {vspace=150}Est-ce que je pourrais demander à l'infirmier ? Il semble très protecteur avec Emi. Je suis sûr qu'il le saurait si quelque chose se passait..."
 
 
 n "Et il m'en doit une pour ne pas avoir dit à Emi qu'il avait oublié de me prévenir qu'elle était malade, alors il restera discret."
@@ -10081,7 +10081,7 @@ with locationskip
 nvl show dissolve
 
 
-n "\n\n\n\nIl n'y a aucun signe d'Emi quand j'arrive à la piste. Elle est encore trop malade pour venir ?"
+n " {vspace=120}Il n'y a aucun signe d'Emi quand j'arrive à la piste. Elle est encore trop malade pour venir ?"
 
 
 n "Je décide de lui donner dix minutes."
@@ -10999,7 +10999,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\n\n\n\n\nC'est une technique d'approche pour essayer de savoir si elle est libre ce week-end."
+n " {vspace=240}C'est une technique d'approche pour essayer de savoir si elle est libre ce week-end."
 
 
 n "Si elle est libre, alors peut-être que je pourrai lui proposer un rendez-vous ou quelque chose du genre."
@@ -11398,7 +11398,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nSes lèvres ont un léger goût de fraises."
+n " {vspace=120}Ses lèvres ont un léger goût de fraises."
 
 
 n "Elle se laisse aller dans le baiser, et ses bras se resserrent derrière ma tête, s’assurant que je ne me détache pas d'elle."

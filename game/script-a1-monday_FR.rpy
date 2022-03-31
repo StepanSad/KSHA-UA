@@ -290,10 +290,10 @@ with None
 nvl show Dissolve(0.2)
 
 
-n "\n\n\n\n\n\n\nLe monde autour de moi - l'auvent de branches nues, le ciel terne d'hiver, Iwanako courant vers moi - tout vira au noir."
+n " {vspace=210}Le monde autour de moi - l'auvent de branches nues, le ciel terne d'hiver, Iwanako courant vers moi - tout vira au noir."
 
 
-n "\nLes dernières choses dont je me souvienne avant de m'évanouir sont Iwanako criant pour demander de l'aide et le cliquetis incessant des branches au-dessus de moi..."
+n " {vspace=30}Les dernières choses dont je me souvienne avant de m'évanouir sont Iwanako criant pour demander de l'aide et le cliquetis incessant des branches au-dessus de moi..."
 
 nvl hide Dissolve(3.0)
 
@@ -352,18 +352,18 @@ n "Ça ne me remonte vraiment pas le moral."
 nvl clear
 
 
-n "\n\n\n\n\nMes parents, je crois, ont été plus choqués par la nouvelle que je ne l'ai été. Ils ont pratiquement eu deux infarctus chacun."
+n " {vspace=150}Mes parents, je crois, ont été plus choqués par la nouvelle que je ne l'ai été. Ils ont pratiquement eu deux infarctus chacun."
 
 
-n "\nJ'avais déjà eu une journée pour tout digérer. Pour eux c'était tout frais. Ils étaient même prêts à vendre notre maison pour payer un remède."
+n " {vspace=30}J'avais déjà eu une journée pour tout digérer. Pour eux c'était tout frais. Ils étaient même prêts à vendre notre maison pour payer un remède."
 
 
-n "\n\nBien sûr, il n'existe pas de remède."
+n " {vspace=60}Bien sûr, il n'existe pas de remède."
 
 nvl clear
 
 
-n "\nEn raison de la découverte tardive de ce... problème, j'ai dû rester à l'hôpital, pour récupérer du traitement."
+n " {vspace=30}En raison de la découverte tardive de ce... problème, j'ai dû rester à l'hôpital, pour récupérer du traitement."
 
 
 n "Lors de ma première admission, je me suis senti comme perdu..."
@@ -392,7 +392,7 @@ n "Nous n'avions jamais reparlé de ce qu'il s'était passé entre nous en ce jo
 nvl clear
 
 
-n "\nL'hôpital ?"
+n " {vspace=30}L'hôpital ?"
 
 
 n "Ce n'est pas vraiment un endroit où j'aimerais vivre."
@@ -410,7 +410,7 @@ n "Pendant les deux premiers mois, j'ai demandé au chef de cardiologie, à chaq
 n "Il n'a jamais répondu directement à mes questions. Il me disait d'attendre pour évaluer si le traitement et les chirurgies faisaient effet."
 
 
-n "\nAinsi, j'observais paresseusement la cicatrice que ces chirurgies avaient laissée sur ma poitrine et qui changeait lentement avec le temps, laissant penser à une sorte de mauvais présage."
+n " {vspace=30}Ainsi, j'observais paresseusement la cicatrice que ces chirurgies avaient laissée sur ma poitrine et qui changeait lentement avec le temps, laissant penser à une sorte de mauvais présage."
 
 
 n "Je continue de demander ma date de sortie au chef de service, mais je n'y crois plus vraiment ; maintenant je ne suis plus déçu quand je ne reçois pas de réponse."
@@ -418,19 +418,19 @@ n "Je continue de demander ma date de sortie au chef de service, mais je n'y cro
 nvl clear
 
 
-n "\n\n\n\nÀ un moment j'ai arrêté de regarder la télévision. Je ne sais pas pourquoi, je l'ai juste fait."
+n " {vspace=120}À un moment j'ai arrêté de regarder la télévision. Je ne sais pas pourquoi, je l'ai juste fait."
 
 
 n "Peut-être était-ce une mauvaise façon d'échapper à ma situation."
 
 
-n "\nJ'ai commencé à lire à la place. Il y avait une petite “bibliothèque” à l'hôpital, même si elle ressemble plus à une pièce de stockage pour livres. J'ai commencé à tailler mon chemin à travers elle, une petite pile à la fois. Après les avoir lus, j'y retournais pour en prendre d'autres."
+n " {vspace=30}J'ai commencé à lire à la place. Il y avait une petite “bibliothèque” à l'hôpital, même si elle ressemble plus à une pièce de stockage pour livres. J'ai commencé à tailler mon chemin à travers elle, une petite pile à la fois. Après les avoir lus, j'y retournais pour en prendre d'autres."
 
 
 n "Il s'est avéré que j'aimais lire et je pense que je suis devenu un peu accro. J'ai commencé à me sentir nu sans un livre dans les mains."
 
 
-n "\nMais j'aimais les histoires."
+n " {vspace=30}Mais j'aimais les histoires."
 
 nvl clear
 
@@ -2316,7 +2316,7 @@ play music music_night fadein 1.0
 window hide
 
 
-$ written_note("Salut Hicchan. Nous avons déballé tes affaires et fait ton lit.\nIls nous ont dit que si celles-ci ne vont pas, alors tu devras aller à l'accueil demain.\nSi tu as le moindre problème, tu peux toujours nous appeler.\n\nBisous, Maman et Papa")
+$ written_note("Salut Hicchan. Nous avons déballé tes affaires et fait ton lit.\nIls nous ont dit que si celles-ci ne vont pas, alors tu devras aller à l'accueil demain.\nSi tu as le moindre problème, tu peux toujours nous appeler.\n {vspace=30}Bisous, Maman et Papa")
 
 window show
 
@@ -2381,7 +2381,7 @@ hide pills
 with None
 
 
-$ written_note("Hisao Nakai\n\nDeux comprimés par jour pour rester en vie", quiet=True)
+$ written_note("Hisao Nakai\n {vspace=30}Deux comprimés par jour pour rester en vie", quiet=True)
 
 window show
 
