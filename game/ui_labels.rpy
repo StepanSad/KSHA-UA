@@ -1087,7 +1087,7 @@ label credits(c_movie=False):
 
 
     if c_movie:
-        play movie c_movie
+        $ renpy.movie_cutscene(c_movie, stop_music=False)
         $ renpy.pause(47.0, hard=True)
 
 
