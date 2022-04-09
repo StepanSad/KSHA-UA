@@ -241,9 +241,9 @@ with None
 
 nvl show Dissolve(0.2)
 
-n "\n\n\n\n\n\n\nThe world around me - the canopy of bare branches, the dull winter sky, Iwanako running towards me - all these fade to black."
+n " {vspace=210}The world around me - the canopy of bare branches, the dull winter sky, Iwanako running towards me - all these fade to black."
 
-n "\nThe last things I remember before slipping away are the sounds of Iwanako screaming for help and the incessant clatter of the branches above…"
+n " {vspace=30}The last things I remember before slipping away are the sounds of Iwanako screaming for help and the incessant clatter of the branches above…"
 
 nvl hide Dissolve(3.0)
 
@@ -274,7 +274,7 @@ play music music_rain fadein 4.0
 
 nvl show dissolve
 
-n "\n\nIn that whole time, I can probably count the times I've left this hospital room unsupervised on one hand."
+n " {vspace=60}In that whole time, I can probably count the times I've left this hospital room unsupervised on one hand."
 
 n "Four months is a pretty long time when you're left alone with your thoughts. So, I've had plenty of time to come to terms with my situation."
 
@@ -292,15 +292,15 @@ n "It really didn't do anything to cheer me up."
 
 nvl clear
 
-n "\n\n\n\n\nMy parents, I think, were hit harder by the news than I was. They practically had two hemorrhages apiece."
+n " {vspace=150}My parents, I think, were hit harder by the news than I was. They practically had two hemorrhages apiece."
 
-n "\nI had already had a full day by then to digest everything. To them, it was all fresh. They were even willing to sell our house in order to pay for a cure."
+n " {vspace=30}I had already had a full day by then to digest everything. To them, it was all fresh. They were even willing to sell our house in order to pay for a cure."
 
-n "\n\nOf course there isn't a cure."
+n " {vspace=60}Of course there isn't a cure."
 
 nvl clear
 
-n "\nBecause of the late discovery of this… condition, I've had to stay at the hospital, to recuperate from the treatments."
+n " {vspace=30}Because of the late discovery of this… condition, I've had to stay at the hospital, to recuperate from the treatments."
 
 n "When I was first admitted, it felt as if I was missed…"
 
@@ -320,7 +320,7 @@ n "We didn't touch the subject that was between us on that snowy day ever again.
 
 nvl clear
 
-n "\nThe hospital?"
+n " {vspace=30}The hospital?"
 
 n "It's not really a place I'd like to live in."
 
@@ -332,27 +332,28 @@ n "For the first month or so, I asked the head cardiologist every time I saw him
 
 n "He never answered anything in a straightforward way, but told me to wait and see if the treatment and surgeries worked."
 
-n "\nSo, I idly observed the scar that those surgeries had left on my chest slowly change its appearance over time, thinking of it as some kind of an omen."
+n " {vspace=30}So, I idly observed the scar that those surgeries had left on my chest slowly change its appearance over time, thinking of it as some kind of an omen."
 
 n "I still ask the head cardiologist about leaving, but my expectations are low enough now that I'm not disappointed any more when I don't get a reply. The way he shuffles around the answer shows that there is at least some hope."
 
 nvl clear
 
-n "\n\n\n\nAt some point I stopped watching TV. I don't know why, I just did."
+n " {vspace=120}At some point I stopped watching TV. I don't know why, I just did."
 
 n "Maybe it was the wrong kind of escapism for my situation."
 
-n "\nI started reading instead. There was a small \"library\" at the hospital, although it was more like a storeroom for books. I began working my way through it, one small stack at a time. After consuming them, I would go back for more."
+
+n " {vspace=30}I started reading instead. There was a small \"library\" at the hospital, although it was more like a storeroom for books. I began working my way through it, one small stack at a time. After consuming them, I would go back for more."
 
 n "I found that I liked reading and I think I even became a bit addicted. I started feeling naked without a book in my hands."
 
-n "\nBut I loved the stories."
+n " {vspace=30}But I loved the stories."
 
 nvl clear
 
-n "\nThat was what my life was like."
+n " {vspace=30}That was what my life was like."
 
-n "\nThe days became increasingly harder to distinguish from each other, differing only by the book I was reading and the weather outside. It felt like time blurred into some kind of gooey mass I was trapped inside, instead of moving within."
+n " {vspace=30}The days became increasingly harder to distinguish from each other, differing only by the book I was reading and the weather outside. It felt like time blurred into some kind of gooey mass I was trapped inside, instead of moving within."
 
 n "A week could go by without me really noticing it."
 
@@ -364,7 +365,7 @@ n "The pages of my book would start to feel sharp and burning hot and the heavin
 
 n "But that happened only rarely."
 
-n "\nAnd I couldn't even cry."
+n " {vspace=30}And I couldn't even cry."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -1798,7 +1799,7 @@ play music music_night fadein 1.0
 
 window hide
 
-$ written_note("Hi Hicchan. We've unpacked your things and made your bed.\nThey said that if these don't fit then you should go to the office tomorrow.\nIf you have any problems, you can always call us.\n\nLove, Mom and Dad")
+$ written_note("Hi Hicchan. We've unpacked your things and made your bed.\nThey said that if these don't fit then you should go to the office tomorrow.\nIf you have any problems, you can always call us.\n \nLove, Mom and Dad")
 
 window show
 
@@ -1847,7 +1848,7 @@ with Pause (1.0)
 hide pills
 with None
 
-$ written_note("Hisao Nakai\n\nTwo tablets daily to stay alive", quiet=True)
+$ written_note("Hisao Nakai\n \nTwo tablets daily to stay alive", quiet=True)
 
 window show
 

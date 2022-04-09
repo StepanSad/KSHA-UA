@@ -875,7 +875,7 @@ window hide
 nvl show dissolve
 
 
-n "\n\n\n\nÉcoutant seulement à moitié ce qu'il dit, mes pensées se dirigent vers Lilly et son antipathie pour Shizune."
+n " {vspace=120}Écoutant seulement à moitié ce qu'il dit, mes pensées se dirigent vers Lilly et son antipathie pour Shizune."
 
 
 n "Le passé entre elles devient de plus en plus clair, mais je ne suis pas sûr que ce soit une bonne idée que j'approfondisse cela. Même si j'arrive à savoir ce qui s'est passé, ce ne sont vraiment pas mes affaires."
@@ -1431,7 +1431,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\nÇa a été beaucoup plus calme à partir du moment où Hanako a recommencé à venir en cours."
+n " {vspace=90}Ça a été beaucoup plus calme à partir du moment où Hanako a recommencé à venir en cours."
 
 
 n "Depuis qu'elle est revenue en cours, après plusieurs jours d'absence, rien d'inhabituel n'a été fait ou dit. Aucun de nous deux n'avait envie de reparler de cet incident, donc nous n'avons pas ramené cela sur le tapis."
@@ -1606,7 +1606,7 @@ window hide
 nvl show dissolve
 
 
-n "\n\n\n\n\n\nEn fin de compte, tout revient à ce qui se passera quand l'école finira."
+n " {vspace=180}En fin de compte, tout revient à ce qui se passera quand l'école finira."
 
 
 n "En prenant en compte ce qui est arrivé avant que j'arrive à Yamaku, j'ai quelque peu l'impression qu'on me demande de suivre le rythme d'une course, bien que j'aie commencé avec plusieurs tours de retard."
@@ -1833,7 +1833,7 @@ window hide
 nvl show dissolve
 
 
-n "\n\nDepuis que j'ai appelé Lilly, je pense à deux choses. Deux choses qui m'amènent à la même conclusion : j'ai commencé à me détacher de ma vie passée."
+n " {vspace=60}Depuis que j'ai appelé Lilly, je pense à deux choses. Deux choses qui m'amènent à la même conclusion : j'ai commencé à me détacher de ma vie passée."
 
 
 n "Ça fait seulement un mois et demi que je suis arrivé ici et pourtant l'école est devenue comme une seconde maison. J'ai gagné de nouveaux amis, réussi à m'adapter au style de vie et à la culture de l'école et je me suis habitué aux étrangetés de mes camarades de classe."
@@ -4551,7 +4551,7 @@ nvl show dissolve
 nvl clear
 
 
-n "\n\n\n\nIl m'a fallu étonnamment peu de temps pour m'habituer à avaler les pilules sans eau. Cela dit, c'est aussi vrai pour m'être habitué à vivre dans une école pour handicapés."
+n " {vspace=120}Il m'a fallu étonnamment peu de temps pour m'habituer à avaler les pilules sans eau. Cela dit, c'est aussi vrai pour m'être habitué à vivre dans une école pour handicapés."
 
 
 n "Me rappelant Yamaku, je suis encore plus content d'avoir eu une chance de m'échapper, même si ce n'est que pour quelques jours."

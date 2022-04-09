@@ -1782,7 +1782,7 @@ nvl show dissolve
 
 play music music_daily fadein 2.0
 
-n "\n\nThis is somewhat natural, as our classrooms are adjacent. But rather than just cross paths in the hallway like people regularly do, we seem to pause at the sight of each other."
+n " {vspace=60}This is somewhat natural, as our classrooms are adjacent. But rather than just cross paths in the hallway like people regularly do, we seem to pause at the sight of each other."
 
 n "We invariably end up talking a little bit, or just silently hanging out together."
 
@@ -1790,11 +1790,11 @@ n "I think I'm getting used to being quiet in Rin's company, as it doesn't feel 
 
 n "I think it's actually an anomaly for someone in this school to be so quiet. Most people here seem to love socializing."
 
-n "\nIt's something that I've noticed already, even though I haven't been here very long: people here talk a lot, and they talk all the time."
+n " {vspace=30}It's something that I've noticed already, even though I haven't been here very long: people here talk a lot, and they talk all the time."
 
 nvl clear
 
-n "\n\nIt's a rare case when I see someone sitting alone, just spacing out or whatever. Obviously there are people like that here, too; that Hanako girl and myself, just to name two from my own class. But overall, they are a minority."
+n " {vspace=60}It's a rare case when I see someone sitting alone, just spacing out or whatever. Obviously there are people like that here, too; that Hanako girl and myself, just to name two from my own class. But overall, they are a minority."
 
 n "At any rate, I wouldn't exactly call what Rin and I do \"socializing,\" either, but it's something, at least."
 
@@ -1802,7 +1802,7 @@ n "These occurrences themselves don't bother me, but the fact that they happen a
 
 n "I'd hesitate to say that we are drawn together by something, but we certainly act as if we were."
 
-n "\n\nHowever, this sense of a budding friendship is completely wrecked every time Rin opens her mouth."
+n " {vspace=60}However, this sense of a budding friendship is completely wrecked every time Rin opens her mouth."
 
 nvl hide dissolve
 nvl clear
@@ -1931,7 +1931,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5,  0.0, channel="music")
 play music music_pearly fadein 1.0
 
-n "\n\n\nMaybe I should've let her listen to my heart. It's not like it matters. Nothing really matters that much, at the end of the day."
+n " {vspace=90}Maybe I should've let her listen to my heart. It's not like it matters. Nothing really matters that much, at the end of the day."
 
 n "I start feeling depressed for no reason, again. It's like a tidal wave out of nowhere rolling over my consciousness, submerging me underwater."
 
@@ -1939,7 +1939,7 @@ n "I feel a sigh coming out of my mouth, and I turn away from Rin, pretending to
 
 n "The difference between me and Rin is that I'll be more likely than not dead before turning thirty, while she can't eat oranges without help."
 
-n "\n\nI can't decide which one of us is worse off."
+n " {vspace=60}I can't decide which one of us is worse off."
 
 
 
@@ -1952,7 +1952,7 @@ with delayblinds
 
 nvl show dissolve
 
-n "\n\n\nI try to grasp the passing of time, but it seems hard. I'm still used to the rhythm of the hospital, where trivialities such as the day of the week or time of day didn't really matter."
+n " {vspace=90}I try to grasp the passing of time, but it seems hard. I'm still used to the rhythm of the hospital, where trivialities such as the day of the week or time of day didn't really matter."
 
 n "Everything was the same, no matter what."
 
@@ -1966,7 +1966,7 @@ show ev watch_black:
 n "The relevancy of a ticking clock is surprisingly delightful, and I decide to start wearing an analog wristwatch, something I didn't use to do before."
 
 
-n "\nWhen I finally ask Rin on Thursday about something that's been bothering me for the entire week, it's already lunch time."
+n " {vspace=30}When I finally ask Rin on Thursday about something that's been bothering me for the entire week, it's already lunch time."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
 
@@ -2030,9 +2030,9 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nHave I stopped smiling?"
+n " {vspace=90}Have I stopped smiling?"
 
-n "\nI have to take what she says as truth. She has no reason to lie."
+n " {vspace=30}I have to take what she says as truth. She has no reason to lie."
 
 n "Something about the way she puts it annoys me. I frown at Rin, then try to correct my expression to look less depressed."
 
@@ -2042,7 +2042,7 @@ n "Does it show so much that someone like Rin can tell, after so little contact 
 
 n "Should I try to smile more at Rin? Maybe she could appreciate it, having such a neutral face herself almost all the time."
 
-n "\nHave I really stopped smiling?"
+n " {vspace=30}Have I really stopped smiling?"
 
 nvl hide dissolve
 nvl clear
@@ -2855,7 +2855,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nThat remark she made before is still stuck in my head."
+n " {vspace=120}That remark she made before is still stuck in my head."
 
 n "“Emi's the most Emi when she runs.\""
 
@@ -3445,11 +3445,11 @@ play music music_one fadein 0.5
 
 no "To see a world in a grain of sand"
 
-extend "\nAnd a heaven in a wild flower,"
+extend " {vspace=30}And a heaven in a wild flower,"
 
 no "Hold infinity in the palm of your hand"
 
-extend "\nAnd eternity in an hour."
+extend " {vspace=30}And eternity in an hour."
 
 
 
@@ -3961,7 +3961,7 @@ nvl show dissolve
 
 stop ambient fadeout 2.0
 
-n "\n\n\n\nI haven't thought much about girls since things fell apart with Iwanako."
+n " {vspace=120}I haven't thought much about girls since things fell apart with Iwanako."
 
 n "This is kind of the same situation as then, but to be honest I don't think it really counts for much. Not with Rin."
 
@@ -3975,7 +3975,7 @@ n "She seems to be disinterested in a huge number of things, but something in he
 
 nvl clear
 
-n "\n\n\nIt's not that I want to impress her; I think that truly impressing Rin would take near-superhuman effort just because of how she is. Instead, it's because there is this relentless feeling inside of me that I shouldn't let Rin down."
+n " {vspace=90}It's not that I want to impress her; I think that truly impressing Rin would take near-superhuman effort just because of how she is. Instead, it's because there is this relentless feeling inside of me that I shouldn't let Rin down."
 
 n "It's really weird. I wonder why I started thinking like that. I don't even know what sort of expectations she has about pretty much anything."
 
@@ -4237,7 +4237,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_rain fadein 4.0
 
-n "\n\n\nThe last time I saw Iwanako was terribly awkward; embarrassingly so. She came to my hospital room, peeled me an apple out of courtesy and then we practically sat in silence for half an hour."
+n " {vspace=90}The last time I saw Iwanako was terribly awkward; embarrassingly so. She came to my hospital room, peeled me an apple out of courtesy and then we practically sat in silence for half an hour."
 
 n "She said \"goodbye\" and didn't look me in the eye when she closed the door."
 
@@ -4249,7 +4249,7 @@ n "Iwanako always had this aura of fragility around her, as if she'd shatter int
 
 nvl clear
 
-n "\n\n\n\n\nShe looked so sad that I didn't want to say anything that might upset her, and I never could figure out the right words to say."
+n " {vspace=150}She looked so sad that I didn't want to say anything that might upset her, and I never could figure out the right words to say."
 
 n "I told her that it wasn't her fault, she nodded and I really think she understood that if it hadn't been that, then sooner or later something else would've made my heart give out."
 
@@ -4271,28 +4271,28 @@ window show
 
 window hide
 
-$ written_note("Dear Hisao,\n\nHow are you? I hope you are well and happy at your new school. Everyone here misses you. Almost all of our second-year class got put together in class 3-1 for the final year, so we are pretty comfortable right from the beginning of the year. I'm sure you would've been assigned to this class as well.")
+$ written_note("Dear Hisao,\n \nHow are you? I hope you are well and happy at your new school. Everyone here misses you. Almost all of our second-year class got put together in class 3-1 for the final year, so we are pretty comfortable right from the beginning of the year. I'm sure you would've been assigned to this class as well.")
 
-$ written_note("The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.\n")
+$ written_note("The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.\n ")
 
-$ written_note("I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams.\n\n\n\n\n")
+$ written_note("I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams. {vspace=150} ")
 
-$ written_note("It's so weird to think we are already seniors, isn't it? Time has really flown past. I wonder where it went. The new first-years seem so young and somehow really innocent. I keep wondering if I was like them in my first year. I've been feeling nostalgic like this for the whole first trimester.\n\n\n")
+$ written_note("It's so weird to think we are already seniors, isn't it? Time has really flown past. I wonder where it went. The new first-years seem so young and somehow really innocent. I keep wondering if I was like them in my first year. I've been feeling nostalgic like this for the whole first trimester. {vspace=90} ")
 
 show ev hisao_letter_open:
     "ev hisao_letter_open_2"  with locationchange 
 with None
 $ ksgallery_unlock("ev hisao_letter_open_2")
 
-$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it.\n\n\n\n\n")
+$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it. {vspace=150} ")
 
-$ written_note("The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n")
+$ written_note("The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n ")
 
-$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest.\n\n\n\n")
+$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest. {vspace=120} ")
 
-$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own.\n\n\n\n")
+$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own. {vspace=120} ")
 
-$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n\nSincerely, Iwanako")
+$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n \nSincerely, Iwanako")
 
 window show
 
@@ -4306,17 +4306,17 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nWhy now, after all this time?"
+n " {vspace=60}Why now, after all this time?"
 
 n "Just yesterday I decided that I can't let myself stay like this, that I'd try to get on top of my own life. Reading this letter just reminds me of what could have been."
 
 n "Of course I wish that I didn't have to be here. I'd want to be in the same class with Iwanako again. Maybe we would talk every day now and go on dates."
 
-n "\nMy life didn't go like that."
+n " {vspace=30}My life didn't go like that."
 
 n "I didn't really need to be reminded of this. Iwanako needed to write this letter for her own sake and I'm glad for her that she could, but it would've been better if I hadn't read it."
 
-n "\nOf course, she is right. I thought of the same thing yesterday. I had fallen into a pit of depression and now have to try to climb out."
+n " {vspace=30}Of course, she is right. I thought of the same thing yesterday. I had fallen into a pit of depression and now have to try to climb out."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -4374,7 +4374,7 @@ n "Superficially, everyone is abnormal yet so strikingly normal that it shocked 
 
 n "Now that I've gotten used to it, I begin noticing other kinds of tones in the people surrounding me every day."
 
-n "\nThere is this soft, numb sadness all around me."
+n " {vspace=30}There is this soft, numb sadness all around me."
 
 n "I can see the effort everyone has to make just to get through the day, and how it weighs on their shoulders, like it weighs on mine."
 
@@ -4388,7 +4388,7 @@ n "I can't decide whether these people are happy, unhappy, or if they've just le
 
 n "I escape from these feelings into the towering piles of books I carry to my room from Yuuko's sanctuary. After realizing that this will just shut me down even more, I start going to the art club's room more often, usually whenever I can."
 
-n "\nRin too seems to spend more time in there than in her own classroom."
+n " {vspace=30}Rin too seems to spend more time in there than in her own classroom."
 
 n "I've often seen her totter towards the door at the very end of our corridor. That wooden door and the room behind it, smelling of paint and paper, seem to mean more to her than the rest of the world combined."
 
@@ -4398,13 +4398,13 @@ n "He seems to dote on her like an uncle upon a favorite niece."
 
 nvl clear
 
-n "\n\n\nThe object of his affection, however, has no favorites. She says she appreciates the teacher a lot for going the extra mile for her sake, but even when she says that, her expression is the same as always."
+n " {vspace=90}The object of his affection, however, has no favorites. She says she appreciates the teacher a lot for going the extra mile for her sake, but even when she says that, her expression is the same as always."
 
 n "It's as if she was talking about a particularly unremarkable rock that she saw the other day. I can't really figure out their relationship."
 
 n "Rin doesn't seem to let anyone close. I don't think even Emi could say she's crossed the gap that seems to separate Rin from the rest of the world."
 
-n "\n\nI don't understand it. She seems so indifferent, yet so passionate at the same time."
+n " {vspace=60}I don't understand it. She seems so indifferent, yet so passionate at the same time."
 
 play sound sfx_normalbell
 
@@ -4454,7 +4454,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\n\nMost of the time, the art club is very relaxed and free-form. Apart from times when Nomiya gets really excited about some technique or style he wants to teach us about, everyone is free to pursue their own interests."
+n " {vspace=60}Most of the time, the art club is very relaxed and free-form. Apart from times when Nomiya gets really excited about some technique or style he wants to teach us about, everyone is free to pursue their own interests."
 
 n "Lacking one, I keep floating around without a direction. I try this and that, but nothing really leaves me with a deeper impression, not to mention that I don't seem to have a special knack for anything."
 
@@ -4464,7 +4464,7 @@ n "I suppose it's to be expected. I joined the art club mostly on a whim, after 
 
 n "I'm thinking that maybe I should quit the club, if it's going to be this pointless. But there's nothing really wrong with pointlessness and I can't exactly say I'm unhappy."
 
-n "\nUnsatisfied maybe, but I've got only myself to blame for that."
+n " {vspace=30}Unsatisfied maybe, but I've got only myself to blame for that."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -6555,7 +6555,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\n\nThe last time I really paid much attention to the sky was… I guess it must've been at the hospital. I could only see a thin strip of sky from the window of my room. If I walked up to the windows and pressed my face against the cold glass, the strip became bigger, but not by much."
+n " {vspace=60}The last time I really paid much attention to the sky was… I guess it must've been at the hospital. I could only see a thin strip of sky from the window of my room. If I walked up to the windows and pressed my face against the cold glass, the strip became bigger, but not by much."
 
 n "That sky made me feel sad and lonely, a reminder of the world on the other side. I wonder if there's another world beyond the sky we see from up here on the school's roof, as well."
 
@@ -7543,11 +7543,11 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nDid I manage to properly tell her that I want to get better? Did she understand a word of what I was saying?"
+n " {vspace=150}Did I manage to properly tell her that I want to get better? Did she understand a word of what I was saying?"
 
 n "I think about the kiss we shared and what it means. She was so out of her mind, maybe it means nothing. But we've been getting closer lately. What does that mean?"
 
-n "\n\n\nI think about Rin more and more nowadays. I wonder if she thinks about me."
+n " {vspace=150}I think about Rin more and more nowadays. I wonder if she thinks about me."
 
 $ renpy.music.set_volume(1.0, 4.0, channel="music")
 play sound sfx_normalbell

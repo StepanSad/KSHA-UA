@@ -259,7 +259,7 @@ nvl show dissolve
 
 play music music_night fadein 1.0
 
-n "\n\n\n\n\n\n\n\n\nAl siguiente día, todas las oportunidades perdidas y cosas que debería de haber dicho me caen encima. No resta nada por hacer después de ello, además de lamentarse."
+n " {vspace=270}Al siguiente día, todas las oportunidades perdidas y cosas que debería de haber dicho me caen encima. No resta nada por hacer después de ello, además de lamentarse."
 
 nvl clear
 nvl hide dissolve
@@ -268,7 +268,7 @@ with shorttimeskip
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\n\nSegundo día. Empiezo a sentirme con ansias. Comienzo a dudar de mis dudas y se siente estúpido, especialmente porque no puedo pensar en nada más que en Rin."
+n " {vspace=270}Segundo día. Empiezo a sentirme con ansias. Comienzo a dudar de mis dudas y se siente estúpido, especialmente porque no puedo pensar en nada más que en Rin."
 
 nvl clear
 nvl hide dissolve
@@ -277,7 +277,7 @@ with shorttimeskip
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\n\nTercer día, examen de japonés, {b}y{/b} examen de Historia Universal. Genial. Lo que más odio de ella es que puede hacerme sentir así de horrible aunque debiera de concentrarme en cosas completamente diferentes en este momento."
+n " {vspace=270}Tercer día, examen de japonés, {b}y{/b} examen de Historia Universal. Genial. Lo que más odio de ella es que puede hacerme sentir así de horrible aunque debiera de concentrarme en cosas completamente diferentes en este momento."
 
 nvl clear
 nvl hide dissolve
@@ -286,7 +286,7 @@ with shorttimeskip
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\n\nCuarto día. Examen de Matemáticas. Tenemos un examen de Matemáticas. Va como va. No me importa."
+n " {vspace=270}Cuarto día. Examen de Matemáticas. Tenemos un examen de Matemáticas. Va como va. No me importa."
 
 nvl clear
 nvl hide dissolve
@@ -296,7 +296,7 @@ with shorttimeskip
 nvl show dissolve
 
 
-n "\n\n\n\n\n\n\n\n\nQuinto día. Nomiya me pregunta de nuevo si asistiré a la apertura de la exhibición. No puedo decirle que no aunque realmente quiera hacerlo. Simplemente no quiero discutir con él nada relacionado con Rin así que es mejor tomar el camino menos difícil."
+n " {vspace=270}Quinto día. Nomiya me pregunta de nuevo si asistiré a la apertura de la exhibición. No puedo decirle que no aunque realmente quiera hacerlo. Simplemente no quiero discutir con él nada relacionado con Rin así que es mejor tomar el camino menos difícil."
 
 nvl clear
 nvl hide dissolve
@@ -702,25 +702,25 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nDespués de descargar sobre Rin todo el enojo que tenía reprimido, se sintió como si un gran peso se hubiese levantado de mi corazón."
+n " {vspace=60}Después de descargar sobre Rin todo el enojo que tenía reprimido, se sintió como si un gran peso se hubiese levantado de mi corazón."
 
 n "La tensión que se había aferrado a mi mente durante las semanas anteriores se desvaneció sin dejar siquiera una sombra detrás."
 
 n "En este estado cercano a la iluminación Zen me percato de que tal vez fue una mala idea gritarle de esa manera."
 
-n "\nHablaba muy en serio pero, ¿qué bien hace explotar así? Ninguno."
+n " {vspace=30}Hablaba muy en serio pero, ¿qué bien hace explotar así? Ninguno."
 
 n "Yo no soy así. Yo no le grito a la gente normalmente. No sé por qué lo hice ayer."
 
 n "Así que me sigo sintiendo bastante culpable al respecto y sigo queriendo retractarme."
 
-n "\n\nRin probablemente también está molesta. Aun más que mi propio comportamiento, su reacción me conmocionó."
+n " {vspace=60}Rin probablemente también está molesta. Aun más que mi propio comportamiento, su reacción me conmocionó."
 
 nvl clear
 
-n "\nSiempre había pensado en ella como alguien invariable, distante de sus alrededores así que ver que mis gritos la hayan molestado tanto se sintió… fuera de lugar."
+n " {vspace=30}Siempre había pensado en ella como alguien invariable, distante de sus alrededores así que ver que mis gritos la hayan molestado tanto se sintió… fuera de lugar."
 
-n "\n¿Me pregunto si entiende cómo me siento?"
+n " {vspace=30}¿Me pregunto si entiende cómo me siento?"
 
 n "En el mundo de Rin todo parece ser tan absoluto y subjetivo… absolutamente subjetivo, como si ella fuese completamente incapaz de ver las cosas desde un punto de vista diferente al suyo."
 
@@ -730,7 +730,7 @@ n "Justo como el arte es una ilusión para la gente que piensa que la realidad e
 
 n "Aun cuando dejas de pensar que el mundo da vueltas alrededor de ti o comienzas a pensar en algo distinto al mítico común, tan solo estás dentro de otro común más grande del que no puedes escapar."
 
-n "\nTal vez eso, a fin de cuentas, la hace como el resto de nosotros."
+n " {vspace=30}Tal vez eso, a fin de cuentas, la hace como el resto de nosotros."
 
 stop ambient fadeout 1.0
 
@@ -1746,7 +1746,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\nVacaciones, ¿eh?"
+n " {vspace=30}Vacaciones, ¿eh?"
 
 n "Algunos se quedarán en la escuela aun durante las vacaciones, otros volverán con sus familias."
 
@@ -1754,11 +1754,11 @@ n "Yo no sé qué hacer. Debería ir a comprar un boleto de tren para mi viaje a
 
 n "Apuesto a que recibiré una llamada de casa otra vez. Mi mamá me molestará con cuándo voy a volver, y no voy a saber qué responder."
 
-n "\nEsto realmente apesta. En el estado actual del asunto con Rin, se siente como si simplemente no me pueda largar de aquí y pretender que terminamos."
+n " {vspace=30}Esto realmente apesta. En el estado actual del asunto con Rin, se siente como si simplemente no me pueda largar de aquí y pretender que terminamos."
 
-n "\nY ahora, ella tiene otros problemas suyos. Pensé que la apertura de la exhibición le daría un descanso, pero estaba muy equivocado."
+n " {vspace=30}Y ahora, ella tiene otros problemas suyos. Pensé que la apertura de la exhibición le daría un descanso, pero estaba muy equivocado."
 
-n "\n\nEl enredo tan solo parece hacerse más grande."
+n " {vspace=60}El enredo tan solo parece hacerse más grande."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2061,17 +2061,17 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nVacaciones, ¿eh?"
+n " {vspace=60}Vacaciones, ¿eh?"
 
 n "Algunos se quedarán en la escuela aun durante las vacaciones, otros volverán con sus familias."
 
 n "Probablemente debería de hacer el viaje de regreso a casa y reportarle a mis padres que estoy vivo y sano."
 
-n "\nNo hay mucho que hacer en la escuela de todos modos, supongo."
+n " {vspace=30}No hay mucho que hacer en la escuela de todos modos, supongo."
 
 n "El siguiente trimestre será estresante. Todos tendrán que pensar seriamente en qué hacer después de graduarse."
 
-n "\n\nIncluyéndome a mí…"
+n " {vspace=60}Incluyéndome a mí…"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2091,13 +2091,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nTal vez porque no me propuse dibujar algo en particular."
+n " {vspace=90}Tal vez porque no me propuse dibujar algo en particular."
 
 n "Tan solo quería matar un poco de tiempo, así que el dibujo se convirtió en exactamente lo que soy."
 
 n "Sin una dirección adónde ir."
 
-n "\n\nSería más fácil si tuviera algún talento especial, como Rin."
+n " {vspace=60}Sería más fácil si tuviera algún talento especial, como Rin."
 
 n "Lo tiene fácil."
 
@@ -2224,7 +2224,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nDesde que vine aquí, siempre me he preguntado algo."
+n " {vspace=60}Desde que vine aquí, siempre me he preguntado algo."
 
 n "¿Qué piensan los estudiantes en sillas de ruedas sobre esta tradición, siendo incapaces de seguirla \"apropiadamente\"?"
 
@@ -2238,7 +2238,7 @@ n "Eso es lo que me gusta de esta escuela. Nadie es demasiado estirado sobre alg
 
 stop music fadeout 4.0
 
-n "\n\nDesearía que el mundo entero fuera así."
+n " {vspace=60}Desearía que el mundo entero fuera así."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2266,7 +2266,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\nMe siento inquieto."
+n " {vspace=30}Me siento inquieto."
 
 n "Son las vacaciones de verano."
 
@@ -2349,29 +2349,29 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 nvl clear
 nvl show dissolve
 
-n "\n\nTengo que hablar a fondo con Rin."
+n " {vspace=60}Tengo que hablar a fondo con Rin."
 
 n "Ella en verdad me molesta."
 
-n "\n\nDesafiando el equivalente conceptual de la gravedad, ella se balancea sobre la delgada línea que zigzaguea entre la locura, lo incomprensible y la inestabilidad."
+n " {vspace=60}Desafiando el equivalente conceptual de la gravedad, ella se balancea sobre la delgada línea que zigzaguea entre la locura, lo incomprensible y la inestabilidad."
 
 n "Rin me afecta también. Me reta en maneras que yo no sabía… o más correctamente, no esperaba que existieran."
 
-n "\n\nHe comenzado a preguntarme si estos sentimientos son realmente amor, o si estaba engañándome a mí mismo."
+n " {vspace=60}He comenzado a preguntarme si estos sentimientos son realmente amor, o si estaba engañándome a mí mismo."
 
 n "Seguramente, ¿sería una locura considerar eso?"
 
 nvl clear
 
-n "\n\nPor el resto del día, Rin, el hospital, Yamaku y las vacaciones se arremolinan por mi cabeza."
+n " {vspace=60}Por el resto del día, Rin, el hospital, Yamaku y las vacaciones se arremolinan por mi cabeza."
 
-n "\nNo puedo concentrarme ni en concentrarme."
+n " {vspace=30}No puedo concentrarme ni en concentrarme."
 
-n "\nLos pensamientos parecen ir y venir sin orden ni concierto, fragmentados en pedazos de cognición demasiado pequeños."
+n " {vspace=30}Los pensamientos parecen ir y venir sin orden ni concierto, fragmentados en pedazos de cognición demasiado pequeños."
 
-n "\nLevanto el libro y logro leer cien páginas, pero estoy seguro de que para mañana no tendré memoria de qué sucedió en la historia."
+n " {vspace=30}Levanto el libro y logro leer cien páginas, pero estoy seguro de que para mañana no tendré memoria de qué sucedió en la historia."
 
-n "\nTrato de limpiar mi cuarto, pero incluso eso resulta ser demasiado molesto, consumiendo demasiado tiempo y requiriendo demasiada atención al detalle."
+n " {vspace=30}Trato de limpiar mi cuarto, pero incluso eso resulta ser demasiado molesto, consumiendo demasiado tiempo y requiriendo demasiada atención al detalle."
 
 n "Usualmente es así. Cuando no tienes \"nada que hacer\", no haces nada incluso si pudieras."
 
@@ -2410,19 +2410,19 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 nvl show dissolve
 
-n "\n\nQuizás vaya mañana al centro de todos modos. Podría hacer un poco de compras o algo así."
+n " {vspace=60}Quizás vaya mañana al centro de todos modos. Podría hacer un poco de compras o algo así."
 
 n "No es que necesite algo, pero tal vez haya ventas de verano, y podría conseguir… algo."
 
 stop music fadeout 10.0
 
-n "\n\n…¿Por qué estoy tratando de forzarme a mí mismo?"
+n " {vspace=60}…¿Por qué estoy tratando de forzarme a mí mismo?"
 
 n "Antes, estaba conforme sin tener nada que hacer, aparte de patear la pelota de vez en cuando en el campo."
 
 n "Ahora parece que no puedo calmarme en absoluto."
 
-n "\n¿Acaso es porque he cambiado, o porque mi mundo ha cambiado?"
+n " {vspace=30}¿Acaso es porque he cambiado, o porque mi mundo ha cambiado?"
 
 nvl hide dissolve
 nvl clear
@@ -2475,7 +2475,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\n\nQuiero ver a Rin."
+n " {vspace=270}Quiero ver a Rin."
 
 n "No puedo dejar que mi explosión de enojo sea lo último entre nosotros antes de las vacaciones."
 
@@ -2487,7 +2487,7 @@ with locationskip
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\nTengo que verla, mañana."
+n " {vspace=240}Tengo que verla, mañana."
 
 n "El sueño vence mi mente confundida con más facilidad de la que debería."
 
@@ -2932,11 +2932,12 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\nElla es demasiado indecisa aun si lo está haciendo bien. Como ese \"mareo\" de la noche anterior."
+n " {vspace=30}Ella es demasiado indecisa aun si lo está haciendo bien. Como ese \"mareo\" de la noche anterior."
+
 
 n "Simplemente le entró pánico o algo así, y no hice nada para ayudarla."
 
-n "\nSuspiro."
+n " {vspace=30}Suspiro."
 
 n "Se siente como si la brecha entre Rin y yo solo se estuviese ensanchando."
 
@@ -3344,9 +3345,9 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 nvl clear
 nvl show dissolve
 
-n "\n\n\nNo tiene punto."
+n " {vspace=90}No tiene punto."
 
-n "\n¿Qué es lo que ella quería lograr? Lo que dijo en la noche de la apertura me hizo sentir que había algo… algo especial que ella quería."
+n " {vspace=30}¿Qué es lo que ella quería lograr? Lo que dijo en la noche de la apertura me hizo sentir que había algo… algo especial que ella quería."
 
 n "Para mí se sintió que Rin aspiraba hacia algo inalcanzable."
 
@@ -3354,15 +3355,15 @@ n "Se fijó la meta demasiado alta y dentro de su propia cabeza ella fracasó, s
 
 n "Es entendible carecer de realismo; a la mayoría de la gente le pasa, aun si no es en el nivel extremo al que Rin lo lleva."
 
-n "\nPero no es razón para vivir en tu propio mundo privado que no acepta visitantes."
+n " {vspace=30}Pero no es razón para vivir en tu propio mundo privado que no acepta visitantes."
 
 nvl clear
 
-n "\n\n\nNo puedes doblar el mundo para que sea acorde a tu cosmología retorcida y megalómana donde todo funciona justo como tú quieres."
+n " {vspace=90}No puedes doblar el mundo para que sea acorde a tu cosmología retorcida y megalómana donde todo funciona justo como tú quieres."
 
-n "\nEso es lo que más me frustra de Rin."
+n " {vspace=30}Eso es lo que más me frustra de Rin."
 
-n "\nElla quiere que el mundo viva bajo sus reglas, descartando todo lo que entre en conflicto con aquellas como irrelevante o innecesario."
+n " {vspace=30}Ella quiere que el mundo viva bajo sus reglas, descartando todo lo que entre en conflicto con aquellas como irrelevante o innecesario."
 
 n "No puedo creer que alguien en Yamaku podría no tener la más mínima percepción para entender que el mundo puede algunas veces ser muy injusto."
 
@@ -4126,7 +4127,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\nNo quiero sentirme así."
+n " {vspace=30}No quiero sentirme así."
 
 n "Mirar a Rin me hace sentir… exhausto. En verdad hice mi mejor esfuerzo, ella trató de… no tengo idea."
 
@@ -4722,17 +4723,17 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nHacer llorar a una chica es lo más despreciable que puede hacerse."
+n " {vspace=120}Hacer llorar a una chica es lo más despreciable que puede hacerse."
 
-n "\nIncluso a Rin. Especialmente a Rin."
+n " {vspace=30}Incluso a Rin. Especialmente a Rin."
 
-n "\nDetrás de ese velo de indiferencia, Rin es solo un ser humano, también."
+n " {vspace=30}Detrás de ese velo de indiferencia, Rin es solo un ser humano, también."
 
 n "Igual de confundido, asustado y perdido como el resto de nosotros."
 
 n "La mayor parte del tiempo parece que no hay razón ni propósito de lo que Rin hace y dice, pero por única vez, creo que realmente entiendo cómo se siente ella."
 
-n "\n\nPero ninguna palabra puede expresarlo, y ninguna palabra puede mejorarlo."
+n " {vspace=60}Pero ninguna palabra puede expresarlo, y ninguna palabra puede mejorarlo."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -4746,7 +4747,7 @@ with None
 
 stop music fadeout 5.0
 
-n "\n\n\n\n\nY así nos quedamos sin palabras, esperando en silencio a que sus lágrimas se acaben."
+n " {vspace=150}Y así nos quedamos sin palabras, esperando en silencio a que sus lágrimas se acaben."
 
 n "El tiempo pasa agonizantemente lento, incluso las letárgicas motas de polvo flotando en el aire parecen detenerse por completo."
 
@@ -4754,7 +4755,7 @@ n "El obligatorio reloj de pared hace tic-tac distractoramente sobre la puerta."
 
 n "Decido no contar los segundos, porque los haría sentir más largos."
 
-n "\n\n…"
+n " {vspace=60}…"
 
 play music music_serene fadein 9.0
 
@@ -4793,7 +4794,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nLa idea de que probablemente nunca seamos realmente capaces de convertirnos en lo que queremos ser para el otro se cristaliza en mi mente como una iluminación tan dura como diamante."
+n " {vspace=60}La idea de que probablemente nunca seamos realmente capaces de convertirnos en lo que queremos ser para el otro se cristaliza en mi mente como una iluminación tan dura como diamante."
 
 n "Una punzada atraviesa mi corazón como un choque eléctrico."
 
@@ -4813,7 +4814,7 @@ n "Mis pensamientos se tranquilizan pronto, la tristeza se dispersa hasta que to
 
 nvl clear
 
-n "\n\n¿Cuándo fue que me enamoré de ella?"
+n " {vspace=60}¿Cuándo fue que me enamoré de ella?"
 
 n "No puedo recordarlo, pero estoy seguro de que fue mucho antes de sentir el cálido toque de sus labios sobre los míos, en la tarde color naranja cuando ella estaba enferma de gripe y yo fui a verla por razones poco claras."
 
@@ -4829,7 +4830,7 @@ n "Tal vez es por eso que me aferré con tanta fuerza de Rin, tratando de entrar
 
 nvl clear
 
-n "\n\nAntes de que me diera cuenta de ello, esa fuerza irresistible me había jalado peligrosamente cerca de ella, pero resultó ser demasiado ajeno a mí."
+n " {vspace=60}Antes de que me diera cuenta de ello, esa fuerza irresistible me había jalado peligrosamente cerca de ella, pero resultó ser demasiado ajeno a mí."
 
 n "Y me había olvidado de Newton, de entre todas las cosas."
 
@@ -4841,9 +4842,9 @@ n "Je."
 
 n "Aunque los sentimientos no son gobernados por las constantes universales, no puedo evitar pensar que por algún tiempo ya he sido un satélite del planeta intensamente brillante de Rin."
 
-n "\nPlaneta Rin."
+n " {vspace=30}Planeta Rin."
 
-n "\nEl pensamiento casi me hace reír, ella en verdad parece ser de otro planeta algunas veces, menos la piel verde y posiblemente algunos tentáculos."
+n " {vspace=30}El pensamiento casi me hace reír, ella en verdad parece ser de otro planeta algunas veces, menos la piel verde y posiblemente algunos tentáculos."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -5210,7 +5211,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\nEso es lo último que nos decimos el uno al otro ese día, aun si habría tanto de qué hablar."
+n " {vspace=240}Eso es lo último que nos decimos el uno al otro ese día, aun si habría tanto de qué hablar."
 
 n "E incluso esas palabras se ahogan en el silencio que lo abarca todo, desapareciendo en el aire enrarecido como si nunca hubiesen sido dichas."
 
@@ -5554,7 +5555,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\nAlgo está roto, puedo sentirlo dentro de mí y dentro de Rin; en el modo en que nuestras miradas apenas se rozan entre ellas, rehuyendo del contacto; en su postura cerrada y tímida y en mi modo de tocarla como si fuese una muñeca de porcelana, asustado de romper su delicada forma."
+n " {vspace=30}Algo está roto, puedo sentirlo dentro de mí y dentro de Rin; en el modo en que nuestras miradas apenas se rozan entre ellas, rehuyendo del contacto; en su postura cerrada y tímida y en mi modo de tocarla como si fuese una muñeca de porcelana, asustado de romper su delicada forma."
 
 n "En cómo estamos más cerca de lo que hemos estado, y aun así no me siento feliz. Es como ayer."
 
@@ -5878,7 +5879,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nSí, sé que esto no es como debería de ser."
+n " {vspace=60}Sí, sé que esto no es como debería de ser."
 
 n "Aun si Rin está justo aquí, aun si no debería de haber más preguntas, ni obstáculos, ni esta exasperante sensación de que algo está constantemente mal…"
 
@@ -5886,7 +5887,7 @@ n "El mismo sentimiento que aprisionó a mi corazón ayer hace su aparición."
 
 n "Estamos juntos. De una manera que es difícil de definir, elude descripción tan obstinadamente como evade el cambio."
 
-n "\n¿Podría estar bien una relación como esta? ¿Podríamos algún día cambiar para acercarnos más?"
+n " {vspace=30}¿Podría estar bien una relación como esta? ¿Podríamos algún día cambiar para acercarnos más?"
 
 n "Aunque permaneciéramos juntos durante toda la eternidad, podríamos nunca encontrar nuestro entendimiento mutuo."
 
@@ -5896,17 +5897,17 @@ n "Si no son nuestras diferencias, entonces el pasar del tiempo nos apartará co
 
 nvl clear
 
-n "\n\nRin es una criatura del momento, de caprichos e impulsos."
+n " {vspace=60}Rin es una criatura del momento, de caprichos e impulsos."
 
-n "\nYo no soy así para nada."
+n " {vspace=30}Yo no soy así para nada."
 
-n "\nEste es un hecho que puedo entender muy claramente."
+n " {vspace=30}Este es un hecho que puedo entender muy claramente."
 
 n "Si no es por otra razón, por esta misma debería de aferrarme a este momento. Aun si es el único momento que tendremos, no debería permitirme arruinarlo."
 
 n "Aunque no pueda escapar de mí mismo. Rin tampoco puede, ahora lo sé."
 
-n "\nAmbos tenemos cosas que no podemos dejar ir, cosas en las que no podemos no pensar."
+n " {vspace=30}Ambos tenemos cosas que no podemos dejar ir, cosas en las que no podemos no pensar."
 
 n "Sentimientos que no podemos no sentir."
 
@@ -6125,19 +6126,19 @@ play music music_timeskip fadein 4.0
 
 centered_b "Presente{fast}" with Dissolve(4.0)
 
-nb "El \"presente\" es un concepto breve e impreciso en el mejor de los casos.\n"
+nb "El \"presente\" es un concepto breve e impreciso en el mejor de los casos. {vspace=30} "
 
-extend "¿El momento entre el pasado y el futuro?\n"
+extend "¿El momento entre el pasado y el futuro? {vspace=90} "
 
-extend "Eso en verdad no significa nada.\n"
+extend "Eso en verdad no significa nada. {vspace=90} "
 
-extend "Pensar demasiado en algo que no tiene sentido es una pérdida de tiempo.\n"
+extend "Pensar demasiado en algo que no tiene sentido es una pérdida de tiempo. {vspace=90} "
 
-extend "Es por eso que vivir a través del presente es la mejor opción.\n"
+extend "Es por eso que vivir a través del presente es la mejor opción. {vspace=90} "
 
-extend "Además, para nosotros que no podemos prever el futuro y quienes olvidamos el pasado con demasiada facilidad, el presente es en verdad la única prueba de nuestra existencia.\n"
+extend "Además, para nosotros que no podemos prever el futuro y quienes olvidamos el pasado con demasiada facilidad, el presente es en verdad la única prueba de nuestra existencia. {vspace=90} "
 
-extend "Aunque la existencia seguirá adelante aun si te olvidas de ella por un tiempo, es bueno aprovechar el día por lo menos una vez cada tanto.\n"
+extend "Aunque la existencia seguirá adelante aun si te olvidas de ella por un tiempo, es bueno aprovechar el día por lo menos una vez cada tanto. {vspace=90} "
 
 
 centered_alive "De ese modo… puedes confirmar que estás, de hecho…"
@@ -6722,7 +6723,7 @@ $ renpy.music.set_volume(0.5, 1.0, channel="ambient")
 nvl clear
 nvl show dissolve
 
-n "\n\nAunque estoy feliz de que ella pueda decir cosas como esa, me hacen sentir triste después de todo."
+n " {vspace=60}Aunque estoy feliz de que ella pueda decir cosas como esa, me hacen sentir triste después de todo."
 
 n "El entusiasmo de Rin, su pasión, su fuerza. Todas esas cosas tan queridas para mí son las que no quiero cambiar."
 
@@ -6732,7 +6733,7 @@ n "Esa ansiedad nunca disminuirá la presión en mi corazón, pero creo que podr
 
 n "Lentamente, el dolor dentro de mi corazón se apaga, y se asienta en el mismo ritmo que el de Rin."
 
-n "\n\nLo escuchamos por un rato."
+n " {vspace=60}Lo escuchamos por un rato."
 
 n "…"
 
@@ -6919,7 +6920,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n¿Está bien? Sus decisiones siempre parecen ser bastante… únicas."
+n " {vspace=90}¿Está bien? Sus decisiones siempre parecen ser bastante… únicas."
 
 
 n "Bueno, supongo que es una epifanía importante."

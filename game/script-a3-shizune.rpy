@@ -11,13 +11,13 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_normal fadein 3.0
 
-n "\n\nThe following days pass uneventfully and with surprising quickness. I find renewed motivation to learn sign language. It seems that I have a knack for learning sign, so it would be a waste to not do it, and falling behind would be even more unacceptable."
+n " {vspace=60}The following days pass uneventfully and with surprising quickness. I find renewed motivation to learn sign language. It seems that I have a knack for learning sign, so it would be a waste to not do it, and falling behind would be even more unacceptable."
 
 n "Summer break is coming up. Even though I figured that student council work would see a drop-off proportional to how lethargic my classes are becoming, it doesn't happen that way. Every day, I get swamped under increasingly meaningless work."
 
 n "Despite how much I want to, I don't have even a free second to talk to Shizune nowadays. Every time I look at her, her face is buried in some book of records or some stack of papers that need to be checked over in triplicate."
 
-n "\n\nToday, I woke up early to come to school before everyone else, hoping to catch Shizune. She has a habit of coming in first thing in the morning, to be more punctual than all the other students. Unfortunately, I think I am earlier than her."
+n " {vspace=60}Today, I woke up early to come to school before everyone else, hoping to catch Shizune. She has a habit of coming in first thing in the morning, to be more punctual than all the other students. Unfortunately, I think I am earlier than her."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3506,11 +3506,11 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 window hide
 
-$ written_note("Dear Hisao,\n\nHow are you? I hope you are well and happy at your new school. Everyone here misses you. Almost all of our second-year class got put together in class 3-1 for the final year, so we are pretty comfortable right from the beginning of the year. I'm sure you would've been assigned to this class as well.")
+$ written_note("Dear Hisao,\n \nHow are you? I hope you are well and happy at your new school. Everyone here misses you. Almost all of our second-year class got put together in class 3-1 for the final year, so we are pretty comfortable right from the beginning of the year. I'm sure you would've been assigned to this class as well.")
 
-$ written_note("The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.\n")
+$ written_note("The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.\n ")
 
-$ written_note("I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams.\n\n\n\n\n")
+$ written_note("I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams. {vspace=150} ")
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3522,18 +3522,18 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 window hide
 
-$ written_note("It's so weird to think we are already seniors, isn't it? Time has really flown past. I wonder where it went. The new first-years seem so young and somehow really innocent. I keep wondering if I was like them in my first year. I've been feeling nostalgic like this for the whole first trimester.\n\n\n")
+$ written_note("It's so weird to think we are already seniors, isn't it? Time has really flown past. I wonder where it went. The new first-years seem so young and somehow really innocent. I keep wondering if I was like them in my first year. I've been feeling nostalgic like this for the whole first trimester. {vspace=90} ")
 
 show ev hisao_letter_open:
     "ev hisao_letter_open_2"  with locationchange 
 with None
 $ ksgallery_unlock("ev hisao_letter_open_2")
 
-$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it.\n\n\n\n\n")
+$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it. {vspace=150} ")
 
-$ written_note("The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n")
+$ written_note("The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n ")
 
-$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest.\n\n\n\n")
+$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest. {vspace=120} ")
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3549,9 +3549,9 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 window hide
 
-$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own.\n\n\n\n")
+$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own. {vspace=120} ")
 
-$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n\nSincerely, Iwanako")
+$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n \nSincerely, Iwanako")
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3893,13 +3893,13 @@ play music music_pearly
 nvl clear
 nvl show dissolve
 
-n "\n\n\nFor the first few days after I was back, I almost forgot that I was in the Student Council. I managed to pick up here and there that the Student Council usually gets swamped with work around the end of the break, but it didn't have to be the case."
+n " {vspace=90}For the first few days after I was back, I almost forgot that I was in the Student Council. I managed to pick up here and there that the Student Council usually gets swamped with work around the end of the break, but it didn't have to be the case."
 
 n "The few times when I managed to catch Shizune or Misha, they were in too much of a hurry for me to get a chance to ask if they needed help. Anytime they weren't, I'd only be able to get ahold of Misha."
 
-n "\nShizune would say something about how there was work, but it was so little that involving either Misha or I would only bore us."
+n " {vspace=30}Shizune would say something about how there was work, but it was so little that involving either Misha or I would only bore us."
 
-n "\n\nAfter awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
+n " {vspace=60}After awhile, the idea of having some free time again had started to grow on me, though there were still periods when I felt like I had too much of it."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 

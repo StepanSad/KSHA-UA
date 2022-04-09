@@ -757,7 +757,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nRin applies for, and - thanks to Nomiya pressuring the principal, I'm sure - is granted leave for the rest of the term for \"exceptional extracurricular activities.\" She has to make up for it during summer vacation, but it seems she doesn't mind."
+n " {vspace=120}Rin applies for, and - thanks to Nomiya pressuring the principal, I'm sure - is granted leave for the rest of the term for \"exceptional extracurricular activities.\" She has to make up for it during summer vacation, but it seems she doesn't mind."
 
 n "Rin will still be able to eat and sleep at school, of course; she just doesn't have to go to classes. I'm not entirely sure if I envy her or not."
 
@@ -1406,7 +1406,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nSo in the end, even the person closest to Rin is just as far apart from her as everyone else."
+n " {vspace=120}So in the end, even the person closest to Rin is just as far apart from her as everyone else."
 
 n "I wonder if Rin herself ever feels that distance."
 
@@ -1414,7 +1414,7 @@ n "I've felt like I was drifting away from the world too, during my hospitalizat
 
 n "If Rin has been on that side of the divide for her whole life, I can't imagine how she could not be lonely, but perhaps she's truly different."
 
-n "\nI refuse to belong to that other place, but maybe she's found comfort there."
+n " {vspace=30}I refuse to belong to that other place, but maybe she's found comfort there."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 
@@ -2062,7 +2062,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nRarely does she ever seem to be looking at me, whether literally or figuratively."
+n " {vspace=150}Rarely does she ever seem to be looking at me, whether literally or figuratively."
 
 n "I, on the other hand, am always watching her back, both literally and figuratively."
 
@@ -2083,7 +2083,7 @@ show black:
     linear 16.0  alpha 1.0 
 with None
 
-n "\n\n\n\n\nWhat do I think of her?"
+n " {vspace=150}What do I think of her?"
 
 n "Sometimes she's aloof and distant, and it annoys me. At other times her passion for the things she thinks worthwhile shines through, and it inspires me."
 
@@ -2097,7 +2097,7 @@ n "I have to admit, there is a lot of putting up with Rin."
 
 nvl clear
 
-n "\n\n\n\n\nWhat does she think of me?"
+n " {vspace=150}What does she think of me?"
 
 n "I have no idea. Last week, I thought she might have liked me romantically, what with the kiss and all."
 
@@ -2113,7 +2113,7 @@ n "It must be contagious."
 
 nvl clear
 
-n "\n\n\n\n\n\n\n\nEven if I said a thing like that, would it matter?"
+n " {vspace=240}Even if I said a thing like that, would it matter?"
 
 n "Nothing affects Rin."
 
@@ -2425,7 +2425,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\nLife settles into some sort of vague, undefined norm. I visit Rin whenever I can, but each time is as strange as the first."
+n " {vspace=30}Life settles into some sort of vague, undefined norm. I visit Rin whenever I can, but each time is as strange as the first."
 
 n "They consist mainly of me watching Rin at work, or just reading a book on the couch while she works. We barely talk at all."
 
@@ -2441,7 +2441,7 @@ n "My heart aches every time I look at the awkward figure of the girl I decided 
 
 nvl clear
 
-n "\nI still can't seem to find the right words to talk to her about anything at all, but I find quiet solace in observing her from nearby. The distance between us doesn't feel that huge when I can be close to her, even if it's like this."
+n " {vspace=30}I still can't seem to find the right words to talk to her about anything at all, but I find quiet solace in observing her from nearby. The distance between us doesn't feel that huge when I can be close to her, even if it's like this."
 
 n "Rin works like a demon. There is barely a moment when she's without a brush between her toes, or not walking in circles around her current work in progress, estimating it from every angle and distance."
 
@@ -2449,13 +2449,13 @@ n "She seems to be completely taken over by her will to work, to change herself 
 
 n "Piles of sketches, works in progress, tubes of oil paint and brushes slowly begin to crowd the small atelier, making it even messier than it was before Rin acquired the right to use it."
 
-n "\nI offer to help her clean up every now and then, but each time she refuses."
+n " {vspace=30}I offer to help her clean up every now and then, but each time she refuses."
 
-n "\nIt dawns on me that in her mind, the room is not in utter chaos; rather, her system of keeping track of everything is so elaborate only Rin herself can make sense of it."
+n " {vspace=30}It dawns on me that in her mind, the room is not in utter chaos; rather, her system of keeping track of everything is so elaborate only Rin herself can make sense of it."
 
 nvl clear
 
-n "\nShe knows exactly where everything is, from the tiniest brush to that half-empty tube of crimson that's the perfect shade for some picture in progress."
+n " {vspace=30}She knows exactly where everything is, from the tiniest brush to that half-empty tube of crimson that's the perfect shade for some picture in progress."
 
 n "Rin walks from one painting to another, looking at them as if not remembering that she made them. She talks to herself - or to the paintings - even when I'm present, always just quietly enough that I can't make out the words."
 
@@ -2469,13 +2469,13 @@ n "Sometimes Sae comes by when I'm there. She gives me a certain kind of look wh
 
 nvl clear
 
-n "\nShe isn't quite as full of praise for Rin's work as Nomiya, but is visibly impressed nevertheless."
+n " {vspace=30}She isn't quite as full of praise for Rin's work as Nomiya, but is visibly impressed nevertheless."
 
 n "However, when she turns her eyes from the wonderful works of art to look upon the little redheaded girl that made them, a sudden, deep sadness floats onto the surface of her expression."
 
 stop music fadeout 4.0
 
-n "\n\n\n\n\n\n\n\n\n\n\nI can't explain it, and she never talks about it."
+n " {vspace=330}I can't explain it, and she never talks about it."
 
 nvl clear
 nvl hide dissolve
@@ -3421,7 +3421,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nThe city I grew up in, bathed in the electric glow of a million light bulbs, never slept."
+n " {vspace=120}The city I grew up in, bathed in the electric glow of a million light bulbs, never slept."
 
 n "I have seen it for myself. It's not the first time I've done this."
 
@@ -3435,17 +3435,17 @@ n "Even afterward, I couldn't say what made me stay downtown longer than I inten
 
 nvl clear
 
-n "\n\n\nI didn't feel like going home, so I stayed through the evening and eventually through the entire night."
+n " {vspace=90}I didn't feel like going home, so I stayed through the evening and eventually through the entire night."
 
 n "I walked long concentric circles around a landmark chosen at random."
 
 n "For some reason, the nighttime city felt fascinating."
 
-n "\nSo I walked its streets."
+n " {vspace=30}So I walked its streets."
 
 n "At every intersection it was possible to choose your direction at random because they all lead nowhere."
 
-n "\nThe aimless wandering made me see things differently. I hope it'll do the same for Rin."
+n " {vspace=30}The aimless wandering made me see things differently. I hope it'll do the same for Rin."
 
 nvl clear
 nvl hide dissolve
@@ -3819,7 +3819,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\nI hold true to my promise of honoring Rin's request, even if it's against my own will."
+n " {vspace=30}I hold true to my promise of honoring Rin's request, even if it's against my own will."
 
 n "I try to redirect my focus into my studies, but end up zoning out during classes and doing only the minimum amount of work required."
 
@@ -4771,7 +4771,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nI push Rin over the edge."
+n " {vspace=150}I push Rin over the edge."
 
 n "Her entire body contracts around my fingers in a blinding, deafening, paralyzing spasm. Her voice is incredible."
 
@@ -5365,13 +5365,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nI never believed we would end up like this. I'm not like this. Rin is not like this."
+n " {vspace=60}I never believed we would end up like this. I'm not like this. Rin is not like this."
 
 n "No matter how infuriating, unbearable and outrageous Rin is, this is not like her."
 
-n "\nShe really did change. Or was it me who changed?"
+n " {vspace=30}She really did change. Or was it me who changed?"
 
-n "\nMaybe I only thought I knew her, or maybe I knew the Rin that she isn't, or was it me who caused all this by talking Rin into taking her chances with the exhibition?"
+n " {vspace=30}Maybe I only thought I knew her, or maybe I knew the Rin that she isn't, or was it me who caused all this by talking Rin into taking her chances with the exhibition?"
 
 n "Am I directly responsible for Rin becoming like she has been for the past few weeks?"
 

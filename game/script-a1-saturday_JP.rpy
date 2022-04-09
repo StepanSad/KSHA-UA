@@ -4171,7 +4171,7 @@ with charaenter
 
 window hide
 
-$ written_note("そっちが負けたら、あした\n私たちに付き合うこと\n")
+$ written_note("そっちが負けたら、あした\n私たちに付き合うこと\n ")
 
 window show
 
@@ -4204,7 +4204,7 @@ with charaexit
 
 window hide
 
-$ written_note("ここから学校に帰る道はわからないでしょ。\n\n戻ったら頼みたい仕事があるから。また後でね～")
+$ written_note("ここから学校に帰る道はわからないでしょ。\n \n戻ったら頼みたい仕事があるから。また後でね～")
 
 window show
 

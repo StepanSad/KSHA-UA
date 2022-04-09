@@ -222,7 +222,7 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 nvl show dissolve
 
 
-n "\n\n\nÀ Yamaku, tout le monde est \"spécial\" ce qui annule la \"spécificité\" de tous."
+n " {vspace=90}À Yamaku, tout le monde est \"spécial\" ce qui annule la \"spécificité\" de tous."
 
 
 n "Mais une fois qu'on s'aventure en dehors de l'école, nous retournons à notre statut de \"spéciaux\"."
@@ -234,7 +234,7 @@ n "Surtout quand on porte notre uniforme. C'est comme tenir une pancarte autour 
 n "Je suis surpris qu'il y ait autant d'étudiants qui le gardent. Ceci dit, avec les cannes et les fauteuils roulants qui sont communs chez les étudiants, j'imagine que ça ne change pas grand-chose."
 
 
-n "\nOu peut-être que je suis le seul qui voit ça comme un stigmate ? Peut-être qu'on s'y habitue après un moment, comme avec n'importe quel autre uniforme."
+n " {vspace=30}Ou peut-être que je suis le seul qui voit ça comme un stigmate ? Peut-être qu'on s'y habitue après un moment, comme avec n'importe quel autre uniforme."
 
 nvl hide dissolve
 
@@ -1590,7 +1590,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nEncore une fois, rien dans cette ville ne semble normal, ce qui, en y repensant, n'est peut-être pas si mal."
+n " {vspace=60}Encore une fois, rien dans cette ville ne semble normal, ce qui, en y repensant, n'est peut-être pas si mal."
 
 
 n "Tout est si différent et incommode, s'attarder sur tout ça n'est pas vraiment une option."
@@ -1611,7 +1611,7 @@ n "Pas que je n'ai pas mes propre cicatrices. La ligne le long de mon sternum ne
 n "J'ai juste le luxe de pouvoir la cacher facilement."
 
 
-n "\nMais d'une certaine façon, nos cicatrices nous rappellent qu'on est ici pour une raison."
+n " {vspace=30}Mais d'une certaine façon, nos cicatrices nous rappellent qu'on est ici pour une raison."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -4429,7 +4429,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nÇa me fait penser à ce qu'a dit Lilly au petit déjeuner."
+n " {vspace=120}Ça me fait penser à ce qu'a dit Lilly au petit déjeuner."
 
 
 n "Pourquoi je suis ami avec Hanako ?"
@@ -4444,7 +4444,7 @@ n "Pour autant que je sache, ses cicatrices ne la limitent pas physiquement, et 
 n "Je n'ai pas de motivation cachée pour être avec Hanako, on a juste des intérêts communs."
 
 
-n "\nCe n'est pas suffisant ?"
+n " {vspace=30}Ce n'est pas suffisant ?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 nvl clear
@@ -5508,7 +5508,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nQuand j'étais à l’hôpital, j'ai été dans le service des grands brûlés une fois, juste une fois. Je m'ennuyais et je me suis baladé dans tous les services."
+n " {vspace=60}Quand j'étais à l’hôpital, j'ai été dans le service des grands brûlés une fois, juste une fois. Je m'ennuyais et je me suis baladé dans tous les services."
 
 
 n "Je suis passé par l'oncologie et j'ai pensé que je pouvais le supporter, mais quand je suis arrivé chez les grands brûlés, j'ai fait demi-tour et suis retourné dans mon lit."
@@ -5520,7 +5520,7 @@ n "Hanako a dû passer des mois dans un endroit comme celui-là, ne sentant rien
 n "Les cas les plus graves étaient gardés dans des bulles où aucun objet étranger ne pouvait entrer. Ça aurait signifié pas de lecture."
 
 
-n "\nJe serais devenu fou si je n'avais pas pu avoir mes livres à l’hôpital."
+n " {vspace=30}Je serais devenu fou si je n'avais pas pu avoir mes livres à l’hôpital."
 
 
 n "Et elle a dit qu'elle s'était retrouvée seule..."

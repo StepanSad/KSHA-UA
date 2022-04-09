@@ -11,7 +11,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_normal fadein 3.0
 
-n "\n\n\nMy head's in a spin all through Mutou's class."
+n " {vspace=90}My head's in a spin all through Mutou's class."
 
 n "I'm going to have dinner."
 
@@ -27,7 +27,7 @@ n "That kiss. I keep going back to it, playing it over in my mind again and agai
 
 n "Everything about that moment felt so right."
 
-n "\nMy mind drifts off, lost in thoughts of Emi."
+n " {vspace=30}My mind drifts off, lost in thoughts of Emi."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
 
@@ -5506,7 +5506,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\n\nIt's weird how easily Emi and I can keep from seeing one another after class now."
+n " {vspace=60}It's weird how easily Emi and I can keep from seeing one another after class now."
 
 n "Actually, I'd venture to say that it's vaguely disturbing."
 
@@ -5528,7 +5528,7 @@ n "But no matter how much we joke at lunch, I can't help feeling a little worrie
 
 nvl clear
 
-n "\n\nShe seems distracted more often, and I've caught her fidgeting nervously more than once."
+n " {vspace=60}She seems distracted more often, and I've caught her fidgeting nervously more than once."
 
 n "Never figured her to be someone who cared that deeply about exams, but they certainly seem to be taking their toll."
 
@@ -5550,7 +5550,7 @@ n "But going into them, I feel confident that I'll come out the other side okay.
 
 nvl clear
 
-n "\n\n\n\n\n\nMutou thinks I've got the science examination locked up, at any rate."
+n " {vspace=180}Mutou thinks I've got the science examination locked up, at any rate."
 
 n "Or as he says, \"The last thing that should give you trouble is my exam, Hisao. It's way beneath your talents.\""
 
@@ -5582,7 +5582,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nAfter these exams are over, things should get easier."
+n " {vspace=90}After these exams are over, things should get easier."
 
 n "Soon we'll be graduated."
 
@@ -5918,7 +5918,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nOr maybe I should just enjoy what I have."
+n " {vspace=60}Or maybe I should just enjoy what I have."
 
 n "We have fun hanging out, after all."
 
@@ -6205,7 +6205,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nWhat if she gets angry about it?"
+n " {vspace=60}What if she gets angry about it?"
 
 n "Besides, what if it's nothing?"
 
@@ -6723,7 +6723,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nA thousand things I want to say."
+n " {vspace=60}A thousand things I want to say."
 
 n "I'm too mixed up to say any of them, though."
 
@@ -6739,7 +6739,7 @@ n "What scares a girl so badly that she won't accept help, even from someone she
 
 n "I don't know."
 
-n "\nBut I want to know."
+n " {vspace=30}But I want to know."
 
 n "I want to know so badly that being denied that answer feels like a knife in my guts."
 
@@ -6789,13 +6789,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nI can't figure out how to deal with this."
+n " {vspace=60}I can't figure out how to deal with this."
 
 n "I thought that moving forward was a good thing."
 
 n "Dwelling less on a past that I can't change. Living in the present and looking at the future."
 
-n "\n\nAfter this… thing with Emi, I'm not sure any more."
+n " {vspace=60}After this… thing with Emi, I'm not sure any more."
 
 n "She was saying the truth. It's simpler to look at the next curve, ignoring the path gone by."
 
@@ -6815,13 +6815,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nShe's literally running away from something - but have I not been doing the same thing, trying my best to forget about my hospitalization?"
+n " {vspace=150}She's literally running away from something - but have I not been doing the same thing, trying my best to forget about my hospitalization?"
 
 n "I am getting better, but my health isn't going to magically fix itself."
 
-n "\nEmi has two legs instead of a heart to deal with, but those aren't going to magically fix themselves either."
+n " {vspace=30}Emi has two legs instead of a heart to deal with, but those aren't going to magically fix themselves either."
 
-n "\nMaybe this is just as fixed as the both of us can get."
+n " {vspace=30}Maybe this is just as fixed as the both of us can get."
 
 nvl clear
 nvl hide dissolve
@@ -6850,15 +6850,15 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\"I can't rely on you.\""
+n " {vspace=60}\"I can't rely on you.\""
 
-n "\nWords spoken so casually."
+n " {vspace=30}Words spoken so casually."
 
 n "Almost like she were teasing me, or chastising me for suggesting that the Earth is flat."
 
-n "\n\"That's how it's got to be.\""
+n " {vspace=30}\"That's how it's got to be.\""
 
-n "\nThe way it's got to be sucks."
+n " {vspace=30}The way it's got to be sucks."
 
 n "I'm feeling so miserable that I very nearly decide to skip the run."
 
@@ -6868,17 +6868,17 @@ n "Sure, that was the original reason, but it's something more now."
 
 nvl clear
 
-n "\n\n\n\nI've started to enjoy the running itself."
+n " {vspace=120}I've started to enjoy the running itself."
 
 n "There are worse ways to get the blood flowing, anyway."
 
 n "Never thought I'd say it after that first week or so, but—"
 
-n "\nI feel a lot better after a run, like no matter what else I do today, I've at least done that one thing."
+n " {vspace=30}I feel a lot better after a run, like no matter what else I do today, I've at least done that one thing."
 
 n "It wakes me up, too, and Emi herself said that running always clears her mind. Maybe it'll help clear mine."
 
-n "\nI hope so."
+n " {vspace=30}I hope so."
 
 nvl clear
 nvl hide dissolve
@@ -7085,7 +7085,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nEvery time it feels like I've gotten over what happened last night, Emi does something or says something that shows affection, and I'm back to the beginning."
+n " {vspace=120}Every time it feels like I've gotten over what happened last night, Emi does something or says something that shows affection, and I'm back to the beginning."
 
 n "The image of her ending that conversation haunts me."
 
@@ -7474,7 +7474,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\n\n\nI don't think I like riding on buses."
+n " {vspace=90}I don't think I like riding on buses."
 
 n "Actually, I think I'm pretty comfortable saying that as a fact."
 
@@ -7482,7 +7482,7 @@ n "They sway a lot, and they smell funny, and you can feel every bump in the roa
 
 n "I'm really not looking forward to this."
 
-n "\nPlus Emi's legs keep making a clanking noise that draws the attention of everyone else on the bus."
+n " {vspace=30}Plus Emi's legs keep making a clanking noise that draws the attention of everyone else on the bus."
 
 n "She's in shorts again, and she's got long socks drawn up on her prosthetics so they don't look so obviously false again."
 
@@ -7490,13 +7490,13 @@ n "But that doesn't stop the odd look or two every time her legs bump together w
 
 nvl clear
 
-n "\n\n\nI shift nervously in my seat, and Emi raises an eyebrow questioningly."
+n " {vspace=90}I shift nervously in my seat, and Emi raises an eyebrow questioningly."
 
 n "She doesn't seem to mind the stares; either that or she doesn't even notice that people are staring."
 
 n "I'm sure she's gotten her fill of odd looks before. After a certain amount of time, I doubt she'd notice any more."
 
-n "\n\nNot that she'd ever tell me if I asked."
+n " {vspace=60}Not that she'd ever tell me if I asked."
 
 n "Another fact is, I'm not just uncomfortable about the bus."
 
@@ -7508,15 +7508,15 @@ nvl clear
 
 label en_E26a:
 
-n "\n\n\nThe nurse said she trusts me, even if it doesn't look like it."
+n " {vspace=90}The nurse said she trusts me, even if it doesn't look like it."
 
 n "But I'm not sure I can trust the nurse."
 
 n "He's protective of Emi, just like I'm protective of Emi, and I'd be likely to say something to make her look good if someone asked me about her."
 
-n "\nSo he might just be doing that."
+n " {vspace=30}So he might just be doing that."
 
-n "\nStill, there was something about the way he seemed genuinely surprised that Emi invited me along…"
+n " {vspace=30}Still, there was something about the way he seemed genuinely surprised that Emi invited me along…"
 
 n "Maybe last night's talk helped more than I think, but I'm still worried."
 
@@ -7527,7 +7527,7 @@ stop ambient fadeout 12.0
 
 nvl clear
 
-n "\n\n\nMeeting the parents is a big deal, right?"
+n " {vspace=90}Meeting the parents is a big deal, right?"
 
 n "Not that I haven't already met Emi's mother, but that was just as an acquaintance."
 
@@ -7539,7 +7539,7 @@ n "Except then, I didn't know what was going on; I also didn't have medication t
 
 n "I've come a long way in terms of my physical health, and for the second time today I feel like I'll be able to live normally now, or at least as normally as possible."
 
-n "\nNow if only I could manage my relationship as well as I've managed my heart, I'd be in great shape."
+n " {vspace=30}Now if only I could manage my relationship as well as I've managed my heart, I'd be in great shape."
 
 stop ambient fadeout 1.5
 
@@ -8713,9 +8713,9 @@ with locationchange
 
 window hide
 
-$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it.\n\n\n\n\n")
+$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it. {vspace=150} ")
 
-$ written_note("The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n")
+$ written_note("The truth is, the times when I visited you at the hospital made me worried about you. I am not talking about your health. You seemed to become more distant and disheartened. It was natural after something like that happened, I'm sure, but somehow I got the feeling that you had given up on something back then. Happiness, maybe?\n ")
 
 window show
 
@@ -8725,11 +8725,11 @@ window show
 
 window hide
 
-$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest.\n\n\n\n")
+$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest. {vspace=120} ")
 
-$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own.\n\n\n\n")
+$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own. {vspace=120} ")
 
-$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n\nSincerely, Iwanako")
+$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best. \nSincerely, Iwanako")
 
 window show
 
@@ -8741,7 +8741,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nThank you, Iwanako. I wanted to answer \"yes\" to your question on that snowy winter day, but I never got to."
+n " {vspace=90}Thank you, Iwanako. I wanted to answer \"yes\" to your question on that snowy winter day, but I never got to."
 
 n "By the time we met again, it was too late."
 
@@ -8753,7 +8753,7 @@ n "I am who I am because of all that happened to me and all I look forward to ex
 
 stop music fadeout 2.0
 
-n "\n\nAnd the past may just have taught me an important lesson now."
+n " {vspace=60}And the past may just have taught me an important lesson now."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
 
@@ -8789,7 +8789,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nWhat am I going to do? Do I get out of bed, go down to the track, and pretend that nothing happened?"
+n " {vspace=60}What am I going to do? Do I get out of bed, go down to the track, and pretend that nothing happened?"
 
 n "Will Emi even show up? After last evening's events, I doubt it."
 
@@ -8801,7 +8801,7 @@ n "But was anything I said really off the mark? She won't let me in, ever, and s
 
 n "Nothing I do, nothing I say is going to change that. She won't change, and she's already decided to keep me at arm's length."
 
-n "\nCan I really bring myself to go down there and see her, knowing that I'm never going to get past where I am now?"
+n " {vspace=30}Can I really bring myself to go down there and see her, knowing that I'm never going to get past where I am now?"
 
 nvl clear
 nvl hide dissolve

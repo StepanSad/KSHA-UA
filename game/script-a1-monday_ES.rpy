@@ -243,9 +243,9 @@ with None
 
 nvl show Dissolve(0.2)
 
-n "\n\n\n\n\n\n\nEl mundo a mi alrededor —el dosel de ramas desnudas, el pálido cielo de invierno, Iwanako corriendo hacia mí— todo esto se desvanece en la oscuridad."
+n " {vspace=210}El mundo a mi alrededor —el dosel de ramas desnudas, el pálido cielo de invierno, Iwanako corriendo hacia mí— todo esto se desvanece en la oscuridad."
 
-n "\nLo último que recuerdo antes de caer son los sonidos de Iwanako gritando pidiendo ayuda y el traqueteo incesante de las ramas en lo alto…"
+n " {vspace=30}Lo último que recuerdo antes de caer son los sonidos de Iwanako gritando pidiendo ayuda y el traqueteo incesante de las ramas en lo alto…"
 
 nvl hide Dissolve(3.0)
 
@@ -276,7 +276,7 @@ play music music_rain fadein 4.0
 
 nvl show dissolve
 
-n "\n\nEn todo ese tiempo, es probable que pueda contar con una mano las veces que he salido de este cuarto de hospital sin supervisión."
+n " {vspace=60}En todo ese tiempo, es probable que pueda contar con una mano las veces que he salido de este cuarto de hospital sin supervisión."
 
 n "Cuatro meses es un tiempo bastante largo cuando te dejan solo con tus pensamientos. Así que he tenido mucho tiempo para aceptar mi situación."
 
@@ -294,11 +294,11 @@ n "En realidad no hizo nada para levantarme el ánimo."
 
 nvl clear
 
-n "\n\n\n\n\nA mis padres, creo, les afectaron más las noticias que a mí. Ellos prácticamente tuvieron dos hemorragias, cada uno."
+n " {vspace=150}A mis padres, creo, les afectaron más las noticias que a mí. Ellos prácticamente tuvieron dos hemorragias, cada uno."
 
-n "\nYo ya había tenido un día entero para digerirlo todo. Para ellos, todo fue nuevo. Estaban incluso preparados para vender la casa para poder pagar por una cura."
+n " {vspace=30}Yo ya había tenido un día entero para digerirlo todo. Para ellos, todo fue nuevo. Estaban incluso preparados para vender la casa para poder pagar por una cura."
 
-n "\n\nPor supuesto, no hay una cura."
+n " {vspace=60}Por supuesto, no hay una cura."
 
 nvl clear
 
@@ -323,7 +323,7 @@ n "Nunca más volvimos a tocar el tema que había entre nosotros aquel nevado d�
 
 nvl clear
 
-n "\n¿El hospital?"
+n " {vspace=30}¿El hospital?"
 
 n "No es realmente un lugar donde me gustaría vivir."
 
@@ -335,7 +335,7 @@ n "Durante el primer mes, más o menos, le preguntaba al jefe de cardiología ca
 
 n "Él nunca respondía algo de manera directa, en cambio me decía que esperara y viera si el tratamiento y cirugías habían funcionado."
 
-n "\nAsí que, sin tener nada que hacer, observaba la cicatriz que aquellas cirugías habían dejado en mi pecho cambiar lentamente su apariencia a través del tiempo, pensando en ello como una especie de presagio."
+n " {vspace=30}Así que, sin tener nada que hacer, observaba la cicatriz que aquellas cirugías habían dejado en mi pecho cambiar lentamente su apariencia a través del tiempo, pensando en ello como una especie de presagio."
 
 
 
@@ -343,21 +343,23 @@ n "Aún le pregunto al jefe de cardiología sobre cuándo podré irme, pero mis 
 
 nvl clear
 
-n "\n\n\n\nEn algún momento dejé de ver televisión. No sé por qué, solo lo hice."
+n " {vspace=120}En algún momento dejé de ver televisión. No sé por qué, solo lo hice."
 
 n "Tal vez era el tipo equivocado de escapismo para mi situación."
 
-n "\nEn lugar de eso, empecé a leer. Había una pequeña \"biblioteca\" en el hospital, aunque era más como un almacén para libros. Comencé a leer todo lo que había ahí, una pila pequeña a la vez. Después de consumirla, regresaba por más."
+
+n " {vspace=30}En lugar de eso, empecé a leer. Había una pequeña \"biblioteca\" en el hospital, aunque era más como un almacén para libros. Comencé a leer todo lo que había ahí, una pila pequeña a la vez. Después de consumirla, regresaba por más."
+
 
 n "Descubrí que me gustaba la lectura, incluso pienso que me volví un poco adicto. Empecé a sentirme desnudo sin un libro en las manos."
 
-n "\nPero me encantaban las historias."
+n " {vspace=30}Pero me encantaban las historias."
 
 nvl clear
 
-n "\nEso fue lo que era mi vida."
+n " {vspace=30}Eso fue lo que era mi vida."
 
-n "\nSe volvió cada vez más difícil distinguir un día del otro, difiriendo únicamente en el libro que leía y el clima afuera. Se sentía como si el tiempo se desdibujara en algún tipo de masa gelatinosa en la que me encontraba atrapado, en lugar de moviéndome dentro de ella."
+n " {vspace=30}Se volvió cada vez más difícil distinguir un día del otro, difiriendo únicamente en el libro que leía y el clima afuera. Se sentía como si el tiempo se desdibujara en algún tipo de masa gelatinosa en la que me encontraba atrapado, en lugar de moviéndome dentro de ella."
 
 
 n "Una semana podía ir y venir sin que yo me diera cuenta realmente."
@@ -370,7 +372,7 @@ n "Las páginas de mi libro comenzaban a cobrar filo y a arder, la pesadez en mi
 
 n "Pero eso pasaba en raras ocasiones."
 
-n "\nY no podía siquiera llorar."
+n " {vspace=30}Y no podía siquiera llorar."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -1834,7 +1836,7 @@ play music music_night fadein 1.0
 
 window hide
 
-$ written_note("Qué tal Hicchan. Hemos desempacado tus cosas, y hecho tu cama.\nEllos dijeron que si estos no te quedan, entonces fueras a la oficina mañana.\nSi tienes cualquier problema, siempre puedes llamarnos.\n\nCon cariño, Papá y Mamá.")
+$ written_note("Qué tal Hicchan. Hemos desempacado tus cosas, y hecho tu cama.\nEllos dijeron que si estos no te quedan, entonces fueras a la oficina mañana.\nSi tienes cualquier problema, siempre puedes llamarnos.\n \nCon cariño, Papá y Mamá.")
 
 window show
 
@@ -1884,7 +1886,7 @@ with Pause (1.0)
 hide pills
 with None
 
-$ written_note("Hisao Nakai\n\nDos tabletas diarias para mantenerte vivo.", quiet=True)
+$ written_note("Hisao Nakai\n \nDos tabletas diarias para mantenerte vivo.", quiet=True)
 
 window show
 

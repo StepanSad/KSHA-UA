@@ -229,7 +229,7 @@ n "Sus nuevas responsabilidades efectivamente evitan que la vea fuera de la escu
 
 n "Excepto que aun siendo lo más seguro, me siento más y más desdichado. Emi ya no se ve bien cuando la veo; oscuros círculos se esconden bajo sus ojos, se ve más y más distraída, y no me atrevo a preguntarle qué anda mal, porque nunca parece el momento adecuado."
 
-n "\nSoy absolutamente miserable."
+n " {vspace=30}Soy absolutamente miserable."
 
 stop ambient fadeout 2.0
 

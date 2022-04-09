@@ -5030,16 +5030,16 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nJ'ai l'impression que nous sommes déconnectés émotionnellement. Nous ne nous connaissons pas depuis si longtemps, et malgré mon envie de sortir avec elle, je ne sais pas vraiment comment Hanako voit les choses."
+n " {vspace=60}J'ai l'impression que nous sommes déconnectés émotionnellement. Nous ne nous connaissons pas depuis si longtemps, et malgré mon envie de sortir avec elle, je ne sais pas vraiment comment Hanako voit les choses."
 
 
 n "J'ai étudié autant que je le pouvais pour les examens, mais je n'ai toujours pas l'impression d'avoir fait mon choix pour la suite. J'ai essayé d’être un ami pour Hanako, même si je ne pouvais pas lui dire mes sentiments, et tout ce que ça a fait est nous éloigner."
 
 
-n "\nJe n'ai même pas pu répondre à la seule fille qui m'a aimé, Iwanako."
+n " {vspace=30}Je n'ai même pas pu répondre à la seule fille qui m'a aimé, Iwanako."
 
 
-n "\nQu'est-ce que je devrais faire... qu'est-ce que je peux faire... Je ne sais vraiment pas. Cependant, je sais que personne ne peut m'aider pour ça."
+n " {vspace=30}Qu'est-ce que je devrais faire... qu'est-ce que je peux faire... Je ne sais vraiment pas. Cependant, je sais que personne ne peut m'aider pour ça."
 
 
 n "Juste retourner à la façon dont les choses étaient avant suffirait à me satisfaire, mais je sais que ce n'est pas possible. Quelque chose a changé entre nous depuis la nuit dernière. Peut-être que ça avait déjà changé avant et que cette nuit a confirmé la chose."
@@ -5047,7 +5047,7 @@ n "Juste retourner à la façon dont les choses étaient avant suffirait à me s
 nvl clear
 
 
-n "\n\nJe sais que pour Hanako, il y a un mur entre elle et moi. Je me suis retrouvé confronté à ce mur à chaque fois que j'ai essayé d'interagir avec elle."
+n " {vspace=60}Je sais que pour Hanako, il y a un mur entre elle et moi. Je me suis retrouvé confronté à ce mur à chaque fois que j'ai essayé d'interagir avec elle."
 
 
 n "Mais maintenant je commence à penser que j'ai mon propre mur entre nous, tout comme elle. Elle m'a quasiment extirpé mon passé, et le mien est pourtant moins traumatisant que le sien."
@@ -5059,7 +5059,7 @@ n "J'ai envie de dire que c'est parce que je n'ai pas eu beaucoup de temps pour 
 n "La seule fois où je me rappelle qu'elle s'est ouverte à moi de sa propre initiative, c'était quand nous jouions au billard en ville, et j'ai été celui qui l'a empêchée de continuer."
 
 
-n "\n\nJe veux connaître mieux Hanako. Je veux sauver notre relation, ou même juste notre amitié."
+n " {vspace=60}Je veux connaître mieux Hanako. Je veux sauver notre relation, ou même juste notre amitié."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 

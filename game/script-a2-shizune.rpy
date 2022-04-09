@@ -13,7 +13,7 @@ nvl show dissolve
 
 play music music_dreamy fadein 5.0
 
-n "\n\nThe next morning, I recall what a perfect night last night was. So much so that I can't stop thinking about it."
+n " {vspace=60}The next morning, I recall what a perfect night last night was. So much so that I can't stop thinking about it."
 
 n "It's probably not the most appropriate time to reminisce, since I have a test first period."
 
@@ -23,7 +23,7 @@ n "It's got to be some kind of sick joke."
 
 n "I'm not too worried about it, but I wonder if they really couldn't have held off on this for at least another week."
 
-n "\n\nWell, at least the weather this morning is nice enough that I can study outside before class."
+n " {vspace=60}Well, at least the weather this morning is nice enough that I can study outside before class."
 
 nvl hide dissolve
 
@@ -34,7 +34,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nIt's a lot more refreshing out here than it would be in the classroom. Not to mention with how quiet it is, I'm starting to think that everyone else will be sleeping in pretty late today."
+n " {vspace=60}It's a lot more refreshing out here than it would be in the classroom. Not to mention with how quiet it is, I'm starting to think that everyone else will be sleeping in pretty late today."
 
 n "I put down the notes I'm reviewing for a second and stare out at the school grounds, still littered with festival stalls."
 
@@ -42,9 +42,9 @@ n "Looking at them now in the daytime, without paper lanterns or crowds of peopl
 
 n "A lot of the stalls that Shizune, Misha, and I visited last night also happen to be ones that we worked on."
 
-n "\n…"
+n " {vspace=30}…"
 
-n "\nThat's cute. Did Shizune come up with this? It had to be intentional, especially knowing her. Did she hope that I would catch on and see the fruit of our labors?"
+n " {vspace=30}That's cute. Did Shizune come up with this? It had to be intentional, especially knowing her. Did she hope that I would catch on and see the fruit of our labors?"
 
 play sound sfx_footsteps_soft fadein 5.0
 stop music fadeout 4.0
@@ -195,7 +195,7 @@ window show
 
 window hide
 
-$ written_note("You're here too.\n\nYesterday was fun. I noticed today that I built a lot of the stalls we went to. Maybe that's why they were so familiar. Was this another game?")
+$ written_note("You're here too.\n \nYesterday was fun. I noticed today that I built a lot of the stalls we went to. Maybe that's why they were so familiar. Was this another game?")
 
 show shizu behind_frown
 with charachange
@@ -258,7 +258,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nThat felt like the longest twenty minutes of my life, and all because it's so alien to me to have a face-to-face conversation with someone by passing notes to each other that I can't help coming up blank most of the time."
+n " {vspace=60}That felt like the longest twenty minutes of my life, and all because it's so alien to me to have a face-to-face conversation with someone by passing notes to each other that I can't help coming up blank most of the time."
 
 n "It makes me want to learn sign language."
 
@@ -282,7 +282,7 @@ play music music_daily fadein 1.0
 
 nvl show dissolve
 
-n "\n\nA guy casually prowling around the girls' dorm early in the morning is unacceptable, but asking Misha about sign language classes in front of Shizune would be just unthinkable."
+n " {vspace=60}A guy casually prowling around the girls' dorm early in the morning is unacceptable, but asking Misha about sign language classes in front of Shizune would be just unthinkable."
 
 n "She has to come to school sometime. After all, we're in the same class, so she too has to take this test."
 
@@ -290,7 +290,7 @@ n "If I wait here, I'll be sure to see her sooner or later."
 
 n "I just hope she doesn't walk past me while I'm flipping through my notes."
 
-n "\n\nIt turns out to be a pretty long wait. As students file into the school, I wonder if Misha is going to be late."
+n " {vspace=60}It turns out to be a pretty long wait. As students file into the school, I wonder if Misha is going to be late."
 
 n "Eventually I catch sight of her. While she bounces across the grounds, it hits me that I'd have to be blind to miss her with her incredibly distinctive hair."
 
@@ -1367,7 +1367,7 @@ window show
 
 window hide
 
-$ written_note("I'll help you carry it.\n ___________________\n\nBut, it's a game! The first one to stumble loses, and the loser has to carry it the rest of the way by themselves.", {"background":Frame("vfx/cardboard.jpg",0,0, tile=True)})
+$ written_note("I'll help you carry it.\n ___________________\n \nBut, it's a game! The first one to stumble loses, and the loser has to carry it the rest of the way by themselves.", {"background":Frame("vfx/cardboard.jpg",0,0, tile=True)})
 
 window show
 
@@ -1532,7 +1532,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_normal fadein 0.5
 
-n "\n\nThe sign language teacher says I'm pretty good."
+n " {vspace=60}The sign language teacher says I'm pretty good."
 
 n "I try not to think about it too much, but the truth is I'm poring over it so much lately that it's hard not to keep coming back to it at least a couple times a day. I guess I am picking it up faster than expected, but it's still not enough."
 
@@ -1542,7 +1542,7 @@ n "The signing itself is doable, I just need a little more practice. However, tr
 
 n "Where I'm at now is good for my level, but in order to reach a point where I'll be able to really converse with Shizune, I'll need more work."
 
-n "\nI'm doing my best to get to that point one step at a time by doing as much studying as I can squeeze in during lunch."
+n " {vspace=30}I'm doing my best to get to that point one step at a time by doing as much studying as I can squeeze in during lunch."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -1568,7 +1568,7 @@ nvl show dissolve
 
 nvl clear
 
-n "\n\nEvery chance she gets, Misha asks me why I want to hide the fact I'm learning sign language from Shizune."
+n " {vspace=60}Every chance she gets, Misha asks me why I want to hide the fact I'm learning sign language from Shizune."
 
 n "Looking back on it, there really wasn't any reason, but now I think I know."
 
@@ -1580,7 +1580,7 @@ n "Another important step is to make sure she doesn't know, so that when we're a
 
 n "Anything less, I think, would be insulting. She would see it the same way."
 
-n "\nSo to me, this is the only option. Especially now that I've decided to be so resolute with it."
+n " {vspace=30}So to me, this is the only option. Especially now that I've decided to be so resolute with it."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2137,7 +2137,7 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 nvl show dissolve
 
-n "\n\nBlack knight to f6."
+n " {vspace=60}Black knight to f6."
 
 n "Bishop to d3."
 
@@ -2153,7 +2153,7 @@ n "Although remembering playing Risk against Shizune, she doesn't want to just c
 
 nvl clear
 
-n "\n\n\nThe game continues."
+n " {vspace=90}The game continues."
 
 n "Shizune plays twelve moves in four minutes. What a scary opponent."
 
@@ -2165,7 +2165,7 @@ n "White knight to e6."
 
 n "The end is near."
 
-n "\n\n…"
+n " {vspace=60}…"
 
 stop music fadeout 3.0
 
@@ -2502,7 +2502,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_daily fadein 0.5
 
-n "\n\nThings have returned to normal. Well, I transferred in at a pretty unusual time, and I can hardly say that I had a normal first few weeks here. I guess it's more like things have calmed down, and reached normality."
+n " {vspace=60}Things have returned to normal. Well, I transferred in at a pretty unusual time, and I can hardly say that I had a normal first few weeks here. I guess it's more like things have calmed down, and reached normality."
 
 n "I've been here longer than I thought."
 
@@ -3266,7 +3266,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\nShizune knew I was taking sign language classes all day yesterday, and didn't make a big deal out of it."
+n " {vspace=30}Shizune knew I was taking sign language classes all day yesterday, and didn't make a big deal out of it."
 
 n "She might be mute, but that doesn't mean she can't make her feelings known. No, in fact, it seems like she's all the more direct for it."
 
@@ -5872,7 +5872,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\nI want to tell her that I like her. Decisively, in one go. But even thinking about it is just so awkward."
+n " {vspace=30}I want to tell her that I like her. Decisively, in one go. But even thinking about it is just so awkward."
 
 n "And the more I like her, the more awkward and afraid I am of telling her how I feel, even now, when I could do so if I wanted without having to go through another person."
 
@@ -5985,7 +5985,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\n\nAn unsure and careful embrace, as if I were made of eggshell, and as if she doesn't know how to hug someone. Although to be honest, it's not a subject I'm familiar with either."
+n " {vspace=270}An unsure and careful embrace, as if I were made of eggshell, and as if she doesn't know how to hug someone. Although to be honest, it's not a subject I'm familiar with either."
 
 n "Her yukata is cool and silky under my fingers, but I can also feel Shizune's warmth."
 

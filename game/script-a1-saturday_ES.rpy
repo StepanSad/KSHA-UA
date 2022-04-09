@@ -3316,7 +3316,7 @@ with charaexit
 
 window hide
 
-$ written_note("Probablemente no sabes cómo volver a la escuela desde aquí.\n\nHabrá trabajo esperándote cuando lo hagas. Te veo entonces~")
+$ written_note("Probablemente no sabes cómo volver a la escuela desde aquí.\n \nHabrá trabajo esperándote cuando lo hagas. Te veo entonces~")
 
 window show
 

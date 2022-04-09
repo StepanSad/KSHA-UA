@@ -13,7 +13,7 @@ nvl show dissolve
 
 play music music_dreamy fadein 5.0
 
-n "\n\nLa mañana siguiente, recuerdo qué perfecta noche fue la de ayer. Tanto así que no puedo dejar de pensar en ello."
+n " {vspace=60}La mañana siguiente, recuerdo qué perfecta noche fue la de ayer. Tanto así que no puedo dejar de pensar en ello."
 
 n "Probablemente no es el mejor momento para rememorar, ya que tengo un examen en la primera clase."
 
@@ -23,7 +23,7 @@ n "Tiene que ser algún tipo de broma de mal gusto."
 
 n "No estoy muy preocupado por ello, pero me pregunto si realmente no pudieron haber aplazado esto por lo menos otra semana."
 
-n "\n\nBueno, al menos el clima de esta mañana es tan agradable que puedo estudiar afuera antes de clase."
+n " {vspace=60}Bueno, al menos el clima de esta mañana es tan agradable que puedo estudiar afuera antes de clase."
 
 nvl hide dissolve
 
@@ -34,7 +34,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nEs mucho más refrescante aquí afuera de lo que sería en el salón de clase. Por no hablar de lo silencioso que es, estoy comenzando a pensar que todos los demás estarán durmiendo hasta bastante tarde hoy."
+n " {vspace=60}Es mucho más refrescante aquí afuera de lo que sería en el salón de clase. Por no hablar de lo silencioso que es, estoy comenzando a pensar que todos los demás estarán durmiendo hasta bastante tarde hoy."
 
 n "Bajo las notas que estoy repasando por un segundo y miro fijamente el campus de la escuela, aún repleto con puestos del festival."
 
@@ -42,9 +42,9 @@ n "Mirándolos ahora de día, sin linternas de papel o multitudes de personas pa
 
 n "Muchos de los puestos que Shizune, Misha y yo visitamos anoche también resultan ser los mismos que construimos."
 
-n "\n…"
+n " {vspace=30}…"
 
-n "\nQué adorable. ¿A Shizune se le ocurrió esto? Tuvo que ser intencional, especialmente conociéndola. ¿Ella esperaba que yo lo notara y viera el fruto de nuestras labores?"
+n " {vspace=30}Qué adorable. ¿A Shizune se le ocurrió esto? Tuvo que ser intencional, especialmente conociéndola. ¿Ella esperaba que yo lo notara y viera el fruto de nuestras labores?"
 
 play sound sfx_footsteps_soft fadein 5.0
 stop music fadeout 4.0
@@ -198,7 +198,7 @@ window show
 
 window hide
 
-$ written_note("Tú también estás aquí.\n\nLo de ayer fue divertido. Hoy noté que construí muchos de los puestos a los que fuimos. Tal vez por eso eran tan familiares. ¿Esto fue otro juego?")
+$ written_note("Tú también estás aquí.\n \nLo de ayer fue divertido. Hoy noté que construí muchos de los puestos a los que fuimos. Tal vez por eso eran tan familiares. ¿Esto fue otro juego?")
 
 show shizu behind_frown
 with charachange
@@ -263,7 +263,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nEsos se sintieron como los veinte minutos más largos de mi vida, y todo porque es tan extraño para mí tener una conversación cara a cara con alguien pasándonos notas entre nosotros, que no puedo evitar estar en blanco la mayor parte del tiempo."
+n " {vspace=60}Esos se sintieron como los veinte minutos más largos de mi vida, y todo porque es tan extraño para mí tener una conversación cara a cara con alguien pasándonos notas entre nosotros, que no puedo evitar estar en blanco la mayor parte del tiempo."
 
 n "Me hace querer aprender lenguaje de señas."
 
@@ -288,7 +288,7 @@ play music music_daily fadein 1.0
 
 nvl show dissolve
 
-n "\n\nUn tipo merodeando casualmente por el dormitorio de chicas temprano en la mañana es inaceptable, pero preguntarle a Misha por las clases de lenguaje de señas enfrente de Shizune sería impensable."
+n " {vspace=60}Un tipo merodeando casualmente por el dormitorio de chicas temprano en la mañana es inaceptable, pero preguntarle a Misha por las clases de lenguaje de señas enfrente de Shizune sería impensable."
 
 n "Ella tiene que venir a la escuela en algún momento. Después de todo, estamos en la misma clase, así que ella también tiene que realizar el examen."
 
@@ -296,7 +296,7 @@ n "Si espero aquí, me aseguraré de verla tarde o temprano."
 
 n "Solo espero que no pase enfrente de mí mientras estoy hojeando mis notas."
 
-n "\n\nResulta ser una espera bastante larga. Mientras los estudiantes ingresan a la escuela, me pregunto si Misha va a llegar tarde."
+n " {vspace=60}Resulta ser una espera bastante larga. Mientras los estudiantes ingresan a la escuela, me pregunto si Misha va a llegar tarde."
 
 n "Finalmente la veo. Mientras ella salta por el campus, me doy cuenta de que tendría que estar ciego para no lograr verla con su cabello increíblemente distintivo."
 
@@ -1403,7 +1403,7 @@ window show
 
 window hide
 
-$ written_note("Te ayudaré a llevarla.\n ___________________\n\nPero, ¡es un juego! El primero en tropezar pierde, y el perdedor tiene que llevarla el resto del camino por su cuenta.", {"background":Frame("vfx/cardboard.jpg",0,0, tile=True)})
+$ written_note("Te ayudaré a llevarla.\n ___________________\n \nPero, ¡es un juego! El primero en tropezar pierde, y el perdedor tiene que llevarla el resto del camino por su cuenta.", {"background":Frame("vfx/cardboard.jpg",0,0, tile=True)})
 
 window show
 
@@ -1568,7 +1568,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_normal fadein 0.5
 
-n "\n\nLa maestra de lenguaje de señas dice que soy muy bueno."
+n " {vspace=60}La maestra de lenguaje de señas dice que soy muy bueno."
 
 n "Intento no pensar mucho en ello, pero la verdad es que últimamente lo estoy estudiando tan minuciosamente que es difícil no seguir regresando a ello al menos un par de veces al día. Supongo que lo estoy aprendiendo más rápido de lo esperado, pero aún no es suficiente."
 
@@ -1578,7 +1578,7 @@ n "Las señas en sí se pueden hacer, solo necesito un poco más de práctica. S
 
 n "Donde estoy ahora es bueno para mi nivel, pero con el fin de llegar al punto donde podré realmente conversar con Shizune, necesitaré más trabajo."
 
-n "\nEstoy haciendo mi mejor esfuerzo para llegar a ese punto paso a paso, estudiando tanto como puedo durante el almuerzo."
+n " {vspace=30}Estoy haciendo mi mejor esfuerzo para llegar a ese punto paso a paso, estudiando tanto como puedo durante el almuerzo."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -1604,7 +1604,7 @@ nvl show dissolve
 
 nvl clear
 
-n "\n\nCada vez que puede, Misha me pregunta por qué quiero esconder de Shizune el hecho de que estoy aprendiendo lenguaje de señas."
+n " {vspace=60}Cada vez que puede, Misha me pregunta por qué quiero esconder de Shizune el hecho de que estoy aprendiendo lenguaje de señas."
 
 n "Mirando hacia atrás, en realidad no había ninguna razón, pero ahora creo que lo sé."
 
@@ -1616,7 +1616,7 @@ n "Otro paso importante es estar seguro de que ella no lo sepa, para que cuando 
 
 n "Cualquier cosa menos, creo, sería insultante. Ella lo vería de la misma manera."
 
-n "\nAsí que para mí, esta es la única opción. Especialmente ahora que he decidido ser tan firme con ello."
+n " {vspace=30}Así que para mí, esta es la única opción. Especialmente ahora que he decidido ser tan firme con ello."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2185,7 +2185,7 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 nvl show dissolve
 
-n "\n\nCaballo negro a f6."
+n " {vspace=60}Caballo negro a f6."
 
 n "Alfil a d3."
 
@@ -2201,7 +2201,7 @@ n "Aunque al recordar el juego de Risk contra Shizune, ella no quiere aplastar a
 
 nvl clear
 
-n "\n\n\nEl juego continúa."
+n " {vspace=90}El juego continúa."
 
 n "Shizune hace doce movimientos en cuatro minutos. Qué oponente tan aterradora."
 
@@ -2213,7 +2213,7 @@ n "Caballo blanco a e6."
 
 n "El fin está cerca."
 
-n "\n\n…"
+n " {vspace=60}…"
 
 stop music fadeout 3.0
 
@@ -2562,7 +2562,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_daily fadein 0.5
 
-n "\nLas cosas han vuelto a la normalidad. Bueno, fui transferido en un momento muy inusual, y difícilmente puedo decir que tuve unas primeras semanas normales aquí. Supongo que es más que las cosas se han calmado, y alcanzado la normalidad."
+n " {vspace=30}Las cosas han vuelto a la normalidad. Bueno, fui transferido en un momento muy inusual, y difícilmente puedo decir que tuve unas primeras semanas normales aquí. Supongo que es más que las cosas se han calmado, y alcanzado la normalidad."
 
 n "He estado aquí más tiempo del que pensé."
 
@@ -5989,7 +5989,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\nQuiero decirle que me gusta. Decididamente, de un golpe. Pero incluso pensar en ello es tan incómodo."
+n " {vspace=30}Quiero decirle que me gusta. Decididamente, de un golpe. Pero incluso pensar en ello es tan incómodo."
 
 n "Y entre más me gusta, más incómodo y temeroso estoy de decirle lo que siento, incluso ahora, cuando podría hacerlo si quisiera, sin tener que pasar por otra persona."
 
@@ -6103,7 +6103,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\n\nUn abrazo inseguro y cuidadoso, como si yo estuviera hecho de cáscara de huevo, y como si ella no supiera cómo abrazar a alguien. Aunque para ser honesto, es un tema con el que tampoco soy familiar."
+n " {vspace=270}Un abrazo inseguro y cuidadoso, como si yo estuviera hecho de cáscara de huevo, y como si ella no supiera cómo abrazar a alguien. Aunque para ser honesto, es un tema con el que tampoco soy familiar."
 
 n "Su yukata es fresco y sedoso bajo mis dedos, pero también puedo sentir el calor de Shizune."
 

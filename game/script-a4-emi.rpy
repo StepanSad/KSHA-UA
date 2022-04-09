@@ -229,7 +229,7 @@ n "Her new responsibilities effectively keep me from seeing her outside of schoo
 
 n "Except while it may be safer, I'm feeling more and more wretched. Emi doesn't look good when I see her any more; dark circles lurk under her eyes, she seems more and more distracted, and I can't bring myself to just ask what's wrong, because the timing never seems right."
 
-n "\nI'm absolutely miserable."
+n " {vspace=30}I'm absolutely miserable."
 
 stop ambient fadeout 2.0
 
