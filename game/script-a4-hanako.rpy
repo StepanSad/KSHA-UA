@@ -3922,19 +3922,19 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nIt feels like there's a complete emotional disconnect between Hanako and me. We haven't known each other for all that long, and despite wanting to start going out with her, I really don't know that much about how Hanako views things."
+n " {vspace=60}It feels like there's a complete emotional disconnect between Hanako and me. We haven't known each other for all that long, and despite wanting to start going out with her, I really don't know that much about how Hanako views things."
 
 n "I've been studying as hard as I can for exams, but I still don't feel like I have any real sense of direction behind it. I tried to be a friend to Hanako, even if I couldn't tell her my feelings, and all we've done is drive each other apart."
 
-n "\nI couldn't even write a letter back to the one girl who ever loved me, Iwanako."
+n " {vspace=30}I couldn't even write a letter back to the one girl who ever loved me, Iwanako."
 
-n "\nWhat should I do… what can I do… I simply don't know the answer to either of those questions. I do know that nobody else can help me with them."
+n " {vspace=30}What should I do… what can I do… I simply don't know the answer to either of those questions. I do know that nobody else can help me with them."
 
 n "Just going back to the way things were would be enough to make me happy, but I know that it can never happen. Something changed between us last night. Maybe it changed beforehand, and it just came to a head then."
 
 nvl clear
 
-n "\n\nI know that there's a wall that Hanako has between me and her. I've been hitting that wall every time I've tried to interact with her on any level."
+n " {vspace=60}I know that there's a wall that Hanako has between me and her. I've been hitting that wall every time I've tried to interact with her on any level."
 
 n "But now I'm beginning to think that I have my own wall between us just as much as she does. She had to practically drag my past out of me, and mine was much less traumatic than hers."
 
@@ -3942,7 +3942,7 @@ n "I want to say it's because I haven't had long to adjust since my heart attack
 
 n "The one time I can recall when it really felt like she was opening up to me of her own accord, when we were playing billiards in the city, I was the one who stopped her from going further."
 
-n "\n\nI want to know Hanako better. I want to save our friendship, if not begin a real relationship with her."
+n " {vspace=60}I want to know Hanako better. I want to save our friendship, if not begin a real relationship with her."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 

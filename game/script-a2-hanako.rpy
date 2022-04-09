@@ -184,7 +184,7 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 nvl show dissolve
 
-n "\n\n\nInside Yamaku, everyone is “special,” which negates the “special-ness” of it."
+n " {vspace=90}Inside Yamaku, everyone is “special,” which negates the “special-ness” of it."
 
 n "But once we venture outside the school gates, we are returned to the status of “outsider” and generic labels."
 
@@ -192,7 +192,7 @@ n "Especially when we are still in school uniform. It's like hanging a sign arou
 
 n "I'm surprised that so many of the students keep it on. Then again, with canes and wheelchairs common among the students, I guess it's not really that much of a giveaway."
 
-n "\nOr maybe I'm the only one that sees this as a stigma? Maybe you get used to it after a time, like any other school uniform."
+n " {vspace=30}Or maybe I'm the only one that sees this as a stigma? Maybe you get used to it after a time, like any other school uniform."
 
 nvl hide dissolve
 
@@ -1297,7 +1297,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nThen again, nothing about this town seems normal, which may not be such a bad thing in retrospect."
+n " {vspace=60}Then again, nothing about this town seems normal, which may not be such a bad thing in retrospect."
 
 n "Everything is so different and uncomfortable; dwelling on such matters isn't really an option."
 
@@ -1311,7 +1311,7 @@ n "Not that I am scar-free myself. The jagged line down my sternum will never co
 
 n "I just have the luxury of being able to hide it easily."
 
-n "\nBut, in a way, both of our scars remind me that we're all in this place for a reason."
+n " {vspace=30}But, in a way, both of our scars remind me that we're all in this place for a reason."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3569,7 +3569,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nSomething about this makes me think about Lilly's question at breakfast."
+n " {vspace=120}Something about this makes me think about Lilly's question at breakfast."
 
 n "Why am I friends with Hanako?"
 
@@ -3579,7 +3579,7 @@ n "As far as I can tell, her scars don't hold her back physically, and everyone 
 
 n "I don't have any ulterior motives to hang out with Hanako, we just share similar interests."
 
-n "\nIsn't that enough?"
+n " {vspace=30}Isn't that enough?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 nvl clear
@@ -4413,7 +4413,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nWhen I was in the hospital I went to the burn ward once, and only once. I was bored, so I went for a walk through all of the wards."
+n " {vspace=60}When I was in the hospital I went to the burn ward once, and only once. I was bored, so I went for a walk through all of the wards."
 
 n "I went through oncology and thought I could take it, but when I got to the burn ward I turned around and went back to my bed."
 
@@ -4421,7 +4421,7 @@ n "To think that Hanako would have spent months in a place like that, smelling n
 
 n "The really bad cases were kept in isolated pods that no foreign objects could enter. That would have meant no reading."
 
-n "\nI would have gone insane if I didn't have my books in the hospital."
+n " {vspace=30}I would have gone insane if I didn't have my books in the hospital."
 
 n "And she said she was alone…"
 

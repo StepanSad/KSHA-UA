@@ -3999,19 +3999,19 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nSe siente como que hay una completa desconexión emocional entre Hanako y yo. No nos hemos conocido por mucho tiempo, y a pesar de querer empezar a salir con ella, realmente no sé mucho sobre el cómo ve Hanako las cosas."
+n " {vspace=60}Se siente como que hay una completa desconexión emocional entre Hanako y yo. No nos hemos conocido por mucho tiempo, y a pesar de querer empezar a salir con ella, realmente no sé mucho sobre el cómo ve Hanako las cosas."
 
 n "He estado estudiando tanto como he podido para los exámenes, pero aún no siento que haya tenido ningún sentido real de dirección tras ello. Traté de ser un amigo para Hanako, incluso si no pude decirle mis sentimientos, y todo lo que hemos hecho es alejarnos el uno del otro."
 
-n "\nNi siquiera pude escribirle una carta de vuelta a la única chica que me amó jamás, Iwanako."
+n " {vspace=30}Ni siquiera pude escribirle una carta de vuelta a la única chica que me amó jamás, Iwanako."
 
-n "\nQué debo hacer… qué puedo hacer… simplemente no sé la respuesta a ninguna de esas preguntas. Pero sí sé que no hay nadie más que pueda ayudarme con ellas."
+n " {vspace=30}Qué debo hacer… qué puedo hacer… simplemente no sé la respuesta a ninguna de esas preguntas. Pero sí sé que no hay nadie más que pueda ayudarme con ellas."
 
 n "Solo con regresar a la forma en que las cosas eran sería suficiente para hacerme feliz, pero sé que no podrá suceder jamás. Algo cambió entre nosotros anoche. Tal vez cambió desde antes, y solo ahora alcanzó el punto crítico."
 
 nvl clear
 
-n "\n\nSé que hay una pared que Hanako tiene entre ella y yo. He estado chocando contra esa pared cada vez que he tratado de interactuar con ella a cualquier nivel."
+n " {vspace=60}Sé que hay una pared que Hanako tiene entre ella y yo. He estado chocando contra esa pared cada vez que he tratado de interactuar con ella a cualquier nivel."
 
 n "Pero ahora estoy comenzando a pensar que yo tengo mi propia pared entre nosotros tal como ella. Prácticamente ella tuvo que arrastrar mi pasado fuera de mí, y el mío era mucho menos traumático que el de ella."
 
@@ -4019,7 +4019,7 @@ n "Quiero decir que es porque no he tenido suficiente tiempo para adaptarme desd
 
 n "La única vez que recuerdo que en verdad se sintió como que se estaba abriendo a mí por decisión propia, cuando estábamos jugando billar en la ciudad, yo fui el que la detuvo de ir más allá."
 
-n "\n\nQuiero conocer mejor a Hanako. Quiero salvar nuestra amistad, si no es que comenzar una relación verdadera con ella."
+n " {vspace=60}Quiero conocer mejor a Hanako. Quiero salvar nuestra amistad, si no es que comenzar una relación verdadera con ella."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 

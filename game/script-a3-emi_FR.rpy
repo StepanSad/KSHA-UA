@@ -12,7 +12,7 @@ $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_normal fadein 3.0
 
 
-n "\n\n\nMon esprit est ailleurs durant tout le cours de Mutou."
+n " {vspace=90}Mon esprit est ailleurs durant tout le cours de Mutou."
 
 
 n "Je vais dîner."
@@ -36,7 +36,7 @@ n "Ce baiser. Je n'arrête pas d'y revenir, le repasser dans ma tête encore et 
 n "Tout, durant ce moment, semblait s'accorder."
 
 
-n "\nMon esprit divague, perdu en pensant à Emi."
+n " {vspace=30}Mon esprit divague, perdu en pensant à Emi."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
 
@@ -7077,7 +7077,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nC'est bizarre à quel point Emi et moi arrivons facilement à ne pas se voir après les cours maintenant."
+n " {vspace=60}C'est bizarre à quel point Emi et moi arrivons facilement à ne pas se voir après les cours maintenant."
 
 
 n "En fait, j'irais même jusqu’à dire que c'est légèrement perturbant."
@@ -7109,7 +7109,7 @@ n "Mais peu importe à quel point nous rions pendant le déjeuner, je ne peux pa
 nvl clear
 
 
-n "\n\nElle semble plus souvent distraite, et je l'ai surprise à gigoter nerveusement plus d'une fois."
+n " {vspace=60}Elle semble plus souvent distraite, et je l'ai surprise à gigoter nerveusement plus d'une fois."
 
 
 n "Je n'ai jamais pensé qu'elle était du genre à se préoccuper des examens, mais ils semblent avoir fait leur effet."
@@ -7141,7 +7141,7 @@ n "Mais en y allant, je suis confiant sur le fait que je pourrai passer sans tro
 nvl clear
 
 
-n "\n\n\n\n\n\nMutou pense que j'ai tout ce qu'il faut en sciences, du moins."
+n " {vspace=180}Mutou pense que j'ai tout ce qu'il faut en sciences, du moins."
 
 
 n "Ou comme il dit, “La dernière chose qui devrait te causer des difficultés est ma matière, Hisao. Tes compétences sont bien au-delà.”"
@@ -7182,7 +7182,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\nAprès la fin de ces examens, les choses deviendront plus faciles."
+n " {vspace=90}Après la fin de ces examens, les choses deviendront plus faciles."
 
 
 n "Bientôt on sera diplômés."
@@ -7633,7 +7633,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nOu peut-être que je devrais juste apprécier ce que j'ai."
+n " {vspace=90}Ou peut-être que je devrais juste apprécier ce que j'ai."
 
 
 n "On s'amuse bien ensemble, après tout."
@@ -8010,7 +8010,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nEt si elle s’énerve contre moi ?"
+n " {vspace=60}Et si elle s’énerve contre moi ?"
 
 
 n "Et puis, et si ce n'est rien ?"
@@ -8700,7 +8700,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nIl y a un millier de choses que je voudrais dire."
+n " {vspace=60}Il y a un millier de choses que je voudrais dire."
 
 
 n "Je suis trop confus pour en sortir une seule, bien sûr."
@@ -8724,7 +8724,7 @@ n "Qu'est-ce qui fait tellement peur à une fille pour qu'elle n'accepte pas d'a
 n "Je ne sais pas."
 
 
-n "\nMais je veux savoir."
+n " {vspace=30}Mais je veux savoir."
 
 
 n "Je veux tellement savoir, que le fait qu'on me refuse la réponse me fait l'effet d'un coup de couteau dans le ventre."
@@ -8787,7 +8787,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nJe ne sais pas comment gérer ça."
+n " {vspace=60}Je ne sais pas comment gérer ça."
 
 
 n "Je pensais qu'avancer était une bonne chose."
@@ -8796,7 +8796,7 @@ n "Je pensais qu'avancer était une bonne chose."
 n "Arrêter de rester dans un passé que je ne peux pas changer. Vivre dans le présent et regarder vers le futur."
 
 
-n "\n\nAprès tout... ça avec Emi, je ne sais plus maintenant."
+n " {vspace=60}Après tout... ça avec Emi, je ne sais plus maintenant."
 
 
 n "Elle disait la vérité. C'est plus simple de juste regarder au prochain virage, ignorant le chemin parcouru."
@@ -8822,16 +8822,16 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\n\nElle fuit littéralement quelque chose - mais n'ai-je pas fait la même chose, faisant de mon mieux pour oublier mon hospitalisation ?"
+n " {vspace=150}Elle fuit littéralement quelque chose - mais n'ai-je pas fait la même chose, faisant de mon mieux pour oublier mon hospitalisation ?"
 
 
 n "Je vais mieux, mais ma santé ne va pas miraculeusement s’améliorer."
 
 
-n "\nEmi doit gérer deux jambes à la place d'un cœur en moins, mais elles ne vont pas miraculeusement réapparaître non plus."
+n " {vspace=30}Emi doit gérer deux jambes à la place d'un cœur en moins, mais elles ne vont pas miraculeusement réapparaître non plus."
 
 
-n "\nPeut-être qu'on ne peut pas aller mieux que ça."
+n " {vspace=30}Peut-être qu'on ne peut pas aller mieux que ça."
 
 nvl clear
 nvl hide dissolve
@@ -8867,19 +8867,19 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n“Je ne peux pas compter sur toi.”"
+n " {vspace=60}“Je ne peux pas compter sur toi.”"
 
 
-n "\nDes mots dits si facilement."
+n " {vspace=30}Des mots dits si facilement."
 
 
 n "Presque comme si elle me taquinait, ou me châtiait pour avoir suggéré que la terre était plate."
 
 
-n "\n“C'est comme ça que ça doit être.”"
+n " {vspace=30}“C'est comme ça que ça doit être.”"
 
 
-n "\nLa façon dont ça doit être est nulle."
+n " {vspace=30}La façon dont ça doit être est nulle."
 
 
 n "Je me sens si mal que j'ai presque décidé de ne pas aller courir."
@@ -8893,7 +8893,7 @@ n "D'accord, c'était la raison d'origine, mais c'est quelque chose de plus main
 nvl clear
 
 
-n "\n\n\n\nJ'ai commencé à apprécier de courir tout court."
+n " {vspace=120}J'ai commencé à apprécier de courir tout court."
 
 
 n "Il existe de pires façons pour garder la forme, après tout."
@@ -8902,13 +8902,13 @@ n "Il existe de pires façons pour garder la forme, après tout."
 n "Je n'aurais jamais pensé que je dirais ça après un peu plus d'une semaine, mais—"
 
 
-n "\nJe me sens beaucoup mieux après avoir couru, comme si peu importait ce que j'allais faire de ma journée, j'avais au moins fait une chose."
+n " {vspace=30}Je me sens beaucoup mieux après avoir couru, comme si peu importait ce que j'allais faire de ma journée, j'avais au moins fait une chose."
 
 
 n "Ça me réveille, aussi. Et Emi elle-même dit que courir lui vide toujours la tête. Peut-être que ça aidera à vider la mienne."
 
 
-n "\nJ'espère."
+n " {vspace=30}J'espère."
 
 nvl clear
 nvl hide dissolve
@@ -9185,7 +9185,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nÀ chaque fois que j'ai l'impression d'avoir réussi à outrepasser ce qui est arrivé la nuit dernière, Emi fait quelque chose ou dit quelque chose qui me témoigne de l'affection, et je me retrouve à la case départ."
+n " {vspace=120}À chaque fois que j'ai l'impression d'avoir réussi à outrepasser ce qui est arrivé la nuit dernière, Emi fait quelque chose ou dit quelque chose qui me témoigne de l'affection, et je me retrouve à la case départ."
 
 
 n "L'image de la fin de notre conversation me hante."
@@ -9674,7 +9674,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\nJe ne pense pas trop aimer prendre le bus."
+n " {vspace=90}Je ne pense pas trop aimer prendre le bus."
 
 
 n "En fait, je suis assez sûr de moi à propos de cette affirmation."
@@ -9686,7 +9686,7 @@ n "Ça remue beaucoup, et ça a une drôle d'odeur, et on peut sentir chaque bos
 n "Je n'ai pas vraiment hâte de le prendre."
 
 
-n "\nEn plus les jambes d'Emi n’arrêtent pas de faire un bruit de métal qui attire l'attention de tout le monde dans le bus."
+n " {vspace=30}En plus les jambes d'Emi n’arrêtent pas de faire un bruit de métal qui attire l'attention de tout le monde dans le bus."
 
 
 n "Elle est encore en short, et elle a des longues chaussettes sur ses prothèses pour qu'elles n'aient pas l'air trop fausses."
@@ -9697,7 +9697,7 @@ n "Mais ça n’empêche pas les regards bizarres à chaque fois que ses jambes 
 nvl clear
 
 
-n "\n\n\nJe change nerveusement de position sur mon siège, et Emi lève un sourcil interrogateur."
+n " {vspace=90}Je change nerveusement de position sur mon siège, et Emi lève un sourcil interrogateur."
 
 
 n "Elle ne semble pas se préoccuper des regards ; soit ça, soit elle ne remarque même pas que les gens regardent."
@@ -9706,7 +9706,7 @@ n "Elle ne semble pas se préoccuper des regards ; soit ça, soit elle ne remarq
 n "Je suis sûr qu'elle a eu son lot de regards curieux auparavant. Après un certain moment, je doute qu'elle s'en rende compte tout court."
 
 
-n "\n\nPas qu'elle me le dirait si je lui demandais, de toute façon."
+n " {vspace=60}Pas qu'elle me le dirait si je lui demandais, de toute façon."
 
 
 n "Un autre fait est que je ne suis pas seulement installé inconfortablement dans ce bus."
@@ -9721,7 +9721,7 @@ nvl clear
 label fr_E26a:
 
 
-n "\n\n\nL'infirmier a dit qu'elle me faisait confiance, même si on ne le dirait pas."
+n " {vspace=90}L'infirmier a dit qu'elle me faisait confiance, même si on ne le dirait pas."
 
 
 n "Mais je ne suis pas sûr de pouvoir faire confiance à l'infirmier."
@@ -9730,10 +9730,10 @@ n "Mais je ne suis pas sûr de pouvoir faire confiance à l'infirmier."
 n "Il est protecteur avec Emi, tout comme je suis protecteur avec Emi, et il est probable que je dirais quelque chose de gentil sur elle si quelqu'un me le demandait."
 
 
-n "\nPeut-être qu'il fait juste ça."
+n " {vspace=30}Peut-être qu'il fait juste ça."
 
 
-n "\nPourtant, il y avait quelque chose quand il avait l'air honnêtement surpris qu'Emi m'invite chez elle."
+n " {vspace=30}Pourtant, il y avait quelque chose quand il avait l'air honnêtement surpris qu'Emi m'invite chez elle."
 
 
 n "Peut-être que la nuit dernière a aidé plus que je le pensais, mais je suis toujours inquiet."
@@ -9745,7 +9745,7 @@ stop ambient fadeout 12.0
 nvl clear
 
 
-n "\n\n\nRencontrer les parents est une étape importante, hein ?"
+n " {vspace=90}Rencontrer les parents est une étape importante, hein ?"
 
 
 n "Non pas que je n'ai pas déjà rencontré la mère d'Emi, mais c'était en tant que connaissance."
@@ -9763,7 +9763,7 @@ n "Sauf que là, je n'avais aucune idée de ce qui se passait ; je n'avais égal
 n "J'ai parcouru un long chemin en terme de santé physique, et pour la seconde fois aujourd'hui j'ai l'impression que je serai capable de vivre normalement maintenant, ou au moins aussi normalement que possible."
 
 
-n "\nMaintenant si je pouvais gérer ma relation amoureuse de la même façon que j'ai géré mon cœur, je serais en super forme."
+n " {vspace=30}Maintenant si je pouvais gérer ma relation amoureuse de la même façon que j'ai géré mon cœur, je serais en super forme."
 
 stop ambient fadeout 1.5
 
@@ -11275,10 +11275,10 @@ with locationchange
 window hide
 
 
-$ written_note("Il y a d'autres choses dont je veux te parler. Je t'écris parce que j'ai l'impression que j'aurais dû te dire certaines choses après l'incident de l'hiver. Je regrette vraiment ne pas avoir été capable de le dire en personne, et je n'ai aucune excuse pour ça.\n\n\n\n\n")
+$ written_note("Il y a d'autres choses dont je veux te parler. Je t'écris parce que j'ai l'impression que j'aurais dû te dire certaines choses après l'incident de l'hiver. Je regrette vraiment ne pas avoir été capable de le dire en personne, et je n'ai aucune excuse pour ça. {vspace=150} ")
 
 
-$ written_note("La vérité est que les fois où je t’ai rendu visite à l’hôpital, je me suis inquiétée pour toi. Je ne parle pas de ta santé. Tu semblais plus distant et découragé. C'était naturel après ce qui est arrivé, mais j'avais l'impression que tu avais abandonné quelque chose à ce moment-là. Le bonheur, peut-être ?\n")
+$ written_note("La vérité est que les fois où je t’ai rendu visite à l’hôpital, je me suis inquiétée pour toi. Je ne parle pas de ta santé. Tu semblais plus distant et découragé. C'était naturel après ce qui est arrivé, mais j'avais l'impression que tu avais abandonné quelque chose à ce moment-là. Le bonheur, peut-être ?\n ")
 
 window show
 
@@ -11291,13 +11291,13 @@ window show
 window hide
 
 
-$ written_note("Je voulais exprimer mes sentiments, mais les mots ne sortaient pas. Je ne pouvais rien dire pour te réconforter. Je suis vraiment désolée de ne pas avoir pu t'aider quand tu en avais le plus besoin, même si je t’appréciais tant. Au moins maintenant, finalement, je peux être honnête.\n\n\n\n")
+$ written_note("Je voulais exprimer mes sentiments, mais les mots ne sortaient pas. Je ne pouvais rien dire pour te réconforter. Je suis vraiment désolée de ne pas avoir pu t'aider quand tu en avais le plus besoin, même si je t’appréciais tant. Au moins maintenant, finalement, je peux être honnête. {vspace=120} ")
 
 
-$ written_note("Si je pouvais revenir à ces jours qu'on passait dans le silence, en février et mars, je te dirais de ne pas abandonner. C'est ce que je dirais. Peut-être que tu n'aurais pas dérivé si loin si j'avais dit quelque chose. J’espère que tu as réussi à te remettre sur pied par toi-même..\n\n\n\n")
+$ written_note("Si je pouvais revenir à ces jours qu'on passait dans le silence, en février et mars, je te dirais de ne pas abandonner. C'est ce que je dirais. Peut-être que tu n'aurais pas dérivé si loin si j'avais dit quelque chose. J’espère que tu as réussi à te remettre sur pied par toi-même.. {vspace=120} ")
 
 
-$ written_note("Maintenant que la distance entre nous est aussi physique, ça me semble définitif. Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas. Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles. J'aimerais beaucoup entendre parler de ta nouvelle école et de comment tu vas. Je ne te souhaite que le meilleur.\n\nSincèrement, Iwanako")
+$ written_note("Maintenant que la distance entre nous est aussi physique, ça me semble définitif. Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas. Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles. J'aimerais beaucoup entendre parler de ta nouvelle école et de comment tu vas. Je ne te souhaite que le meilleur.\n \nSincèrement, Iwanako")
 
 window show
 
@@ -11311,7 +11311,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\nMerci, Iwanako. Je voulais répondre “oui” à ta question de ce jour d'hiver, mais je n'ai jamais pu."
+n " {vspace=90}Merci, Iwanako. Je voulais répondre “oui” à ta question de ce jour d'hiver, mais je n'ai jamais pu."
 
 
 n "Au moment où on s'est revus, il était trop tard."
@@ -11329,7 +11329,7 @@ n "Je suis celui que je suis à cause de tout ce qui m'est arrivé et ce que j'a
 stop music fadeout 2.0
 
 
-n "\n\nEt ce passé m'a peut-être donné une importante leçon aujourd'hui."
+n " {vspace=60}Et ce passé m'a peut-être donné une importante leçon aujourd'hui."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
 
@@ -11367,7 +11367,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nQu'est-ce que je vais faire ? Est-ce que je sors du lit, vais sur la piste, et prétends que rien n'est arrivé ?"
+n " {vspace=60}Qu'est-ce que je vais faire ? Est-ce que je sors du lit, vais sur la piste, et prétends que rien n'est arrivé ?"
 
 
 n "Est-ce qu'Emi viendra ? Après les événements de la veille, j'ai un doute."
@@ -11385,7 +11385,7 @@ n "Mais est-ce que j'ai dit quelque chose de vraiment déplacé ? Elle ne me la
 n "Rien de ce que je fais, rien de ce que je dis ne va changer ça. Elle ne changera pas, et elle a déjà décidé de me garder à distance."
 
 
-n "\nEst-ce que je peux vraiment aller sur la piste et la voir, sachant que je ne vais jamais passer au-delà d'où je suis maintenant ?"
+n " {vspace=30}Est-ce que je peux vraiment aller sur la piste et la voir, sachant que je ne vais jamais passer au-delà d'où je suis maintenant ?"
 
 nvl clear
 nvl hide dissolve

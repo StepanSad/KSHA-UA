@@ -2173,7 +2173,7 @@ $ renpy.music.set_volume(1.0, 0.0, channel="ambient")
 
 window hide
 
-$ written_note(u"Hisao,\n\nWe'll be holding a party at my place. Please come at six o'clock to room 225 in the girls' dormitory.\nSorry for notifying you this way, but I have class representative duties.\n\n- Lilly Satou", text_args={"color":"#000000"})
+$ written_note(u"Hisao,\n \nWe'll be holding a party at my place. Please come at six o'clock to room 225 in the girls' dormitory.\nSorry for notifying you this way, but I have class representative duties.\n \n- Lilly Satou", text_args={"color":"#000000"})
 
 window show
 
@@ -3682,7 +3682,7 @@ with charachange
 
 window hide
 
-$ written_note("\nEggs x2\nBread loaf x1\nWhole-grain cereal x1\nThyme x1\n")
+$ written_note(" {vspace=30}Eggs x2\nBread loaf x1\nWhole-grain cereal x1\nThyme x1\n ")
 
 window show
 
@@ -4524,11 +4524,11 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nWhile I'd like to say that I don't know why she used such an old-fashioned method of communication, considering a phone call or an email would be both much faster and easier, the answer feels obvious enough given the content."
+n " {vspace=90}While I'd like to say that I don't know why she used such an old-fashioned method of communication, considering a phone call or an email would be both much faster and easier, the answer feels obvious enough given the content."
 
 n "A letter leaves a comfortable distance between the sender and the recipient. Unlike a phone, it isn't required that you engage in conversation, and unlike email, there is less expectation of an immediate reply."
 
-n "\nStatements such as “the third-years seem to be very anxious about the final exams,” and “it's so weird to think we are already seniors, isn't it?” are just smalltalk. Smalltalk that could have been achieved by simply replying to any of the messages I'd sent her while in hospital."
+n " {vspace=30}Statements such as “the third-years seem to be very anxious about the final exams,” and “it's so weird to think we are already seniors, isn't it?” are just smalltalk. Smalltalk that could have been achieved by simply replying to any of the messages I'd sent her while in hospital."
 
 n "The ending, though, is the true reason she sent this. The last couple of lines, added almost as an afterthought."
 
@@ -4542,7 +4542,7 @@ with locationchange
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n“I wonder if we will meet again. Perhaps it's for the best if we don't?”"
+n " {vspace=210}“I wonder if we will meet again. Perhaps it's for the best if we don't?”"
 
 n "It's a statement that should hurt. I've always heard breakups are nasty stuff, but it feels like this is simply a reaffirmation of what we both already knew instead."
 
@@ -4550,7 +4550,7 @@ n "It's the preceding text, no more than smalltalk, that makes me feel most unea
 
 nvl clear
 
-n "\n\n\n\n\n\n\n\n“If you would like to correspond with me, by all means write me back.”"
+n " {vspace=240}“If you would like to correspond with me, by all means write me back.”"
 
 n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
 
@@ -4584,7 +4584,7 @@ with dissolve
 
 nvl show dissolve
 
-n "\n\n\n\nI sweat profusely, awaiting the dreaded moment."
+n " {vspace=120}I sweat profusely, awaiting the dreaded moment."
 
 
 $ renpy.music.set_volume(0.7, 0.0, channel="music")
@@ -4596,9 +4596,9 @@ n "It's coming for me, I can feel it."
 
 play sound sfx_slide
 
-n "\n\n{image=vfx/reddash.png}{color=#FF0000}{b}Death.{/b}{/color}"
+n " {vspace=60}{image=vfx/reddash.png}{color=#FF0000}{b}Death.{/b}{/color}"
 
-n "\n\nDeath in the form of a single sheet of paper."
+n " {vspace=60}Death in the form of a single sheet of paper."
 
 $ renpy.music.set_volume(1.0, 0.5, channel="music")
 

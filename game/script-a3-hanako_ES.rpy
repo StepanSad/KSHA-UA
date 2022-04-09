@@ -3002,7 +3002,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\n\nDespués del ataque de pánico de Hanako, me he encontrado revalorando la relación que compartimos, y lo que sé de ella."
+n " {vspace=60}Después del ataque de pánico de Hanako, me he encontrado revalorando la relación que compartimos, y lo que sé de ella."
 
 n "Tuve un momento lo suficientemente difícil lidiando con cuatro meses en el hospital. Una mirada a sus cicatrices me dice que ella estuvo en uno por más tiempo que yo."
 
@@ -3012,7 +3012,7 @@ n "¿Y qué hay de su familia? Aún no le he preguntado a Lilly sobre ellos; no 
 
 n "No sé dónde creció, o cómo era su escuela anterior. Ni de sus amigos anteriores, sus deseos y ambiciones. Ni siquiera sus gustos en música, comida y películas… todas las pequeñas cosas sobre las que yo sabía de todos mis viejos amigos."
 
-n "\n\n¿Qué es lo que he estado haciendo, en todo este tiempo en el que he estado con ella y Lilly?"
+n " {vspace=60}¿Qué es lo que he estado haciendo, en todo este tiempo en el que he estado con ella y Lilly?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 $ renpy.music.set_volume(0.1, 0.0, channel="sound")
@@ -5202,11 +5202,11 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 window hide
 
-$ written_note("Quería por algún medio expresar mis sentimientos, pero las palabras correctas no venían a mí. No podía decir algo para consolarte. Realmente siento no poder haberte apoyado cuando más lo necesitabas, aunque me gustes tanto. Por lo menos ahora, finalmente, puedo ser más honesta.\n\n\n\n")
+$ written_note("Quería por algún medio expresar mis sentimientos, pero las palabras correctas no venían a mí. No podía decir algo para consolarte. Realmente siento no poder haberte apoyado cuando más lo necesitabas, aunque me gustes tanto. Por lo menos ahora, finalmente, puedo ser más honesta. {vspace=120} ")
 
-$ written_note("Si pudiera volver a aquellos días silenciosos en febrero y marzo, te diría que no renunciaras a ti mismo. Eso es lo que diría. Quizás no te hubieses alejado tanto si tan sólo hubiera dicho algo. Espero que hayas podido recuperarte por tu cuenta.\n\n\n\n")
+$ written_note("Si pudiera volver a aquellos días silenciosos en febrero y marzo, te diría que no renunciaras a ti mismo. Eso es lo que diría. Quizás no te hubieses alejado tanto si tan sólo hubiera dicho algo. Espero que hayas podido recuperarte por tu cuenta. {vspace=120} ")
 
-$ written_note("Ahora que la distancia entre nosotros es también física, se siente también más definitiva, de algún modo. Me pregunto si nos encontraremos de nuevo. ¿Tal vez sea mejor si no? Aun así, si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta. Me agradaría mucho escuchar sobre tu nueva escuela y cómo te está yendo. Te deseo todo lo mejor.\n\nAtentamente, Iwanako")
+$ written_note("Ahora que la distancia entre nosotros es también física, se siente también más definitiva, de algún modo. Me pregunto si nos encontraremos de nuevo. ¿Tal vez sea mejor si no? Aun así, si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta. Me agradaría mucho escuchar sobre tu nueva escuela y cómo te está yendo. Te deseo todo lo mejor.\n \nAtentamente, Iwanako")
 
 window show
 

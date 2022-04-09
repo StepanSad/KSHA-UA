@@ -2730,7 +2730,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\nI'll admit it, it's almost comforting to know we're not the only school like this."
+n " {vspace=30}I'll admit it, it's almost comforting to know we're not the only school like this."
 
 n "After you see that there can be {b}two{/b} schools with a bunch of… defective kids, well."
 
@@ -4309,7 +4309,7 @@ nvl show dissolve
 $ renpy.music.set_volume(0.3, 0.0, channel="ambient")
 play ambient sfx_rooftop fadein 1.0
 
-n "\n\nStrange that it feels so natural for me to go up to the roof these days."
+n " {vspace=60}Strange that it feels so natural for me to go up to the roof these days."
 
 n "I never would have done such a thing at my old school."
 
@@ -4977,7 +4977,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nThe last time I saw Iwanako was terribly awkward; embarrassingly so. She came to my hospital room, peeled me an apple out of courtesy and then we practically sat in silence for half an hour."
+n " {vspace=150}The last time I saw Iwanako was terribly awkward; embarrassingly so. She came to my hospital room, peeled me an apple out of courtesy and then we practically sat in silence for half an hour."
 
 n "She said “goodbye” and didn't look me in the eye when she closed the door."
 
@@ -4989,7 +4989,7 @@ n "Every time that I didn't speak made the next time even harder."
 
 nvl clear
 
-n "\n\n\n\nShe looked so guilty that I didn't want to say anything that might upset her, and I never could figure out the right words to say."
+n " {vspace=120}She looked so guilty that I didn't want to say anything that might upset her, and I never could figure out the right words to say."
 
 n "I think Iwanako blamed herself for my heart attack. That's ridiculous, of course, but knowing it and believing it are two very different things."
 
@@ -5013,15 +5013,15 @@ window show
 
 window hide
 
-$ written_note("Dear Hisao,\n\nHow are you? I hope you are well and happy at your new school. Everyone here misses you. Almost all of our second-year class got put together in class 3-1 for the final year, so we are pretty comfortable right from the beginning of the year. I'm sure you would've been assigned to this class as well.")
+$ written_note("Dear Hisao,\n \nHow are you? I hope you are well and happy at your new school. Everyone here misses you. Almost all of our second-year class got put together in class 3-1 for the final year, so we are pretty comfortable right from the beginning of the year. I'm sure you would've been assigned to this class as well.")
 
-$ written_note("The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams.\n")
+$ written_note("The mood among the third-years seems to be very anxious about the final exams, even though they are so far away. The teachers are badgering us about it all the time - even old Mr. Tachibana who is, by the way, our homeroom teacher this year. Would you believe it? I was sure that he'd retire after our second year, but here he is, nagging everyone about studying for exams. {vspace=30} ")
 
-$ written_note("I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams.\n\n\n\n\n")
+$ written_note("I think things like that are the main reason why the mood among the third-years is so nervous. I must admit that I'm somehow losing confidence in myself as well, even though I've always fared reasonably well in exams. {vspace=150} ")
 
-$ written_note("It's so weird to think we are already seniors, isn't it? Time has really flown past. I wonder where it went. The new first-years seem so young and somehow really innocent. I keep wondering if I was like them in my first year. I've been feeling nostalgic like this for the whole first trimester.\n\n\n")
+$ written_note("It's so weird to think we are already seniors, isn't it? Time has really flown past. I wonder where it went. The new first-years seem so young and somehow really innocent. I keep wondering if I was like them in my first year. I've been feeling nostalgic like this for the whole first trimester. {vspace=90} ")
 
-$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it…\n\n\n\n\n")
+$ written_note("There are other things I want to say. I'm writing to you because I felt that there are things I should've said after the incident back in winter. I really regret that I wasn't able to say them in person, and I have no excuse for it… {vspace=150} ")
 
 window show
 
@@ -6558,7 +6558,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nIt was weird not having her here."
+n " {vspace=60}It was weird not having her here."
 
 n "Downright unnerving."
 
@@ -7766,7 +7766,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nTell her I love her, tell her I think she's beautiful, tell her that I'll be there when she needs me."
+n " {vspace=60}Tell her I love her, tell her I think she's beautiful, tell her that I'll be there when she needs me."
 
 n "I want to stay with her, to hold her close as she falls back to sleep."
 
@@ -7788,7 +7788,7 @@ n "And now to add to my troubles, it seems as if Emi herself already has an inte
 
 nvl clear
 
-n "\n\n\n\n\n\nThis track captain of hers who seems so interested in her well-being."
+n " {vspace=180}This track captain of hers who seems so interested in her well-being."
 
 n "True, I've only seen the two of them together a few times, but that doesn't change the fact that they seem better suited to one another."
 
@@ -7861,7 +7861,7 @@ nvl show dissolve
 
 nvl clear
 
-n "\nWhat will happen today?"
+n " {vspace=30}What will happen today?"
 
 n "Will things just go back to normal?"
 
@@ -7885,7 +7885,7 @@ n "A reason to not try."
 
 nvl clear
 
-n "\n\n\n\nIt's not as if I've even seen the two of them together outside of track practice."
+n " {vspace=120}It's not as if I've even seen the two of them together outside of track practice."
 
 n "And clearly he's never visited. Emi said as much herself. If they were close, surely he'd visit."
 
@@ -7901,7 +7901,7 @@ n "Maybe because of this track captain. It's possible she's got a bit of an unre
 
 nvl clear
 
-n "\n\n\n\n\n\nBut who would be able to clarify their relationship?"
+n " {vspace=180}But who would be able to clarify their relationship?"
 
 n "It sure as hell can't be Emi. She'd probably just laugh and ask why I wanted to know… and I'm not ready to answer that yet."
 
@@ -7911,7 +7911,7 @@ n "I wonder…"
 
 nvl clear
 
-n "\n\n\n\n\nCould I get away with asking the nurse? He seems pretty protective of Emi. I'm sure he'd know if something was up…"
+n " {vspace=150}Could I get away with asking the nurse? He seems pretty protective of Emi. I'm sure he'd know if something was up…"
 
 n "And he owes me for not letting Emi know he forgot to tell me about her being ill, so he'll keep quiet."
 
@@ -7936,7 +7936,7 @@ with locationskip
 
 nvl show dissolve
 
-n "\n\n\n\nThere's no sign of Emi when I arrive at the track. Is she still too ill?"
+n " {vspace=120}There's no sign of Emi when I arrive at the track. Is she still too ill?"
 
 n "I decide to give her ten minutes."
 
@@ -8646,7 +8646,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n\nThis is a terribly roundabout way of trying to see if she's free on the weekend."
+n " {vspace=240}This is a terribly roundabout way of trying to see if she's free on the weekend."
 
 n "If she's free, then maybe I can ask her on a date or something."
 
@@ -8952,7 +8952,7 @@ with Pause (5.0)
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nHer lips taste faintly of strawberries."
+n " {vspace=120}Her lips taste faintly of strawberries."
 
 n "She leans into the kiss, and her arms tighten around the back of my head, making sure that I don't pull away."
 

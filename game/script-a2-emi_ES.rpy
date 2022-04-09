@@ -5077,7 +5077,7 @@ window show
 
 window hide
 
-$ written_note("Querido Hisao,\n {vspace=30}¿Cómo estás? Espero que estés bien y feliz en tu nueva escuela. Todos aquí te extrañan. Casi todo nuestro grupo de segundo año fue colocado junto en el grupo 3-1 para el último año, así que hemos estado bastante cómodos desde el principio. Estoy segura de que habrías sido asignado a este, también.")
+$ written_note("Querido Hisao,\n \n¿Cómo estás? Espero que estés bien y feliz en tu nueva escuela. Todos aquí te extrañan. Casi todo nuestro grupo de segundo año fue colocado junto en el grupo 3-1 para el último año, así que hemos estado bastante cómodos desde el principio. Estoy segura de que habrías sido asignado a este, también.")
 
 $ written_note("Los ánimos entre los de tercer año parecen ser de muchas ansias por los exámenes finales, aun estando tan lejos. Los maestros nos fastidian por ello todo el tiempo, incluso el viejo señor Tachibana quien es, por cierto, nuestro maestro de cabecera este año. ¿Podrías creerlo? Estaba segura de que se retiraría después de nuestro segundo año, pero aquí está, dándonos lata a todos para que estudiemos para los exámenes.\n ")
 
@@ -6630,7 +6630,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n {vspace=30}Fue extraño no tenerla aquí."
+n " {vspace=30} \nFue extraño no tenerla aquí."
 
 n "Completamente desconcertante."
 
@@ -7847,7 +7847,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n {vspace=30}Decirle que la amo, decirle que pienso que es hermosa, decirle que estaré allí cuando me necesite."
+n " {vspace=30} \nDecirle que la amo, decirle que pienso que es hermosa, decirle que estaré allí cuando me necesite."
 
 n "Quiero quedarme con ella, sostenerla cerca mientras se duerme de nuevo."
 

@@ -4149,7 +4149,7 @@ with charaexit
 window hide
 
 
-$ written_note("Tu ne sais probablement pas comment retourner à l'école depuis ici.\n {vspace=30}Il y aura du travail pour toi quand tu auras réussi. À plus tard~")
+$ written_note("Tu ne sais probablement pas comment retourner à l'école depuis ici.\n \nIl y aura du travail pour toi quand tu auras réussi. À plus tard~")
 
 window show
 

@@ -2178,7 +2178,7 @@ $ renpy.music.set_volume(1.0, 0.0, channel="ambient")
 
 window hide
 
-$ written_note(u"Hisao,\n\nLa fiesta va a ser en mi cuarto. Por favor ven a las seis a la habitación 225 en el dormitorio de chicas.\nDisculpa por notificarte de esta manera, pero me han tocado deberes como representante de clase.\n\n- Lilly Satou", text_args={"color":"#000000"})
+$ written_note(u"Hisao,\n \nLa fiesta va a ser en mi cuarto. Por favor ven a las seis a la habitación 225 en el dormitorio de chicas.\nDisculpa por notificarte de esta manera, pero me han tocado deberes como representante de clase.\n \n- Lilly Satou", text_args={"color":"#000000"})
 
 window show
 
@@ -3690,7 +3690,7 @@ with charachange
 
 window hide
 
-$ written_note(u"\nHuevos x2\nPan x1\nCereal integral x1\nTomillo x1\n")
+$ written_note(u" {vspace=30}Huevos x2\nPan x1\nCereal integral x1\nTomillo x1\n ")
 
 window show
 
@@ -4535,11 +4535,11 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nAunque me gustaría decir que no sé por qué ella usó un método tan anticuado de comunicación, considerando que una llamada telefónica o un e-mail habría sido mucho más rápido y fácil, la respuesta se siente lo bastante obvia dado el contenido."
+n " {vspace=90}Aunque me gustaría decir que no sé por qué ella usó un método tan anticuado de comunicación, considerando que una llamada telefónica o un e-mail habría sido mucho más rápido y fácil, la respuesta se siente lo bastante obvia dado el contenido."
 
 n "Una carta deja una distancia cómoda entre el remitente y el destinatario. A diferencia de un teléfono, no se requiere ninguna conversación, y a diferencia de un e-mail, hay menos expectativa de una respuesta inmediata."
 
-n "\nAfirmaciones como “los ánimos entre los de tercer año parecen ser de muchas ansias por los exámenes finales”, y “es tan extraño pensar que ya estamos en el último año, ¿no es así?” son nada más que cháchara. Cháchara que podría haberse conseguido simplemente respondiendo a cualquiera de los mensajes que le envié cuando estaba en el hospital."
+n " {vspace=30}Afirmaciones como “los ánimos entre los de tercer año parecen ser de muchas ansias por los exámenes finales”, y “es tan extraño pensar que ya estamos en el último año, ¿no es así?” son nada más que cháchara. Cháchara que podría haberse conseguido simplemente respondiendo a cualquiera de los mensajes que le envié cuando estaba en el hospital."
 
 n "El final, sin embargo, es el motivo verdadero por el que envió esto. Las últimas líneas, añadidas casi como si fuera una idea de último momento."
 
@@ -4553,7 +4553,7 @@ with locationchange
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n“Me pregunto si nos encontraremos de nuevo. ¿Tal vez sea mejor si no?”"
+n " {vspace=210}“Me pregunto si nos encontraremos de nuevo. ¿Tal vez sea mejor si no?”"
 
 n "Es una afirmación que debería doler. Siempre he escuchado que el terminar es cosa seria, pero se siente como si esto fuera simplemente una reafirmación de algo que ambos ya sabíamos."
 
@@ -4561,7 +4561,7 @@ n "Es el texto que lo antecede, no más que cháchara, lo que me hace sentir má
 
 nvl clear
 
-n "\n\n\n\n\n\n\n\n“Si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta”."
+n " {vspace=240}“Si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta”."
 
 n "Es claramente obvio que este no es el tipo de carta que uno respondería. Al final, esta carta no es más que una simple abdicación de responsabilidad; una afirmación final para asegurarse a sí misma de que nuestra relación se ha acabado."
 
@@ -4595,7 +4595,7 @@ with dissolve
 
 nvl show dissolve
 
-n "\n\n\n\nSudo copiosamente, esperando el momento aterrador."
+n " {vspace=120}Sudo copiosamente, esperando el momento aterrador."
 
 $ renpy.music.set_volume(0.7, 0.0, channel="music")
 play music music_tension fadein 6.0
@@ -4605,10 +4605,10 @@ n "Cada clic del reloj tensa mis músculos aún más, cada minuto que pasa poni�
 n "Viene por mí, puedo sentirlo."
 
 play sound sfx_slide
+label sos:
+n " {vspace=360}{image=vfx/reddash.png}{color=#FF0000}{b}La muerte.{/b}{/color}"
 
-n "\n\n{image=vfx/reddash.png}{color=#FF0000}{b}La muerte.{/b}{/color}"
-
-n "\n\nMuerte con la forma de una hoja de papel."
+n " {vspace=60}Muerte con la forma de una hoja de papel."
 
 $ renpy.music.set_volume(1.0, 0.5, channel="music")
 

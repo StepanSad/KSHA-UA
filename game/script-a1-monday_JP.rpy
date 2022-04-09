@@ -2376,7 +2376,7 @@ play music music_night fadein 1.0
 
 window hide
 
-$ written_note("ひっちゃんへ。荷解きを済ませておきました。\nもし制服が合わなかったら事務室に行くといいそうです。\n何かあったら、いつでも電話してね。\n {vspace=30}母さん父さんより")
+$ written_note("ひっちゃんへ。荷解きを済ませておきました。\nもし制服が合わなかったら事務室に行くといいそうです。\n何かあったら、いつでも電話してね。\n \n母さん父さんより")
 
 window show
 
@@ -2439,7 +2439,7 @@ with Pause (1.0)
 hide pills
 with None
 
-$ written_note("中井 久夫\n {vspace=30}死にたくなければ一日二錠")
+$ written_note("中井 久夫\n \n死にたくなければ一日二錠")
 
 window show
 

@@ -11,11 +11,11 @@ nvl show dissolve
 $ renpy.music.set_volume(0.5, 1.0, channel="music")
 play music music_normal fadein 1.0
 
-n "\n\n\nDespués de la emoción de nuestro viaje a Hokkaido, parece extraño volver de pronto a la rutina diaria. En efecto, se siente como un día normal, como cualquier otro."
+n " {vspace=90}Después de la emoción de nuestro viaje a Hokkaido, parece extraño volver de pronto a la rutina diaria. En efecto, se siente como un día normal, como cualquier otro."
 
-n "\nBueno, eso es lo que me gustaría pensar, de todos modos."
+n " {vspace=30}Bueno, eso es lo que me gustaría pensar, de todos modos."
 
-n "\nA decir verdad, el ambiente del grupo entero, no, de la escuela entera ha cambiado."
+n " {vspace=30}A decir verdad, el ambiente del grupo entero, no, de la escuela entera ha cambiado."
 
 n "Si bien antes un trasfondo de sutil agitación había dominado al grupo, ahora que los exámenes están a la vista ha hecho erupción transformándose en un frenético estudio raramente visto de otro modo."
 
@@ -3121,7 +3121,7 @@ with dissolve
 nvl clear
 nvl show dissolve
 
-n "\n\n“Esto es extraño”."
+n " {vspace=60}“Esto es extraño”."
 
 play music music_pearly fadein 5.0
 
@@ -3132,7 +3132,7 @@ show ev hisao_teacup:
     linear 30.0 alpha 0.5
 with None
 
-n "\n\nEse único pensamiento ha pasado por mi mente una cantidad incontable de veces desde que mi vida aquí comenzó."
+n " {vspace=60}Ese único pensamiento ha pasado por mi mente una cantidad incontable de veces desde que mi vida aquí comenzó."
 
 n "Se siente como si fuera una forma fácil de desechar una pregunta difícil, como si simplemente etiquetar algo con esas tres palabras hiciera que desapareciera, o por lo menos que no valiera la pena seguir pensando en ello."
 
@@ -3144,25 +3144,25 @@ n "En efecto, cuando pienso al respecto, parece una analogía maravillosamente a
 
 nvl clear
 
-n "\n\nPero se supone que tales situaciones también te vuelven muy competente en ese lenguaje de forma muy rápida, al verte forzado a aprenderlo para poder sobrevivir. Dicho de otro modo, la situación se vuelve del tipo “nada o ahógate”."
+n " {vspace=60}Pero se supone que tales situaciones también te vuelven muy competente en ese lenguaje de forma muy rápida, al verte forzado a aprenderlo para poder sobrevivir. Dicho de otro modo, la situación se vuelve del tipo “nada o ahógate”."
 
-n "\nMe pregunto si de verdad he logrado nadar, después de todo este tiempo."
+n " {vspace=30}Me pregunto si de verdad he logrado nadar, después de todo este tiempo."
 
 n "Los exámenes me estresan un montón, a pesar de que al fin están acabando, pero he mantenido la aprobación de Mutou, y ahora tengo una especie de dirección para mi futuro."
 
 n "Pero sigo usando esa estúpida frase sin sentido."
 
-n "\n\n“Esto es extraño”."
+n " {vspace=60}“Esto es extraño”."
 
 nvl clear
 
-n "\n\nEn verdad es sorprendente lo rápido que uno llega a aceptar el estar rodeado de personas con discapacidades y condiciones increíblemente impactantes."
+n " {vspace=60}En verdad es sorprendente lo rápido que uno llega a aceptar el estar rodeado de personas con discapacidades y condiciones increíblemente impactantes."
 
 n "Tanto así, que de verdad me pregunto por qué me siento tanto como un extranjero."
 
-n "\nCiertamente no es por falta de socialización o amistades. He llegado a conocer a la mayoría de mis compañeros al punto de dirigirme a ellos por sus nombres, y conozco a unos cuantos más en la escuela. Ya sea que les falte un brazo o una pierna, los estudiantes aquí son iguales a los demás de su edad."
+n " {vspace=30}Ciertamente no es por falta de socialización o amistades. He llegado a conocer a la mayoría de mis compañeros al punto de dirigirme a ellos por sus nombres, y conozco a unos cuantos más en la escuela. Ya sea que les falte un brazo o una pierna, los estudiantes aquí son iguales a los demás de su edad."
 
-n "\n\nPuedo recorrer los pasillos en los que alguna vez me perdía con una facilidad que no esperaba tener alguna vez, gracias a la disposición lógica de la escuela, y puedo hablar y dialogar con comodidad con mis maestros."
+n " {vspace=60}Puedo recorrer los pasillos en los que alguna vez me perdía con una facilidad que no esperaba tener alguna vez, gracias a la disposición lógica de la escuela, y puedo hablar y dialogar con comodidad con mis maestros."
 
 nvl clear
 nvl hide dissolve
@@ -4964,13 +4964,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nLilly es demasiado anticuada como para ser capaz de lidiar con una relación sin ningún tipo de presencia física, e incluso yo también lo soy, hasta cierto punto. Lo único que podríamos ser para el otro sería una voz al otro lado del mundo."
+n " {vspace=90}Lilly es demasiado anticuada como para ser capaz de lidiar con una relación sin ningún tipo de presencia física, e incluso yo también lo soy, hasta cierto punto. Lo único que podríamos ser para el otro sería una voz al otro lado del mundo."
 
 n "Al final, intentar racionalizar todo es inútil. Cualquier intento de conectar lo que está pasando con el futuro o el pasado tan solo parece volverse más difícil mientras más me concentro."
 
 n "Esos tranquilos momentos cuando simplemente caminábamos uno junto al otro, el precioso tiempo que pasamos con Hanako y Akira, las pláticas casuales que teníamos durante el almuerzo, las veces que hicimos el amor, las confesiones de nuestros sentimientos hacia el otro…"
 
-n "\n\n\nTodo en vano. Todo simplemente un momento pasajero de nuestras jóvenes vidas."
+n " {vspace=90}Todo en vano. Todo simplemente un momento pasajero de nuestras jóvenes vidas."
 
 $ renpy.music.set_volume(0.1, 1.0, channel="ambient")
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
@@ -5125,7 +5125,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nHan pasado algunos días desde que Lilly me contó sus planes. No he ido a nuestro lugar de almuerzo de siempre desde entonces, no es como si tuviera mucho sentido."
+n " {vspace=60}Han pasado algunos días desde que Lilly me contó sus planes. No he ido a nuestro lugar de almuerzo de siempre desde entonces, no es como si tuviera mucho sentido."
 
 n "Hanako ha estado ocupada con el club de periodismo al cual se ha unido hace poco, y ha comenzado a hablar en clases con Naomi de vez en cuando."
 
@@ -5133,11 +5133,11 @@ n "Incluso Lilly, además del hecho de que encontrarnos sería extraño en cualq
 
 n "Y ahora, ya están prácticamente aquí. Cuando termine de sonar la campana de hoy, las vacaciones de verano habrán comenzado."
 
-n "\n\n\nSupongo que lo único que haré será visitar a mis padres y vagar en mi antiguo hogar, ahora que mis planes anteriores están por completo descarriados."
+n " {vspace=90}Supongo que lo único que haré será visitar a mis padres y vagar en mi antiguo hogar, ahora que mis planes anteriores están por completo descarriados."
 
 nvl clear
 
-n "\n\nMientras tanto, Akira y Lilly estarán en camino a Escocia, para vivir ahí el resto de sus vidas."
+n " {vspace=60}Mientras tanto, Akira y Lilly estarán en camino a Escocia, para vivir ahí el resto de sus vidas."
 
 n "Sin importar lo mucho que intente racionalizar la idea de que una vez que comiencen las vacaciones de verano, mi vida regresará a como era antes, esto simplemente se niega a suceder."
 
@@ -5145,7 +5145,7 @@ n "Todos están siguiendo con sus vidas. Lilly se reencontrará con su familia, 
 
 n "Incluso yo sigo adelante, al final. Con las calificaciones que he obtenido hasta ahora en Yamaku, en especial luego de un comienzo tan complicado, el camino para enseñar ciencias como profesión parece sencillo."
 
-n "\n\nSupongo que al menos debería estar feliz por ese hecho, pero en realidad no parece ayudar."
+n " {vspace=60}Supongo que al menos debería estar feliz por ese hecho, pero en realidad no parece ayudar."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -6424,11 +6424,11 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nLos planes de Hanako para sus vacaciones hacen un fuerte contraste con mi decisión de simplemente seguir la sugerencia de mis padres y permanecer con ellos."
+n " {vspace=90}Los planes de Hanako para sus vacaciones hacen un fuerte contraste con mi decisión de simplemente seguir la sugerencia de mis padres y permanecer con ellos."
 
 n "Las vacaciones siempre me han entusiasmado menos que a los demás, así que quizás esto es simplemente un regreso al statu quo."
 
-n "\nAntes de mi ataque cardiaco, vivía tan sin rumbo que las vacaciones no eran muy diferentes de mi vida diaria de todas formas."
+n " {vspace=30}Antes de mi ataque cardiaco, vivía tan sin rumbo que las vacaciones no eran muy diferentes de mi vida diaria de todas formas."
 
 n "Después de las clases vagaría un tanto por la ciudad, a menudo con algunos amigos, antes de dirigirme a casa a cenar usualmente con uno de mis padres, pero rara vez ambos."
 
@@ -6436,13 +6436,13 @@ n "Sus horarios de trabajo no les dejaban mucho tiempo para estar en casa, e ir 
 
 nvl clear
 
-n "\n\n\nPero desde que llegué a Yamaku, se siente como si hubiera cambiado fundamentalmente como persona. La llamada telefónica con mis padres borró cualquier rastro de duda que pudiera haber tenido al respecto, en cualquier caso."
+n " {vspace=90}Pero desde que llegué a Yamaku, se siente como si hubiera cambiado fundamentalmente como persona. La llamada telefónica con mis padres borró cualquier rastro de duda que pudiera haber tenido al respecto, en cualquier caso."
 
 n "Si bien antes llevaba un nivel bastante normal de independencia para un adolescente, sin ser eso demasiado, mis padres estaban más que satisfechos al oír de mi nueva capacidad para cuidarme yo solo."
 
 n "Lavar la ropa, cocinar para mí, limpiar, todo además de las otras tareas generales que nacen de vivir sin padres cerca… solo insignificantes cosas que tuve que aprender, pero con relativa facilidad."
 
-n "\nCuando pienso al respecto, siempre dependí de ellos, incluso si no estaban en casa todo el tiempo. Pero, decir que nunca dependí de nadie luego de mudarme a los dormitorios de Yamaku estaría lejos de la verdad."
+n " {vspace=30}Cuando pienso al respecto, siempre dependí de ellos, incluso si no estaban en casa todo el tiempo. Pero, decir que nunca dependí de nadie luego de mudarme a los dormitorios de Yamaku estaría lejos de la verdad."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -6616,55 +6616,55 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nCuando la conocí, ella parecía apartada y quizás un tanto distante. Sus acciones siempre eran cuidadosas, medidas y precisas, y su compostura mantenida con cuidado siempre daba la apariencia de serenidad y confianza infalibles."
+n " {vspace=60}Cuando la conocí, ella parecía apartada y quizás un tanto distante. Sus acciones siempre eran cuidadosas, medidas y precisas, y su compostura mantenida con cuidado siempre daba la apariencia de serenidad y confianza infalibles."
 
 n "A medida que pasó el tiempo, se volvió menos formal. Solo un poco, pero lo suficiente. Se sintió bien verla bajar sus inhibiciones junto a mí, y abrirse, aunque fuera un poco, por su propia voluntad; se sintió como si estuviera viendo a su verdadero ser volverse lentamente más visible y enérgico."
 
-n "\nPero, ahora, estoy comenzando a tener dudas."
+n " {vspace=30}Pero, ahora, estoy comenzando a tener dudas."
 
-n "\nQuizás son de esperarse después de lo que es, efectivamente, el fin de nuestra relación. No se sienten nuevas o extrañas, sino como un libro viejo que se ha vuelto a encontrar y desempolvado."
+n " {vspace=30}Quizás son de esperarse después de lo que es, efectivamente, el fin de nuestra relación. No se sienten nuevas o extrañas, sino como un libro viejo que se ha vuelto a encontrar y desempolvado."
 
 n "Pronto me di cuenta luego de conocer a Lilly de que ella me veía como veía a Hanako; como alguien que necesitaba ayuda y cuidado. Al principio, simplemente pensé que estaríamos bien como amigos, ayudándonos mutuamente en nuestro limitado tiempo juntos en la escuela."
 
 nvl clear
 
-n "\n\nPero luego comencé a atesorar más y más nuestros momentos juntos, desde nuestras silenciosas caminatas a nuestras charlas durante el almuerzo. Las partes buenas de su personalidad se volvían cada vez más evidentes, y cada vez más agradables."
+n " {vspace=60}Pero luego comencé a atesorar más y más nuestros momentos juntos, desde nuestras silenciosas caminatas a nuestras charlas durante el almuerzo. Las partes buenas de su personalidad se volvían cada vez más evidentes, y cada vez más agradables."
 
 n "La ausencia causada por el viaje de Lilly a Escocia para visitar a su lejana familia y tía enferma solamente me hizo darme cuenta de lo mucho que me gustaba tan solo estar junto a ella, y pensé que ella sentía algo parecido."
 
-n "\nPero, para ella, quizás eso no era todo lo que había en nuestra relación."
+n " {vspace=30}Pero, para ella, quizás eso no era todo lo que había en nuestra relación."
 
-n "\nAun después de que ella regresara a Japón, eso solo significó que volvió a perder a su familia luego de verlos por tan poco tiempo."
+n " {vspace=30}Aun después de que ella regresara a Japón, eso solo significó que volvió a perder a su familia luego de verlos por tan poco tiempo."
 
 n "Ella vivió gran parte de su vida sin una familia a su lado, sin mencionar a Akira trabajando largas horas, que tuvo poca opción más que ser así."
 
 nvl clear
 
-n "\n\nPensé que su sentido de independencia era un rasgo bueno y admirable. Iba en un completo contraste con mi dependencia de mis padres antes de mi ataque cardiaco, por reacio que haya estado para admitirlo."
+n " {vspace=60}Pensé que su sentido de independencia era un rasgo bueno y admirable. Iba en un completo contraste con mi dependencia de mis padres antes de mi ataque cardiaco, por reacio que haya estado para admitirlo."
 
 n "Sin embargo, también significó que ella nunca dejó que la gente se le acercara mucho."
 
 n "Perdió a su familia posiblemente debido a su ceguera, fue a una escuela diferente de cualquiera que ella conociera debido a eso, y se esforzó aun más para asegurarse de que no terminaría como una carga para su hermana y aquellos que la rodeaban."
 
-n "\nY ahora, Akira va a Inverness, tal como la familia que pensó que había perdido."
+n " {vspace=30}Y ahora, Akira va a Inverness, tal como la familia que pensó que había perdido."
 
 n "Nunca me contó de sus planes, por mucho que estuviera en conflicto con respecto a ellos."
 
 n "Lilly no quería ser una carga para nadie, incluso para mí."
 
-n "\n\n… Soy un idiota."
+n " {vspace=60}… Soy un idiota."
 
 nvl clear
 
-n "\n\nNunca lo cuestioné. Nunca intenté estar ahí ni pregunté cuando ella necesitaba que lo hiciera."
+n " {vspace=60}Nunca lo cuestioné. Nunca intenté estar ahí ni pregunté cuando ella necesitaba que lo hiciera."
 
 n "Simplemente arreglé mi vida y esperé que permaneciera así para siempre, nosotros dos teniendo una larga relación donde ambos trabajábamos para alcanzar nuestro futuro juntos."
 
-n "\nUn pequeño foso de frustración y enojo hacia mí mismo brota en mi pecho."
+n " {vspace=30}Un pequeño foso de frustración y enojo hacia mí mismo brota en mi pecho."
 
-n "\nSolamente dejé que todo pasara, sin nunca intentar ayudar a Lilly."
+n " {vspace=30}Solamente dejé que todo pasara, sin nunca intentar ayudar a Lilly."
 
-n "\nQue ella estuviera ahí era suficiente. Pensé que podría seguir avanzando si eso fuera cierto."
+n " {vspace=30}Que ella estuviera ahí era suficiente. Pensé que podría seguir avanzando si eso fuera cierto."
 
 n "Pero nunca pudo haber sido suficiente. Era una dependencia infantil en alguien, sin ningún intento de entenderle o ayudarle con su situación."
 
@@ -7191,7 +7191,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\nEntonces eso fue. Tuve mi oportunidad de corregir mi error, y la arruiné."
+n " {vspace=30}Entonces eso fue. Tuve mi oportunidad de corregir mi error, y la arruiné."
 
 n "Ya sea que yo tuviera la culpa por olvidar mis medicamentos y no controlarme, o mi cuerpo la tuviera por rendirse tan pronto, eso no importa ahora."
 
@@ -7201,15 +7201,15 @@ n "La almohada azul pastel cede sin ofrecer mucha resistencia al dejarme caer so
 
 n "Comparada a la oscuridad de los eventos de anoche, la brillante luz de la habitación a mi alrededor es llamativa. Pero todo lo que hace es enfatizar lo sobrenaturales que son los lugares como este."
 
-n "\nArritmia."
+n " {vspace=30}Arritmia."
 
-n "\nUna palabra inusual. Una extranjera, alienígena. Una con la que no quieres estar en la misma habitación."
+n " {vspace=30}Una palabra inusual. Una extranjera, alienígena. Una con la que no quieres estar en la misma habitación."
 
 n "Una condición rara. Provoca al corazón a actuar de forma errática y ocasionalmente latir demasiado rápido. Puede ser fatal."
 
 nvl clear
 
-n "\n“Fue un milagro que hayas podido continuar por tanto tiempo sin que sucediera nada”, me dijeron."
+n " {vspace=30}“Fue un milagro que hayas podido continuar por tanto tiempo sin que sucediera nada”, me dijeron."
 
 n "Y luego, sucedió. Mi condición me arrebató todo; mi vieja escuela ya no era de importancia. Mi hogar quedó reducido a un lugar lejano. Tanto mis amigos como mi primer amor simplemente dejaron de visitar después de pasado un tiempo."
 
@@ -7223,29 +7223,29 @@ n "La sensación de aislamiento en Yamaku y sus alrededores no era del todo inde
 
 nvl clear
 
-n "\n\nLa gente en las calles en ocasiones miraba incómodamente, o giraban rápido sus cabezas cuando se daban cuenta de que estábamos mirando. Incluso si mi condición no era visible, mi uniforme sí lo era."
+n " {vspace=60}La gente en las calles en ocasiones miraba incómodamente, o giraban rápido sus cabezas cuando se daban cuenta de que estábamos mirando. Incluso si mi condición no era visible, mi uniforme sí lo era."
 
 n "Incluso si no lo fuera, yo aún era diferente. Tomaba diecisiete pastillas al día, en la mañana, al mediodía, y en la noche. Mi cicatriz, si bien escondida bajo la ropa, todavía era una marca permanente de mi condición. Y por sobre todo, estaba la posibilidad real de mi muerte."
 
 n "Una mala caída. Un distraído golpe fuerte en la espalda. Una simple carrera llevada demasiado lejos. Cualquier cosa podría haber gatillado mi corazón, y varias veces me equilibré al borde del abismo incluso con todo el cuidado que tenía conmigo."
 
-n "\nPero estaba bien. Podía haber vivido con todo eso."
+n " {vspace=30}Pero estaba bien. Podía haber vivido con todo eso."
 
 n "Porque había una última cosa que encontré, o mejor dicho reencontré, después de entrar a Yamaku."
 
-n "\nLa cual una vez más me fue arrebatada frente a mis ojos."
+n " {vspace=30}La cual una vez más me fue arrebatada frente a mis ojos."
 
 nvl clear
 
-n "\nSolo ahora me doy cuenta de lo delicado que era mi nuevo sentido de la felicidad. Todo dependía de ella, la cabecilla de mi vida desde que entré a Yamaku como un taciturno, confundido y errante estudiante de transferencia."
+n " {vspace=30}Solo ahora me doy cuenta de lo delicado que era mi nuevo sentido de la felicidad. Todo dependía de ella, la cabecilla de mi vida desde que entré a Yamaku como un taciturno, confundido y errante estudiante de transferencia."
 
 n "Lilly Satou era la persona en la que podía depender por sobre todos los demás, y quien reciprocaba el amor que sentía por ella. Pero le fallé, y me di cuenta de ello demasiado tarde."
 
 n "Pensé que podría simplemente establecer mi vida y continuar de esa forma para siempre, pero el mundo real no funciona de esa forma. Finalmente me di cuenta del significado de aquellas palabras, solo para ser abatido mientras confrontaba mi fracaso al no hacer eso a tiempo."
 
-n "\n…"
+n " {vspace=30}…"
 
-n "\nLos alrededores en los que me encuentro ahora son demasiado familiares. Es como si Yamaku hubiera sido un sueño, y aún estuviera recuperándome de mi primer ataque cardiaco fuerte."
+n " {vspace=30}Los alrededores en los que me encuentro ahora son demasiado familiares. Es como si Yamaku hubiera sido un sueño, y aún estuviera recuperándome de mi primer ataque cardiaco fuerte."
 
 n "Quizás es por eso que me siento tan cansado. Se siente casi como si hubiera vivido todos estos últimos meses de mi vida en el lapso de minutos."
 

@@ -293,7 +293,7 @@ n "Sa nouvelle responsabilité m’empêche efficacement de la voir en dehors de
 n "Sauf que ça a beau être moins risqué, je me sens de plus en plus misérable. Emi ne semble pas bien à chaque fois que je la vois maintenant ; cercles noirs autour des yeux, elle semble de plus en plus distraite, et je ne peux pas me résoudre à lui demander ce qui ne va pas, parce que ça ne semble jamais être le bon moment."
 
 
-n "\nJe suis vraiment ridicule."
+n " {vspace=30}Je suis vraiment ridicule."
 
 stop ambient fadeout 2.0
 

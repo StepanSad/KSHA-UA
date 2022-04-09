@@ -2695,7 +2695,7 @@ $ renpy.music.set_volume(1.0, 0.0, channel="ambient")
 window hide
 
 
-$ written_note(u"Hisao,\n\nLa fête aura lieu dans ma chambre. Viens s'il te plaît à six heures dans la chambre 225 du dortoir des filles.\nDésolée de te l'annoncer de cette façon, mais j'ai mes obligations de déléguée de classe.\n\n- Lilly Satou", text_args={"color":"#000000"})
+$ written_note(u"Hisao,\n \nLa fête aura lieu dans ma chambre. Viens s'il te plaît à six heures dans la chambre 225 du dortoir des filles.\nDésolée de te l'annoncer de cette façon, mais j'ai mes obligations de déléguée de classe.\n \n- Lilly Satou", text_args={"color":"#000000"})
 
 window show
 
@@ -4576,7 +4576,7 @@ with charachange
 window hide
 
 
-$ written_note("\nOeufs x2\nPain de mie x1\nCéréales au blé complet x1\nThym x1\n")
+$ written_note(" {vspace=30}Oeufs x2\nPain de mie x1\nCéréales au blé complet x1\nThym x1\n ")
 
 window show
 
@@ -5649,13 +5649,13 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\nBien que j'aimerais dire que je ne sais pas pourquoi elle utilise une méthode si obsolète de communication, vu qu'un appel téléphonique ou un e-mail aurait été plus rapide et pratique, sa raison est assez évidente."
+n " {vspace=90}Bien que j'aimerais dire que je ne sais pas pourquoi elle utilise une méthode si obsolète de communication, vu qu'un appel téléphonique ou un e-mail aurait été plus rapide et pratique, sa raison est assez évidente."
 
 
 n "Une lettre laisse une distance confortable entre l'expéditrice et le destinataire. Contrairement à un téléphone, il n'est pas requis d'engager une conversation, et contrairement à un mail, on attend moins une réponse immédiate."
 
 
-n "\nDes phrases telles que “les étudiants de troisième année semblent très inquiets pour les examens finaux“ ou “c'est bizarre de penser qu'on est déjà en dernière année, non ?“ sont juste là pour parler de choses peu importantes. Des choses qui auraient pu être répondues à n'importe lequel des messages que je lui ai envoyés pendant que j’étais à l’hôpital."
+n " {vspace=30}Des phrases telles que “les étudiants de troisième année semblent très inquiets pour les examens finaux“ ou “c'est bizarre de penser qu'on est déjà en dernière année, non ?“ sont juste là pour parler de choses peu importantes. Des choses qui auraient pu être répondues à n'importe lequel des messages que je lui ai envoyés pendant que j’étais à l’hôpital."
 
 
 n "La fin, cela dit, est la vraie raison pour laquelle elle a envoyé cette lettre. Les dernières lignes, ajoutées presque comme un post scriptum."
@@ -5671,7 +5671,7 @@ with locationchange
 nvl show dissolve
 
 
-n "\n\n\n\n\n\n\n“Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas.”"
+n " {vspace=210}“Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas.”"
 
 
 n "C'est une remarque qui devrait faire mal. J'ai toujours entendu que les ruptures étaient difficiles, mais là c'est plutôt une réaffirmation de ce qu'on savait déjà tous les deux."
@@ -5682,7 +5682,7 @@ n "Ce qui est dans le texte précédent, qui n'est là que pour combler les lign
 nvl clear
 
 
-n "\n\n\n\n\n\n\n\n“Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles.”"
+n " {vspace=240}“Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles.”"
 
 
 n "Il est évident que ce n'est pas le genre de lettre à laquelle on doit répondre. En fin de compte, cette lettre n'est rien de plus qu'une simple abdication de responsabilité, une note finale pour s'assurer que notre relation est vraiment finie."
@@ -5721,7 +5721,7 @@ with dissolve
 nvl show dissolve
 
 
-n "\n\n\n\nJe transpire beaucoup, attendant le moment crucial."
+n " {vspace=120}Je transpire beaucoup, attendant le moment crucial."
 
 
 $ renpy.music.set_volume(0.7, 0.0, channel="music")
@@ -5736,10 +5736,10 @@ n "Ça vient pour moi, je peux le sentir."
 play sound sfx_slide
 
 
-n "\n\n{image=vfx/reddash.png}{color=#FF0000}{b}La Mort.{/b}{/color}"
+n " {vspace=60}{image=vfx/reddash.png}{color=#FF0000}{b}La Mort.{/b}{/color}"
 
 
-n "\n\nLa Mort sous la forme d'une feuille de papier."
+n " {vspace=60}La Mort sous la forme d'une feuille de papier."
 
 $ renpy.music.set_volume(1.0, 0.5, channel="music")
 

@@ -934,7 +934,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nRin fait la demande et - merci à Nomiya faisant pression sur le principal, j'en suis sûr - obtient l'exemption du reste du trimestre pour “activité périscolaire exceptionnelle.” Elle va devoir rattraper ça durant les vacances d'été, mais ça ne semble pas la gêner."
+n " {vspace=120}Rin fait la demande et - merci à Nomiya faisant pression sur le principal, j'en suis sûr - obtient l'exemption du reste du trimestre pour “activité périscolaire exceptionnelle.” Elle va devoir rattraper ça durant les vacances d'été, mais ça ne semble pas la gêner."
 
 
 n "Rin sera toujours en mesure de manger et de dormir à l'école, bien sûr ; elle n'a juste pas besoin d'aller en cours. Je ne suis pas sûr de savoir si je l'envie ou non."
@@ -1756,7 +1756,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nDonc en fin de compte, même la personne la plus proche de Rin est aussi éloignée d'elle que les autres."
+n " {vspace=120}Donc en fin de compte, même la personne la plus proche de Rin est aussi éloignée d'elle que les autres."
 
 
 n "Je me demande si Rin elle-même ressent cette distance."
@@ -1768,7 +1768,7 @@ n "J'ai aussi eu l'impression de m'éloigner du monde durant mon hospitalisation
 n "Si Rin a été de ce côté du mur toute sa vie, je n'arrive pas à imaginer à quel point elle doit se sentir seule, mais peut-être qu'elle est juste vraiment différente."
 
 
-n "\nJe refuse d'appartenir à cet autre endroit, mais peut-être qu'elle a trouvé du réconfort là-bas."
+n " {vspace=30}Je refuse d'appartenir à cet autre endroit, mais peut-être qu'elle a trouvé du réconfort là-bas."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 
@@ -2604,7 +2604,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\n\nRares sont les fois où elle me regarde, que ce soit littéralement ou figurativement."
+n " {vspace=150}Rares sont les fois où elle me regarde, que ce soit littéralement ou figurativement."
 
 
 n "Moi, de l'autre côté, je suis toujours en train de la regarder de dos, littéralement comme figurativement."
@@ -2632,7 +2632,7 @@ show black:
 with None
 
 
-n "\n\n\n\n\nQu'est-ce que je pense d'elle ?"
+n " {vspace=150}Qu'est-ce que je pense d'elle ?"
 
 
 n "Parfois elle est impassible et distante, et ça m'énerve. D'autres fois sa passion pour les choses qu'elle pense importantes se fait ressentir, et ça m'inspire."
@@ -2652,7 +2652,7 @@ n "Je dois quand même admettre, il y a matière avec Rin."
 nvl clear
 
 
-n "\n\n\n\n\nQu'est-ce qu'elle pense de moi ?"
+n " {vspace=150}Qu'est-ce qu'elle pense de moi ?"
 
 
 n "Je n'ai aucune idée. La semaine dernière, je pensais qu'elle pouvait être intéressée par moi romantiquement, avec le baiser et tout."
@@ -2675,7 +2675,7 @@ n "Ça doit être contagieux."
 nvl clear
 
 
-n "\n\n\n\n\n\n\n\nMême si je disais quelque chose comme ça, est-ce que ça compterait ?"
+n " {vspace=240}Même si je disais quelque chose comme ça, est-ce que ça compterait ?"
 
 
 n "Rien n'affecte Rin."
@@ -3077,7 +3077,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\nLa vie prend une forme vague, indéfinie. Je rends visite à Rin quand je le peux, mais chaque fois est plus étrange que la précédente."
+n " {vspace=30}La vie prend une forme vague, indéfinie. Je rends visite à Rin quand je le peux, mais chaque fois est plus étrange que la précédente."
 
 
 n "Ça consiste surtout à regarder Rin travailler, ou juste lire un livre sur le canapé pendant qu'elle travaille. On parle presque pas."
@@ -3100,7 +3100,7 @@ n "Mon cœur me fait mal à chaque fois que je vois la fille drôlement assise q
 nvl clear
 
 
-n "\nJe ne trouve toujours pas les bons mots pour lui parler tout court, mais je trouve un léger réconfort à l'observer de près. La distance entre nous ne semble pas si grande quand je peux être proche d'elle, meme si c'est comme ça."
+n " {vspace=30}Je ne trouve toujours pas les bons mots pour lui parler tout court, mais je trouve un léger réconfort à l'observer de près. La distance entre nous ne semble pas si grande quand je peux être proche d'elle, meme si c'est comme ça."
 
 
 n "Rin travaille comme une forcenée. Il y a à peine un moment qu'elle passe sans un pinceau entre les orteils, ou sans marcher en cercle autour de son travail en cours, le jaugeant sous tous les angles différents."
@@ -3112,7 +3112,7 @@ n "Elle semble être complètement possédée par sa volonté de travailler et d
 n "Des piles de croquis, des travaux en cours, des tubes de peinture à l'huile commencent à doucement remplir le petit atelier, ce qui fait empirer encore plus le bazar qui existait avant que Rin n'ait acquis le droit de l'utiliser."
 
 
-n "\nJ'offre mon aide pour ranger un peu de temps en temps, mais à chaque fois elle refuse."
+n " {vspace=30}J'offre mon aide pour ranger un peu de temps en temps, mais à chaque fois elle refuse."
 
 
 n "Je me rends compte que pour elle, la pièce n'est pas désordonnée ; au lieu de ça, le système est tellement élaboré que seule Rin peut le comprendre."
@@ -3121,7 +3121,7 @@ n "Je me rends compte que pour elle, la pièce n'est pas désordonnée ; au lieu
 nvl clear
 
 
-n "\nElle sait exactement où tout est, du petit pinceau au tube à moitié vide de rouge écarlate qui est le meilleur ton pour la peinture en cours."
+n " {vspace=30}Elle sait exactement où tout est, du petit pinceau au tube à moitié vide de rouge écarlate qui est le meilleur ton pour la peinture en cours."
 
 
 n "Rin va d'une peinture à l'autre, les regardant comme si elle ne se rappelait pas les avoir faites. Elle parle toute seule - ou à ses peintures - même quand je suis présent, toujours suffisamment faiblement pour que je ne puisse pas comprendre les mots."
@@ -3141,7 +3141,7 @@ n "Parfois Sae passe quand je suis là. Elle me regarde d'une étrange façon qu
 nvl clear
 
 
-n "\nElle n'est pas autant en admiration devant les oeuvres de Rin que Nomiya, mais est quand même impressionnée."
+n " {vspace=30}Elle n'est pas autant en admiration devant les oeuvres de Rin que Nomiya, mais est quand même impressionnée."
 
 
 n "Cependant, quand elle détourne les yeux des magnifiques œuvres d'art et regarde la petite fille aux cheveux roux qui les fait, une soudaine expression de profonde tristesse s'affiche sur son visage."
@@ -3149,7 +3149,7 @@ n "Cependant, quand elle détourne les yeux des magnifiques œuvres d'art et reg
 stop music fadeout 4.0
 
 
-n "\n\n\n\n\n\n\n\n\n\n\nJe ne peux pas l'expliquer, et elle n'en parle jamais."
+n " {vspace=330}Je ne peux pas l'expliquer, et elle n'en parle jamais."
 
 nvl clear
 nvl hide dissolve
@@ -4345,7 +4345,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nLa ville dans laquelle j'ai grandi, baignée dans la lumière de millions de lampes, ne dormait jamais."
+n " {vspace=120}La ville dans laquelle j'ai grandi, baignée dans la lumière de millions de lampes, ne dormait jamais."
 
 
 n "Je l'ai vu de mes propres yeux. Ce n'est pas la première fois que je fais ça."
@@ -4365,7 +4365,7 @@ n "Même après, je n'ai pas pu dire ce qui m'a fait rester en ville plus longte
 nvl clear
 
 
-n "\n\n\nJe n'avais pas envie de rentrer à la maison, alors je suis resté la soirée et finalement toute la nuit."
+n " {vspace=90}Je n'avais pas envie de rentrer à la maison, alors je suis resté la soirée et finalement toute la nuit."
 
 
 n "J'ai marché dans les environs d'un repère choisi au hasard."
@@ -4374,13 +4374,13 @@ n "J'ai marché dans les environs d'un repère choisi au hasard."
 n "Pour je ne sais quelle raison, la ville de nuit m'a fasciné."
 
 
-n "\nAlors j'ai arpenté les rues."
+n " {vspace=30}Alors j'ai arpenté les rues."
 
 
 n "À chaque intersection il était possible de choisir sa direction au hasard parce qu'elles menaient toutes quelque part."
 
 
-n "\nErrer sans but m'a fait voir les choses différemment. J'espère que ça fera la même chose à Rin."
+n " {vspace=30}Errer sans but m'a fait voir les choses différemment. J'espère que ça fera la même chose à Rin."
 
 nvl clear
 nvl hide dissolve
@@ -4862,7 +4862,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\nJe tiens la promesse faite à Rin, même si c'est contre mes envies."
+n " {vspace=30}Je tiens la promesse faite à Rin, même si c'est contre mes envies."
 
 
 n "J'essaye de rediriger mes pensées sur mes études, mais je finis par être dans la lune durant les cours et par faire le strict minimum de travail requis."
@@ -6092,7 +6092,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\n\nJe pousse Rin au-delà de la limite."
+n " {vspace=150}Je pousse Rin au-delà de la limite."
 
 
 n "Son corps entier se contracte autour de mes doigts en un spasme assourdissant. Sa voix est incroyable."
@@ -6857,16 +6857,16 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nJe n'aurais jamais cru qu'on puisse finir comme ça. Je ne suis pas comme ça. Rin n'est pas comme ça."
+n " {vspace=60}Je n'aurais jamais cru qu'on puisse finir comme ça. Je ne suis pas comme ça. Rin n'est pas comme ça."
 
 
 n "Peu importe à quel point Rin est énervante, insupportable et outrageuse, ça ne lui ressemble pas."
 
 
-n "\nElle a vraiment changé. Ou est-ce moi qui ai changé ?"
+n " {vspace=30}Elle a vraiment changé. Ou est-ce moi qui ai changé ?"
 
 
-n "\nPeut-être que je pensais seulement la connaître, ou peut-être que je connaissais la Rin qu'elle n'est pas, ou c'est moi qui ai causé tout ça en parlant à Rin de ses chances avec l'exposition ?"
+n " {vspace=30}Peut-être que je pensais seulement la connaître, ou peut-être que je connaissais la Rin qu'elle n'est pas, ou c'est moi qui ai causé tout ça en parlant à Rin de ses chances avec l'exposition ?"
 
 
 n "Est-ce que je suis directement responsable de ce qu'est devenue Rin durant les dernières semaines ?"

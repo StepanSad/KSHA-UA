@@ -14,7 +14,7 @@ nvl show dissolve
 play music music_dreamy fadein 5.0
 
 
-n "\n\nLe lendemain matin, je me rappelle à quel point la nuit dernière était parfaite. Tellement que je n'arrive pas à arrêter d'y penser."
+n " {vspace=60}Le lendemain matin, je me rappelle à quel point la nuit dernière était parfaite. Tellement que je n'arrive pas à arrêter d'y penser."
 
 
 n "Ce n'est probablement pas le meilleur moment pour ça, vu que j'ai un examen en première heure."
@@ -29,7 +29,7 @@ n "Ce doit être une mauvaise blague."
 n "Ça ne m’inquiète pas trop, mais je me demande s'ils ne pouvaient vraiment pas attendre une semaine pour ça."
 
 
-n "\n\nBon, au moins il fait assez bon ce matin pour que je puisse étudier dehors avant les cours."
+n " {vspace=60}Bon, au moins il fait assez bon ce matin pour que je puisse étudier dehors avant les cours."
 
 nvl hide dissolve
 
@@ -41,7 +41,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nC'est beaucoup plus agréable ici que ça ne le serait en classe. Sans mentionner le silence, je commence à penser que tout le monde se réveillera plutôt tard aujourd'hui."
+n " {vspace=60}C'est beaucoup plus agréable ici que ça ne le serait en classe. Sans mentionner le silence, je commence à penser que tout le monde se réveillera plutôt tard aujourd'hui."
 
 
 n "Je pose mes notes pour une seconde et regarde le terrain de l'école, toujours jonché de stands du festival."
@@ -52,10 +52,10 @@ n "En les voyant en journée, sans lanternes de papier ou la foule de gens pour 
 
 n "Beaucoup des stands que nous avons visités hier s’avèrent être ceux sur lesquels nous avons travaillé."
 
-n "\n…"
+n " {vspace=30}…"
 
 
-n "\nC'est mignon. C'était intentionnel de la part de Shizune ? Ça devait l'être, surtout la connaissant. Est-ce qu'elle voulait que je voie le fruit de notre travail ?"
+n " {vspace=30}C'est mignon. C'était intentionnel de la part de Shizune ? Ça devait l'être, surtout la connaissant. Est-ce qu'elle voulait que je voie le fruit de notre travail ?"
 
 play sound sfx_footsteps_soft fadein 5.0
 stop music fadeout 4.0
@@ -240,7 +240,7 @@ window show
 window hide
 
 
-$ written_note("Tu es là aussi.\n\nC'était bien hier. J'ai remarqué aujourd'hui que j'ai construit beaucoup des stands que nous avons été voir. C'est peut-être pour ça qu'ils m'étaient aussi familiers. C'était un autre jeu de ta part ?")
+$ written_note("Tu es là aussi.\n \nC'était bien hier. J'ai remarqué aujourd'hui que j'ai construit beaucoup des stands que nous avons été voir. C'est peut-être pour ça qu'ils m'étaient aussi familiers. C'était un autre jeu de ta part ?")
 
 show shizu behind_frown
 with charachange
@@ -316,7 +316,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nÇa m'a paru être les vingt minutes les plus longues de ma vie, et tout cela parce que c'est bizarre d'avoir une conversation en face à face avec quelqu'un qui te passe un bloc-notes à chaque fois qu'il veut parler de quelque chose, et en plus je ne sais pas quoi dire la plupart du temps."
+n " {vspace=60}Ça m'a paru être les vingt minutes les plus longues de ma vie, et tout cela parce que c'est bizarre d'avoir une conversation en face à face avec quelqu'un qui te passe un bloc-notes à chaque fois qu'il veut parler de quelque chose, et en plus je ne sais pas quoi dire la plupart du temps."
 
 
 n "Ça me donne envie d'apprendre la langue des signes."
@@ -346,7 +346,7 @@ play music music_daily fadein 1.0
 nvl show dissolve
 
 
-n "\n\nUn gars se baladant devant le dortoir des filles si tôt le matin est suspect, mais demander à Misha s'il n'y a pas une classe de langue des signes devant Shizune n'est pas envisageable."
+n " {vspace=60}Un gars se baladant devant le dortoir des filles si tôt le matin est suspect, mais demander à Misha s'il n'y a pas une classe de langue des signes devant Shizune n'est pas envisageable."
 
 
 n "Elle va bien devoir aller à l'école. Après tout, on est dans la même classe, donc elle doit passer l'examen aussi."
@@ -358,7 +358,7 @@ n "Si j’attends là, je serai sûr de la voir passer."
 n "J’espère juste qu'elle ne passera pas pendant que je feuillette mes cours."
 
 
-n "\n\nÇa s’avère être une attente plutôt longue. Alors que les étudiants partent en direction de l'école, je me demande si Misha va être en retard."
+n " {vspace=60}Ça s’avère être une attente plutôt longue. Alors que les étudiants partent en direction de l'école, je me demande si Misha va être en retard."
 
 
 n "Finalement je la vois. Elle gambade à travers le terrain, il faudrait que je sois aveugle pour la louper, avec ses cheveux."
@@ -1709,7 +1709,7 @@ window show
 window hide
 
 
-$ written_note("Je vais t'aider à le porter.\n ___________________\n\nMais, on va jouer ! Le premier qui trébuche perd et le perdant doit le porter pour le reste du chemin.", {"background":Frame("vfx/cardboard.jpg",0,0, tile=True)})
+$ written_note("Je vais t'aider à le porter.\n ___________________\n \nMais, on va jouer ! Le premier qui trébuche perd et le perdant doit le porter pour le reste du chemin.", {"background":Frame("vfx/cardboard.jpg",0,0, tile=True)})
 
 window show
 
@@ -1908,7 +1908,7 @@ $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_normal fadein 0.5
 
 
-n "\n\nLe professeur de langue des signes dit que je suis très doué."
+n " {vspace=60}Le professeur de langue des signes dit que je suis très doué."
 
 
 n "J'essaye de ne pas trop y penser, mais la vérité est que je suis tellement impliqué récemment que j'y reviens plusieurs fois par jour. J'imagine que je m'y mets plus rapidement que ce que j'aurais cru, mais ce n'est toujours pas suffisant."
@@ -1923,7 +1923,7 @@ n "Les signes en eux-mêmes sont faisables. J'ai juste besoin d'un peu plus de p
 n "Je suis assez bon par rapport au niveau où j'en suis, mais pour arriver au point où je pourrai vraiment converser avec Shizune, j'ai besoin de travailler plus."
 
 
-n "\nJe fais de mon mieux pour m'en approcher pas à pas en étudiant du mieux que je peux durant le déjeuner."
+n " {vspace=30}Je fais de mon mieux pour m'en approcher pas à pas en étudiant du mieux que je peux durant le déjeuner."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -1953,7 +1953,7 @@ nvl show dissolve
 nvl clear
 
 
-n "\n\nChaque fois qu'elle en a la possibilité, Misha me demande pourquoi je veux cacher le fait que j’apprends la langue des signes à Shizune."
+n " {vspace=60}Chaque fois qu'elle en a la possibilité, Misha me demande pourquoi je veux cacher le fait que j’apprends la langue des signes à Shizune."
 
 
 n "En y repensant, il n'y avait pas vraiment de raison, mais maintenant je crois savoir."
@@ -2649,7 +2649,7 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 nvl show dissolve
 
 
-n "\n\nCavalier en f6."
+n " {vspace=60}Cavalier en f6."
 
 
 n "Fou en d3."
@@ -2672,7 +2672,7 @@ n "Bien que je me rappelle la partie de Risk que j'ai menée contre Shizune, ell
 nvl clear
 
 
-n "\n\n\nLe jeu continue."
+n " {vspace=90}Le jeu continue."
 
 
 n "Shizune fait douze mouvements en quatre minutes. Quel adversaire effrayant."
@@ -2690,7 +2690,7 @@ n "Cavalier en e6."
 n "La fin est proche."
 
 
-n "\n\n..."
+n " {vspace=60}..."
 
 stop music fadeout 3.0
 
@@ -3091,7 +3091,7 @@ $ renpy.music.set_volume(0.5, 0.0, channel="music")
 play music music_daily fadein 0.5
 
 
-n "\nLes choses sont revenues à la normale. Certes, j'ai été transféré à un moment inhabituel de l'année et je ne peux pas tellement dire que mes premières semaines ici ont été normales. J'imagine que c'est plus les choses qui se sont calmées et sont devenues normales."
+n " {vspace=30}Les choses sont revenues à la normale. Certes, j'ai été transféré à un moment inhabituel de l'année et je ne peux pas tellement dire que mes premières semaines ici ont été normales. J'imagine que c'est plus les choses qui se sont calmées et sont devenues normales."
 
 
 
@@ -4044,7 +4044,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\nShizune savait que je prenais des cours de langue des signes hier, et n'en a pas fait toute une histoire."
+n " {vspace=30}Shizune savait que je prenais des cours de langue des signes hier, et n'en a pas fait toute une histoire."
 
 
 n "Elle a beau être muette, ça ne veut pas dire qu'elle ne peut pas faire connaître ce qu'elle ressent. Non, en fait, on dirait que ça la rend encore plus directe."
@@ -7328,7 +7328,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\nJe veux lui dire que je l'apprécie. Mais même y penser est bizarre."
+n " {vspace=30}Je veux lui dire que je l'apprécie. Mais même y penser est bizarre."
 
 
 n "Et plus je l'apprécie, plus je suis gêné et effrayé, et j'ai peur de lui dire ce que je ressens. Même maintenant, alors que je pourrais lui dire sans devoir utiliser quelqu'un comme relai."
@@ -7469,7 +7469,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\n\n\n\n\n\nUne étreinte prudente, comme si j'étais en porcelaine, et comme si elle ne savait pas comment prendre quelqu'un dans ses bras. Bien que pour être honnête, je suis pas particulièrement familier avec ça."
+n " {vspace=270}Une étreinte prudente, comme si j'étais en porcelaine, et comme si elle ne savait pas comment prendre quelqu'un dans ses bras. Bien que pour être honnête, je suis pas particulièrement familier avec ça."
 
 
 n "Son yukata est doux sous mes doigts, mais je peux aussi sentir la chaleur de Shizune."

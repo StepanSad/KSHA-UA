@@ -2958,7 +2958,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\n\nAfter Hanako's panic attack, I've found myself fundamentally reassessing the relationship we share, and what I know about her."
+n " {vspace=60}After Hanako's panic attack, I've found myself fundamentally reassessing the relationship we share, and what I know about her."
 
 n "I had a hard enough time dealing with four months in the hospital. One look at her scars tells me that she was in one for a lot longer than I was."
 
@@ -2968,7 +2968,7 @@ n "And what of her family? I still haven't asked Lilly about them; there hasn't 
 
 n "I don't know where she grew up, or what her old school was like. Nor of her past friends, her wishes and ambitions. Not even her tastes in music, food and movies… all the little things that I knew about all of my old friends."
 
-n "\n\nJust what have I been doing, for all this time I've been with her and Lilly?"
+n " {vspace=60}Just what have I been doing, for all this time I've been with her and Lilly?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 $ renpy.music.set_volume(0.1, 0.0, channel="sound")
@@ -5115,11 +5115,11 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 window hide
 
-$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest.\n\n\n\n")
+$ written_note("I wanted to somehow express my feelings, but the right words didn't come to me. I couldn't say anything to comfort you. I am really sorry for not being able to support you when it mattered the most, even though I like you so much. At least now, finally, I can be more honest. {vspace=120} ")
 
-$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own.\n\n\n\n")
+$ written_note("If I could go back to those quiet days in February and March, I'd tell you to not give up on yourself. That's what I would say. Maybe you wouldn't have drifted so far away if I had just said something. I hope you've managed to get back on your feet on your own. {vspace=120} ")
 
-$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n\nSincerely, Iwanako")
+$ written_note("Now that the distance between us is also physical, it also feels more final, somehow. I wonder if we will meet again. Perhaps it's for the best if we don't? Still, if you would like to correspond with me, by all means write me back. I'd very much like to hear about your new school and how you are doing. I wish you all the best.\n \nSincerely, Iwanako")
 
 window show
 

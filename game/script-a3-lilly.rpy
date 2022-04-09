@@ -701,7 +701,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\n\n\n\nOnly half-listening to his pontifications, my mind drifts to the matter of Lilly and her antipathy for Shizune."
+n " {vspace=120}Only half-listening to his pontifications, my mind drifts to the matter of Lilly and her antipathy for Shizune."
 
 n "The past between them is steadily becoming more coherent, but I'm not even sure if I should be learning of her past this way. Indeed, even if I do work out what went on, it really doesn't seem like my business to go and interfere."
 
@@ -1128,7 +1128,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nThings have quieted down considerably since Hanako began attending school again."
+n " {vspace=90}Things have quieted down considerably since Hanako began attending school again."
 
 n "When she first returned to class, nothing was said nor done that wasn't part of the usual routine, and it's been the same way since. Neither of us desired to bring up her accident, so there simply wasn't any point in pursuing it."
 
@@ -1264,7 +1264,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\n\n\n\n\n\nIn the end, it all comes down to what will happen after school finishes once again."
+n " {vspace=180}In the end, it all comes down to what will happen after school finishes once again."
 
 n "Considering what happened before I came to Yamaku, it feels like being asked to keep up with a field of runners despite having started from a dozen yards behind them."
 
@@ -1433,7 +1433,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\n\nSince I called Lilly, my mind's been drawn in two directions. Both, roughly, lead to the same conclusion; I've started to feel oddly detached from my past life."
+n " {vspace=60}Since I called Lilly, my mind's been drawn in two directions. Both, roughly, lead to the same conclusion; I've started to feel oddly detached from my past life."
 
 n "It's only been a month and a half since I arrived here, yet this school's become a second home. I've gained new friends and contacts, managed to get to grips with the school's lifestyle and culture, and become accustomed to the quirks of my classmates."
 
@@ -3573,7 +3573,7 @@ nvl show dissolve
 
 nvl clear
 
-n "\n\n\n\nIt took a surprisingly short amount of time to get used to swallowing pills without water. That said, I suppose the same thing goes for getting used to living in a school for disabled students."
+n " {vspace=120}It took a surprisingly short amount of time to get used to swallowing pills without water. That said, I suppose the same thing goes for getting used to living in a school for disabled students."
 
 n "Remembering Yamaku, I become all the more grateful for having the chance to get away, even if it's just for the shortest of times."
 

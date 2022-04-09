@@ -703,7 +703,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\n\n\n\nEscuchando a medias su discurso, mi mente se escapa hacia el tema de Lilly y su antipatía por Shizune."
+n " {vspace=120}Escuchando a medias su discurso, mi mente se escapa hacia el tema de Lilly y su antipatía por Shizune."
 
 n "El pasado entre ellas poco a poco se vuelve más coherente, pero ni siquiera estoy seguro de si debería conocer su pasado de esta forma. En definitiva, incluso si averiguo qué fue lo que pasó, realmente no parece asunto mío el ir e interferir."
 
@@ -1130,7 +1130,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nLas cosas se han calmado considerablemente desde que Hanako comenzó a asistir a clases de nuevo."
+n " {vspace=90}Las cosas se han calmado considerablemente desde que Hanako comenzó a asistir a clases de nuevo."
 
 n "Cuando recién regresó a clases, no se dijo ni se hizo nada que no fuera parte de la rutina usual, y ha sido lo mismo desde entonces. Ninguno de nosotros deseó sacar el tema de su accidente, así que simplemente no tenía sentido seguirlo."
 
@@ -1265,7 +1265,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\n\n\n\n\n\nAl final, una vez más todo se reduce a qué pasará después de que se acabe la escuela."
+n " {vspace=180}Al final, una vez más todo se reduce a qué pasará después de que se acabe la escuela."
 
 n "Considerando lo que pasó antes de que viniera a Yamaku, se siente como si me pidieran seguir el ritmo a un grupo de corredores a pesar de haber comenzado una decena de metros detrás."
 
@@ -1434,7 +1434,7 @@ nvl clear
 window hide
 nvl show dissolve
 
-n "\nDesde que llamé a Lilly, mi mente se ha visto atraída en dos direcciones. Ambas, en general, conducen a la misma conclusión; he comenzado a sentirme extrañamente separado de mi vida pasada."
+n " {vspace=30}Desde que llamé a Lilly, mi mente se ha visto atraída en dos direcciones. Ambas, en general, conducen a la misma conclusión; he comenzado a sentirme extrañamente separado de mi vida pasada."
 
 n "Solamente ha pasado un mes y medio desde que llegué aquí, y sin embargo esta escuela se ha vuelto como un segundo hogar. He obtenido nuevos amigos y contactos, he logrado tomarle el ritmo al estilo de vida y a la cultura de la escuela, y me he acostumbrado a las mañas de mis compañeros."
 
@@ -3584,7 +3584,7 @@ nvl show dissolve
 
 nvl clear
 
-n "\n\n\n\nTomó una cantidad sorprendentemente breve de tiempo acostumbrarme a tragar las pastillas sin agua. Dicho eso, supongo que lo mismo va para acostumbrarme a vivir en una escuela para estudiantes discapacitados."
+n " {vspace=120}Tomó una cantidad sorprendentemente breve de tiempo acostumbrarme a tragar las pastillas sin agua. Dicho eso, supongo que lo mismo va para acostumbrarme a vivir en una escuela para estudiantes discapacitados."
 
 n "Recordando Yamaku, me siento más agradecido de tener la oportunidad de alejarme, aunque sea por un mínimo tiempo."
 

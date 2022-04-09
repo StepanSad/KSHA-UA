@@ -69,7 +69,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\nYuuko se met à la tâche en remettant en rayon les livres que je viens de rendre, les traitant avec soin et précision extrême, comme si elle était démineur de bombe plutôt que bibliothécaire."
+n " {vspace=30}Yuuko se met à la tâche en remettant en rayon les livres que je viens de rendre, les traitant avec soin et précision extrême, comme si elle était démineur de bombe plutôt que bibliothécaire."
 
 
 n "Durant les derniers jours, j'ai pensé à ce que Misha m'a dit. Bien sûr, j'ai pensé à tout ce qu'elle a dit, mais une chose en particulier revient toujours. Elle a dit qu'elle ne voulait plus que les gens lui manquent ou être séparée d'eux."
@@ -83,7 +83,7 @@ n "Si Misha venait à essayer d'en parler à Shizune, Shizune n'y réfléchirait
 nvl clear
 
 
-n "\n\nMisha s'est avérée être plus sensible que je ne l'aurais cru. Ça l'aurait anéantie, encore plus parce que la réaction de Shizune aurait été plutôt glaciale. Je ne sais pas si c'est comme ça que Shizune l'a géré, mais c'est bien possible, et je peux comprendre pourquoi elle ferait ça."
+n " {vspace=60}Misha s'est avérée être plus sensible que je ne l'aurais cru. Ça l'aurait anéantie, encore plus parce que la réaction de Shizune aurait été plutôt glaciale. Je ne sais pas si c'est comme ça que Shizune l'a géré, mais c'est bien possible, et je peux comprendre pourquoi elle ferait ça."
 
 
 n "Je peux aussi comprendre pourquoi Misha serait troublée par la pensée de s'éloigner de quelqu'un qui est si important pour elle. Je n'avais jamais pensé à la fin d'année jusqu’à maintenant."
@@ -92,7 +92,7 @@ n "Je peux aussi comprendre pourquoi Misha serait troublée par la pensée de s'
 n "Puis j'ai commencé à penser à des choses comme “Ça fait vraiment seulement moins d'un an ?” J'ai commencé à penser à tous ceux que j'ai rencontrés. Pas seulement Shizune et Misha, mais tout le monde. C'était des pensées affectueuses. Puis j'ai pensé que j'allais les perdre. Soudainement, je peux comprendre les angoisses de Misha."
 
 
-n "\nÇa serait bien d'en parler à quelqu'un."
+n " {vspace=30}Ça serait bien d'en parler à quelqu'un."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -1193,7 +1193,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nJ'ai envie de lui dire qu'elle n'a pas à s’inquiéter. Qu'elle est douée pour remonter le moral des gens, parce qu'elle a réussi à me remonter le moral lors de ma première semaine ici."
+n " {vspace=60}J'ai envie de lui dire qu'elle n'a pas à s’inquiéter. Qu'elle est douée pour remonter le moral des gens, parce qu'elle a réussi à me remonter le moral lors de ma première semaine ici."
 
 
 n "Rétrospectivement, je devais avoir l'air d'un idiot à être si aigri quand je suis arrivé. Même si je ne trouve pas ça si déraisonnable."
@@ -1202,26 +1202,26 @@ n "Rétrospectivement, je devais avoir l'air d'un idiot à être si aigri quand 
 n "Même après avoir eu des mois pour le digérer, découvrir que j'ai un cœur défectueux est difficile à gérer. J'ai eu moins de temps pour encaisser le fait d’être transféré à Yamaku en plus de ça."
 
 
-n "\n\nPasser le festival avec Shizune m'a vraiment aidé. J'étais content, suffisamment pour oublier tous ces moments où je sentais qu'elle me manipulait. Je comprends maintenant que je me suis laissé manipuler."
+n " {vspace=60}Passer le festival avec Shizune m'a vraiment aidé. J'étais content, suffisamment pour oublier tous ces moments où je sentais qu'elle me manipulait. Je comprends maintenant que je me suis laissé manipuler."
 
 nvl clear
 
 
-n "\n\nMême si j'avais l'impression d’être au tréfonds de la terre, j'avais toujours envie d'avoir une vie normale à nouveau, j'en suis sûr, parce que j'apprécie ce que j'ai maintenant. Je crois que ça doit être pareil pour tout le monde. Pour Misha aussi. Tout le monde veut quelqu'un pour le tirer hors de son auto-apitoiement."
+n " {vspace=60}Même si j'avais l'impression d’être au tréfonds de la terre, j'avais toujours envie d'avoir une vie normale à nouveau, j'en suis sûr, parce que j'apprécie ce que j'ai maintenant. Je crois que ça doit être pareil pour tout le monde. Pour Misha aussi. Tout le monde veut quelqu'un pour le tirer hors de son auto-apitoiement."
 
 
 n "C'est juste que Misha voulait que Shizune soit cette personne, mais parce qu'elles ne peuvent pas être ensemble, je crois que Misha ressent qu'elle ne peut pas accepter l'aide de Shizune. Et ça frustre Shizune. Mais si elle a pu remonter le moral d'un étranger comme moi, alors elle mourra en essayant de remonter celui de Misha."
 
 
-n "\nJe peux le voir dans ses yeux, aussi. Bien qu'elle essaye de gérer ça comme n'importe quel problème de sa vie, Shizune ne peut pas faire ça avec la dépression de Misha. La façon dont elle pense est différente, elle est parfois plus attentive, ou plus téméraire. Elle s'en soucie beaucoup plus."
+n " {vspace=30}Je peux le voir dans ses yeux, aussi. Bien qu'elle essaye de gérer ça comme n'importe quel problème de sa vie, Shizune ne peut pas faire ça avec la dépression de Misha. La façon dont elle pense est différente, elle est parfois plus attentive, ou plus téméraire. Elle s'en soucie beaucoup plus."
 
 nvl clear
 
 
-n "\n\n\n\n\nJe finis par ne rien dire. En partie parce qu'être assis à côté d'elle comme ça, juste nous deux, est suffisamment plaisant pour que je n'interrompe pas le moment par une question."
+n " {vspace=150}Je finis par ne rien dire. En partie parce qu'être assis à côté d'elle comme ça, juste nous deux, est suffisamment plaisant pour que je n'interrompe pas le moment par une question."
 
 
-n "\n\nEt en partie par peur. Je me demande si ses actions de ce jour-là n'auraient pas juste été un coup de chance, ou un enchaînement de coïncidences. Je ne sais pas si ça changerait quoi que ce soit, mais je suis mal à l'aise en y pensant."
+n " {vspace=60}Et en partie par peur. Je me demande si ses actions de ce jour-là n'auraient pas juste été un coup de chance, ou un enchaînement de coïncidences. Je ne sais pas si ça changerait quoi que ce soit, mais je suis mal à l'aise en y pensant."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
 $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
@@ -1668,13 +1668,13 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nJe me rappelle ce qu'a dit Yuuko, qu'elle trouvait Shizune brave, d'une certaine façon. Je crois que je comprends ce qu'elle voulait dire, et je suis d'accord. Même si ça pourrait aussi être identifié comme de la témérité insensée et têtue, j'imagine qu'on peut aussi appeler ça de la “bravoure”."
+n " {vspace=60}Je me rappelle ce qu'a dit Yuuko, qu'elle trouvait Shizune brave, d'une certaine façon. Je crois que je comprends ce qu'elle voulait dire, et je suis d'accord. Même si ça pourrait aussi être identifié comme de la témérité insensée et têtue, j'imagine qu'on peut aussi appeler ça de la “bravoure”."
 
 
 n "Cependant, je peux voir qu'il y a une faille fondamentale dans le raisonnement de Shizune que je n'avais pas remarquée jusqu’à maintenant."
 
 
-n "\nJe suis sûr que Shizune y a pensé plus sérieusement et plus longtemps que moi, au sujet de ce qu'elle a pu faire pour compromettre la situation entre elle et Misha à ce point-là. Cependant, fidèle à elle-même, elle n'aurait pas laissé ça comme ça et aurait immédiatement réglé le problème."
+n " {vspace=30}Je suis sûr que Shizune y a pensé plus sérieusement et plus longtemps que moi, au sujet de ce qu'elle a pu faire pour compromettre la situation entre elle et Misha à ce point-là. Cependant, fidèle à elle-même, elle n'aurait pas laissé ça comme ça et aurait immédiatement réglé le problème."
 
 
 n "Ça ignore complètement une grande partie du problème : Misha elle-même. Faire une introspection, puis faire de Misha une partie de l'objectif implique qu'elle se perd dans le processus. Shizune a “dit” beaucoup de choses ces derniers jours, mais rien à propos de ce que ressent Misha."
@@ -1682,7 +1682,7 @@ n "Ça ignore complètement une grande partie du problème : Misha elle-même. F
 nvl clear
 
 
-n "\n\nLa façon de penser de Shizune est anormale. Peu de gens normaux rejetteraient un ami pour après s'attendre à ce que les choses reviennent comme avant aussi facilement. C'est le cas de Shizune, parce qu'elle voit la vie comme si elle pouvait la segmenter et la compartimenter."
+n " {vspace=60}La façon de penser de Shizune est anormale. Peu de gens normaux rejetteraient un ami pour après s'attendre à ce que les choses reviennent comme avant aussi facilement. C'est le cas de Shizune, parce qu'elle voit la vie comme si elle pouvait la segmenter et la compartimenter."
 
 
 n "Misha, comme tout le monde, voit ça comme un ensemble. Un long voyage continu, où un seul moment de douleur sentimentale peut vous suivre pour toujours."
@@ -1699,7 +1699,7 @@ n "Shizune peut voir Misha comme une amie, mais je doute qu'elle ait déjà pens
 nvl clear
 
 
-n "\nShizune est juste Shizune pour elle-même. Il est probable qu'elle ne connaisse même pas les effets secondaires de ses actions à long terme sur la vie des gens. Pour Misha, cela dit, je suis sûr que ça lui donne un air presque héroïque. Comme Yuuko admire sa bravoure, et même moi."
+n " {vspace=30}Shizune est juste Shizune pour elle-même. Il est probable qu'elle ne connaisse même pas les effets secondaires de ses actions à long terme sur la vie des gens. Pour Misha, cela dit, je suis sûr que ça lui donne un air presque héroïque. Comme Yuuko admire sa bravoure, et même moi."
 
 
 n "Et ce qu'en pense Shizune est que c'est bien qu'elle ait pu influencer la vie de quelqu'un. Mais ça s’arrête là. C'est facile de captiver quelqu'un, bien plus dur de faire durer. Et aussi, penser la vie en termes d’événements presque complètement isolés les uns des autres a tendance à isoler les gens, aussi."
@@ -1711,7 +1711,7 @@ n "Bien qu'elle essaye d'y remédier, le fait demeure : Il est simplement imposs
 n "Elles m'ont appris ça morceau par morceau au fil des mois que j'ai passés avec elles."
 
 
-n "\nAlors que j’énumère leurs différences, une idée commence à prendre forme dans mon esprit."
+n " {vspace=30}Alors que j’énumère leurs différences, une idée commence à prendre forme dans mon esprit."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
 
@@ -5159,12 +5159,12 @@ with dissolve
 nvl show dissolve
 
 
-n "\n\n\n\n\n\n\n\n\nIl n'y a pas eu d'autres événements depuis cette semaine-là."
+n " {vspace=270}Il n'y a pas eu d'autres événements depuis cette semaine-là."
 
 nvl clear
 
 
-n "\nBien sûr, c'est ce que je pensais la semaine avant ça. Et le fait que Shizune et Misha se soient soudainement réconciliées me rend quelque peu envieux et perdu. Je pensais qu'il ne serait pas possible que je puisse rester calme face à ça."
+n " {vspace=30}Bien sûr, c'est ce que je pensais la semaine avant ça. Et le fait que Shizune et Misha se soient soudainement réconciliées me rend quelque peu envieux et perdu. Je pensais qu'il ne serait pas possible que je puisse rester calme face à ça."
 
 
 n "Mais heureusement, ça ne m'a pas tant gêné que ça. Et avant que je le sache, il y avait déjà suffisamment à faire à l'école pour que je réussisse à me sortir ça de la tête. Et encore une fois, tout allait bien."
@@ -5328,7 +5328,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nJe me demande comment les choses se seraient passées si le Conseil des Étudiants s'était avéré aussi grand que celui qui va nous remplacer."
+n " {vspace=60}Je me demande comment les choses se seraient passées si le Conseil des Étudiants s'était avéré aussi grand que celui qui va nous remplacer."
 
 
 n "Même s'ils n'ont que seulement deux ou trois autres membres, c'est suffisant pour qu'ils aient attribué des rôles. Pas comme nous, où Shizune semblait être présidente, mais c'était un peu tout."
@@ -5340,7 +5340,7 @@ n "Que le nouveau conseil me remercie, me donne une drôle d'impression. C'est c
 n "Ça rendrait sûrement Shizune furieuse que je me sente distant de ce que j'ai fait dans le Conseil des Étudiants, ou que je puisse insinuer que je n'en ai pas fait assez, mais c'est vrai. Je n'ai fait que la suivre."
 
 
-n "\nDonc, d'une façon, j'ai aussi l'impression de voir l'arbre, mais de loin. Comme si je le voyais de la fenêtre d'un train en mouvement."
+n " {vspace=30}Donc, d'une façon, j'ai aussi l'impression de voir l'arbre, mais de loin. Comme si je le voyais de la fenêtre d'un train en mouvement."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 $ renpy.music.set_volume(1.0, 1.0, channel="ambient")
@@ -5796,21 +5796,21 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nJe sais qu'elles ont dû être occupées. Mais je crois que je sais ce que je veux faire maintenant, et quand je m'en suis rendu compte, je ne me suis pas particulièrement senti excité ou anxieux."
+n " {vspace=120}Je sais qu'elles ont dû être occupées. Mais je crois que je sais ce que je veux faire maintenant, et quand je m'en suis rendu compte, je ne me suis pas particulièrement senti excité ou anxieux."
 
 
 n "C'est l'opposé. Je me sens en paix pour la première fois depuis longtemps, et je veux savourer ce sentiment un peu plus longtemps."
 
 
-n "\nJe crois que je veux enseigner ici."
+n " {vspace=30}Je crois que je veux enseigner ici."
 
 
-n "\nAussitôt que j'y ai pensé, une longue route s'est ouverte dans mon esprit. Une route incertaine, qui m'a reconduit ici."
+n " {vspace=30}Aussitôt que j'y ai pensé, une longue route s'est ouverte dans mon esprit. Une route incertaine, qui m'a reconduit ici."
 
 nvl clear
 
 
-n "\n\n\n\nJe me demande si je rencontrerai quelqu'un comme moi dans le futur. Quelqu'un rempli d'aigreur."
+n " {vspace=120}Je me demande si je rencontrerai quelqu'un comme moi dans le futur. Quelqu'un rempli d'aigreur."
 
 
 n "Je veux parler à cette personne, vu que je ne peux pas me parler à moi-même. Je veux lui dire que la vie est trop courte, quelque chose qui ne pouvait pas m’être dit, seulement montré. Je veux le faire sans aucune pitié."
@@ -5819,7 +5819,7 @@ n "Je veux parler à cette personne, vu que je ne peux pas me parler à moi-mêm
 n "Si j'avais été pris en pitié, je suis sûr que je serais seulement mort un peu plus. Quand je pense à la première semaine, je pense encore à quel point ça s'est bien passé. Tellement bien que ça ne peut être appelé que le résultat de la gentillesse. Je ressens l'envie de montrer la même gentillesse à d'autres."
 
 
-n "\nEt j'ai aussi envie de continuer de poursuivre Shizune."
+n " {vspace=30}Et j'ai aussi envie de continuer de poursuivre Shizune."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 $ renpy.music.set_volume(0.3, 1.0, channel="ambient")
@@ -6528,13 +6528,13 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\n“Pourquoi t'es aussi silencieuse là-dessus ?” est la phrase qui m'arrive immédiatement à l'esprit, même si ce n'est pas le moment pour faire de l'humour. Ça décrit bien ce que je ressens. On ne peut pas communiquer normalement, alors j'apprécie le peu de façons qu'on a. Et être rejeté comme ça fait mal."
+n " {vspace=120}“Pourquoi t'es aussi silencieuse là-dessus ?” est la phrase qui m'arrive immédiatement à l'esprit, même si ce n'est pas le moment pour faire de l'humour. Ça décrit bien ce que je ressens. On ne peut pas communiquer normalement, alors j'apprécie le peu de façons qu'on a. Et être rejeté comme ça fait mal."
 
 
 n "Mais il est évident que quelles que soient ses raisons, ça va être assez difficile de parler à Shizune aujourd'hui. Et au-delà du fait qu'elle soit têtue, elle semble déprimée, mais vu la façon dont tourne la conversation, je ne vois pas comment je vais pouvoir trouver ce qui la déprime."
 
 
-n "\nD'une certaine façon, ça ne me donne qu'encore plus envie de savoir. Et ça veut dire que je dois demander à Misha. Le problème est que je ne sais pas vraiment où va Misha durant son temps libre."
+n " {vspace=30}D'une certaine façon, ça ne me donne qu'encore plus envie de savoir. Et ça veut dire que je dois demander à Misha. Le problème est que je ne sais pas vraiment où va Misha durant son temps libre."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 stop music fadeout 3.0
@@ -6726,7 +6726,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\nJ'ai menti, langue déliée, que tout allait bien. Ou mains déliées, pour être exact. Et au même moment, j'avais une tout autre conversation avec Misha."
+n " {vspace=60}J'ai menti, langue déliée, que tout allait bien. Ou mains déliées, pour être exact. Et au même moment, j'avais une tout autre conversation avec Misha."
 
 
 n "Cette conversation pourrait énerver Shizune, ce qui est compréhensible. Mais il n'est pas possible qu'elle ait pu m'entendre. Même les mains de Misha, qui d'habitude signent tout ce qu'elle pense, étaient immobiles. Même si ça n’avait pas été le cas, je me tenais devant elle, bloquant la vue de Shizune."
@@ -6735,7 +6735,7 @@ n "Cette conversation pourrait énerver Shizune, ce qui est compréhensible. Mai
 n "La seule façon pour que Shizune ait pu comprendre la conversation est qu'elle sache lire sur les lèvres. C'est sûrement la première chose que j'ai demandée en étudiant la langue des signes, juste par curiosité. Ce n'est pas facile, non plus parfait... alors je n'y avais jamais pensé jusqu’à maintenant."
 
 
-n "\nÇa serait logique, et le taux d'erreur de lecture quand on lit les lèvres n'arrangerait pas les choses."
+n " {vspace=30}Ça serait logique, et le taux d'erreur de lecture quand on lit les lèvres n'arrangerait pas les choses."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 

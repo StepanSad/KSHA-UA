@@ -1798,7 +1798,7 @@ play music music_night fadein 1.0
 
 window hide
 
-$ written_note("Hi Hicchan. We've unpacked your things and made your bed.\nThey said that if these don't fit then you should go to the office tomorrow.\nIf you have any problems, you can always call us.\n {vspace=30}Love, Mom and Dad")
+$ written_note("Hi Hicchan. We've unpacked your things and made your bed.\nThey said that if these don't fit then you should go to the office tomorrow.\nIf you have any problems, you can always call us.\n \nLove, Mom and Dad")
 
 window show
 
@@ -1847,7 +1847,7 @@ with Pause (1.0)
 hide pills
 with None
 
-$ written_note("Hisao Nakai\n {vspace=30}Two tablets daily to stay alive", quiet=True)
+$ written_note("Hisao Nakai\n \nTwo tablets daily to stay alive", quiet=True)
 
 window show
 

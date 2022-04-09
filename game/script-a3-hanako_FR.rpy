@@ -3727,7 +3727,7 @@ window hide
 nvl show dissolve
 
 
-n "\n\nAprès la crise d'angoisse de Hanako, je me suis retrouvé à remettre en question la relation que j'ai avec elle et ce que je sais d'elle."
+n " {vspace=60}Après la crise d'angoisse de Hanako, je me suis retrouvé à remettre en question la relation que j'ai avec elle et ce que je sais d'elle."
 
 
 n "J'ai eu du mal avec les quatre mois que j'ai passés à l’hôpital. Un regard à ses cicatrices me dit qu'elle a dû y passer beaucoup plus de temps."
@@ -3742,7 +3742,7 @@ n "Et pour sa famille ? Je n'ai pas demandé à Lilly, il n'y a pas eu de bonne
 n "Je ne sais pas où elle a grandi, ou comment était son ancienne école. Je ne connais pas ses anciens amis, ses vœux et ses ambitions. Même pas ses goûts en musique, en nourriture ou en films... toutes ces petites choses que je connais sur tous mes anciens amis."
 
 
-n "\n\nMais qu'est-ce que j'ai fait, pendant tout ce temps que j'ai passé avec elle et Lilly ?"
+n " {vspace=60}Mais qu'est-ce que j'ai fait, pendant tout ce temps que j'ai passé avec elle et Lilly ?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 $ renpy.music.set_volume(0.1, 0.0, channel="sound")
@@ -6418,13 +6418,13 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 window hide
 
 
-$ written_note("Je voulais exprimer mes sentiments, mais les mots ne sortaient pas. Je ne pouvais rien dire pour te réconforter. Je suis vraiment désolée de ne pas avoir pu t'aider quand tu en avais le plus besoin, même si je t’appréciais tant. Au moins maintenant, finalement, je peux être honnête.\n\n\n\n")
+$ written_note("Je voulais exprimer mes sentiments, mais les mots ne sortaient pas. Je ne pouvais rien dire pour te réconforter. Je suis vraiment désolée de ne pas avoir pu t'aider quand tu en avais le plus besoin, même si je t’appréciais tant. Au moins maintenant, finalement, je peux être honnête. {vspace=120} ")
 
 
-$ written_note("Si je pouvais revenir à ces jours qu'on passait dans le silence, en février et mars, je te dirais de ne pas abandonner. C'est ce que je dirais. Peut-être que tu n'aurais pas dérivé si loin si j'avais dit quelque chose. J’espère que tu as réussi à te remettre sur pied par toi-même.\n\n\n\n")
+$ written_note("Si je pouvais revenir à ces jours qu'on passait dans le silence, en février et mars, je te dirais de ne pas abandonner. C'est ce que je dirais. Peut-être que tu n'aurais pas dérivé si loin si j'avais dit quelque chose. J’espère que tu as réussi à te remettre sur pied par toi-même. {vspace=120} ")
 
 
-$ written_note("Maintenant que la distance entre nous est aussi physique, ça me semble définitif. Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas. Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles. J'aimerais beaucoup entendre parler de ta nouvelle école et de comment tu vas. Je ne te souhaite que le meilleur.\n\nSincèrement, Iwanako")
+$ written_note("Maintenant que la distance entre nous est aussi physique, ça me semble définitif. Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas. Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles. J'aimerais beaucoup entendre parler de ta nouvelle école et de comment tu vas. Je ne te souhaite que le meilleur.\n \nSincèrement, Iwanako")
 
 window show
 

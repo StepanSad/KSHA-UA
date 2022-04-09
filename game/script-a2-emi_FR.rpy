@@ -6358,7 +6358,7 @@ window show
 window hide
 
 
-$ written_note("Cher Hisao,\n {vspace=30}Comment vas-tu ? J’espère que tu vas bien et que tu es content dans ta nouvelle école. Tu manques à tout le monde ici. Presque toute la classe de seconde année s'est retrouvée en classe 3-1 pour la dernière année, donc nous sommes plutôt confiants pour le début de l'année. Je suis sûre que tu aurais été assigné à cette classe aussi.")
+$ written_note("Cher Hisao,\n \nComment vas-tu ? J’espère que tu vas bien et que tu es content dans ta nouvelle école. Tu manques à tout le monde ici. Presque toute la classe de seconde année s'est retrouvée en classe 3-1 pour la dernière année, donc nous sommes plutôt confiants pour le début de l'année. Je suis sûre que tu aurais été assigné à cette classe aussi.")
 
 
 $ written_note("Pas mal de monde est anxieux parmi les étudiants de troisième année pour les examens finaux, même s'ils ont lieu beaucoup plus tard. Les professeurs nous harcèlent tout le temps avec ça - même M. Tachibana qui est, d'ailleurs, notre professeur principal cette année. Tu y crois à ça ? J'étais sûre qu'il prendrait sa retraite après la deuxième année, mais il est là, embêtant tout le monde pour les examens.\n ")

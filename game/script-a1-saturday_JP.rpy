@@ -4204,7 +4204,7 @@ with charaexit
 
 window hide
 
-$ written_note("ここから学校に帰る道はわからないでしょ。\n {vspace=30}戻ったら頼みたい仕事があるから。また後でね～")
+$ written_note("ここから学校に帰る道はわからないでしょ。\n \n戻ったら頼みたい仕事があるから。また後でね～")
 
 window show
 

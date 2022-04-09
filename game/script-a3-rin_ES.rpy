@@ -768,7 +768,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nRin manda la aplicación, y —gracias a Nomiya quien presionó al director, seguramente— se le concede permiso para no asistir por el resto del trimestre por “actividades extracurriculares excepcionales”. Ella tiene que compensar por ello durante las vacaciones de verano, pero parece no molestarle."
+n " {vspace=120}Rin manda la aplicación, y —gracias a Nomiya quien presionó al director, seguramente— se le concede permiso para no asistir por el resto del trimestre por “actividades extracurriculares excepcionales”. Ella tiene que compensar por ello durante las vacaciones de verano, pero parece no molestarle."
 
 n "Rin tendrá permitido comer y dormir en la escuela, por supuesto; ella simplemente no tiene que ir a clases. No estoy del todo seguro de si la envidio o no."
 
@@ -1429,7 +1429,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nAsí que al final de cuentas, incluso la persona más cercana a Rin se encuentra tan alejada de ella como todos los demás."
+n " {vspace=120}Así que al final de cuentas, incluso la persona más cercana a Rin se encuentra tan alejada de ella como todos los demás."
 
 n "Me pregunto si la misma Rin siente esa distancia."
 
@@ -1437,7 +1437,7 @@ n "Yo también he sentido como si me apartara del mundo, durante mi hospitalizac
 
 n "Si Rin ha estado en ese lado de la división durante toda su vida, no puedo imaginar cómo no se sentiría sola, pero tal vez ella en verdad sea diferente."
 
-n "\nMe rehúso a pertenecer a ese otro lado, pero puede ser que ella haya encontrado consuelo allá."
+n " {vspace=30}Me rehúso a pertenecer a ese otro lado, pero puede ser que ella haya encontrado consuelo allá."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 
@@ -2110,7 +2110,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nEs raro que alguna vez parezca que me mira, ya sea en sentido literal o figurado."
+n " {vspace=150}Es raro que alguna vez parezca que me mira, ya sea en sentido literal o figurado."
 
 n "Yo, por otro lado, siempre estoy mirando su espalda, tanto en sentido literal como figurado."
 
@@ -2131,7 +2131,7 @@ show black:
     linear 16.0  alpha 1.0 
 with None
 
-n "\n\n\n\n\n¿Qué pienso de ella?"
+n " {vspace=150}¿Qué pienso de ella?"
 
 
 n "Algunas veces ella es fría y distante, y eso me molesta. En otros momentos su pasión por las cosas que ella piensa valen la pena se hace brillar, y eso me inspira."
@@ -2146,7 +2146,7 @@ n "Tengo que admitirlo, hay mucho que soportar con Rin."
 
 nvl clear
 
-n "\n\n\n\n\n¿Qué piensa ella de mí?"
+n " {vspace=150}¿Qué piensa ella de mí?"
 
 n "No tengo idea. La semana pasada pensé que podría haberle gustado de un modo romántico, con eso del beso y todo."
 
@@ -2162,7 +2162,7 @@ n "Debe ser algo contagioso."
 
 nvl clear
 
-n "\n\n\n\n\n\n\n\nAun si dijera algo como eso, ¿importaría?"
+n " {vspace=210}Aun si dijera algo como eso, ¿importaría?"
 
 n "Nada afecta a Rin."
 
@@ -2482,7 +2482,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\nLa vida se asienta en algún tipo de norma vaga e indefinida. Visito a Rin cada vez que puedo, pero cada vez es tan extraña como la primera."
+n " {vspace=30}La vida se asienta en algún tipo de norma vaga e indefinida. Visito a Rin cada vez que puedo, pero cada vez es tan extraña como la primera."
 
 n "Consisten mayormente en mí viendo trabajar a Rin, o solo leyendo un libro en el sofá mientras ella trabaja. Apenas hablamos."
 
@@ -2499,7 +2499,7 @@ n "Mi corazón duele cada vez que veo la extraña figura de la chica que he deci
 
 nvl clear
 
-n "\nNo puedo encontrar aún las palabras correctas para hablar con ella de algo, en absoluto, pero encuentro un callado consuelo en observarla de cerca. La distancia entre nosotros no se siente tan enorme cuando puedo estar cerca de ella, incluso si es de esta manera."
+n " {vspace=30}No puedo encontrar aún las palabras correctas para hablar con ella de algo, en absoluto, pero encuentro un callado consuelo en observarla de cerca. La distancia entre nosotros no se siente tan enorme cuando puedo estar cerca de ella, incluso si es de esta manera."
 
 n "Rin trabaja como un demonio. Casi no hay momentos en los que se encuentre sin un pincel entre sus dedos, o caminando en círculos alrededor de su actual obra en marcha, valorándola desde cada ángulo y distancia."
 
@@ -2507,17 +2507,17 @@ n "Parece estar completamente absorbida por su voluntad de trabajar, de cambiars
 
 n "Montones de bocetos, trabajos en curso, tubos de óleo y pinceles lentamente empiezan a llenar el pequeño taller, haciéndolo un desastre todavía más grande que el que ya era antes de que Rin adquiriera el derecho de usarlo."
 
-n "\nOfrezco ayudarle a limpiar cada tanto, pero cada vez ella se rehúsa."
+n " {vspace=30}Ofrezco ayudarle a limpiar cada tanto, pero cada vez ella se rehúsa."
 
 nvl clear
 
-n "\nAhora caigo en cuenta de que en su mente, el cuarto no es un caos total; más bien su sistema para saber dónde está todo es tan elaborado que solo Rin misma puede entenderlo."
+n " {vspace=30}Ahora caigo en cuenta de que en su mente, el cuarto no es un caos total; más bien su sistema para saber dónde está todo es tan elaborado que solo Rin misma puede entenderlo."
 
 
 
 n "Ella sabe exactamente dónde está todo, desde el pincel más pequeño hasta el tubo casi vacío de carmesí que es el tono perfecto para algún cuadro en curso."
 
-n "\nRin camina de una pintura a otra, mirándolas como si no recordara que ella las hizo. Habla consigo misma —o a las pinturas— incluso cuando estoy presente, siempre lo suficientemente callada de modo tal que no puedo entender lo que dice."
+n " {vspace=30}Rin camina de una pintura a otra, mirándolas como si no recordara que ella las hizo. Habla consigo misma —o a las pinturas— incluso cuando estoy presente, siempre lo suficientemente callada de modo tal que no puedo entender lo que dice."
 
 n "Cada día, Rin se derrama sobre el lienzo durante horas, exprimiendo cada pedacito de su habilidad e incluso su alma para cumplir esa promesa que ella me hizo, o se hizo a sí misma."
 
@@ -2537,7 +2537,7 @@ n "Aun así, cuando vuelve su mirada de las maravillosas obras de arte para ver 
 
 stop music fadeout 4.0
 
-n "\n\n\n\n\n\n\n\n\nNo puedo explicarlo, y ella nunca habla de ello."
+n " {vspace=270}No puedo explicarlo, y ella nunca habla de ello."
 
 nvl clear
 nvl hide dissolve
@@ -3500,7 +3500,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nLa ciudad en la que crecí, bañada en el resplandor eléctrico de un millón de bombillas, nunca dormía."
+n " {vspace=120}La ciudad en la que crecí, bañada en el resplandor eléctrico de un millón de bombillas, nunca dormía."
 
 n "Lo he visto por mí mismo. No es la primera vez que he hecho esto."
 
@@ -3514,17 +3514,17 @@ n "Incluso después, no supe qué fue lo que me hizo quedarme en el centro de la
 
 nvl clear
 
-n "\n\n\nNo sentí ganas de regresar a casa, así que me quedé toda la tarde y, finalmente, por la noche entera."
+n " {vspace=90}No sentí ganas de regresar a casa, así que me quedé toda la tarde y, finalmente, por la noche entera."
 
 n "Caminé en círculos concéntricos alrededor de puntos de referencia escogidos al azar."
 
 n "Por alguna razón, la ciudad de noche se sentía fascinante."
 
-n "\nAsí que caminé sus calles."
+n " {vspace=30}Así que caminé sus calles."
 
 n "En cada intersección era posible escoger tu camino al azar porque todos ellos no te llevaban a ningún lugar."
 
-n "\nEl deambular sin rumbo me hizo ver las cosas de manera diferente. Espero que haga lo mismo por Rin."
+n " {vspace=30}El deambular sin rumbo me hizo ver las cosas de manera diferente. Espero que haga lo mismo por Rin."
 
 nvl clear
 nvl hide dissolve
@@ -3905,7 +3905,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n "\nMe mantengo fiel a mi promesa de honrar la petición de Rin, aun si es en contra de mi propia voluntad."
+n " {vspace=30}Me mantengo fiel a mi promesa de honrar la petición de Rin, aun si es en contra de mi propia voluntad."
 
 n "Trato de dirigir mi atención a mis estudios, pero termino distrayéndome en clases y solo haciendo la cantidad mínima del trabajo requerido."
 
@@ -4874,7 +4874,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n\nLlevo a Rin más allá del límite."
+n " {vspace=150}Llevo a Rin más allá del límite."
 
 n "Su cuerpo entero se contrae alrededor de mis dedos en un paralizante espasmo cegador y ensordecedor. Su voz es increíble."
 
@@ -5472,13 +5472,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nNunca creí que terminaríamos así. Yo no soy así. Rin no es así."
+n " {vspace=60}Nunca creí que terminaríamos así. Yo no soy así. Rin no es así."
 
 n "No importa cuán exasperante, insoportable y abusiva sea Rin, ella no es así."
 
-n "\nElla en verdad cambió. ¿O fui yo quien cambió?"
+n " {vspace=30}Ella en verdad cambió. ¿O fui yo quien cambió?"
 
-n "\nQuizás solo pensé que la conocía, o tal vez conocí a la Rin que ella no es, ¿o acaso fui yo quien causó todo esto al convencer a Rin de probar su suerte con la exhibición?"
+n " {vspace=30}Quizás solo pensé que la conocía, o tal vez conocí a la Rin que ella no es, ¿o acaso fui yo quien causó todo esto al convencer a Rin de probar su suerte con la exhibición?"
 
 n "¿Soy directamente responsable de que Rin se convirtiera en lo que ha sido las últimas semanas?"
 

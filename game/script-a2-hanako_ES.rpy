@@ -184,7 +184,7 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 nvl show dissolve
 
-n "\n\n\nDentro de Yamaku, todo mundo es “especial”, lo que niega la “especialidad” de ello."
+n " {vspace=150}Dentro de Yamaku, todo mundo es “especial”, lo que niega la “especialidad” de ello."
 
 n "Pero una vez que nos aventuramos fuera de los portones escolares, somos devueltos al estatus de “forasteros” y de etiquetas genéricas."
 
@@ -192,7 +192,7 @@ n "Especialmente cuando aún estamos en uniforme escolar. Es como estar colgando
 
 n "Estoy sorprendido de que tantos estudiantes se lo dejen puesto. Por otro lado, con bastones y sillas de ruedas siendo comunes entre los estudiantes, supongo que no es realmente una gran liberación."
 
-n "\n¿O tal vez soy el único que ve esto como un estigma? Tal vez te acostumbras a ello después de un tiempo, como cualquier otro uniforme escolar."
+n " {vspace=30}¿O tal vez soy el único que ve esto como un estigma? Tal vez te acostumbras a ello después de un tiempo, como cualquier otro uniforme escolar."
 
 nvl hide dissolve
 
@@ -1297,7 +1297,7 @@ nvl clear
 
 nvl show dissolve
 
-n "\n\nPor otro lado, nada sobre este pueblo parece normal, lo cual podría no ser algo tan malo en retrospectiva."
+n " {vspace=60}Por otro lado, nada sobre este pueblo parece normal, lo cual podría no ser algo tan malo en retrospectiva."
 
 n "Todo es tan diferente e incómodo; detenerse a pensar en tales cosas no es realmente una opción."
 
@@ -1311,7 +1311,7 @@ n "No es que yo mismo esté libre de cicatrices. La irregular línea en mi ester
 
 n "Tan solo tengo el lujo de poder esconderla fácilmente."
 
-n "\nPero, en cierta forma, nuestras cicatrices me recuerdan que todos estamos en este lugar por una razón."
+n " {vspace=30}Pero, en cierta forma, nuestras cicatrices me recuerdan que todos estamos en este lugar por una razón."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3571,7 +3571,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\nAlgo sobre todo esto me hace pensar en la pregunta de Lilly en el desayuno."
+n " {vspace=120}Algo sobre todo esto me hace pensar en la pregunta de Lilly en el desayuno."
 
 n "¿Por qué soy amigo de Hanako?"
 
@@ -3581,7 +3581,7 @@ n "Hasta donde puedo ver, sus cicatrices no la limitan físicamente, y todos los
 
 n "No tengo ningún motivo oculto para pasar el rato con Hanako, solo compartimos intereses similares."
 
-n "\n¿No es eso suficiente?"
+n " {vspace=30}¿No es eso suficiente?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 nvl clear
@@ -4415,7 +4415,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nCuando estaba en el hospital fui a la sala de quemados una vez, solo una. Estaba aburrido, así que fui a caminar a través de todas las salas."
+n " {vspace=60}Cuando estaba en el hospital fui a la sala de quemados una vez, solo una. Estaba aburrido, así que fui a caminar a través de todas las salas."
 
 n "Fui a oncología y pensé que podría hacerlo, pero cuando llegué a la sala de quemados di la vuelta y volví a mi cama."
 
@@ -4423,7 +4423,7 @@ n "Pensar que Hanako podría haber pasado meses en un lugar como ese, sin oler n
 
 n "Los casos realmente malos se mantenían en cabinas aisladas en las que no pudieran entrar objetos externos. Eso habría significado quedarse sin lectura."
 
-n "\nMe habría vuelto loco si no hubiera tenido mis libros en el hospital."
+n " {vspace=30}Me habría vuelto loco si no hubiera tenido mis libros en el hospital."
 
 n "Y ella dijo que estaba sola…"
 
