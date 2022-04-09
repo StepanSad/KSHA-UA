@@ -252,7 +252,7 @@ with Dissolve (0.2)
 
 "It's like a string pulling at my chest, a choking feeling of narrowness and pain."
 
-"Before I can think of anything else than “Oh shit,” the track disappears from under my feet."
+"Before I can think of anything else than \"Oh shit,\" the track disappears from under my feet."
 
 scene bg school_track_on:
     xalign 0.5  yalign 0.52  rotate 0  zoom 1.0 
@@ -430,13 +430,13 @@ hi "It was just a flutter or something."
 show nurse concern
 with charachange
 
-"The nurse frowns, as if to say that “just a flutter” is some kind of oxymoron."
+"The nurse frowns, as if to say that \"just a flutter\" is some kind of oxymoron."
 
 nk "I didn't mean quite this when I suggested to get some exercise. You've got to be more careful, Hisao."
 
 hi "I was being careful, I just…"
 
-"Come to think of it, “I just got into a race with a member of the track team” doesn't seem as well reasoned as I thought it would."
+"Come to think of it, \"I just got into a race with a member of the track team\" doesn't seem as well reasoned as I thought it would."
 
 nk "You just what?"
 
@@ -531,7 +531,7 @@ emi "So you have to come to lunch with me."
 
 emi "I'll bring it for you, okay? Something really really good!"
 
-"I start with a “You don't have to…” but then shut up and just nod at her when I see her face."
+"I start with a \"You don't have to…\" but then shut up and just nod at her when I see her face."
 
 show emi excited_proud_gym
 with charachange
@@ -726,7 +726,7 @@ with charachange
 
 "He nods, still looking as neutral as he was before."
 
-"It would be easy to be angry at him if he said “Told you so” or something, but he doesn’t."
+"It would be easy to be angry at him if he said \"Told you so\" or something, but he doesn’t."
 
 nk "I can try and help you to keep your health, but ultimately the last call lies with you. Hopefully this little episode will be something that’ll remind you of that."
 
@@ -1172,7 +1172,7 @@ shi "…"
 show misha sign_smile
 with charachange
 
-mi "Awesome, Hicchan~! You said it, okay? Remember: “I'm fine with helping out~,” that's what you said, right~?"
+mi "Awesome, Hicchan~! You said it, okay? Remember: \"I'm fine with helping out~,\" that's what you said, right~?"
 
 hi "Yeah."
 
@@ -1292,7 +1292,7 @@ shi "…"
 show misha perky_confused
 with charachange
 
-mi "That looks like a lot more than “just a few things”…"
+mi "That looks like a lot more than \"just a few things\"…"
 
 "I can't fault either of them for being this way. Misha's just talking for Shizune, and Shizune is just curious by nature. Still, I wish the two of them would stop digging and take the hint. But Misha wouldn't pick up on it, and Shizune can't."
 
@@ -1950,7 +1950,7 @@ mi "That isn't important, Hicchan!"
 show misha sign_smile
 with charachange
 
-mi "There was supposed to be a stall selling lunchboxes, but the girl who was to run it suddenly said she couldn't do it. Shicchan said, “What a waste, it was a lot of work to trick Hicchan into making this~”—"
+mi "There was supposed to be a stall selling lunchboxes, but the girl who was to run it suddenly said she couldn't do it. Shicchan said, \"What a waste, it was a lot of work to trick Hicchan into making this~\"—"
 
 hi "Hey, what the hell…"
 
@@ -2787,7 +2787,7 @@ hi "Good location, and the company's okay too."
 show emi basic_grin_close
 with charachange
 
-"Emi frowns a bit at my declaration of “okay” but seems happy enough that I've accepted her invitation."
+"Emi frowns a bit at my declaration of \"okay\" but seems happy enough that I've accepted her invitation."
 
 "I guess this makes us friends now."
 
@@ -2903,7 +2903,7 @@ with locationskip
 
 "Feeling utterly drained, I head to my room to read the books I borrowed. There's been enough action and excitement for one day already."
 
-"The first is “Alice's Adventures in Wonderland”. I know the story, of course, but I've never actually read the original book."
+"The first is \"Alice's Adventures in Wonderland\". I know the story, of course, but I've never actually read the original book."
 
 "It's just as trippy as I remember the story to be, with the wacky characters and nonsense plot."
 
@@ -3526,7 +3526,7 @@ rin "Bad luck."
 
 hi "Anything wrong, Lilly?"
 
-"I resist the urge to say “Aside from our traveling companion?” But only just."
+"I resist the urge to say \"Aside from our traveling companion?\" But only just."
 
 "For a moment she seems to debate whether she should even bring it up, but goes for it anyway."
 
@@ -3735,7 +3735,7 @@ rin "This is not good. Not good."
 
 "So she's behind her schedule. Recalling Shizune's exasperation at Rin's carefree attitude several days ago, I don't know what to think."
 
-"She has left herself open for a “told you so” unless she can pull off whatever she needs to pull off by Sunday morning."
+"She has left herself open for a \"told you so\" unless she can pull off whatever she needs to pull off by Sunday morning."
 
 "Rin keeps staring at her mural looking as mortified as she can."
 
@@ -3826,3 +3826,4 @@ scene black
 with Dissolve(3.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

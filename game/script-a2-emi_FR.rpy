@@ -359,7 +359,7 @@ with charamoveoutleft
 "Je lui répondrais bien, mais je suis trop occupé à remplir mes poumons d'air et à ignorer les brûlures musculaires dans mes jambes."
 
 
-"Une partie de moi veut dire quelque chose comme “Peut-être que {b}tu{/b} peux, mais je suis sur le point de mourir, là.”"
+"Une partie de moi veut dire quelque chose comme \"Peut-être que {b}tu{/b} peux, mais je suis sur le point de mourir, là.\""
 
 
 "Mais encore une fois, je doute vraiment de pouvoir parler à cet instant."
@@ -778,7 +778,7 @@ with Dissolve(2.0)
 "J'imagine que c'est une bonne chose, même si je me sens un peu comme une mauviette."
 
 
-"Je veux dire qu'au moins j'aurais une excuse au-delà de juste “Je ne suis pas en forme” si mon cœur me causait des soucis."
+"Je veux dire qu'au moins j'aurais une excuse au-delà de juste \"Je ne suis pas en forme\" si mon cœur me causait des soucis."
 
 
 "J'imagine que je vais devoir continuer de courir, sinon Emi ne me lâchera jamais."
@@ -1780,7 +1780,7 @@ emi "Et je cours à cause de la sensation que j'y trouve."
 emi "Et vu qu'on ne permet à rien de nous ralentir, on a une connexion basée là-dessus."
 
 
-hi "Comment ça “ralentir“ ?"
+hi "Comment ça \"ralentir\" ?"
 
 show emi basic_confused_gym_ss
 with charachange
@@ -2773,7 +2773,7 @@ show emi sad_grin_gym
 with charachange
 
 
-emi "Dire “Je ne peux pas continuer” alors que tu es en train de continuer en même temps est bête."
+emi "Dire \"Je ne peux pas continuer\" alors que tu es en train de continuer en même temps est bête."
 
 
 emi "C'est juste pour ça."
@@ -3485,7 +3485,7 @@ n "Certains d'entre eux sont sûrs d’être morts dans deux, voire trois ans s'
 n "Et ça c'est seulement s'ils ont le traitement pour."
 
 
-n "C'est un réconfort assez mince de pouvoir dire : “Bon, au moins j'ai eu la chance de faire le lycée.” C'est triste."
+n "C'est un réconfort assez mince de pouvoir dire : \"Bon, au moins j'ai eu la chance de faire le lycée.\" C'est triste."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
@@ -4500,7 +4500,7 @@ show rin basic_deadpannormal
 with charachange
 
 
-rin "Quand j'ai dit “Essaye de trouver une couronne de laurier”."
+rin "Quand j'ai dit \"Essaye de trouver une couronne de laurier\"."
 
 show rin basic_deadpandelight
 with charachange
@@ -4544,7 +4544,7 @@ show rin basic_absent
 with charachange
 
 
-"Je m’empêche de sortir “magnifique” ou “incroyable” et finis par dire “très impressionnante”."
+"Je m’empêche de sortir \"magnifique\" ou \"incroyable\" et finis par dire \"très impressionnante\"."
 
 show emi basic_closedgrin_gym
 with charachange
@@ -4906,7 +4906,7 @@ with charaexit
 "Bizarre. Je crois que j'avais l'habitude d’être un peu plus responsable de mes affaires."
 
 
-"“Emi-esque”, hein ?"
+"“Emi-esque\", hein ?"
 
 
 "Peut-être que ce n'est pas une si mauvaise chose."
@@ -5171,7 +5171,7 @@ with charachange
 nk "Et elle en est reconnaissante, même si elle ne le dit pas."
 
 
-hi "Comment ça “même si elle ne le dit pas” ?"
+hi "Comment ça \"même si elle ne le dit pas\" ?"
 
 show nurse neutral
 with charachange
@@ -5667,7 +5667,7 @@ show emi basic_grin_close
 with charachange
 
 
-emi "Tu sais, un de ces trucs : “Qu'est-ce que tu feras après le lycée ?”"
+emi "Tu sais, un de ces trucs : \"Qu'est-ce que tu feras après le lycée ?\""
 
 
 hi "Je ne... crois pas. Peut-être qu'on en aura une demain."
@@ -5751,7 +5751,7 @@ show emi excited_proud_close
 with charachange
 
 
-emi "Moi j'ai juste écrit “Pirate.”"
+emi "Moi j'ai juste écrit \"Pirate.\""
 
 
 "Je reste immobile quelques secondes, et éclate de rire."
@@ -6117,7 +6117,7 @@ stop music fadeout 10.0
 "C'est seulement après que je me sois assis à mon bureau et que le professeur ait commencé à parler, que je me rappelle quelque chose d'étrange."
 
 
-"Que voulait dire Rin avec “Emi et toi semblez comprendre” ?"
+"Que voulait dire Rin avec \"Emi et toi semblez comprendre\" ?"
 
 
 "Est-ce qu'Emi fixait quelque chose aussi ?"
@@ -6265,7 +6265,7 @@ with locationchange
 "Alors que je ferme la porte, je marche sur quelque chose sur le sol."
 
 
-"C'est un rectangle de papier coloré. Ah, ça doit être le “quelque chose” que Misha a mentionné auparavant."
+"C'est un rectangle de papier coloré. Ah, ça doit être le \"quelque chose\" que Misha a mentionné auparavant."
 
 
 "Probablement un prospectus du conseil des étudiants qu'elle a glissé sous la porte."
@@ -6299,7 +6299,7 @@ play music music_rain fadein 5.0
 
 "Ce qui m’inquiète encore plus est le nom de l’expéditeur, parfaitement écrit au dos de l'enveloppe."
 
-"“Iwanako.”"
+"“Iwanako.\""
 
 
 "Je n'ai aucune idée de la raison pour laquelle elle m'écrirait. Je n'ai pas été en contact avec qui que ce soit de mon ancienne école depuis que j'ai été transféré, et Iwanako est vraiment la dernière personne que j'aurais imaginée m'envoyer une lettre."
@@ -6314,7 +6314,7 @@ nvl show dissolve
 n " {vspace=150}La dernière fois que j'ai vu Iwanako c'était vraiment étrange, même embarrassant. Elle est venue dans ma chambre d’hôpital, m'a épluché une pomme par courtoisie et on est presque restés assis en silence pendant une heure."
 
 
-n "Elle a dit “au revoir” et ne m'a pas regardé dans les yeux quand elle est partie."
+n "Elle a dit \"au revoir\" et ne m'a pas regardé dans les yeux quand elle est partie."
 
 
 n "C'était une fin assez naturelle à la série de visites qui étaient probablement assez douloureuses pour nous deux."
@@ -8620,7 +8620,7 @@ show yuuko smile_down
 with charachange
 
 
-yu "“Cryptographie avancée”. On vient de l'avoir, et maintenant il a disparu."
+yu "“Cryptographie avancée\". On vient de l'avoir, et maintenant il a disparu."
 
 show yuuko worried_up
 with charachange
@@ -10750,7 +10750,7 @@ with charaenter
 "La seule personne se tenant là est Emi, qui semble vaguement confuse."
 
 
-emi "Comment ça “hein” ?"
+emi "Comment ça \"hein\" ?"
 
 show emi basic_grin
 with charachange
@@ -11297,7 +11297,7 @@ stop music fadeout 1.0
 "Je suis presque sûr d’être bouche bée à cause du choc."
 
 
-"Tout ce que j'arrive à sortir est un “Hein ?” étranglé."
+"Tout ce que j'arrive à sortir est un \"Hein ?\" étranglé."
 
 show emi basic_closedgrin_close
 with charachange
@@ -11582,3 +11582,4 @@ stop music fadeout 5.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

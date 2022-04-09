@@ -579,7 +579,7 @@ label es_E30a:
 
 "¿Qué tal si es algo horrible y hace que ella me repugne? ¿De verdad puedo decir que estoy preparado para afrontar cualquier cosa que ella tenga que decir, sin importar lo que sea?"
 
-"Emi dijo que quiere contármelo “sin arruinarlo”. ¿A qué diablos se refería con eso? ¿Qué podría arruinar?"
+"Emi dijo que quiere contármelo \"sin arruinarlo\". ¿A qué diablos se refería con eso? ¿Qué podría arruinar?"
 
 "Supongo que no sirve de mucho preocuparse por eso, a fin de cuentas. Hoy lo averiguaré. De repente se me ocurre que debo correr esta mañana sin importar qué, para despejar mi mente, por lo menos."
 
@@ -1211,7 +1211,7 @@ emi "No lo hagas. Eso es lo que todos dicen, que lo lamentan. Detesto escuchar e
 show emicas frown
 with charachange
 
-emi "¿Sabes qué es lo mejor que me han dicho? “Esas cosas pasan”. Ni siquiera recuerdo quién lo dijo, pero supongo que no tenía nada mejor que decir."
+emi "¿Sabes qué es lo mejor que me han dicho? \"Esas cosas pasan\". Ni siquiera recuerdo quién lo dijo, pero supongo que no tenía nada mejor que decir."
 
 show emicas sad
 with charachange
@@ -1361,7 +1361,7 @@ emi "¿Quédate conmigo? ¿Por favor?"
 
 "Hay algo en la forma en que lo pide, la vacilación, la voz suave, que me hace creer que ella no se refiere a esta noche."
 
-"No, se refiere exactamente a lo que dijo. “Quédate conmigo”. No “esta noche” o “siempre”, porque los dos sabemos que no hay tal cosa como siempre."
+"No, se refiere exactamente a lo que dijo. \"Quédate conmigo\". No \"esta noche\" o \"siempre\", porque los dos sabemos que no hay tal cosa como siempre."
 
 "No hay límite de tiempo en su petición, solo la petición."
 
@@ -1635,3 +1635,4 @@ window hide
 stop music fadeout 3.0
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

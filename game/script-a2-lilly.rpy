@@ -1686,7 +1686,7 @@ with None
 
 "He nods and waves her off, Akira placing an arm on Lilly's shoulder as she guides her away and out of earshot."
 
-"And so, I'm alone with “Shortie.”"
+"And so, I'm alone with \"Shortie.\""
 
 hi "So… nice weather, isn't it?"
 
@@ -2483,7 +2483,7 @@ li "One could say it's a perfect way to avoid people borrowing my collection."
 
 "She says it in jest, but I am a little disappointed. Having all these books around me with no way of reading them feels like one big tease."
 
-"Hanako giggles quietly as I reach over the closest pile, plucking the topmost book with only a cursory glance. “Death on the Nile,” in large letters on the cover, is the only printed text to be seen."
+"Hanako giggles quietly as I reach over the closest pile, plucking the topmost book with only a cursory glance. \"Death on the Nile,\" in large letters on the cover, is the only printed text to be seen."
 
 $ renpy.music.set_volume(0.5, 0.5, channel="music")
 play sound sfx_paper
@@ -2697,7 +2697,7 @@ aki "Rich words for someone practically drooling as he examines a bottle."
 show lilly basic_displeased_paj
 with charachange
 
-"Lilly rubs her forehead, giving up the fight that she knows Akira would win due to simply not caring enough about those funny “rules” and “regulations.”"
+"Lilly rubs her forehead, giving up the fight that she knows Akira would win due to simply not caring enough about those funny \"rules\" and \"regulations.\""
 
 show lilly basic_displeased_paj
 with charachange
@@ -4341,7 +4341,7 @@ with charachange
 
 "All I can do is raise an eyebrow and give a dazed grin. I don't think I've ever seen this playful and teasing side of her before."
 
-"So… I'm “different”. It's hard to work out the exact context, but knowing her, this ambiguity was intended."
+"So… I'm \"different\". It's hard to work out the exact context, but knowing her, this ambiguity was intended."
 
 "Our relationship has been changing, at the very least simply because I've begun to stand on my own feet more and started getting more curious about the situation of those around me."
 
@@ -4503,7 +4503,7 @@ with Pause (1.0)
 
 "The name neatly adorning the back of the envelope freezes me in my tracks. It's been so long since I've seen her writing, there's little chance I could have identified it as hers otherwise."
 
-"“Iwanako.”"
+"“Iwanako.\""
 
 "Why… should she have written me? I can't think of any good reason for her to do this."
 
@@ -4528,7 +4528,7 @@ n " {vspace=90}While I'd like to say that I don't know why she used such an old
 
 n "A letter leaves a comfortable distance between the sender and the recipient. Unlike a phone, it isn't required that you engage in conversation, and unlike email, there is less expectation of an immediate reply."
 
-n " {vspace=30}Statements such as “the third-years seem to be very anxious about the final exams,” and “it's so weird to think we are already seniors, isn't it?” are just smalltalk. Smalltalk that could have been achieved by simply replying to any of the messages I'd sent her while in hospital."
+n " {vspace=30}Statements such as \"the third-years seem to be very anxious about the final exams,\" and \"it's so weird to think we are already seniors, isn't it?\" are just smalltalk. Smalltalk that could have been achieved by simply replying to any of the messages I'd sent her while in hospital."
 
 n "The ending, though, is the true reason she sent this. The last couple of lines, added almost as an afterthought."
 
@@ -4542,7 +4542,7 @@ with locationchange
 
 nvl show dissolve
 
-n " {vspace=210}“I wonder if we will meet again. Perhaps it's for the best if we don't?”"
+n " {vspace=210}\"I wonder if we will meet again. Perhaps it's for the best if we don't?\""
 
 n "It's a statement that should hurt. I've always heard breakups are nasty stuff, but it feels like this is simply a reaffirmation of what we both already knew instead."
 
@@ -4550,7 +4550,7 @@ n "It's the preceding text, no more than smalltalk, that makes me feel most unea
 
 nvl clear
 
-n " {vspace=240}“If you would like to correspond with me, by all means write me back.”"
+n " {vspace=240}\"If you would like to correspond with me, by all means write me back.\""
 
 n "It's plainly obvious that this is not the type of letter to be replied to. In the end, this letter is no more than a simple abdication of responsibility; a final statement to reassure herself that our relationship is over."
 
@@ -4970,7 +4970,7 @@ hi "The butter…"
 
 "As I glance around, sure enough, a small yellow butterfly floats across my field of vision."
 
-hi "So tell me, how did this butterfly help Lilly “steal” this spot?"
+hi "So tell me, how did this butterfly help Lilly \"steal\" this spot?"
 
 show rin basic_lucid
 with charachange
@@ -5415,7 +5415,7 @@ emi "See! Only someone part-foreign could get a score that good."
 show rin basic_absent
 with charachange
 
-hi "“See”…"
+hi "“See\"…"
 
 show rin basic_awayabsent
 show emi basic_closedsweat
@@ -5601,7 +5601,7 @@ with locationskip
 
 "I smile as I realize the bird's meaning."
 
-"“Everyone here has had to find their own ways of dealing with their conditions. You aren't alone here when you have problems.”"
+"“Everyone here has had to find their own ways of dealing with their conditions. You aren't alone here when you have problems.\""
 
 hi "Thanks, Lilly. I appreciate this."
 
@@ -5822,7 +5822,7 @@ $ renpy.music.set_volume(1.0, 0.0, channel="ambient")
 play ambient sfx_rooftop fadein 1.0
 play music music_tranquil fadein 3.0
 
-"The long taxi ride to the airport is surprisingly pleasant, despite the three of us being rather squashed together to fit in the small back seat. On the other hand, maybe “despite” isn't the right word."
+"The long taxi ride to the airport is surprisingly pleasant, despite the three of us being rather squashed together to fit in the small back seat. On the other hand, maybe \"despite\" isn't the right word."
 
 "Lilly pays the fare to the driver as we file out, Hanako's eyes flittering left and right. Thankfully there aren't too many people around, most of them being inside the main building rather than milling around outside."
 
@@ -6004,3 +6004,4 @@ stop ambient fadeout 3.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

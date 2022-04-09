@@ -416,13 +416,13 @@ window hide
 show rin basic_lucid_superclose at center
 with charachange
 
-centered "“Fue una mala idea.”"
+centered "“Fue una mala idea.\""
 
-centered "“Quizás deberías olvidarlo, y yo lo haré también.”"
+centered "“Quizás deberías olvidarlo, y yo lo haré también.\""
 
 window show
 
-"Es un reflejo, y casi como una idea tardía, las palabras “no,” “sí” y “tal vez” emergen al mismo tiempo dentro de mi mente."
+"Es un reflejo, y casi como una idea tardía, las palabras \"no,\" \"sí\" y \"tal vez\" emergen al mismo tiempo dentro de mi mente."
 
 "Mi mano se encuentra entre sus labios y mis labios, un muro que he levantado para protegerme de… algo."
 
@@ -1576,7 +1576,7 @@ emi "Esa Rin, ¿cómo puede hacer esto? Déjame decirte, ¡ella no tiene un cach
 
 "Supongo que entiendo a Emi, ella es de {b}ese{/b} tipo de personas."
 
-"“Rendirse” nunca ha sido parte de su vocabulario, y tal vez siente como si no debiera de ser parte del vocabulario de nadie."
+"“Rendirse\" nunca ha sido parte de su vocabulario, y tal vez siente como si no debiera de ser parte del vocabulario de nadie."
 
 hi "Probablemente lo mejor es dejarla sola esta noche."
 
@@ -1910,7 +1910,7 @@ with charachange
 
 no "¿Qué pasa con esa niña? Esto no es como ella, siempre ha sido tan determinada."
 
-"¿“Determinada”? Esa realmente no me parece una palabra con la cual describir a Rin."
+"¿“Determinada\"? Esa realmente no me parece una palabra con la cual describir a Rin."
 
 "Para mí, ella siempre dio la sensación de ser obsesiva como mínimo."
 
@@ -2028,7 +2028,7 @@ with charaexit
 
 "Después de que ha desaparecido a la vuelta de la esquina, reflexiono en dónde podría estar Rin realmente."
 
-"Siento como si no tuviera solo uno, sino por lo menos media docena de estos “lugares secretos”."
+"Siento como si no tuviera solo uno, sino por lo menos media docena de estos \"lugares secretos\"."
 
 "Sopeso entre el deseo de resolver este enredo y de dejarlo por la paz."
 
@@ -2226,7 +2226,7 @@ nvl show dissolve
 
 n " {vspace=60}Desde que vine aquí, siempre me he preguntado algo."
 
-n "¿Qué piensan los estudiantes en sillas de ruedas sobre esta tradición, siendo incapaces de seguirla “apropiadamente”?"
+n "¿Qué piensan los estudiantes en sillas de ruedas sobre esta tradición, siendo incapaces de seguirla \"apropiadamente\"?"
 
 n "¿Es un tropiezo mantener esta tradición en un lugar que evita muchas otras por conveniencia?"
 
@@ -2373,7 +2373,7 @@ n " {vspace=30}Levanto el libro y logro leer cien páginas, pero estoy seguro d
 
 n " {vspace=30}Trato de limpiar mi cuarto, pero incluso eso resulta ser demasiado molesto, consumiendo demasiado tiempo y requiriendo demasiada atención al detalle."
 
-n "Usualmente es así. Cuando no tienes “nada que hacer”, no haces nada incluso si pudieras."
+n "Usualmente es así. Cuando no tienes \"nada que hacer\", no haces nada incluso si pudieras."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2932,7 +2932,8 @@ window hide
 nvl clear
 nvl show dissolve
 
-n " {vspace=30}Ella es demasiado indecisa aun si lo está haciendo bien. Como ese “mareo” de la noche anterior."
+n " {vspace=30}Ella es demasiado indecisa aun si lo está haciendo bien. Como ese \"mareo\" de la noche anterior."
+
 
 n "Simplemente le entró pánico o algo así, y no hice nada para ayudarla."
 
@@ -3027,7 +3028,7 @@ with charachange
 
 sa "Cada uno interpreta el arte como gusta, y la interpretación depende tanto de quien lo mira como de las intenciones del creador."
 
-sa "Los “profesionales” tienen su propia manera, porque existe esta cosa llamada teoría del arte."
+sa "Los \"profesionales\" tienen su propia manera, porque existe esta cosa llamada teoría del arte."
 
 sa "Hay patrones en el arte, al igual que en todo, y asumimos que es posible sacar algunas conclusiones al observar esos patrones."
 
@@ -3258,7 +3259,7 @@ hide white
 show ev rin_rain_away_close behind rain at Fullpan(20.0,dir="up")
 with Dissolve(1.0)
 
-"Nuestras pisadas hacen “splish splash” en los charcos poco profundos formándose en las calles a medida que caminamos por la lluvia."
+"Nuestras pisadas hacen \"splish splash\" en los charcos poco profundos formándose en las calles a medida que caminamos por la lluvia."
 
 "Rin, ahora caminando a mi lado en su manera tranquila y relajada, no parece estar ni un poco molesta por el hecho de que se está mojando aun si no tiene que hacerlo."
 
@@ -3439,7 +3440,7 @@ with locationchange
 
 "Cuando me doy vuelta, la encuentro mirándome con un rostro impasible."
 
-rin "Quería que alguien dijera “entiendo cómo te sientes”."
+rin "Quería que alguien dijera \"entiendo cómo te sientes\"."
 
 rin "¿No sería eso genial?"
 
@@ -4140,7 +4141,7 @@ n "Me acerqué a ella ayer, pensando que sería la última vez."
 
 n "Se marchó."
 
-n "“Quiero ser yo”."
+n "“Quiero ser yo\"."
 
 n "¿Qué diablos significa eso? Si alguien lo es, Rin en definitiva es ella misma."
 
@@ -4183,7 +4184,7 @@ rin "Creo que todavía no lo sé, pero está bien."
 
 "La pausa reflexiva que sigue parece durar media eternidad."
 
-"A diferencia de la mayoría de las personas, Rin no le da sabor a sus pausas pensativas por medio de lenguaje corporal o al decir “como” o “ehhh” o nada."
+"A diferencia de la mayoría de las personas, Rin no le da sabor a sus pausas pensativas por medio de lenguaje corporal o al decir \"como\" o \"ehhh\" o nada."
 
 "He notado que puede que prefiera su modo."
 "El modo usual incluso me molesta, como si las personas estuviesen tan infatuadas con el sonido de su voz que simplemente tuvieran que seguir haciendo ruido aun cuando solo están pensando en lo siguiente que podrían decir."
@@ -4265,7 +4266,7 @@ rin "Pero si no te gusta, ¿quisieras que mejor dijera algo diferente?"
 show rin basic_lucid
 with charachange
 
-rin "Aunque no tengo ninguna buena. ¿Qué tal… “Tus pantalones se están quemando”?"
+rin "Aunque no tengo ninguna buena. ¿Qué tal… \"Tus pantalones se están quemando\"?"
 
 show rin basic_absent
 with charachange
@@ -4370,7 +4371,7 @@ with locationchange
 
 "El pasillo se encuentra vacío. Es casi intimidante."
 
-"La “oficina” de Nomiya es el salón de arte al otro extremo del pasillo del tercer piso."
+"La \"oficina\" de Nomiya es el salón de arte al otro extremo del pasillo del tercer piso."
 
 show rin basic_absent at center
 with charaenter
@@ -4439,7 +4440,7 @@ no "La reputación es lo que cuenta, ¿seguramente sabes eso?"
 
 rin "Está bien. No la necesito."
 
-no "¡“No necesitas”! ¿Tú qué crees que sabes?"
+no "¡“No necesitas\"! ¿Tú qué crees que sabes?"
 
 "Las respuestas de Rin solo parecen agitar más al maestro, su voz se levanta con cada oración."
 
@@ -5322,7 +5323,7 @@ with charachange
 
 rin "No lo he notado. Aunque está lloviendo bastante fuerte. Estaba dando un paseo."
 
-hi "¿Es esto a lo que llamas “regodearse en la autocompasión”?"
+hi "¿Es esto a lo que llamas \"regodearse en la autocompasión\"?"
 
 show rin basic_deadpanupset
 with charachange
@@ -5560,7 +5561,7 @@ n "En cómo estamos más cerca de lo que hemos estado, y aun así no me siento f
 
 n "¿Cuándo fue que la ternura y el desamparo se convirtieron en una misma palabra, y las muestras de afecto comenzaron a invocar únicamente anhelo…? ¿Cómo… por qué fue que terminamos así?"
 
-n "“No, no respondas eso”, me gustaría decirme a mí mismo, pero pelear con la omnisciencia de la consciencia de uno mismo es un caso perdido."
+n "“No, no respondas eso\", me gustaría decirme a mí mismo, pero pelear con la omnisciencia de la consciencia de uno mismo es un caso perdido."
 
 n "Igualmente, estoy aquí, y Rin está aquí, y se siente como si ella podría ser capaz de resolver cualesquiera que sean sus problemas."
 
@@ -6125,7 +6126,7 @@ play music music_timeskip fadein 4.0
 
 centered_b "Presente{fast}" with Dissolve(4.0)
 
-nb "El “presente” es un concepto breve e impreciso en el mejor de los casos. {vspace=90} "
+nb "El \"presente\" es un concepto breve e impreciso en el mejor de los casos. {vspace=30} "
 
 extend "¿El momento entre el pasado y el futuro? {vspace=90} "
 
@@ -6162,7 +6163,7 @@ window show Dissolve(2.0)
 $ renpy.music.set_volume(1.0, 0.0, channel="music")
 play music music_dreamy fadein 4.0
 
-"Estoy bastante seguro de que la chica que está de pie ahí medio desnuda, mirando por fuera de la ventana de mi habitación, tiene un mejor entendimiento del “presente” que yo."
+"Estoy bastante seguro de que la chica que está de pie ahí medio desnuda, mirando por fuera de la ventana de mi habitación, tiene un mejor entendimiento del \"presente\" que yo."
 
 "En cuanto a mí… bueno, en este momento estoy un poco confundido a causa de mi estado actual, ya que debería de tratar de encontrar mi camisa y no mirarle el trasero a Rin."
 
@@ -6286,7 +6287,7 @@ rin "Tú sabes, para que ellos estén… bien."
 
 "…"
 
-"Como no tengo idea de cuándo sus senos suponen estar “bien”, termino moviéndole el pecho por un buen rato sin realmente lograr algo."
+"Como no tengo idea de cuándo sus senos suponen estar \"bien\", termino moviéndole el pecho por un buen rato sin realmente lograr algo."
 
 "No es que me queje, pero Rin lo hace."
 
@@ -6312,7 +6313,7 @@ hide rinpan
 show rin basic_absent_close
 with shorttimeskip
 
-"Con su sostén y senos finalmente “bien” como deberían de estar, el resto de su ropa es considerablemente más fácil de poner."
+"Con su sostén y senos finalmente \"bien\" como deberían de estar, el resto de su ropa es considerablemente más fácil de poner."
 
 hide rin
 with charaexit
@@ -6331,7 +6332,7 @@ with locationskip
 
 "Tan pronto como me percato de que nos dirigimos a la entrada lateral que lleva al bosque, creo saber adónde es que Rin quería ir, aunque no podría decir el porqué querría ella ir allá."
 
-"Por otro lado, realmente no puedo asumir que mis suposiciones podrían estar cerca cuando se trata de Rin, ni siquiera para una definición bastante generosa de “correcto”."
+"Por otro lado, realmente no puedo asumir que mis suposiciones podrían estar cerca cuando se trata de Rin, ni siquiera para una definición bastante generosa de \"correcto\"."
 
 $ renpy.music.set_volume(0.6, 0.5, channel="ambient")
 $ renpy.music.set_volume(0.8, 0.5, channel="music")
@@ -6487,7 +6488,7 @@ hi "… Está bien, ¿no?"
 show rin basic_lucid
 with charachange
 
-"“¿Cómo podría saberlo?”, el cómo se encoge de hombros parece decir eso, titubeando en dar una respuesta más firme."
+"“¿Cómo podría saberlo?\", el cómo se encoge de hombros parece decir eso, titubeando en dar una respuesta más firme."
 
 "Ella guarda silencio por solo un segundo de más, pero aun así ese segundo no es lo suficientemente largo para que yo piense más allá…"
 
@@ -7010,3 +7011,4 @@ stop ambient fadeout 4.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

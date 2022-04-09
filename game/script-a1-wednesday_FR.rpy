@@ -28,7 +28,7 @@ show misha perky_smile at twoleft
 with charaenter
 
 
-"Je tourne la tête et remarque que Shizune et Misha me regardent. Shizune me fait un sourire qui est aussi mignon que menaçant. C'est un sourire qui dit “Nous t'avons attrapé maintenant. Il n'y a aucune échappatoire.”"
+"Je tourne la tête et remarque que Shizune et Misha me regardent. Shizune me fait un sourire qui est aussi mignon que menaçant. C'est un sourire qui dit \"Nous t'avons attrapé maintenant. Il n'y a aucune échappatoire.\""
 
 show misha hips_grin
 with charachange
@@ -398,7 +398,7 @@ ha "C... Ce n'est pas grave."
 ha "C'est... C'était de ma faute."
 
 
-hi "Nan, ça n'était la “faute” de personne, c'est des choses qui arrivent."
+hi "Nan, ça n'était la \"faute\" de personne, c'est des choses qui arrivent."
 
 
 hi "Alors, tu attends quelqu'un ? Je t'ai vue regarder la porte juste avant..."
@@ -477,7 +477,7 @@ hi "C'est quoi le problème ? Elles ne s'aiment pas ?"
 "Cela paraît étrangement sensé que Shizune et Lilly ne s'entendent pas tellement bien."
 
 
-"La communication entre les deux doit être presque impossible. Il est déjà assez difficile de parler à Shizune à travers Misha, même quand tu peux voir les mains qui “parlent”."
+"La communication entre les deux doit être presque impossible. Il est déjà assez difficile de parler à Shizune à travers Misha, même quand tu peux voir les mains qui \"parlent\"."
 
 
 "Hanako est tellement concentrée sur Shizune que je suis le premier à remarquer Lilly à la porte."
@@ -1057,7 +1057,7 @@ with charachange
 mi "Est-ce que ça va, Hicchan ? Ibarazaki est toujours comme ça, elle cause des ennuis aux autres."
 
 
-hi "Tu sais, je suis presque certain que Shizune ne m'appellerait pas “Hicchan”."
+hi "Tu sais, je suis presque certain que Shizune ne m'appellerait pas \"Hicchan\"."
 
 show misha hips_grin
 with charachange
@@ -1356,7 +1356,7 @@ show hanako def_worry
 with charachange
 
 
-li "Ce “quelqu'un” est Emi, n'est-ce pas ?"
+li "Ce \"quelqu'un\" est Emi, n'est-ce pas ?"
 
 show emi basic_hes_gym
 with charachange
@@ -1476,7 +1476,7 @@ scene bg suburb_shanghaiext
 with locationchange
 
 
-"Nous arrivons à la maison de thé en un “temps record” selon Misha, probablement en raison du rythme enflammé de Shizune. Je suis un peu déçu de voir que ce n'est pas un énorme bâtiment de l'époque féodale, avec des femmes en kimono versant le thé."
+"Nous arrivons à la maison de thé en un \"temps record\" selon Misha, probablement en raison du rythme enflammé de Shizune. Je suis un peu déçu de voir que ce n'est pas un énorme bâtiment de l'époque féodale, avec des femmes en kimono versant le thé."
 
 
 "Il ressemble en fait plus à un café, comme je le pensais. Non pas que ce soit une mauvaise chose. Il a l'air très bien."
@@ -1742,7 +1742,7 @@ with charachange
 mi "Tu devrais vraiment rejoindre le conseil des étudiants, Hicchan. Allez, ça va être fun !"
 
 
-hi "Les gens disent toujours “Allez, ça va être fun” pour les choses qui ne sont jamais, jamais fun."
+hi "Les gens disent toujours \"Allez, ça va être fun\" pour les choses qui ne sont jamais, jamais fun."
 
 show shizu behind_frown_close
 with charachange
@@ -1835,7 +1835,7 @@ with charachange
 mi "Ah, c'est un secret, Hicchan."
 
 
-hi "Non, je veux savoir à quel point ce nombre est faible. À quel point est-ce que c'est “faible” ?"
+hi "Non, je veux savoir à quel point ce nombre est faible. À quel point est-ce que c'est \"faible\" ?"
 
 
 mi "Ahaha..."
@@ -2220,7 +2220,7 @@ shi "..."
 mi "Shicchan dit qu'elle est flattée, Hicchan, mais faire ce genre de chose serait un abus de pouvoir, et ça empièterait sur ton libre arbitre~ ! Et~ ! Ce serait aussi du chantage ! Shicchan ne ferait jamais rien de tel, jamais !"
 
 
-"Je pense à demander à Misha, “En es-tu sûre ?” mais je résiste à cette envie."
+"Je pense à demander à Misha, \"En es-tu sûre ?\" mais je résiste à cette envie."
 
 show shizu basic_normal_close
 with charachange
@@ -2428,7 +2428,7 @@ show misha hips_grin
 with charachange
 
 
-mi "Elle a essayé, mais même alors que Shicchan est sourde, il essaiera de dire “salut~ !” quand même !"
+mi "Elle a essayé, mais même alors que Shicchan est sourde, il essaiera de dire \"salut~ !\" quand même !"
 
 
 hi "Et la fuite ?"
@@ -2589,7 +2589,7 @@ with charachange
 "À en juger par l'expression des deux filles, je ne pense pas qu'elles me croient. Mais, dans ce que je pense être leur façon de respecter ma vie privée, elles ne me posent pas d'autres questions."
 
 
-"J'imagine que c'est une des règles implicites ici : “Ne pas demander.” Même si l'état des gens est évident, comme celui de Hanako, il est toujours lié à une histoire compliquée."
+"J'imagine que c'est une des règles implicites ici : \"Ne pas demander.\" Même si l'état des gens est évident, comme celui de Hanako, il est toujours lié à une histoire compliquée."
 
 
 "Chacun a un vécu dont il n'est pas facile de parler, et je pense que tout le monde en a conscience ici."
@@ -2761,7 +2761,7 @@ with charaexit
 "Nous allons jusqu'à nos sièges, et je remarque que Misha et Shizune sont toutes deux absentes."
 
 
-"Je me demande si c'est une forme d'accord tacite avec le staff, ou si c'est un “avantage” accordé aux étudiants de cette école."
+"Je me demande si c'est une forme d'accord tacite avec le staff, ou si c'est un \"avantage\" accordé aux étudiants de cette école."
 
 
 "Essayant de déranger le moins possible, je sors de mon sac les livres dont j'ai besoin et commence à rattraper mon retard."
@@ -3036,7 +3036,7 @@ show muto normal
 with charachange
 
 
-"Il tourne la tête pour me regarder fixement, avec un regard dur, comme s'il essayait de dire “va te faire quelques amis”."
+"Il tourne la tête pour me regarder fixement, avec un regard dur, comme s'il essayait de dire \"va te faire quelques amis\"."
 
 
 "..."
@@ -3056,7 +3056,7 @@ show misha sign_confused
 with charachange
 
 
-"Elle s'arrête, laisse apparaître une expression troublée, et pointe vers moi son doigt, hurlant “Ah !” avec un air très perplexe."
+"Elle s'arrête, laisse apparaître une expression troublée, et pointe vers moi son doigt, hurlant \"Ah !\" avec un air très perplexe."
 
 
 mi "Maintenant que j'y pense, qu'est-ce que Hicchan fait ici ? Les cours sont finis, tu devrais t'amuser~ !"
@@ -3459,7 +3459,7 @@ with charaexit
 "Devrais-je le dire naturellement lors des présentations ? Est-ce ce qu'on attend de moi ?"
 
 
-"“Salut, je suis Hisao. J'ai un gros problème cardiaque.”"
+"“Salut, je suis Hisao. J'ai un gros problème cardiaque.\""
 
 
 "C'est comme ça que je suis supposé me présenter à partir de maintenant ?"
@@ -3500,7 +3500,7 @@ with charaenter
 "Toutefois, j'imagine que ce spectacle pourrait mettre les gens mal à l'aise, surtout pendant les repas. Du moins, ça me rend un peu mal à l'aise."
 
 
-"J'hésite à penser au mot “anormal” mais c'est un peu trop tard maintenant, hein ?"
+"J'hésite à penser au mot \"anormal\" mais c'est un peu trop tard maintenant, hein ?"
 
 
 "Je continue de chercher dans les placards et les étagères les trucs de Misha, mais après un long laps de temps, le silence devient gênant, alors j'essaye d'engager la conversation avec cette étrange fille."
@@ -4211,7 +4211,7 @@ with charachange
 nk "D'accord. C'est mieux comme ça."
 
 
-nk "Si tu vas sur la piste de l'école demain matin, tu rencontreras mon “espion”, qui n'aura probablement pas de problèmes à t'offrir une séance si tu veux courir un peu."
+nk "Si tu vas sur la piste de l'école demain matin, tu rencontreras mon \"espion\", qui n'aura probablement pas de problèmes à t'offrir une séance si tu veux courir un peu."
 
 
 hi "Séance ?"
@@ -4286,7 +4286,7 @@ hi "Ils me font juste me sentir un peu moins mal."
 "Je suis reconnaissant qu'elle ne réagisse pas. Je pense que ne suis toujours pas vraiment habitué à tout ça."
 
 
-"À l'hôpital c'était facile, mais je n'ai toujours pas fait le tri dans ma tête pour vivre une vie “normale” avec ce handicap."
+"À l'hôpital c'était facile, mais je n'ai toujours pas fait le tri dans ma tête pour vivre une vie \"normale\" avec ce handicap."
 
 
 
@@ -4483,7 +4483,7 @@ show rin relaxed_nonchalant
 with charachange
 
 
-"Rin hausse les épaules à ma déclaration, disant “comme tu veux” sans le dire et lève les yeux vers le ciel comme si elle cherchait à voir quelque chose là-haut."
+"Rin hausse les épaules à ma déclaration, disant \"comme tu veux\" sans le dire et lève les yeux vers le ciel comme si elle cherchait à voir quelque chose là-haut."
 
 
 rin "Je ne pense pas que je vais pouvoir faire quoi que ce soit de conséquent, mais si tu me donnes un coup de main avec la peinture, je pourrais en faire un peu avant qu'il ne fasse trop sombre."
@@ -4690,3 +4690,4 @@ scene black
 with Dissolve(3.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

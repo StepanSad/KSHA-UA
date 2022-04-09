@@ -294,7 +294,7 @@ scene bg gallery_ext:
 with locationskip
 
 
-"Luego de girar tres esquinas más, Nomiya se detiene frente a una puerta. Hay una placa con letras rojas y grandes sobre ella: “22a Esquina”."
+"Luego de girar tres esquinas más, Nomiya se detiene frente a una puerta. Hay una placa con letras rojas y grandes sobre ella: \"22a Esquina\"."
 
 show bg gallery_ext:
     yalign 1.0 
@@ -768,7 +768,7 @@ nvl clear
 nvl show dissolve
 
 
-n " {vspace=120}Rin manda la aplicación, y —gracias a Nomiya quien presionó al director, seguramente— se le concede permiso para no asistir por el resto del trimestre por “actividades extracurriculares excepcionales”. Ella tiene que compensar por ello durante las vacaciones de verano, pero parece no molestarle."
+n " {vspace=120}Rin manda la aplicación, y —gracias a Nomiya quien presionó al director, seguramente— se le concede permiso para no asistir por el resto del trimestre por \"actividades extracurriculares excepcionales\". Ella tiene que compensar por ello durante las vacaciones de verano, pero parece no molestarle."
 
 n "Rin tendrá permitido comer y dormir en la escuela, por supuesto; ella simplemente no tiene que ir a clases. No estoy del todo seguro de si la envidio o no."
 
@@ -1583,7 +1583,7 @@ hi "Está bien. Era una broma, más o menos. De cualquier manera, parece que te 
 show yuuko closedhappy_down
 with charachange
 
-yu "Sí, cuando me siento muy triste, ¡doy un paso atrás y hago una taza de té! Y cuando ya me he tomado el té, le doy una patada en el trasero a mi ánimo, así como ¡PUM! y luego me digo a mí misma “¡ahora vas a hacer esto, Yuuko!”, ¡y luego voy y lo hago!"
+yu "Sí, cuando me siento muy triste, ¡doy un paso atrás y hago una taza de té! Y cuando ya me he tomado el té, le doy una patada en el trasero a mi ánimo, así como ¡PUM! y luego me digo a mí misma “¡ahora vas a hacer esto, Yuuko!\", ¡y luego voy y lo hago!"
 
 show yuuko happy_up
 with charachange
@@ -1924,7 +1924,7 @@ scene bg gallery_ext:
     xalign 0.5  yalign 0.0 
 with locationchange
 
-"A pesar de tener un ligero impedimento direccional, encuentro el camino desde la estación de autobuses a la galería sin demasiado esfuerzo, y pronto me hallo mirando las grandes letras que dicen “22a Esquina”."
+"A pesar de tener un ligero impedimento direccional, encuentro el camino desde la estación de autobuses a la galería sin demasiado esfuerzo, y pronto me hallo mirando las grandes letras que dicen \"22a Esquina\"."
 
 
 play sound sfx_storebell
@@ -2251,7 +2251,7 @@ hi "Así que… ahhh… Quiero decir, quisiera que me gustaras como más que una
 show rin basic_surprised_cas
 with charachange
 
-rin "¿Qué es “más”?"
+rin "¿Qué es \"más\"?"
 
 $ renpy.music.set_volume(0.3, 7.0, channel="ambient")
 
@@ -2683,7 +2683,7 @@ with charachange
 
 rin "Tal vez pronto esté empezando a pintar diferente, si esto continúa."
 
-hi "Bueno, ¿no sería eso tan solo ese “cambio” del que siempre hablas?"
+hi "Bueno, ¿no sería eso tan solo ese \"cambio\" del que siempre hablas?"
 
 show rin basic_surprised_cas_close
 with charachange
@@ -2852,12 +2852,12 @@ hi "No, no lo creo."
 show sae scowl_smoke
 with charachange
 
-sa "Entonces, ¿las pinturas irían tan solo con “Sin nombre, número uno” y así sucesivamente? Es un poco inconveniente, pero…"
+sa "Entonces, ¿las pinturas irían tan solo con \"Sin nombre, número uno\" y así sucesivamente? Es un poco inconveniente, pero…"
 
 show rin basic_deadpanupset_cas
 with charachange
 
-rin "Eso no está bien. “Sin nombre” significa que simplemente no pudiste pensar en un buen nombre. Y “Sin nombre” es un nombre, como ese tipo griego con los borregos y todo."
+rin "Eso no está bien. \"Sin nombre\" significa que simplemente no pudiste pensar en un buen nombre. Y \"Sin nombre\" es un nombre, como ese tipo griego con los borregos y todo."
 
 "Sae piensa en esto por un momento, frunciendo el entrecejo en lo que sigue mirando el rostro serio de Rin."
 
@@ -2905,7 +2905,7 @@ sa "Piénsalo. Se pueden hacer todo tipo de asociaciones, empezando por la ident
 show sae smile
 with charachange
 
-sa "Podríamos llamar tu exhibición “Innominado” y construirlo sobre ese tema. ¿Cómo suena eso?"
+sa "Podríamos llamar tu exhibición \"Innominado\" y construirlo sobre ese tema. ¿Cómo suena eso?"
 
 show rin basic_lucid_cas
 with charachange
@@ -3038,7 +3038,7 @@ rin "Necesito algo más. Así no es suficiente."
 
 "Es molesto cómo sus pensamientos están igualmente puestos a plena luz del día y ocultos a la vista cada vez que abre su boca."
 
-hi "¿Qué “más”? Le dijiste eso a Sae, también. ¿Un ingrediente faltante?"
+hi "¿Qué \"más\"? Le dijiste eso a Sae, también. ¿Un ingrediente faltante?"
 
 play music music_rain fadein 4.0
 
@@ -3088,7 +3088,7 @@ with charachange
 
 rin "Sí. Necesito hacer algo. Quiero pintar. Necesito algo más."
 
-hi "Bien, grandioso. ¿Entonces qué es después de fumar un cigarrillo? ¿Cómo pretendes “destruirte a ti misma”?"
+hi "Bien, grandioso. ¿Entonces qué es después de fumar un cigarrillo? ¿Cómo pretendes \"destruirte a ti misma\"?"
 
 show rin basic_awayabsent_cas_ss
 with charachange
@@ -3195,7 +3195,7 @@ with charachange
 
 "Es menos desagradable en el segundo intento, pero de igual modo le paso de vuelta el cigarrillo a Rin."
 
-"Somos como una pareja de delincuentes en ciernes en la escuela secundaria, escondiendo su primer cigarrillo de los maestros y los padres. Bueno, supongo que no es “como”, eso es exactamente lo que somos."
+"Somos como una pareja de delincuentes en ciernes en la escuela secundaria, escondiendo su primer cigarrillo de los maestros y los padres. Bueno, supongo que no es \"como\", eso es exactamente lo que somos."
 
 show ev rin_wisp3 at wispturn 
 with charachange
@@ -3336,7 +3336,7 @@ hi "Desearía también sentirme así algunas veces."
 "Me pregunto si siente la amargura filtrándose en mis palabras. El ciclo vicioso de sentimientos no correspondidos me está envenenando, incluso ahora."
 
 
-"Trato de empujar el lúgubre pensamiento a un lado. Mis esfuerzos encuentran pocos resultados mientras mi mente sigue arremolinándose en torno a “que tal si”s y “si tan solo”s."
+"Trato de empujar el lúgubre pensamiento a un lado. Mis esfuerzos encuentran pocos resultados mientras mi mente sigue arremolinándose en torno a \"que tal si\"s y \"si tan solo\"s."
 
 "Viendo la luna lentamente trepar más alto, me percato de que ha pasado un largo tiempo desde que vine aquí."
 
@@ -4639,7 +4639,7 @@ rin "No importa."
 
 "No quiero ver a Rin así."
 
-"Todo lo que puedo ver es su tristeza. Su estrés y desesperación. ¿Es esto lo que un “límite” significa? ¿Por qué— cómo pudieron Sae y Nomiya dejar que Rin fuera así de lejos? ¿O soy yo quien tiene la culpa?"
+"Todo lo que puedo ver es su tristeza. Su estrés y desesperación. ¿Es esto lo que un \"límite\" significa? ¿Por qué— cómo pudieron Sae y Nomiya dejar que Rin fuera así de lejos? ¿O soy yo quien tiene la culpa?"
 
 stop music fadeout 6.0
 
@@ -4712,7 +4712,7 @@ rin "Pero me lastimó. No puedo manejar esto."
 
 "Es una voz sin vida."
 
-"Acaricio su cabeza y sus hombros, el equivalente físico de decir “ya, ya”. No es como si yo pudiera tranquilizarla con las dulces nulidades que se supone la gente dice en este tipo de situaciones."
+"Acaricio su cabeza y sus hombros, el equivalente físico de decir \"ya, ya\". No es como si yo pudiera tranquilizarla con las dulces nulidades que se supone la gente dice en este tipo de situaciones."
 
 "No estoy seguro de si ella siquiera lo escucharía, o si la tranquilizaría."
 
@@ -5557,3 +5557,4 @@ stop ambient fadeout 3.0
 
 window hide
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

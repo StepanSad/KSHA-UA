@@ -272,7 +272,7 @@ with Dissolve (0.2)
 
 "Es como si una cuerda tirara de mi pecho, una ahogadora sensación de estrechez y dolor."
 
-"Antes de que pueda pensar otra cosa además de “Oh mierda”, la pista desaparece de debajo de mis pies."
+"Antes de que pueda pensar otra cosa además de \"Oh mierda\", la pista desaparece de debajo de mis pies."
 
 scene bg school_track_on:
     xalign 0.5  yalign 0.52  rotate 0  zoom 1.0 
@@ -454,13 +454,13 @@ hi "Fueron solo unas palpitaciones o algo."
 show nurse concern
 with charachange
 
-"El enfermero frunce el ceño, como para decir que “solo unas palpitaciones” es algún tipo de oxímoron."
+"El enfermero frunce el ceño, como para decir que \"solo unas palpitaciones\" es algún tipo de oxímoron."
 
 nk "No me refería a algo como esto cuando sugerí hacer ejercicio. Tienes que ser más cuidadoso, Hisao."
 
 hi "Estaba siendo cuidadoso, es solo…"
 
-"Ahora que lo pienso, “Solo me metí en una carrera con uno de los miembros del equipo de atletismo” no parece tan razonable como lo había pensado."
+"Ahora que lo pienso, \"Solo me metí en una carrera con uno de los miembros del equipo de atletismo\" no parece tan razonable como lo había pensado."
 
 nk "¿Es solo qué?"
 
@@ -559,7 +559,7 @@ emi "Así que tienes que venir a almorzar conmigo."
 
 emi "Lo llevaré por ti, ¿está bien? ¡Algo muy, muy bueno!"
 
-"Empiezo a decir “No tienes que…” pero entonces me callo y solo le asiento cuando veo su cara."
+"Empiezo a decir \"No tienes que…\" pero entonces me callo y solo le asiento cuando veo su cara."
 
 show emi excited_proud_gym
 with charachange
@@ -759,7 +759,7 @@ with charachange
 
 "Asiente con la cabeza, todavía viéndose tan neutral como antes."
 
-"Sería fácil enojarse con él si dijera “Te lo dije” o algo parecido, pero no lo hace."
+"Sería fácil enojarse con él si dijera \"Te lo dije\" o algo parecido, pero no lo hace."
 
 nk "Puedo intentar ayudarte a mantenerte saludable, pero al final la decisión es tuya. Espero que este pequeño episodio sea algo que te lo recuerde."
 
@@ -1221,7 +1221,7 @@ shi "…"
 show misha sign_smile
 with charachange
 
-mi "¡Asombroso, Hicchan~! Tú lo dijiste, ¿está bien? Recuerda: “Por mí está bien ayudar~”, es lo que tú dijiste, ¿cierto~?"
+mi "¡Asombroso, Hicchan~! Tú lo dijiste, ¿está bien? Recuerda: \"Por mí está bien ayudar~\", es lo que tú dijiste, ¿cierto~?"
 
 hi "Seguro."
 
@@ -1342,7 +1342,7 @@ shi "…"
 show misha perky_confused
 with charachange
 
-mi "Eso se ve como mucho más que “unas cuantas cosas”…"
+mi "Eso se ve como mucho más que \"unas cuantas cosas\"…"
 
 "No puedo culpar a alguna de ellas por ser de esta manera. Misha solo está hablando por Shizune, y Shizune es curiosa por naturaleza. Aun así, desearía que dejaran de escarbar y entendieran la indirecta. Pero Misha no lo hace, y Shizune no puede."
 
@@ -2014,7 +2014,7 @@ mi "¡Eso no tiene importancia, Hicchan!"
 show misha sign_smile
 with charachange
 
-mi "Se suponía que habría un puesto de venta de almuerzos, pero la chica a cargo de pronto dijo que no podía hacerlo. Shicchan dijo, “Qué desperdicio, fue mucho trabajo engañar a Hicchan para que hiciera esto~” —"
+mi "Se suponía que habría un puesto de venta de almuerzos, pero la chica a cargo de pronto dijo que no podía hacerlo. Shicchan dijo, \"Qué desperdicio, fue mucho trabajo engañar a Hicchan para que hiciera esto~\" —"
 
 hi "Hey, qué diablos…"
 
@@ -2858,7 +2858,7 @@ hi "Buen lugar, y la compañía también es buena."
 show emi basic_grin_close
 with charachange
 
-"Emi frunce un poco el ceño por mi declaración de “buena” pero parece estar bastante contenta de que haya aceptado su invitación."
+"Emi frunce un poco el ceño por mi declaración de \"buena\" pero parece estar bastante contenta de que haya aceptado su invitación."
 
 "Creo que esto nos hace amigos."
 
@@ -2975,7 +2975,7 @@ with locationskip
 
 "Sintiéndome completamente agotado, me dirijo a mi habitación para leer los libros que pedí prestados. Ya ha habido suficiente acción y emoción por un día."
 
-"El primero es “Alicia en el País de las Maravillas”. Conozco la historia, por supuesto; pero en realidad nunca había leído el libro original."
+"El primero es \"Alicia en el País de las Maravillas\". Conozco la historia, por supuesto; pero en realidad nunca había leído el libro original."
 
 "Es exactamente igual de extraño a como recuerdo la historia, con personajes absurdos y trama incoherente."
 
@@ -3605,7 +3605,7 @@ rin "Mala suerte."
 
 hi "¿Pasa algo malo, Lilly?"
 
-"Resisto la urgencia de decir “¿Aparte de nuestra compañera de viaje?”. Pero solo por poco."
+"Resisto la urgencia de decir “¿Aparte de nuestra compañera de viaje?\". Pero solo por poco."
 
 "Por un instante parece considerar si debería siquiera de mencionarlo, pero decide hacerlo de cualquier forma."
 
@@ -3815,7 +3815,7 @@ rin "Esto no está bien. Nada bien."
 
 "Entonces está atrasada. Recordando la exasperación de Shizune a causa de la actitud despreocupada de Rin varios días antes, no sé en qué pensar."
 
-"Se ha dejado expuesta a un “te lo dije” a menos que pueda terminar lo que sea que deba terminar para la mañana del domingo."
+"Se ha dejado expuesta a un \"te lo dije\" a menos que pueda terminar lo que sea que deba terminar para la mañana del domingo."
 
 "Rin se queda mirando a su mural luciendo todo lo mortificada que pueda."
 
@@ -3908,3 +3908,4 @@ scene black
 with Dissolve(3.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

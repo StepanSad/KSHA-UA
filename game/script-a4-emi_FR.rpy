@@ -729,7 +729,7 @@ label fr_E30a:
 "Et si c'est quelque chose d'horrible qui fait qu'elle me dégoûtera ? Est-ce que je peux vraiment dire que je suis préparé à supporter ce qu'elle a à me dire, quoi que ce soit ?"
 
 
-"Emi a dit qu'elle voulait me raconter “sans foirer”. Qu'est-ce qu'elle voulait dire par là ? Qu'est-ce qu'il y a à foirer ?"
+"Emi a dit qu'elle voulait me raconter \"sans foirer\". Qu'est-ce qu'elle voulait dire par là ? Qu'est-ce qu'il y a à foirer ?"
 
 
 "J'imagine que ça ne sert pas à grand-chose de s’inquiéter maintenant. Je verrai bien aujourd'hui. Je me rends compte que j'ai vraiment, vraiment besoin d'une course ce matin ; pour me vider la tête, déjà."
@@ -1514,7 +1514,7 @@ show emicas frown
 with charachange
 
 
-emi "Tu sais quelle est la meilleure chose qu'on m'ait dite ? “Ce sont des choses qui arrivent.” Je ne me rappelle même plus qui a dit ça, mais j'imagine qu'il n'avait rien de mieux à dire."
+emi "Tu sais quelle est la meilleure chose qu'on m'ait dite ? \"Ce sont des choses qui arrivent.\" Je ne me rappelle même plus qui a dit ça, mais j'imagine qu'il n'avait rien de mieux à dire."
 
 show emicas sad
 with charachange
@@ -1708,7 +1708,7 @@ emi "Reste avec moi ? S'il te plaît ?"
 "Il y a quelque chose dans la façon dont elle pose la question, l’hésitation, la voix faible, qui me fait penser qu'elle ne parle pas de ce soir."
 
 
-"Non, elle pensait ce qu'elle a dit. “Reste avec moi.” Pas “ce soir” ou “pour toujours”, parce que nous savons tous deux qu'il n'y a pas de pour toujours."
+"Non, elle pensait ce qu'elle a dit. \"Reste avec moi.\" Pas \"ce soir\" ou \"pour toujours\", parce que nous savons tous deux qu'il n'y a pas de pour toujours."
 
 
 "Il n'y a pas de limitation de temps dans sa demande, il y a juste la demande."
@@ -2073,3 +2073,4 @@ window hide
 stop music fadeout 3.0
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

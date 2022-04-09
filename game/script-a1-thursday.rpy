@@ -116,9 +116,9 @@ label en_A19i:
 show emi excited_circle_gym
 with charachange
 
-emi "“Miss Ibarazaki?”"
+emi "“Miss Ibarazaki?\""
 
-"She imitates Misha “imitating” Shizune, failing to get the same kind of subdued lilt into her high-pitched voice."
+"She imitates Misha \"imitating\" Shizune, failing to get the same kind of subdued lilt into her high-pitched voice."
 
 
 
@@ -145,7 +145,7 @@ emi "Great!"
 
 "I'm not sure she realized I was joking."
 
-hi "So the “spy-consultant” the nurse was talking about… is that actually you?"
+hi "So the \"spy-consultant\" the nurse was talking about… is that actually you?"
 
 show emi basic_closedgrin_gym
 with charachange
@@ -168,7 +168,7 @@ hi "Unless you are here to do exactly that."
 show emi excited_laugh_gym
 with charachange
 
-emi "No, I'm here for my own reasons, the nurse just asked me if I had seen “a messy-haired transfer student who looks like he's kinda lost” around the track."
+emi "No, I'm here for my own reasons, the nurse just asked me if I had seen \"a messy-haired transfer student who looks like he's kinda lost\" around the track."
 
 hi "So why are you down here?"
 
@@ -458,7 +458,7 @@ with charachange
 
 ke "I should be asking you that. I've been looking for you all over the place, man."
 
-hi "What do you mean “all over the place”?"
+hi "What do you mean \"all over the place\"?"
 
 "I want to ask if he's been looking for me like that, stark naked, but hold my tongue back."
 
@@ -619,7 +619,7 @@ ke "Well, I mean don't take them lightly for the big things. Individually they'r
 show kenji tsun_naked
 with charachange
 
-ke "And that day will come, when the feminists come out of their central top secret worldwide feminist headquarters, and say “It's on now, motherfuckers!”"
+ke "And that day will come, when the feminists come out of their central top secret worldwide feminist headquarters, and say \"It's on now, motherfuckers!\""
 
 hi "You're being ridiculous, there's no big worldwide feminist headquarters building, where would they even hide that? I mean, it'd have to be massive, you couldn't hide that on Earth, someone would notice a big fortress with women only in it."
 
@@ -641,7 +641,7 @@ ke "Imagine it, the bloody battlefield. A vicious conflict without end."
 
 ke "I almost gave up, when I thought this cause was silly… When I grew tired of the bleakness of our fight… When I mistook the time the power went out for a feminist raid and thought the end was near…"
 
-ke "But then I realized that if I gave up, it would all be over, and I was like, “whoa” and knew I had to get serious. Because I am the last sane man in an insane world. It's about duty."
+ke "But then I realized that if I gave up, it would all be over, and I was like, \"whoa\" and knew I had to get serious. Because I am the last sane man in an insane world. It's about duty."
 
 hi "Must be a pretty crappy movement if it all hinges on one naked guy, ranting in a bathroom at another naked guy."
 
@@ -837,7 +837,7 @@ mi "Look, it's the class representative~! Hello~!"
 show lilly cane_smile
 with charachange
 
-"Lilly smiles, probably amused by Misha's - or Shizune's - use of the word “look.”"
+"Lilly smiles, probably amused by Misha's - or Shizune's - use of the word \"look.\""
 
 show lilly cane_smile
 with charachange
@@ -863,7 +863,7 @@ li "I'm not."
 
 "Then I realize that Lilly might actually not know Shizune is present and she's trying to detect whether or not she is, to know who she is talking to."
 
-"For all she knows, she's talking to Misha, but knowing that she and Shizune are practically inseparable, she might expect Shizune being the one that actually “talks.”"
+"For all she knows, she's talking to Misha, but knowing that she and Shizune are practically inseparable, she might expect Shizune being the one that actually \"talks.\""
 
 "Damn, how complicated. I decide to help Lilly out, for my own peace of mind more than anything else."
 
@@ -927,7 +927,7 @@ shi "…"
 show misha cross_frown
 with charachange
 
-mi "Today! The deadline is today! You're certainly taking your time, aren't you? If I had it my way, I'd have had all of the necessary paperwork days ago, but someone~! had to say “the deadline, please extend it~!”"
+mi "Today! The deadline is today! You're certainly taking your time, aren't you? If I had it my way, I'd have had all of the necessary paperwork days ago, but someone~! had to say \"the deadline, please extend it~!\""
 
 show lilly cane_displeased
 with charachange
@@ -1257,7 +1257,7 @@ with charachange
 show misha hips_smile
 with charachange
 
-mi "Class rep~! Shicchan says: “Don't forget that report, please~!”"
+mi "Class rep~! Shicchan says: \"Don't forget that report, please~!\""
 
 li "I won't."
 
@@ -1564,7 +1564,7 @@ with charachange
 
 mi "Huh?"
 
-"The tone of Shizune's actions make me think she is “speaking” with disdain, but Misha interprets it normally, replacing whatever intent may have been there with her own chipper twist on things. It's still disorienting, I don't think I'll ever get used to it."
+"The tone of Shizune's actions make me think she is \"speaking\" with disdain, but Misha interprets it normally, replacing whatever intent may have been there with her own chipper twist on things. It's still disorienting, I don't think I'll ever get used to it."
 
 hi "Never mind."
 
@@ -2053,7 +2053,7 @@ with charachange
 
 mi "Besides, you're the criminal here, you know what you did!"
 
-hi "Have you ever read “The Trial,” by Kafka?"
+hi "Have you ever read \"The Trial,\" by Kafka?"
 
 show misha hips_grin
 with charachange
@@ -2818,7 +2818,7 @@ shi "…"
 show misha sign_smile
 with charachange
 
-mi "That's why there must be no flaws, no… errr I think that was “incumbrances,” no nothing that might make the festival short of perfect."
+mi "That's why there must be no flaws, no… errr I think that was \"incumbrances,\" no nothing that might make the festival short of perfect."
 
 "Shizune's passionate speech and Misha's enacting are really oddly fitting of them."
 
@@ -3786,7 +3786,7 @@ with charachange
 
 ke "Yeah, some stalls outside. Or something."
 
-"“Or something?” His noncommittal nature sparks a fair amount of suspicion on my behalf. The task at hand comes first, though."
+"“Or something?\" His noncommittal nature sparks a fair amount of suspicion on my behalf. The task at hand comes first, though."
 
 hi "So how do you want to split this? We do borders while you do the text? Or do you want to switch and do the borders?"
 
@@ -4171,3 +4171,4 @@ scene black
 with shuteye
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

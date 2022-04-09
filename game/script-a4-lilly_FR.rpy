@@ -1053,7 +1053,7 @@ show lilly basic_weaksmile_paj
 with charachange
 
 
-li "“Faire avec” doit être le meilleur terme pour la situation. N'est-ce pas, Hisao ?"
+li "“Faire avec\" doit être le meilleur terme pour la situation. N'est-ce pas, Hisao ?"
 
 
 hi "Ouais, c'est à peu prês ça. Au moins elle est raisonnable."
@@ -1256,7 +1256,7 @@ show lilly basic_concerned_paj_close
 with charachange
 
 
-li "“C'est” gênant..."
+li "“C'est\" gênant..."
 
 
 "Maintenant elle est encore plus déprimée. J'ai l'impression de remuer le couteau dans la plaie, plutôt que de la réconforter."
@@ -1371,7 +1371,7 @@ with charachange
 nk "Je vois."
 
 
-"Son sourire tombe alors que je dis ça. Je me sens un peu coupable de cela. C'est dans ces moments-là que je peux m'estimer “normal” de ne pas vouloir voir l'infirmier. C'est admettre que je suis différent des autres."
+"Son sourire tombe alors que je dis ça. Je me sens un peu coupable de cela. C'est dans ces moments-là que je peux m'estimer \"normal\" de ne pas vouloir voir l'infirmier. C'est admettre que je suis différent des autres."
 
 stop music fadeout 5.0
 
@@ -1435,7 +1435,7 @@ play music music_nurse fadein 1.0
 nk "Bon, tu as survécu. C'est déjà une bonne chose."
 
 
-"Je ne suis pas sûr de comprendre, puis remarque que l'infirmier fait son expression “je t'ai eu”."
+"Je ne suis pas sûr de comprendre, puis remarque que l'infirmier fait son expression \"je t'ai eu\"."
 
 
 "C'est rassurant, cela dit. Je ne crois pas qu'il sortirait des blagues comme ça si c'était vraiment sérieux. Donc je reste silencieux et je me détends."
@@ -1474,7 +1474,7 @@ nk "Cependant, je veux garder un œil sur toi pendant un moment, juste observer 
 "C'est quelque chose que je ne voulais vraiment pas entendre. Depuis que je suis à Yamaku, tout ce que je veux, c'est vivre une vie aussi normale que possible."
 
 
-"“Observation” était l'un des mots que j'en suis venu à détester durant mon séjour à l'hôpital. Pendant si longtemps je voulais juste me lever et franchir les portes de l'hôpital, mais les médecins voulaient absolument me garder en “observation”."
+"“Observation\" était l'un des mots que j'en suis venu à détester durant mon séjour à l'hôpital. Pendant si longtemps je voulais juste me lever et franchir les portes de l'hôpital, mais les médecins voulaient absolument me garder en \"observation\"."
 
 
 hi "D'accord. Je devrai venir plus souvent ?"
@@ -1864,7 +1864,7 @@ show akira basic_laugh_ss
 with charachange
 
 
-aki "Tss. “Vous deux”, alors. Les gamins grandissent trop vite de nos jours."
+aki "Tss. \"Vous deux\", alors. Les gamins grandissent trop vite de nos jours."
 
 show lilly cane_pout_ss
 with charachange
@@ -2851,7 +2851,7 @@ with charachange
 li "Mais il y a une personne en particulier que j'ai regrettée de ne plus voir. Il était la raison pour laquelle j'ai choisi l'anglais pour ma future carrière."
 
 
-"“Il ?” Étant donné qu'elle vient d'une école de filles, ça ne pouvait pas être un autre élève alors..."
+"“Il ?\" Étant donné qu'elle vient d'une école de filles, ça ne pouvait pas être un autre élève alors..."
 
 
 li "J'ai rejeté toutes les déclarations que j'ai reçues juste pour lui. Chaque fois que je m'améliorais en anglais, ses félicitations étaient la plus belle des récompenses."
@@ -2940,7 +2940,7 @@ with whiteout
 "Je regarde autour de moi, la pièce vrombissant toujours des discussions des clients."
 
 
-hi "Cet endroit rentre probablement dans la catégorie “étrange”, aussi."
+hi "Cet endroit rentre probablement dans la catégorie \"étrange\", aussi."
 
 show lilly basic_weaksmile_che_close:
     center
@@ -3780,7 +3780,7 @@ play music music_normal fadein 4.0
 "Après y avoir pensé, j'ai simplement réalisé que je voulais vraiment poursuivre en sciences pour ma carrière, plutôt que de les prendre par défaut."
 
 
-"Jusqu'à maintenant, je ne ne savais pas du tout dans quoi je voulais travailler. La “science” est un domaine plutôt vaste."
+"Jusqu'à maintenant, je ne ne savais pas du tout dans quoi je voulais travailler. La \"science\" est un domaine plutôt vaste."
 
 
 "Ce que Lilly a dit plus tôt m'a permis de revoir les choses à ce sujet. Je n'avais que brièvement envisagé cela auparavant, sans le considérer comme une éventualité sérieuse."
@@ -3867,7 +3867,7 @@ mu "J'espère juste que je peux transmettre un peu de cet émerveillement aux au
 "J'ai l'impression de mieux le comprendre maintenant. Même s'il est bizarre avec les autres, il a une véritable envie d'être avec eux et de leur offrir un peu de ce qu'il estime important."
 
 
-"Ce que Lilly m'a dit résonne dans ma tête. “Je crois que tu t'entends très bien avec les autres”, hein. Elle a toujours dit que j'étais très curieux..."
+"Ce que Lilly m'a dit résonne dans ma tête. \"Je crois que tu t'entends très bien avec les autres\", hein. Elle a toujours dit que j'étais très curieux..."
 
 show muto normal
 with charachange
@@ -3931,7 +3931,7 @@ nvl clear
 nvl show dissolve
 
 
-n " {vspace=60}“C'est étrange.”"
+n " {vspace=60}\"C'est étrange.\""
 
 play music music_pearly fadein 5.0
 
@@ -3960,7 +3960,7 @@ n "Quand j'y pense, c'est une très belle analogie de ce qui m'arrive."
 nvl clear
 
 
-n " {vspace=60}Mais de telles situations sont aussi censées t'aider à comprendre très rapidement la langue, parce que tu es forcé de l'apprendre pour survivre. Dit d'une autre façon, c'est un peu “marche ou crève.”"
+n " {vspace=60}Mais de telles situations sont aussi censées t'aider à comprendre très rapidement la langue, parce que tu es forcé de l'apprendre pour survivre. Dit d'une autre façon, c'est un peu \"marche ou crève.\""
 
 
 n " {vspace=30}Je me demande si, après tout ce temps, j'ai vraiment réussi à marcher."
@@ -3972,7 +3972,7 @@ n "Les examens m'ont beaucoup stressé, même s'ils arrivent à leur fin, mais j
 n "Mais je continue d'utiliser cette stupide phrase."
 
 
-n " {vspace=60}“C'est étrange.”"
+n " {vspace=60}\"C'est étrange.\""
 
 nvl clear
 
@@ -5380,7 +5380,7 @@ hide phone
 with None
 
 
-"Pendant un long moment je reste planté là à regarder le “FIN D'APPEL” sur l'écran avant de repasser la conversation dans ma tête."
+"Pendant un long moment je reste planté là à regarder le \"FIN D'APPEL\" sur l'écran avant de repasser la conversation dans ma tête."
 
 
 hi "Sérieux, c'est quoi ça Akira ?"
@@ -5527,7 +5527,7 @@ show akira basic_lost_close_ss
 with charachange
 
 
-aki "Académie Yamaku. J'ai toujours trouvé cet endroit un peu glauque. Comme si c'était un isoloir pour ceux dont “la société” ne veut pas entendre parler."
+aki "Académie Yamaku. J'ai toujours trouvé cet endroit un peu glauque. Comme si c'était un isoloir pour ceux dont \"la société\" ne veut pas entendre parler."
 
 show akira basic_annoyed_close_ss
 with charachange
@@ -5801,7 +5801,7 @@ with charaexit
 "Pour la première fois depuis longtemps, j'ai enfin une réponse à quelque chose. Ou pas. Mais au moins j'ai une question à poser."
 
 
-"“Vas-tu rester, ou partir ?”"
+"“Vas-tu rester, ou partir ?\""
 
 stop ambient fadeout 2.0
 
@@ -6109,7 +6109,7 @@ hi "Bah, je trouve qu'elle est plutôt cool. Ça serait bien si un des professeu
 show lilly basic_sleepy_cas_close
 with charachange
 
-li "“Cool…”"
+li "“Cool…\""
 
 
 "Pendant un moment, j'essaye de comprendre son ton, ma bouche se tordant en un sourire alors que j'en réalise la raison."
@@ -9036,8 +9036,7 @@ n "Une pathologie rare. Cela fait que le cœur est instable et bat occasionnelle
 
 nvl clear
 
-
-n " {vspace=30}Ils ont dit “C'est un miracle que vous ayez vécu aussi longtemps sans que rien n'arrive.”"
+n " {vspace=30}Ils ont dit \"C'est un miracle que vous ayez vécu aussi longtemps sans que rien n'arrive.\""
 
 
 n "Et pourtant, c'est arrivé. Ma maladie m'a tout pris, mon ancienne école n'importait plus. Ma maison est devenue un endroit lointain. Mes deux amis et mon premier amour ont fini par arrêter de venir après un moment."
@@ -9046,7 +9045,7 @@ n "Et pourtant, c'est arrivé. Ma maladie m'a tout pris, mon ancienne école n'i
 n "Je suis devenu cynique et aigri. Distant et passif. Pour ma défense, personne n'aurait pu éviter que cela arrive, mais néanmoins, quand j'ai quitté l'hôpital, j'étais bien différent de quand j'y suis rentré."
 
 
-n "Les choses ont changé. Je me suis fait de nouveaux amis. Hanako, Shizune et Misha. J'ai trouvé un nouveau sens au mot “maison” avec le dortoir, un nouvel intérêt dans la science et dans le monde autour de moi, et j'ai trouvé une direction dans ma vie que je n'avais jamais envisagée."
+n "Les choses ont changé. Je me suis fait de nouveaux amis. Hanako, Shizune et Misha. J'ai trouvé un nouveau sens au mot \"maison\" avec le dortoir, un nouvel intérêt dans la science et dans le monde autour de moi, et j'ai trouvé une direction dans ma vie que je n'avais jamais envisagée."
 
 
 n " {vspace=30}Mais j'ai aussi découvert d'autres choses."
@@ -9189,7 +9188,7 @@ hi "Je vais bien alors ? Il ne reste plus de problème à régler ?"
 "Il rit brièvement à sa propre blague tandis que je grimace bizarrement, m'étant fait attraper."
 
 
-"Le rire du docteur est différent de celui de l'infirmier de Yamaku cela dit. Me posant la question, je réalise finalement pourquoi l'homme en face de moi me semble un peu “bizarre”."
+"Le rire du docteur est différent de celui de l'infirmier de Yamaku cela dit. Me posant la question, je réalise finalement pourquoi l'homme en face de moi me semble un peu \"bizarre\"."
 
 
 "Son sourire est stérile. Il récite parfaitement sa petite blague et s'en suit un rire innocent."
@@ -10008,3 +10007,4 @@ with Dissolve(1.0)
 with Pause(1.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

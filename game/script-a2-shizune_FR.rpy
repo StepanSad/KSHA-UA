@@ -196,7 +196,7 @@ $ written_note("Utilise le bloc-notes ! Écris Écris Écris Écris Écris Écr
 window show
 
 
-"Je suis confus. Je suis censé le prendre et écrire “d'accord” ?"
+"Je suis confus. Je suis censé le prendre et écrire \"d'accord\" ?"
 
 
 "Ce n'est pas l'exemple d'une conversation fluide. Ça me rend envieux de la capacité qu'a Misha pour discuter avec Shizune."
@@ -630,7 +630,7 @@ with charachange
 mi "D'accord, Hicchan, revoyons ce que tu as appris, alors~ ! Je serai ta tutrice, d'accord~ ?"
 
 
-"C'est la première fois que j’entends “Je serai ta tutrice” en dehors de films cochons. Je ne suis pas autant excité que je l'aurais espéré."
+"C'est la première fois que j’entends \"Je serai ta tutrice\" en dehors de films cochons. Je ne suis pas autant excité que je l'aurais espéré."
 
 
 hi "Je ne suis pas sûr d'avoir besoin d'une tutrice."
@@ -1412,7 +1412,7 @@ with charachange
 yu "Oh non, je suis désolée, je suis vraiment désolée, désolée, excuse-moi !"
 
 
-hi "C'est pas grave, et tu n'as pas besoin de faire ce “Bonjour, bienvenue dans notre établissement !” à chaque fois, vu qu'on se connaît."
+hi "C'est pas grave, et tu n'as pas besoin de faire ce \"Bonjour, bienvenue dans notre établissement !\" à chaque fois, vu qu'on se connaît."
 
 show yuukoshang worried_up
 with charachange
@@ -1884,7 +1884,7 @@ shi "…"
 "Ses doigts glissent un peu sur la surface de la boîte, et j'aimerais l'aider, mais je doute qu'elle me laisserait faire. Shizune fait un signe avec ses mains du mieux qu'elle peut, s’arrêtant un peu après comme si elle voulait en dire plus."
 
 
-"Je suis sûr qu'elle a voulu dire “merci”. Je suis content d'avoir pu le comprendre."
+"Je suis sûr qu'elle a voulu dire \"merci\". Je suis content d'avoir pu le comprendre."
 
 scene black
 with dissolve
@@ -1934,7 +1934,7 @@ nvl hide dissolve
 window show
 
 
-"Je relève la tête de mon livre “Introduction à la Langue des Signes Japonaise” pour vérifier que Shizune et Misha ne sont pas là."
+"Je relève la tête de mon livre \"Introduction à la Langue des Signes Japonaise\" pour vérifier que Shizune et Misha ne sont pas là."
 
 
 "Bien sûr, puisque durant la pause déjeuner, je les évite depuis quelques jours. Et je vais devoir continuer de faire ça si je ne veux pas que Shizune le découvre."
@@ -2010,7 +2010,7 @@ with charachange
 mi "Conseil des Étudiants~ !"
 
 
-"“Conseil des Étudiants” a été la première chose que j'ai demandé à apprendre, j'ai pensé que ça pourrait être pratique."
+"“Conseil des Étudiants\" a été la première chose que j'ai demandé à apprendre, j'ai pensé que ça pourrait être pratique."
 
 
 hi "Ouais, j'évite ça depuis un moment, hein ?"
@@ -2167,7 +2167,7 @@ show misha sign_smile
 with charachange
 
 
-mi "Hicchan, tu as déjà entendu l'expression “l'arbre qui cache la forêt” ?"
+mi "Hicchan, tu as déjà entendu l'expression \"l'arbre qui cache la forêt\" ?"
 
 
 hi "Non."
@@ -2192,7 +2192,7 @@ show shizu cross_angry
 with charachange
 
 
-"Shizune fait un X avec ses bras. Soit ça veut dire “non”, ou alors elle est sur le point d'utiliser son attaque spéciale."
+"Shizune fait un X avec ses bras. Soit ça veut dire \"non\", ou alors elle est sur le point d'utiliser son attaque spéciale."
 
 
 hi "Aha, qui a peur des conséquences maintenant ?"
@@ -2908,7 +2908,7 @@ show misha hips_grin
 with charachange
 
 
-mi "“Je n'aime pas les jeux qui sont basés sur la chance”, n'est-ce pas ? C'est toi qui as dit ça, Hicchan."
+mi "“Je n'aime pas les jeux qui sont basés sur la chance\", n'est-ce pas ? C'est toi qui as dit ça, Hicchan."
 
 
 hi "Ouais. Mais que le jeu soit basé sur la chance, ce n'est pas pareil qu'un jeu contenant des éléments de chance. Je n'ai rien contre ceux-ci. C'est le cas de la plupart des jeux de toute façon. C'est ce qui rend le jeu intéressant."
@@ -3795,7 +3795,7 @@ play music music_tranquil fadein 3.0
 "Alors que je finis de remplir les feuilles du jour, je pense que c'est peut-être la façon qu'a Shizune de commencer la semaine sur une bonne note."
 
 
-"Après tout, demain il y aura beaucoup plus de travail, et avec les mains littéralement pleines en construisant les stands, elle ne sera pas en mesure de beaucoup “parler”."
+"Après tout, demain il y aura beaucoup plus de travail, et avec les mains littéralement pleines en construisant les stands, elle ne sera pas en mesure de beaucoup \"parler\"."
 
 
 "Ça sera sûrement ennuyeux et fatiguant, comme ça l'était la première fois. J'apprécie son effort, dans ce cas. C'est agréable d'avoir des jours comme celui-ci, d’apprécier le temps avant les jours à venir. Je crois que c'était son idée aussi."
@@ -3973,7 +3973,7 @@ hi "AAAAAAAAAAHHH !!"
 hi "Tu sais à quel point j'ai l'air stupide maintenant ? Je suis resté assis là-bas durant la moitié de la journée à agir comme si je ne pouvais pas comprendre la langue des signes, et tu me dis sérieusement qu'elle savait pendant tout ce temps ?"
 
 
-hi "Elle pensait probablement “ce gars est un con, à prétendre qu'il ne peut pas me comprendre.” Je passe pour un salaud."
+hi "Elle pensait probablement \"ce gars est un con, à prétendre qu'il ne peut pas me comprendre.\" Je passe pour un salaud."
 
 
 hi "Comment as-tu pu me laisser faire ça ?!"
@@ -4635,22 +4635,22 @@ play music music_tension
 "Kenji ne m'entend pas, il est parti dans son histoire. Complètement dans sa déclamation, il commence à débloquer et balance ses bras en avant, comme s'il voulait faire des signes de gang."
 
 
-ke "J'ai été jusqu’à son bureau et lui ai dit “Eh toi, femme fasciste ! C'est quoi cette idée de badge ? Pour qui tu te prends ici, dans ta tour d'ivoire, à nous regarder de haut comme si nous étions une bande d'idiots ?”"
+ke "J'ai été jusqu’à son bureau et lui ai dit \"Eh toi, femme fasciste ! C'est quoi cette idée de badge ? Pour qui tu te prends ici, dans ta tour d'ivoire, à nous regarder de haut comme si nous étions une bande d'idiots ?\""
 
 
-ke "“Ton niveau d'élitisme est honteux, tu es probablement une de ces riches qui demandent à leur chauffeur de les conduire vers des taudis pour qu'ils puissent pointer du doigt et rire...”"
+ke "“Ton niveau d'élitisme est honteux, tu es probablement une de ces riches qui demandent à leur chauffeur de les conduire vers des taudis pour qu'ils puissent pointer du doigt et rire...\""
 
 
 ke "“...et ne boire que du café provenant de grains de luxe chiés par le dernier dinosaure vivant et brassé dans un crâne en or massif."
 
 
-ke "“Et comment peux-tu ? Va ouvrir un livre d'histoire, tu ne sais pas que la bourgeoisie a toujours déclenché des révolutions sanglantes pour des merdes comme ça ? Stupide ! Tu es une idiote !”"
+ke "“Et comment peux-tu ? Va ouvrir un livre d'histoire, tu ne sais pas que la bourgeoisie a toujours déclenché des révolutions sanglantes pour des merdes comme ça ? Stupide ! Tu es une idiote !\""
 
 
-ke "“D'accord, les révolutionnaires finissent généralement par foutre la merde partout au bout d'un moment, mais seul un maniaque pourrait créer une politique comme ça...”"
+ke "“D'accord, les révolutionnaires finissent généralement par foutre la merde partout au bout d'un moment, mais seul un maniaque pourrait créer une politique comme ça...\""
 
 
-ke "“...c'est comme si c'était quelque chose qui était créé pour faire souffrir les gens, sauf que c'est réel et que tu veux l'institutionnaliser ! Quand finira la désacralisation de nos droits ? Nous sommes des gens ! Ce n'est pas une justice !”"
+ke "“...c'est comme si c'était quelque chose qui était créé pour faire souffrir les gens, sauf que c'est réel et que tu veux l'institutionnaliser ! Quand finira la désacralisation de nos droits ? Nous sommes des gens ! Ce n'est pas une justice !\""
 
 show kenji neutral
 with charachange
@@ -4662,7 +4662,7 @@ show kenji rage
 with charachange
 
 
-ke "Et puis j'ai crié “Ils peuvent bien prendre nos biens, mais ils ne prendront jamais notre liiiiiiiibertéééééé !” pour attiser les masses comme dans ce film sur la vie de William Wallace où ils ont pris ses biens, mais pas sa liberté, et l'ont tué."
+ke "Et puis j'ai crié \"Ils peuvent bien prendre nos biens, mais ils ne prendront jamais notre liiiiiiiibertéééééé !\" pour attiser les masses comme dans ce film sur la vie de William Wallace où ils ont pris ses biens, mais pas sa liberté, et l'ont tué."
 
 stop music fadeout 5.0
 
@@ -4826,7 +4826,7 @@ show shizu behind_smile
 with charachange
 
 
-"Clignant d'un œil, elle sort deux sacs plastique de son sac puis les pause sur une planche avant de lever les mains comme pour dire “ta-da !”"
+"Clignant d'un œil, elle sort deux sacs plastique de son sac puis les pause sur une planche avant de lever les mains comme pour dire \"ta-da !\""
 
 show shizu adjust_happy
 with charachange
@@ -4898,7 +4898,7 @@ with charaenter
 hi "Salut."
 
 
-"Je m’arrête avant de dire : “je ne t'avais pas vue.”"
+"Je m’arrête avant de dire : \"je ne t'avais pas vue.\""
 
 show lilly cane_surprised
 with charachange
@@ -5104,7 +5104,7 @@ ssh "Je vais te dévorer !"
 hi "Ouais, très occupés."
 
 
-"“Dévorer” est un mot compliqué. Je suis content de pouvoir le lire. Ce n'est pas le bon moment pour célébrer ça, cela dit. Au lieu de ça, on dirait qu'elles ont fini de se chamailler. Ça, ça se fête."
+"“Dévorer\" est un mot compliqué. Je suis content de pouvoir le lire. Ce n'est pas le bon moment pour célébrer ça, cela dit. Au lieu de ça, on dirait qu'elles ont fini de se chamailler. Ça, ça se fête."
 
 show lilly cane_listen
 with charachange
@@ -5239,7 +5239,7 @@ show shizu behind_frustrated_ss
 with charachange
 
 
-ssh "Tu ne peux pas dire “autant” avec les deux disputes dont tu es au courant. Si tu avait été là l'année dernière, tu pourrais dire ça."
+ssh "Tu ne peux pas dire \"autant\" avec les deux disputes dont tu es au courant. Si tu avait été là l'année dernière, tu pourrais dire ça."
 
 
 his "J'ai entendu dire que ce fut une année difficile. Et quelque chose à propos d'instituer une politique de badges aussi."
@@ -5647,7 +5647,7 @@ with charachange
 ke "Je ne sais pas. Une femme avec des sandales."
 
 
-"J’espérais qu'il serait un peu plus précis, du genre “elle a pas de bras”. Il est vrai que Rin porte des sandales, mais je crois qu'il est aussi bien possible qu'il y ait d’autres étudiantes artistes qui se sentent assez à l'aise pour porter des sandales."
+"J’espérais qu'il serait un peu plus précis, du genre \"elle a pas de bras\". Il est vrai que Rin porte des sandales, mais je crois qu'il est aussi bien possible qu'il y ait d’autres étudiantes artistes qui se sentent assez à l'aise pour porter des sandales."
 
 show kenji happy
 with charachange
@@ -5851,7 +5851,7 @@ with charachange
 ssh "Tout le monde voudrait profiter de la chance de s'asseoir avec deux jolies filles de toute façon."
 
 
-"Elle s’arrête, au cas où je voudrais dire quelque chose du genre “Mais vous n'êtes pas si jolies !” et me met instantanément dans une position de défaite inévitable. Alors que je ne mords pas à l’appât, Shizune continue."
+"Elle s’arrête, au cas où je voudrais dire quelque chose du genre \"Mais vous n'êtes pas si jolies !\" et me met instantanément dans une position de défaite inévitable. Alors que je ne mords pas à l’appât, Shizune continue."
 
 show shizu basic_happy
 with charachange
@@ -6180,7 +6180,7 @@ with charachange
 ssh "Bien sûr."
 
 
-hi "Comment ça “bien sûr” ? Tu n'en as pas mis un la dernière fois."
+hi "Comment ça \"bien sûr\" ? Tu n'en as pas mis un la dernière fois."
 
 show shizu basic_normal2_close
 with charachange
@@ -6366,7 +6366,7 @@ show misha hips_smile
 with charachange
 
 
-mi "Shicchan n’arrêtait pas de dire : “C'est inefficace~ ! Misha~ ! Pourquoi est-ce que tu es entre nous deux ? Comme pour dire~ Ça marcherait bien si je faisais à manger et que tu prenais les commandes ! Ce n'est pas logique !”"
+mi "Shicchan n’arrêtait pas de dire : \"C'est inefficace~ ! Misha~ ! Pourquoi est-ce que tu es entre nous deux ? Comme pour dire~ Ça marcherait bien si je faisais à manger et que tu prenais les commandes ! Ce n'est pas logique !\""
 
 show misha sign_smile
 with charachange
@@ -6470,7 +6470,7 @@ shi "…"
 "Shizune joint les doigts avec précaution. Comme si elle voulait ajouter quelque chose, mais n'arrive pas à s'y résoudre."
 
 
-"Comme elle a dit, le langage des signes donne un peu plus le temps de penser à ce qu'on “dit”. J'imagine qu'elle a l'impression de ne pas pouvoir en parler."
+"Comme elle a dit, le langage des signes donne un peu plus le temps de penser à ce qu'on \"dit\". J'imagine qu'elle a l'impression de ne pas pouvoir en parler."
 
 show shizu behind_blank_close
 with charachange
@@ -6615,7 +6615,7 @@ with locationchange
 "Quand j'ouvre la porte du toit, je vois que je ne suis pas seul. Misha est contre la grille, regardant en contrebas, et semble ne pas m'avoir remarqué."
 
 
-"Instantanément, je sais ce que j'ai à faire : couvrir ses yeux et dire “Qui c'est ?”. C'est la seule option."
+"Instantanément, je sais ce que j'ai à faire : couvrir ses yeux et dire \"Qui c'est ?\". C'est la seule option."
 
 
 "En m'approchant, je commence à imaginer à quel point ça pourrait mal tourner pour moi si Shizune arrivait soudainement, étant partie une seconde pour aller chercher des sandwiches, et me voyait en train de m'approcher sournoisement de Misha."
@@ -6864,7 +6864,7 @@ mi "Hicchan, un soda n'est pas un petit déjeuner. C'est comme de l'eau."
 hi "Ce n'est pas comme de l'eau, c'est un liquide. De l'eau n'est pas de la nourriture. Un liquide peut être de la nourriture."
 
 
-"“Maintenant qui parle comme Shizune, Misha ?” J'ai envie de lui dire. Même son ton me rappelle la façon qu'a Shizune de dire avec confiance des choses ridicules. Mais si j'avais dit ça, j'aurais été celui qui parle comme Shizune encore une fois."
+"“Maintenant qui parle comme Shizune, Misha ?\" J'ai envie de lui dire. Même son ton me rappelle la façon qu'a Shizune de dire avec confiance des choses ridicules. Mais si j'avais dit ça, j'aurais été celui qui parle comme Shizune encore une fois."
 
 
 "C'est terrible, sa compétitivité déteint vraiment sur moi."
@@ -7199,7 +7199,7 @@ show shizuyu basic_angry_close
 with charachange
 
 
-"Shizune réitère plusieurs fois fortement le mot “non”."
+"Shizune réitère plusieurs fois fortement le mot \"non\"."
 
 show misha perky_smile_yuk
 with charachange
@@ -7481,3 +7481,4 @@ stop music fadeout 3.0
 
 nvl hide dissolve
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

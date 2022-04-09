@@ -287,7 +287,7 @@ with charamoveoutleft
 
 "Le respondería, pero estoy demasiado concentrado llevándole aire a mis pulmones e ignorando el ardor en los músculos de mis piernas."
 
-"Una parte de mí quiere decir algo como “Tal vez {b}tú{/b} puedes, pero yo estoy a punto de morir”."
+"Una parte de mí quiere decir algo como \"Tal vez {b}tú{/b} puedes, pero yo estoy a punto de morir\"."
 
 "Por otra parte, dudo poder formar alguna palabra en estos momentos."
 
@@ -623,7 +623,7 @@ with Dissolve(2.0)
 
 "Supongo que eso es algo bueno, aun si hace que me sienta un poco cobarde."
 
-"Quiero decir, por lo menos tendría una excusa además de “no estoy en forma” si mi corazón estuviera molestándome."
+"Quiero decir, por lo menos tendría una excusa además de \"no estoy en forma\" si mi corazón estuviera molestándome."
 
 "Supongo que tendré que seguir con este asunto de las carreras, si no estoy seguro de que Emi no me lo perdonaría."
 
@@ -1417,7 +1417,7 @@ emi "Y yo corro por la sensación que tengo al hacerlo."
 
 emi "Y ya que no permitimos que nada nos ralentice, hemos creado una conexión basada en eso."
 
-hi "¿A qué te refieres con “que nada nos ralentice”?"
+hi "¿A qué te refieres con \"que nada nos ralentice\"?"
 
 show emi basic_confused_gym_ss
 with charachange
@@ -2227,7 +2227,7 @@ emi "Especialmente por algo como esto."
 show emi sad_grin_gym
 with charachange
 
-emi "Decir “no puedo seguir” es tonto cuando obviamente estás moviéndote mientras lo dices."
+emi "Decir \"no puedo seguir\" es tonto cuando obviamente estás moviéndote mientras lo dices."
 
 emi "De eso se trata todo esto."
 
@@ -2793,7 +2793,7 @@ n "Algunos de ellos podrían estar aquí porque estarán muertos en dos, quizá 
 
 n "Y eso solo si reciben los cuidados correctos."
 
-n "Es una especie de amargo consuelo ser capaz de decir “Bueno, al menos tengo una oportunidad de estar vivo mientras termino la universidad”, pero está ahí."
+n "Es una especie de amargo consuelo ser capaz de decir \"Bueno, al menos tengo una oportunidad de estar vivo mientras termino la universidad\", pero está ahí."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
@@ -3610,7 +3610,7 @@ hi "¿Cuándo asignamos los trabajos?"
 show rin basic_deadpannormal
 with charachange
 
-rin "Cuando dije “Mira si puedes encontrar una ramita de laurel”."
+rin "Cuando dije \"Mira si puedes encontrar una ramita de laurel\"."
 
 show rin basic_deadpandelight
 with charachange
@@ -3646,7 +3646,7 @@ emi "¡Bien! Así que, ¿cómo me vi?"
 show rin basic_absent
 with charachange
 
-"Me detengo antes de soltar “hermosa” o “asombrosa” y me conformo con un sustancialmente más seguro “muy impresionante”."
+"Me detengo antes de soltar \"hermosa\" o \"asombrosa\" y me conformo con un sustancialmente más seguro \"muy impresionante\"."
 
 show emi basic_closedgrin_gym
 with charachange
@@ -3938,7 +3938,7 @@ with charaexit
 
 "Extraño. Creo que solía ser más responsable con mis cosas."
 
-"“Muy típico de Emi”, ¿eh?"
+"“Muy típico de Emi\", ¿eh?"
 
 "Tal vez no sea algo tan malo."
 
@@ -4132,7 +4132,7 @@ with charachange
 
 nk "Y ella está agradecida por ello, aunque nunca lo mencione."
 
-hi "¿A qué te refieres con, “aunque nunca lo mencione”?"
+hi "¿A qué te refieres con, \"aunque nunca lo mencione\"?"
 
 show nurse neutral
 with charachange
@@ -4531,7 +4531,7 @@ show emi basic_grin_close
 with charachange
 
 
-emi "Ya sabes, una de esas cosas tipo “¿Qué quieres hacer después de la secundaria?”."
+emi "Ya sabes, una de esas cosas tipo “¿Qué quieres hacer después de la secundaria?\"."
 
 hi "No… lo creo. Tal vez nos den uno mañana."
 
@@ -4592,7 +4592,7 @@ emi "¡Esa es una muy buena idea, Hisao!"
 show emi excited_proud_close
 with charachange
 
-emi "Yo simplemente escribí, “Pirata”."
+emi "Yo simplemente escribí, \"Pirata\"."
 
 "Quedo aturdido por un momento, luego empiezo a reír."
 
@@ -4893,7 +4893,7 @@ stop music fadeout 10.0
 
 "Es hasta después de haberme sentado en mi pupitre y de que el maestro ha empezado a hablar acerca de algún tema que me percato de algo extraño."
 
-"¿A qué se refería Rin con, “Ustedes dos parecen hacerlo”?"
+"¿A qué se refería Rin con, \"Ustedes dos parecen hacerlo\"?"
 
 "¿Emi también estaba mirando algo?"
 
@@ -5005,7 +5005,7 @@ with locationchange
 
 "Cuando cierro la puerta, mis pies tocan algo que yace en el suelo."
 
-"Es un rectángulo de papel de colores brillantes. Ah, esto debe ser el “algo” que mencionó Misha antes."
+"Es un rectángulo de papel de colores brillantes. Ah, esto debe ser el \"algo\" que mencionó Misha antes."
 
 "Probablemente un panfleto del consejo estudiantil que deslizó por debajo de la puerta."
 
@@ -5030,7 +5030,7 @@ play music music_rain fadein 5.0
 
 "Lo que me causa aún más aprensión es el nombre del remitente, escrito cuidadosamente en la parte posterior del sobre."
 
-"“Iwanako”."
+"“Iwanako\"."
 
 "No tengo idea de por qué ella me escribiría. No he estado en contacto con nadie de mi antigua escuela desde que fui transferido, e Iwanako es la última persona de quien esperaría el gesto de escribirme una carta."
 
@@ -5042,7 +5042,7 @@ nvl show dissolve
 
 n " {vspace=150}La última vez que vi a Iwanako fue terriblemente incómodo; hasta vergonzoso. Ella vino a mi cuarto del hospital, me peló una manzana por cortesía y luego prácticamente permanecimos en silencio por media hora."
 
-n "Ella dijo “adiós” y no me miró a los ojos cuando cerró la puerta."
+n "Ella dijo \"adiós\" y no me miró a los ojos cuando cerró la puerta."
 
 n "Podría haber sido un final natural a la serie de visitas que probablemente resultaron muy dolorosas para nosotros dos."
 
@@ -6877,7 +6877,7 @@ yu "¡Yo también!"
 show yuuko smile_down
 with charachange
 
-yu "“Criptografía Avanzada”. Acabamos de adquirirlo, y ya se ha perdido."
+yu "“Criptografía Avanzada\". Acabamos de adquirirlo, y ya se ha perdido."
 
 show yuuko worried_up
 with charachange
@@ -8537,7 +8537,7 @@ with charaenter
 
 "La única persona de pie frente a la puerta es Emi, quien se ve algo confusa."
 
-emi "¿A qué te refieres con “eh”?"
+emi "¿A qué te refieres con \"eh\"?"
 
 show emi basic_grin
 with charachange
@@ -8953,7 +8953,7 @@ stop music fadeout 1.0
 
 "Estoy seguro de que mi boca está abierta por la sorpresa."
 
-"Todo lo que consigo decir es un sofocado “¿Eh?”"
+"Todo lo que consigo decir es un sofocado “¿Eh?\""
 
 show emi basic_closedgrin_close
 with charachange
@@ -9183,3 +9183,4 @@ stop music fadeout 5.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

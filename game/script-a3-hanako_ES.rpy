@@ -984,7 +984,7 @@ mk "Para ser honesta, creo que es algo lindo. Si quieres ir por ello, no dejes q
 
 hi "Gracias."
 
-"Podrá decir eso, pero solo estaba hablando de Hanako teniendo “dilemas”. Aun así, quiero apegarme a las palabras que dije. Los problemas de Hanako no importan; me ocuparé de cualquier cosa que surja, porque quiero ayudarla."
+"Podrá decir eso, pero solo estaba hablando de Hanako teniendo \"dilemas\". Aun así, quiero apegarme a las palabras que dije. Los problemas de Hanako no importan; me ocuparé de cualquier cosa que surja, porque quiero ayudarla."
 
 "Si existe la mínima posibilidad de que pueda sacar a Hanako de su depresión y reclusión, entonces debo trabajar con dirección a ella, sin importar nada. Si necesita un príncipe, entonces seré ese príncipe."
 
@@ -1068,7 +1068,7 @@ with charachange
 
 mk "Te acostumbrarás, tan solo dale un poco de tiempo. Es solo una preparatoria, como cualquier otra."
 
-"Ella lo hace sonar tan simple, pero nunca he pensado en ello de esa forma. Para mí, Yamaku simbolizó un cambio marcado en mi vida. Ya no era normal; era “diferente”, e iba a ser educado con otras personas “diferentes”."
+"Ella lo hace sonar tan simple, pero nunca he pensado en ello de esa forma. Para mí, Yamaku simbolizó un cambio marcado en mi vida. Ya no era normal; era \"diferente\", e iba a ser educado con otras personas \"diferentes\"."
 
 "Y sin embargo, estoy caminando de vuelta a clase y hablando casualmente con una compañera durante el almuerzo, después de ver a otros jugar un juego de futbol. Todo perfectamente normal. Tal vez tiene razón."
 
@@ -1387,7 +1387,7 @@ hi "Para ser honesto, no he pensado mucho en ello recientemente."
 
 hi "Después de mi accidente y los subsecuentes meses en el hospital, disfrutar de mi vida aquí contigo y Hanako ha sido suficiente para mí."
 
-"De hecho, no creo haber pensado para nada en un “futuro” desde hace ya algún tiempo. Casi parece fútil."
+"De hecho, no creo haber pensado para nada en un \"futuro\" desde hace ya algún tiempo. Casi parece fútil."
 
 show lilly basic_sleepy_cas_close
 with charachange
@@ -1465,7 +1465,7 @@ with charaenter
 
 li "No creo que ella tenga mucha necesidad de algo así, ¿y eso qué tipo de mensaje le enviaría?"
 
-hi "Um… ¿“cocina más comida”? Eso no es tan mala idea, tal vez…"
+hi "Um… ¿“cocina más comida\"? Eso no es tan mala idea, tal vez…"
 
 show lilly cane_weaksmile_cas_close
 with charachange
@@ -1486,7 +1486,7 @@ hi "¿Qué tal una tarjeta de regalo entonces?"
 show lilly cane_listen_cas_close
 with charachange
 
-li "No hay nada tan impersonal como darle a alguien una tarjeta de regalo. Es como decir “no sé lo suficiente sobre ti como para imaginar lo que te gustaría recibir”."
+li "No hay nada tan impersonal como darle a alguien una tarjeta de regalo. Es como decir \"no sé lo suficiente sobre ti como para imaginar lo que te gustaría recibir\"."
 
 hi "Yo siempre lo pensé como el asegurarse de que recibirían lo que querían."
 
@@ -1693,7 +1693,7 @@ li "¿Deberíamos partir, entonces?"
 
 "Con un suspiro, me separo también del barandal y doy un vistazo rápido alrededor. Tenemos cosas que hacer, así que solo intentaré hacerla regresar a esto después."
 
-"Aprisionada entre un puesto de revistas y un minisúper está una pequeña tienda. El letrero sobre la puerta dice “Antigüedades Otelo” en escritura decorativa inglesa."
+"Aprisionada entre un puesto de revistas y un minisúper está una pequeña tienda. El letrero sobre la puerta dice \"Antigüedades Otelo\" en escritura decorativa inglesa."
 
 "Sería fácil de pasar por alto si estuviéramos caminando por la calle, pero dado que estamos inmóviles y estoy observando alrededor deliberadamente, simplemente es notable."
 
@@ -3145,11 +3145,11 @@ with charachange
 
 li "No estoy del todo segura de exactamente cómo se encuentra en este momento, pero lo último que escuché es que estaba estable. Me iré el sábado; es el vuelo más cercano que pude conseguir."
 
-"“Estable”. Ese es el código para “necesita quedarse en el hospital”."
+"“Estable\". Ese es el código para \"necesita quedarse en el hospital\"."
 
-"He estado “estable” lo suficiente como para saber eso, y para saber que no necesariamente significa que alguien está en buenas condiciones, sino meramente en un punto muerto."
+"He estado \"estable\" lo suficiente como para saber eso, y para saber que no necesariamente significa que alguien está en buenas condiciones, sino meramente en un punto muerto."
 
-"En el lado bueno, “estable” es mucho mejor que “condición crítica”. Al menos no está al borde de la muerte."
+"En el lado bueno, \"estable\" es mucho mejor que \"condición crítica\". Al menos no está al borde de la muerte."
 
 hi "Estable… eso es un alivio."
 
@@ -3312,7 +3312,7 @@ ha "Yo no… quiero eso…"
 show lilly basic_surprised_ni
 with charachange
 
-"Lilly y yo estamos sorprendidos por Hanako armándose de coraje. Un medio murmurado “Bien” es todo lo que puedo darle como respuesta, y tomo su silla del escritorio para sentarme."
+"Lilly y yo estamos sorprendidos por Hanako armándose de coraje. Un medio murmurado \"Bien\" es todo lo que puedo darle como respuesta, y tomo su silla del escritorio para sentarme."
 
 show lilly basic_concerned_ni
 with charachange
@@ -3444,7 +3444,7 @@ hi "¿Estás bien?"
 
 li "Solo estoy un poco cansada. Ha estado… ajetreado últimamente."
 
-hi "¿Has dormido siquiera? “Un poco cansada” luce como que lo estás subestimando, por cómo te ves."
+hi "¿Has dormido siquiera? \"Un poco cansada\" luce como que lo estás subestimando, por cómo te ves."
 
 show lilly basic_sleepy
 with charachange
@@ -3559,7 +3559,7 @@ mi "¿La viste anoche?"
 
 hi "Sí, Lilly y yo le hablamos."
 
-hi "Um, esto podría sonar un poco raro, pero ¿podrías decirle a Shizune “gracias”? De parte de ambos, yo… y Lilly."
+hi "Um, esto podría sonar un poco raro, pero ¿podrías decirle a Shizune \"gracias\"? De parte de ambos, yo… y Lilly."
 
 "Sé que Lilly técnicamente no agradeció a Shizune, pero puedo decir por su reacción de anoche que es lo que quería. Al menos, así es como se ve en mi cabeza."
 
@@ -3574,7 +3574,7 @@ shi "…"
 show misha sign_confused_close
 with charachange
 
-mi "Eh… creo que lo que Shicchan está tratando de decir es “no fue nada”."
+mi "Eh… creo que lo que Shicchan está tratando de decir es \"no fue nada\"."
 
 "Las furiosas señas y las mejillas sonrojadas de Shizune me hacen saber que lo que dijo fue completamente diferente. Su descarada expresión nerviosa es lo suficientemente divertida como para hacerme reír."
 
@@ -3590,7 +3590,7 @@ with charachange
 
 mi "¡Guajajaja~! ¡Estás en lo cierto~! ¡Shicchan es realmente linda cuando trata de no serlo!"
 
-"Noto que Misha decide no traducir su respuesta a Shizune. Tal vez la cólera de Shizune es suficiente contraataque para cualquier cantidad de “linda”."
+"Noto que Misha decide no traducir su respuesta a Shizune. Tal vez la cólera de Shizune es suficiente contraataque para cualquier cantidad de \"linda\"."
 
 show shizu adjust_frown
 with charachange
@@ -4999,7 +4999,7 @@ play music music_happiness fadein 2.0
 
 "Hago una mueca y giro hacia la inconfundible voz viniendo de atrás de mí. Ese fue un tono de voz demasiado optimista como para sentirse cómodo, incluso para Misha."
 
-"La feliz sonrisa de Misha no es nada fuera de lo usual. La de Shizune, sin embargo, es una muy mala señal. La que está haciendo se ha grabado en mi cerebro como su sonrisa de “te tengo en la palma de mi mano”."
+"La feliz sonrisa de Misha no es nada fuera de lo usual. La de Shizune, sin embargo, es una muy mala señal. La que está haciendo se ha grabado en mi cerebro como su sonrisa de \"te tengo en la palma de mi mano\"."
 
 hi "Hola Shizune, Misha. Tú eh… te ves feliz de verme."
 
@@ -5214,7 +5214,7 @@ $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
 "Y así, eso es eso. Nuestra relación ha terminado. Bonito, limpio, y ordenado, sin ambigüedades."
 
-"No me había hecho ilusiones de que podría volver a empezar otra vez. La última vez que me visitó, ninguno de nosotros dijo nada, excepto por aquella palabra que dijo mientras se iba por última vez. “Adiós”."
+"No me había hecho ilusiones de que podría volver a empezar otra vez. La última vez que me visitó, ninguno de nosotros dijo nada, excepto por aquella palabra que dijo mientras se iba por última vez. \"Adiós\"."
 
 "Sea como fuere… esto se siente más como un final. La cúspide en un experimento que ambos intentamos, y en el que fallamos."
 
@@ -6606,7 +6606,7 @@ with dissolvecharamove
 
 "Hanako arremete adentro de la tienda, mirando maravillada los variados artículos en exhibición. Ella encuentra la sección de muñecas, y pasa lentos minutos estudiando cada una de ellas."
 
-"Es un lado de Hanako al que he sido presentado apenas. Estuve asombrado cuando Lilly me dijo que le gustaban las muñecas, y aún más de encontrar su “colección” descansando en el tocador."
+"Es un lado de Hanako al que he sido presentado apenas. Estuve asombrado cuando Lilly me dijo que le gustaban las muñecas, y aún más de encontrar su \"colección\" descansando en el tocador."
 
 show hanako basic_normal_cas_close at center 
 with charaenter
@@ -6773,3 +6773,4 @@ $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
