@@ -286,7 +286,7 @@ with charamoveoutleft
 
 "I'd answer her, but I'm too focused on getting air into my lungs and ignoring the burning in my leg muscles."
 
-"Part of me wants to say something like “Maybe {b}you{/b} can, but I'm about to die here.”"
+"Part of me wants to say something like \"Maybe {b}you{/b} can, but I'm about to die here.\""
 
 "But again, I doubt I can actually form words right now."
 
@@ -615,7 +615,7 @@ with Dissolve(2.0)
 
 "I suppose that's a good thing, even if it does make me feel like a bit of a wuss."
 
-"I mean at least I'd have an excuse beyond “I am out of shape” if my heart were bothering me."
+"I mean at least I'd have an excuse beyond \"I am out of shape\" if my heart were bothering me."
 
 "Guess I'll have to keep this running thing up, otherwise I'm sure Emi won't let me hear the end of it."
 
@@ -1394,7 +1394,7 @@ emi "And I run because of the feeling I get from it."
 
 emi "And since we don't allow ourselves to be slowed down by anything, we make a connection based on that."
 
-hi "What do you mean “slowed down by anything?”"
+hi "What do you mean \"slowed down by anything?\""
 
 show emi basic_confused_gym_ss
 with charachange
@@ -2191,7 +2191,7 @@ emi "Especially about something like this."
 show emi sad_grin_gym
 with charachange
 
-emi "Saying “I can't go on” is silly when you're obviously going on while you're saying it."
+emi "Saying \"I can't go on\" is silly when you're obviously going on while you're saying it."
 
 emi "That's what this is all about."
 
@@ -2748,7 +2748,7 @@ n "Some of them might be here because they're as good as dead in two, maybe thre
 
 n "And that's only if they get the right sort of care."
 
-n "It's a bitter sort of comfort to be able to say “Well, at least I've got a chance of being alive through college,” but there it is."
+n "It's a bitter sort of comfort to be able to say \"Well, at least I've got a chance of being alive through college,\" but there it is."
 
 $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 $ renpy.music.set_volume(1.0, 2.0, channel="music")
@@ -3561,7 +3561,7 @@ hi "When did we assign jobs?"
 show rin basic_deadpannormal
 with charachange
 
-rin "When I said “See if you can find a laurel branch.”"
+rin "When I said \"See if you can find a laurel branch.\""
 
 show rin basic_deadpandelight
 with charachange
@@ -3597,7 +3597,7 @@ emi "Good! So, how'd I look?"
 show rin basic_absent
 with charachange
 
-"I stop myself from blurting out “beautiful” or “amazing” and settle for the substantially safer “very impressive.”"
+"I stop myself from blurting out \"beautiful\" or \"amazing\" and settle for the substantially safer \"very impressive.\""
 
 show emi basic_closedgrin_gym
 with charachange
@@ -3887,7 +3887,7 @@ with charaexit
 
 "Odd. I think I used to be a little more responsible with my stuff."
 
-"“Emi-ish,” huh?"
+"“Emi-ish,\" huh?"
 
 "Maybe that's not really a bad thing."
 
@@ -4080,7 +4080,7 @@ with charachange
 
 nk "And she's grateful for that, even if she never says it."
 
-hi "What do you mean “even if she never says it?”"
+hi "What do you mean \"even if she never says it?\""
 
 show nurse neutral
 with charachange
@@ -4473,7 +4473,7 @@ emi "I said, did you get a career survey in your class too?"
 show emi basic_grin_close
 with charachange
 
-emi "You know, one of those “What do you want to do after high school?” things?"
+emi "You know, one of those \"What do you want to do after high school?\" things?"
 
 hi "I don't… think so. Maybe we'll get one tomorrow."
 
@@ -4534,7 +4534,7 @@ emi "That's a pretty good idea, Hisao!"
 show emi excited_proud_close
 with charachange
 
-emi "I just wrote down, “Pirate.”"
+emi "I just wrote down, \"Pirate.\""
 
 "I'm momentarily stunned, then I start laughing."
 
@@ -4830,7 +4830,7 @@ stop music fadeout 10.0
 
 "It's only after I've settled down at my desk and the teacher's started talking about something or other that something odd strikes me."
 
-"What did Rin mean, “You two seem to?”"
+"What did Rin mean, \"You two seem to?\""
 
 "Was Emi staring at something too?"
 
@@ -4942,7 +4942,7 @@ with locationchange
 
 "As I close the door, my heel taps against something lying on the floor."
 
-"It's a brightly-colored rectangle of paper. Ah, this must be the “something” Misha mentioned before."
+"It's a brightly-colored rectangle of paper. Ah, this must be the \"something\" Misha mentioned before."
 
 "Probably a student council leaflet she slid under the door."
 
@@ -4967,7 +4967,7 @@ play music music_rain fadein 5.0
 
 "What causes me even more trepidation is the name of the sender, written neatly on the back of the envelope."
 
-"“Iwanako.”"
+"“Iwanako.\""
 
 "I have no idea why she would write to me. I haven't been in contact with anyone from my old school since I transferred, and Iwanako is the last person I'd expect to want to write me a letter."
 
@@ -4979,7 +4979,7 @@ nvl show dissolve
 
 n "\n\n\n\n\nThe last time I saw Iwanako was terribly awkward; embarrassingly so. She came to my hospital room, peeled me an apple out of courtesy and then we practically sat in silence for half an hour."
 
-n "She said “goodbye” and didn't look me in the eye when she closed the door."
+n "She said \"goodbye\" and didn't look me in the eye when she closed the door."
 
 n "It might've been a natural end to the series of visits that were probably pretty painful for both of us."
 
@@ -6805,7 +6805,7 @@ yu "So am I!"
 show yuuko smile_down
 with charachange
 
-yu "“Advanced Cryptography.” We just got it in, and now it's gone missing."
+yu "“Advanced Cryptography.\" We just got it in, and now it's gone missing."
 
 show yuuko worried_up
 with charachange
@@ -8455,7 +8455,7 @@ with charaenter
 
 "The only person standing in the doorway is Emi, who looks mildly confused."
 
-emi "What do you mean, “huh?”"
+emi "What do you mean, \"huh?\""
 
 show emi basic_grin
 with charachange
@@ -8871,7 +8871,7 @@ stop music fadeout 1.0
 
 "I'm pretty sure my mouth is hanging open in shock."
 
-"All I can manage is a strangled “Huh?”"
+"All I can manage is a strangled \"Huh?\""
 
 show emi basic_closedgrin_close
 with charachange
@@ -9100,3 +9100,4 @@ stop music fadeout 5.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

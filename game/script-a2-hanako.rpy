@@ -184,9 +184,9 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 
 nvl show dissolve
 
-n "\n\n\nInside Yamaku, everyone is “special,” which negates the “special-ness” of it."
+n "\n\n\nInside Yamaku, everyone is \"special,\" which negates the \"special-ness\" of it."
 
-n "But once we venture outside the school gates, we are returned to the status of “outsider” and generic labels."
+n "But once we venture outside the school gates, we are returned to the status of \"outsider\" and generic labels."
 
 n "Especially when we are still in school uniform. It's like hanging a sign around your neck challenging people to figure out what is wrong with you."
 
@@ -222,7 +222,7 @@ stop music fadeout 6.0
 
 "But the most striking feature of the room is the lack of life. I think I can faintly hear something bubbling away in the background, but otherwise the room is silent."
 
-"Without any direction, we simply wait near the entrance, politely obeying the “Please wait to be seated” sign."
+"Without any direction, we simply wait near the entrance, politely obeying the \"Please wait to be seated\" sign."
 
 hi "Er, is this place closed or something?"
 
@@ -1210,7 +1210,7 @@ with charaenter
 
 "And, as Hanako and I pass through the gates, I notice that she closes the distance between us."
 
-"Not enough to be considered “close”, but she certainly isn't at her usual just-a-little-far position."
+"Not enough to be considered \"close\", but she certainly isn't at her usual just-a-little-far position."
 
 "I guess we're not familiar enough for her to get as close as she does with Lilly."
 
@@ -1252,7 +1252,7 @@ with charachange
 
 ha "Y-yes. With Lilly."
 
-"Of course. “With Lilly.” I wonder, has she ever left the school without her?"
+"Of course. \"With Lilly.\" I wonder, has she ever left the school without her?"
 
 "It doesn't seem like much at first glance, but Hanako's dependence on Lilly is absurdly heavy."
 
@@ -2356,7 +2356,7 @@ with charachange
 
 mi "Well, she never hangs out with anyone else, right? It's no good, Hicchan!"
 
-"If Shizune and Lilly dislike each other because “their personalities are different” then I hate to think how Misha and Hanako would get along…"
+"If Shizune and Lilly dislike each other because \"their personalities are different\" then I hate to think how Misha and Hanako would get along…"
 
 show misha perky_confused
 with charachange
@@ -2548,7 +2548,7 @@ mi "Your work has been deemed sufficient. You may leave."
 
 hi "Well, thank you."
 
-hi "You know, if you stressed the “free meal” side of things over the “endless workload” side, you'd probably end up with more recruits."
+hi "You know, if you stressed the \"free meal\" side of things over the \"endless workload\" side, you'd probably end up with more recruits."
 
 stop music fadeout 6.0
 
@@ -2745,7 +2745,7 @@ with charamove
 
 
 
-"Towards the end of the aisle, between a book on card tricks and some book on kid's games, stands a single book bearing the title “Chess Tactics for Champions”."
+"Towards the end of the aisle, between a book on card tricks and some book on kid's games, stands a single book bearing the title \"Chess Tactics for Champions\"."
 
 show hanako basic_bashful
 with charachange
@@ -2808,7 +2808,7 @@ with charaexit
 
 "Most of the ones listed are made of wood. Something about that doesn't seem safe to me."
 
-"If I'm going to ride on something potentially dangerous, I want it to be made out of steel, or some kind of space-age alloy that has big words like “Titanium” and “Ruthenium”."
+"If I'm going to ride on something potentially dangerous, I want it to be made out of steel, or some kind of space-age alloy that has big words like \"Titanium\" and \"Ruthenium\"."
 
 "I quickly lose interest, and my eyes wander across the reading area to rest on Hanako."
 
@@ -3085,7 +3085,7 @@ with charachange
 
 li "Hisao, do you mind if I ask you a question?"
 
-"Damn. All I want is a little food and about four hours of sleep. And nobody says “can I ask you a question” for a simple question."
+"Damn. All I want is a little food and about four hours of sleep. And nobody says \"can I ask you a question\" for a simple question."
 
 hi "Sure."
 
@@ -3162,7 +3162,7 @@ li "Rules cannot remove human nature, after all, only suppress it."
 
 hi "I guess you're right. But when I first came here, everything was a bit of a shock."
 
-hi "I kept on making mistakes, or at least thinking I was making mistakes. Like when we first met, and I said “I see” to you."
+hi "I kept on making mistakes, or at least thinking I was making mistakes. Like when we first met, and I said \"I see\" to you."
 
 hi "I didn't know if that was considered rude or anything, so I tried to just put it in the back of my mind. Treating people any differently and that kinda thing."
 
@@ -3319,7 +3319,7 @@ window show
 
 "It seems that everything in this room has its place, possibly excepting the several piles of books stacked up against the wall."
 
-"My sense of vision isn't the only one to be stimulated; the faint smell of something can be picked up on the air. Nail polish, perfume, makeup… it's hard to describe in any way other than “girly”."
+"My sense of vision isn't the only one to be stimulated; the faint smell of something can be picked up on the air. Nail polish, perfume, makeup… it's hard to describe in any way other than \"girly\"."
 
 "My eyes finish their quick sweep of the room, before returning their position onto the girls."
 
@@ -3441,7 +3441,7 @@ with charaenter
 
 "It looks odd when contrasted with Lilly's plain but generally sophisticated-looking furniture, which leads me to think that Hanako might have picked it out."
 
-"There is a slight “ting” when Hanako accidentally clips the teapot on a cup as she is pouring."
+"There is a slight \"ting\" when Hanako accidentally clips the teapot on a cup as she is pouring."
 
 show hanagown worry
 show lilly basic_displeased_paj
@@ -3515,7 +3515,7 @@ with charachange
 
 "Hanako's smile returns, redoubled."
 
-"Even with her blighted face, her shy smile couldn't be called anything but “cute”."
+"Even with her blighted face, her shy smile couldn't be called anything but \"cute\"."
 
 show hanagown distant_blush
 with charachange
@@ -4224,7 +4224,7 @@ with None
 scene ev hana_library_read_std
 with locationskip
 
-"As expected, Hanako sits on her beanbag, buried deep in a copy of “Dance Dance Dance.”"
+"As expected, Hanako sits on her beanbag, buried deep in a copy of \"Dance Dance Dance.\""
 
 hi "Hi Hanako. How's it going?"
 
@@ -4294,7 +4294,7 @@ with charaenter
 
 ha "N-… it's nothing."
 
-hi "I've told you before, “nothing” means “something” when you say it like that."
+hi "I've told you before, \"nothing\" means \"something\" when you say it like that."
 
 show hanako cover_worry
 with charachange
@@ -4468,3 +4468,4 @@ $ renpy.music.set_volume(1.0, 0.0, channel="music")
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

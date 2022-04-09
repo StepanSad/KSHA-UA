@@ -324,7 +324,7 @@ mu "Lis ça."
 mu "Si c'est intéressant, alors on pourra en parler."
 
 
-"“Une Brève Histoire dans le Temps ?”"
+"“Une Brève Histoire dans le Temps ?\""
 
 
 "Je ne sais pas si j'ai vraiment envie de le lire, mais Mutou semble assez excité à cette idée."
@@ -386,7 +386,7 @@ with locationskip
 "Je me demande où je suis censé rejoindre Emi."
 
 
-"Elle a dit “après l’entraînement”, mais elle ne m'a pas dit où je devais la retrouver."
+"Elle a dit \"après l’entraînement\", mais elle ne m'a pas dit où je devais la retrouver."
 
 
 "Je peux juste passer par la piste j'imagine ; c'est probablement le mieux que je puisse faire."
@@ -847,7 +847,7 @@ show emicas neutral
 with charachange
 
 
-emi "Rin pense que le changement d'“amie” à “petite amie” est arbitraire la plupart du temps."
+emi "Rin pense que le changement d'“amie\" à \"petite amie\" est arbitraire la plupart du temps."
 
 
 emi "Comme s'il n'y avait pas de différence entre les deux."
@@ -1054,7 +1054,7 @@ show emicas pout
 with charachange
 
 
-"Emi semble troublée par l'expression “ruses féminines”, mais la compréhension fait son chemin après un moment de réflexion."
+"Emi semble troublée par l'expression \"ruses féminines\", mais la compréhension fait son chemin après un moment de réflexion."
 
 show emicas angry_up
 with charachange
@@ -1118,7 +1118,7 @@ hide emicas
 with vpunch
 
 
-"Je bouge une jambe pour essayer de la dégourdir, ce qui a l'effet inattendu de déséquilibrer Emi, qui tombe sur le côté avec un “Eep !” de surprise."
+"Je bouge une jambe pour essayer de la dégourdir, ce qui a l'effet inattendu de déséquilibrer Emi, qui tombe sur le côté avec un \"Eep !\" de surprise."
 
 
 hi "Oups ! Désolé."
@@ -1266,7 +1266,7 @@ show emicas pout_up
 with charachange
 
 
-emi "Tu es horrible ! Tu n'es pas censé dire quelque chose comme “Je vais compter les secondes sans toi” ?"
+emi "Tu es horrible ! Tu n'es pas censé dire quelque chose comme \"Je vais compter les secondes sans toi\" ?"
 
 
 hi "Nan, je ne crois pas."
@@ -2275,7 +2275,7 @@ with charachange
 nk "Elle n'est pas encore malade, hein ?"
 
 
-"D'après le ton de sa voix, je ne crois pas que l'infirmier s'attende à ce que je dise “Ouais, elle est malade.”"
+"D'après le ton de sa voix, je ne crois pas que l'infirmier s'attende à ce que je dise \"Ouais, elle est malade.\""
 
 
 hi "Erh, elle a dit qu'elle avait quelque chose à faire, et elle a dû partir vite, mais elle viendra vous voir plus tard aujourd'hui."
@@ -2320,7 +2320,7 @@ show nurse concern
 with charachange
 
 
-"Les yeux de l'infirmier se plissent aux mots “hier soir”."
+"Les yeux de l'infirmier se plissent aux mots \"hier soir\"."
 
 
 nk "Et que faisiez-vous exactement hier soir ?"
@@ -2852,13 +2852,13 @@ hi "Exact. Je continuerai de t’embêter pour ça, et ça pourrait plomber l'am
 
 
 
-hi "“Tu trouves ça bon, Hisao ?” “Parle à l'infirmier, Emi.”"
+hi "“Tu trouves ça bon, Hisao ?\" \"Parle à l'infirmier, Emi.\""
 
 
-hi "“Comment était ta journée, Hisao ?” “Parle à l'infirmier, Emi.”"
+hi "“Comment était ta journée, Hisao ?\" \"Parle à l'infirmier, Emi.\""
 
 
-hi "“Hisao, je suis prête à ce qu'on le fas—” “{b}Parle à l'infirmier, Emi.{/b}”"
+hi "“Hisao, je suis prête à ce qu'on le fas—\" “{b}Parle à l'infirmier, Emi.{/b}\""
 
 
 hi "Tu vois ? Ça ne marche pas très bien."
@@ -3153,7 +3153,7 @@ with charachange
 rin "Changer d'endroit aide parfois pour ce genre de choses."
 
 
-"Ni Emi ni moi ne prenons la peine de demander ce que sont ces “choses”."
+"Ni Emi ni moi ne prenons la peine de demander ce que sont ces \"choses\"."
 
 stop music fadeout 3.0
 stop ambient fadeout 2.0
@@ -3314,7 +3314,7 @@ show muto normal
 with charachange
 
 
-mu "Un scientifique parle avec autorité, Hisao. La réponse est “Oui, c'est vrai.”"
+mu "Un scientifique parle avec autorité, Hisao. La réponse est \"Oui, c'est vrai.\""
 
 
 mu "Quand le monde veut savoir comment quelque chose marche, on lui dit. Même si tout ce qu'on a n'est qu'une hypothèse décente."
@@ -3724,7 +3724,7 @@ with charachange
 yu "J'adore voir les gens se trouver l'un l'autre comme ça, tu sais ?"
 
 
-yu "Je me suis même dit la fois où tu es entré au Shanghai “Je me demande s'il finira avec l'une de ces filles.”"
+yu "Je me suis même dit la fois où tu es entré au Shanghai \"Je me demande s'il finira avec l'une de ces filles.\""
 
 
 hi "...Vraiment ?"
@@ -3911,7 +3911,7 @@ with locationskip
 play sound sfx_doorknock2
 
 
-"Je frappe à sa porte et on me répond avec un petit “Entre”."
+"Je frappe à sa porte et on me répond avec un petit \"Entre\"."
 
 scene bg school_dormemi at left 
 with locationchange
@@ -4088,7 +4088,7 @@ emi "Mais ça reste super chiant quand même."
 "Je ne peux pas faire grand-chose d'autre, après tout."
 
 
-"Qu'est-ce que je vais faire, dire “J'te l'avais dit” ?"
+"Qu'est-ce que je vais faire, dire \"J'te l'avais dit\" ?"
 
 
 "Bien que je lui {b}aie dit{/b} d'aller faire voir sa jambe."
@@ -4603,7 +4603,7 @@ show evh emi_grinding_wink
 with charachange
 
 
-emi "“À l'amour comme à la guerre”, hein ?"
+emi "“À l'amour comme à la guerre\", hein ?"
 
 
 emi "Ha, et tu rougis même ! Je ne savais pas que tu étais du genre à rougir, Hisao."
@@ -4930,7 +4930,7 @@ hide rin
 with None
 
 
-"Rin hausse les épaules, comme pour dire “Peu importe” et passe le pied autour de la porte, la fermant derrière elle."
+"Rin hausse les épaules, comme pour dire \"Peu importe\" et passe le pied autour de la porte, la fermant derrière elle."
 
 show eminude happy_close
 with charachange
@@ -5468,7 +5468,7 @@ hi "Ouais, je crois. Je sais pas sur quoi j'ai atterri, cela dit."
 stop music fadeout 0.2
 
 
-"“Lubrifiant intime. Saveur citron.”"
+"“Lubrifiant intime. Saveur citron.\""
 
 
 "Hein, quoi ?"
@@ -5521,7 +5521,7 @@ show eminude pout_ni
 with charachange
 
 
-emi "“Des rencontres clandestines.”"
+emi "“Des rencontres clandestines.\""
 
 
 hi "Oh ? Il t'a invitée à une ?"
@@ -5908,7 +5908,7 @@ with charachange
 "Elle a les yeux fermés et elle se mord la lèvre, mais semble plus être dans la tolérance que le plaisir."
 
 
-"Un peu “bon, c'est un échec, mais avec de la chance ça sera bientôt fini”."
+"Un peu \"bon, c'est un échec, mais avec de la chance ça sera bientôt fini\"."
 
 
 "Je suis un peu mal à l'aise, là."
@@ -6090,7 +6090,7 @@ with charachange
 emi "Je veux dire, la plupart de tout ces trucs, c'est nouveau pour moi."
 
 
-hi "Comment ça, “la plupart” ?"
+hi "Comment ça, \"la plupart\" ?"
 
 show eminude grin_close_ni
 with charachange
@@ -6305,7 +6305,7 @@ scene bg school_dormhisao
 with locationskip
 
 
-"Je me douche pendant plus longtemps que d'habitude, juste pour être sûr d'être propre après notre petite “expérience”, puis m'effondre sur le lit."
+"Je me douche pendant plus longtemps que d'habitude, juste pour être sûr d'être propre après notre petite \"expérience\", puis m'effondre sur le lit."
 
 
 "J'ai cours dans vingt minutes, alors je peux sûrement me permettre une sieste."
@@ -6369,7 +6369,7 @@ with openeyefast
 "Va falloir que je trouve une meilleure excuse que ça pour mon absence."
 
 
-"“Désolé de n’être pas venu en classe, j’expérimentais sexuellement avec ma petite copine et ça m'a épuisé.”"
+"“Désolé de n’être pas venu en classe, j’expérimentais sexuellement avec ma petite copine et ça m'a épuisé.\""
 
 
 "Ouaip, ça passera bien."
@@ -7144,7 +7144,7 @@ nvl clear
 n "\n\n\n\n\n\nMutou pense que j'ai tout ce qu'il faut en sciences, du moins."
 
 
-n "Ou comme il dit, “La dernière chose qui devrait te causer des difficultés est ma matière, Hisao. Tes compétences sont bien au-delà.”"
+n "Ou comme il dit, \"La dernière chose qui devrait te causer des difficultés est ma matière, Hisao. Tes compétences sont bien au-delà.\""
 
 
 n "Encore une fois, c'est Mutou qui me dit ça."
@@ -7510,7 +7510,7 @@ hi "C'est comme si à chaque fois que je voulais en savoir plus sur elle, ou sur
 hi "Comme l'autre jour, je lui parlais au déjeuner des écoles auxquelles je m’intéresse."
 
 
-hi "Et je lui ai demandé “Tu as regardé les écoles récemment ?”"
+hi "Et je lui ai demandé \"Tu as regardé les écoles récemment ?\""
 
 
 hi "Elle hausse les épaules en réponse, dit non, et quand je lui demande pourquoi, elle me dit qu'elle ne pense pas aussi loin."
@@ -8421,7 +8421,7 @@ emi "Tu es inquiet, je comprends ça. C'est bien."
 emi "Mais je vais bien, et ce n'est rien dont tu doives te préoccuper."
 
 
-hi "Ne pas dormir et être encore plus absente mentalement que Rin n'est pas ma définition “d'aller bien”."
+hi "Ne pas dormir et être encore plus absente mentalement que Rin n'est pas ma définition \"d'aller bien\"."
 
 
 hi "J'ai juste... Je veux juste aider."
@@ -8867,7 +8867,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n“Je ne peux pas compter sur toi.”"
+n "\n\n\"Je ne peux pas compter sur toi.\""
 
 
 n "\nDes mots dits si facilement."
@@ -8876,7 +8876,7 @@ n "\nDes mots dits si facilement."
 n "Presque comme si elle me taquinait, ou me châtiait pour avoir suggéré que la terre était plate."
 
 
-n "\n“C'est comme ça que ça doit être.”"
+n "\n\"C'est comme ça que ça doit être.\""
 
 
 n "\nLa façon dont ça doit être est nulle."
@@ -9280,7 +9280,7 @@ with charachange
 nk "De quoi ?"
 
 
-hi "Pour “ce moment de l'année.” Je n’arrête pas d'essayer de trouver ce qui la perturbe, mais elle se referme dès que j'aborde le sujet."
+hi "Pour \"ce moment de l'année.\" Je n’arrête pas d'essayer de trouver ce qui la perturbe, mais elle se referme dès que j'aborde le sujet."
 
 
 hi "Et la nuit dernière, elle a dit—"
@@ -9554,7 +9554,7 @@ hi "Bref, quoi de neuf, Emi ? Tu as oublié quelque chose ?"
 "Je prends un ton joyeux avec elle."
 
 
-"Pas besoin de l’embêter pour rien. On peut être deux à jouer à “tout va bien”."
+"Pas besoin de l’embêter pour rien. On peut être deux à jouer à \"tout va bien\"."
 
 show emi sad_grin_gym at tworight 
 with charachange
@@ -10161,7 +10161,7 @@ with charachange
 emm "Et donc Hisao, j'ai entendu dire que ma fille et toi êtes devenus assez proches, mmh ?"
 
 
-"Le réflexe de dire quelque chose comme “Pas vraiment” est tellement fort que j'ouvre la bouche pour le faire, mais je me contrôle juste avant."
+"Le réflexe de dire quelque chose comme \"Pas vraiment\" est tellement fort que j'ouvre la bouche pour le faire, mais je me contrôle juste avant."
 
 
 "On est proches, je ne peux pas dire le contraire. Je veux dire, Emi m'a amené ici après tout."
@@ -10951,7 +10951,7 @@ with charachange
 emm "D'accord, peut-être que ce n'est pas aussi simple, mais c'est assez vrai. Emi pense que l'accident ne l'a pas définie, et que tout ce qu'elle a perdu ce jour ne la définit pas non plus."
 
 
-emm "Elle n'est pas “la fille qui a perdu ses jambes”, elle est “La Fille sans Jambes la Plus Rapide.” Son optimisme et son énergie sont sortis de l'accident sans une égratignure."
+emm "Elle n'est pas \"la fille qui a perdu ses jambes\", elle est \"La Fille sans Jambes la Plus Rapide.\" Son optimisme et son énergie sont sortis de l'accident sans une égratignure."
 
 
 hi "Et pourtant ça va au-delà, non ? Je veux dire, la nuit dernière elle m'a dit qu'elle refusait de compter sur qui que ce soit parce que le perdre ça serait trop douloureux."
@@ -11311,7 +11311,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\nMerci, Iwanako. Je voulais répondre “oui” à ta question de ce jour d'hiver, mais je n'ai jamais pu."
+n "\n\n\nMerci, Iwanako. Je voulais répondre \"oui\" à ta question de ce jour d'hiver, mais je n'ai jamais pu."
 
 
 n "Au moment où on s'est revus, il était trop tard."
@@ -11610,7 +11610,7 @@ show misha sign_smile
 with charachange
 
 
-mi "Ah, Shicchan a dit “C'est le devoir du Conseil des Étudiants de suivre la santé émotionnelle de ses étudiants ! De permettre qu'un électeur tombe dans la dépression serait un manquement impardonnable aux devoirs du conseil !"
+mi "Ah, Shicchan a dit \"C'est le devoir du Conseil des Étudiants de suivre la santé émotionnelle de ses étudiants ! De permettre qu'un électeur tombe dans la dépression serait un manquement impardonnable aux devoirs du conseil !"
 
 
 hi "Eh bien, c'est pas un problème alors. Je ne suis pas déprimé."
@@ -12003,7 +12003,7 @@ emi "Tu es un bon gars, mais ça ne marche pas nous deux."
 "Merde, je suis sûr qu'elle serait tout à fait à l'aise à l'idée de ne plus jamais me revoir."
 
 
-hi "Alors, c'est tout ? Rien d'autre à dire que “Bon, c'était bien le temps que ça a duré, mais on s’arrête là.” ?"
+hi "Alors, c'est tout ? Rien d'autre à dire que \"Bon, c'était bien le temps que ça a duré, mais on s’arrête là.\" ?"
 
 show emi basic_closedgrin_gym_close
 with charachange
@@ -12070,7 +12070,7 @@ hide emi
 with None
 
 
-"Elle hausse les épaules, comme pour dire “Fais comme tu veux”, et elle me tourne encore une fois le dos, accélérant rapidement dans la courbe de la piste."
+"Elle hausse les épaules, comme pour dire \"Fais comme tu veux\", et elle me tourne encore une fois le dos, accélérant rapidement dans la courbe de la piste."
 
 
 "Je me sens engourdi. C'est tout. La fin de la route pour nous, quoi que cela ait pu être. La note finale, du moins."
@@ -12607,3 +12607,4 @@ stop music fadeout 2.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

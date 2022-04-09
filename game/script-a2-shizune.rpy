@@ -159,7 +159,7 @@ $ written_note("Use the notepad! Write write write write write write write write
 
 window show
 
-"I'm confused; am I supposed to take it from her and write “okay” now?"
+"I'm confused; am I supposed to take it from her and write \"okay\" now?"
 
 "This is about the furthest thing I could imagine from a smooth, flowing conversation. It makes me envy the ease with which Misha is able to communicate with Shizune."
 
@@ -507,7 +507,7 @@ with charachange
 
 mi "Okay, Hicchan, let's review what you learned, then~! I'll tutor you, okay~?"
 
-"This is the first time I've heard “I'll tutor you” used outside of dirty movies; I'm not nearly as turned on as I'd have expected."
+"This is the first time I've heard \"I'll tutor you\" used outside of dirty movies; I'm not nearly as turned on as I'd have expected."
 
 hi "I don't know if I need a tutor yet."
 
@@ -1129,7 +1129,7 @@ with charachange
 
 yu "Oh no, I'm sorry, I'm really sorry, sorry, please forgive me!"
 
-hi "It's okay, and you don't have to do that “Hello, thanks for choosing our shop!” thing since we know you."
+hi "It's okay, and you don't have to do that \"Hello, thanks for choosing our shop!\" thing since we know you."
 
 show yuukoshang worried_up
 with charachange
@@ -1509,7 +1509,7 @@ shi "…"
 
 "Her fingers dance lightly over the surface of the box, and I think of taking it from her, but I doubt she would let me. Shizune makes a quick gesture with her hands as best she can, pausing a bit afterward as if wanting to say more."
 
-"I'm sure that what she means is “thank you.” I'm glad that I was able to catch it."
+"I'm sure that what she means is \"thank you.\" I'm glad that I was able to catch it."
 
 scene black
 with dissolve
@@ -1552,7 +1552,7 @@ nvl hide dissolve
 
 window show
 
-"I look up from “Introduction to Japanese Sign Language” to check if Shizune or Misha are around."
+"I look up from \"Introduction to Japanese Sign Language\" to check if Shizune or Misha are around."
 
 "Of course, since this is taking up my lunch hour, I've had to avoid them for a few days now. What's more, I'll have to continue doing so if I want to keep Shizune from finding out."
 
@@ -1612,7 +1612,7 @@ with charachange
 
 mi "Student Council~!"
 
-"“Student Council” was the first thing I asked to learn; it seemed like it would come in handy."
+"“Student Council\" was the first thing I asked to learn; it seemed like it would come in handy."
 
 hi "Yeah, I've been dodging it for a while now, huh?"
 
@@ -1723,7 +1723,7 @@ with charachange
 
 mi "Hicchan is worried about the stakes~."
 
-"Misha makes a very disappointed face. It's hard to tell if she's mocking me, since her expressions are so exaggerated by default. She's an “all-out” kind of girl."
+"Misha makes a very disappointed face. It's hard to tell if she's mocking me, since her expressions are so exaggerated by default. She's an \"all-out\" kind of girl."
 
 "I turn my head to Shizune. Now, this person, she is definitely mocking me."
 
@@ -1742,7 +1742,7 @@ mi "How very Japanese, putting the consequences above everything else."
 show misha sign_smile
 with charachange
 
-mi "Hicchan, have you ever heard of the expression “missing the forest for the trees?”"
+mi "Hicchan, have you ever heard of the expression \"missing the forest for the trees?\""
 
 hi "No."
 
@@ -1761,7 +1761,7 @@ hi "Additionally, I pick the punishment if you lose."
 show shizu cross_angry
 with charachange
 
-"Shizune makes an X with her arms. That either means “denied” or that she's about to use her special attack."
+"Shizune makes an X with her arms. That either means \"denied\" or that she's about to use her special attack."
 
 hi "Aha, now who's afraid of consequences?"
 
@@ -2352,7 +2352,7 @@ mi "Hicchan, do you hate games where luck is involved?"
 show misha hips_grin
 with charachange
 
-mi "“I don't like games that revolve around luck of the draw,” right? That was you, Hicchan~."
+mi "“I don't like games that revolve around luck of the draw,\" right? That was you, Hicchan~."
 
 hi "Yeah. Revolving around luck isn't the same as just having luck involved, though. I don't hate games just for having an element of luck. Most games have an element of luck to them anyway. It's what keeps them interesting."
 
@@ -3072,7 +3072,7 @@ play music music_tranquil fadein 3.0
 
 "As I finish up the day's usual filing, I think to myself that this might be Shizune's way of trying to start this week on a high note."
 
-"After all, tomorrow is when the real work will begin, and with her hands literally full building stalls, she won't be able to “talk” very much."
+"After all, tomorrow is when the real work will begin, and with her hands literally full building stalls, she won't be able to \"talk\" very much."
 
 "It will likely be pretty dull and tiring, like it was the first time around. I'm appreciative of her effort, in that case. It's nice to have days like this, as a way of enjoying yourself before the days ahead. I think that was her idea as well."
 
@@ -3209,7 +3209,7 @@ hi "AAAAAAAAAAHHH!!"
 
 hi "Do you know how stupid I look now? I sat there for like half the damn day acting like I couldn't read sign language, and are you seriously telling me that she knew the whole time I could?"
 
-hi "She was probably thinking, “this guy is a complete jackass, pretending he can't understand me.” I just made a total ass of myself."
+hi "She was probably thinking, \"this guy is a complete jackass, pretending he can't understand me.\" I just made a total ass of myself."
 
 hi "How could you let me do this?!"
 
@@ -3728,17 +3728,17 @@ play music music_tension
 
 "Kenji doesn't hear me, having gotten a good momentum going. Wrapped up in the energy of his own ranting, he starts to completely flip out and flail his arms, appearing to wildly throw gang signs."
 
-ke "I walked up to the desk and said to her, “Hey you, fascist woman! What is this badge idea? How out of touch can you be, here in your ivory tower, smugly looking down upon us like we're just a bunch of idiots? Who do you think you are?”"
+ke "I walked up to the desk and said to her, \"Hey you, fascist woman! What is this badge idea? How out of touch can you be, here in your ivory tower, smugly looking down upon us like we're just a bunch of idiots? Who do you think you are?\""
 
-ke "“Your level of elitism is terrible, you're probably one of those outrageous rich people who have chaffeurs drive them around slums so they can point and laugh…”"
+ke "“Your level of elitism is terrible, you're probably one of those outrageous rich people who have chaffeurs drive them around slums so they can point and laugh…\""
 
-ke "“…and only drink pricey coffee beans shat out by the last living dinosaur and brewed in a solid gold skull.”"
+ke "“…and only drink pricey coffee beans shat out by the last living dinosaur and brewed in a solid gold skull.\""
 
-ke "“And how could you? Go open up a history book; don't you know that the bourgeoisie are always overthrown in a bloody revolution for shit like this? Stupid! You're an idiot!”"
+ke "“And how could you? Go open up a history book; don't you know that the bourgeoisie are always overthrown in a bloody revolution for shit like this? Stupid! You're an idiot!\""
 
-ke "“Sure, the revolutionaries usually end up turning everything into an utter clusterfuck later on, but a maniac is the only kind of person who would create a policy like this…”"
+ke "“Sure, the revolutionaries usually end up turning everything into an utter clusterfuck later on, but a maniac is the only kind of person who would create a policy like this…\""
 
-ke "“…it's like something I would create to make people suffer, only real and you want to institutionalize it! Where will this desecration of our rights end? We are people! This is not justice!”"
+ke "“…it's like something I would create to make people suffer, only real and you want to institutionalize it! Where will this desecration of our rights end? We are people! This is not justice!\""
 
 show kenji neutral
 with charachange
@@ -3748,7 +3748,7 @@ ke "That's what I said."
 show kenji rage
 with charachange
 
-ke "Then I added a cry of “They can take our things, but they'll never take our freeeeeedoooooom!” to appeal to the masses like in that movie about the life of William Wallace where they took his things but not his freedom, and then killed him."
+ke "Then I added a cry of \"They can take our things, but they'll never take our freeeeeedoooooom!\" to appeal to the masses like in that movie about the life of William Wallace where they took his things but not his freedom, and then killed him."
 
 stop music fadeout 5.0
 
@@ -3879,7 +3879,7 @@ his "You're not a magician."
 show shizu behind_smile
 with charachange
 
-"Winking, she takes out two plastic containers from her bag, then puts them down on a nearby board before raising her hands slightly as if to say “ta-da!”"
+"Winking, she takes out two plastic containers from her bag, then puts them down on a nearby board before raising her hands slightly as if to say \"ta-da!\""
 
 show shizu adjust_happy
 with charachange
@@ -3935,7 +3935,7 @@ with charaenter
 
 hi "Hi."
 
-"I narrowly catch myself before I can say “didn't see you there.”"
+"I narrowly catch myself before I can say \"didn't see you there.\""
 
 show lilly cane_surprised
 with charachange
@@ -4098,7 +4098,7 @@ ssh "I'll devour you!"
 
 hi "Yeah, very busy."
 
-"“Devour” is a hard word. I'm pleased that I can read it. This isn't time to celebrate, though, not over that. Instead, it looks like they might stop squabbling. I would drink to that."
+"“Devour\" is a hard word. I'm pleased that I can read it. This isn't time to celebrate, though, not over that. Instead, it looks like they might stop squabbling. I would drink to that."
 
 show lilly cane_listen
 with charachange
@@ -4209,7 +4209,7 @@ with charachange
 show shizu behind_frustrated_ss
 with charachange
 
-ssh "Two fights that you know of aren't worth calling “so much.” If you had been here last year you could say that."
+ssh "Two fights that you know of aren't worth calling \"so much.\" If you had been here last year you could say that."
 
 his "I heard it was a rough year. Something about how you tried to institute a badge policy."
 
@@ -4534,7 +4534,7 @@ with charachange
 
 ke "I don't know. A woman with sandals."
 
-"I was hoping he'd say something more specific, like “she had no arms.” Rin does wear sandals, but I feel like the chance of there being another freespirited female art student wearing sandals besides her is reasonably high."
+"I was hoping he'd say something more specific, like \"she had no arms.\" Rin does wear sandals, but I feel like the chance of there being another freespirited female art student wearing sandals besides her is reasonably high."
 
 show kenji happy
 with charachange
@@ -4596,7 +4596,7 @@ play ambient sfx_crowd_indoors fadein 1.0
 
 "If it were anyone else, I would think how they were too far away for me to hear them. This is Shizune and Misha, however."
 
-"If I wanted to, I could “eavesdrop” on their conversation easily. What a dirty thing to think about, but it's there. …I don't want to, though."
+"If I wanted to, I could \"eavesdrop\" on their conversation easily. What a dirty thing to think about, but it's there. …I don't want to, though."
 
 "They must have a lot of catching up to do, even if it's only been a few days. I'm inclined to just leave them alone so they can do just that."
 
@@ -4690,7 +4690,7 @@ with charachange
 
 ssh "Anyone would jump at the chance to sit with two cute girls anyway."
 
-"She pauses, in case I might say something like “You're not that cute!” and instantly lock myself into an obvious no-win situation. When I don't take the bait, Shizune becomes more energetic and continues."
+"She pauses, in case I might say something like \"You're not that cute!\" and instantly lock myself into an obvious no-win situation. When I don't take the bait, Shizune becomes more energetic and continues."
 
 show shizu basic_happy
 with charachange
@@ -4956,7 +4956,7 @@ with charachange
 
 ssh "Of course."
 
-hi "What do you mean “of course?” You didn't dress up last time."
+hi "What do you mean \"of course?\" You didn't dress up last time."
 
 show shizu basic_normal2_close
 with charachange
@@ -5107,7 +5107,7 @@ mi "Shicchan cooked, and Lilly took the orders, and I translated for them~!"
 show misha hips_smile
 with charachange
 
-mi "Shicchan kept saying, “It's so inefficient~! Misha~! Why do you have to be the middleman? As in~, why is there a middleman in the first place? Huh~? It would be fine if I did the cooking and you took orders! It doesn't make sense at all!”"
+mi "Shicchan kept saying, \"It's so inefficient~! Misha~! Why do you have to be the middleman? As in~, why is there a middleman in the first place? Huh~? It would be fine if I did the cooking and you took orders! It doesn't make sense at all!\""
 
 show misha sign_smile
 with charachange
@@ -5192,7 +5192,7 @@ shi "…"
 
 "Shizune's fingers fold over each other carefully. It looks like she wants to add something, but she can't bring herself to."
 
-"Like she said, sign language gives you a little more time to think about what you “say.” I guess she feels like she can't talk about this."
+"Like she said, sign language gives you a little more time to think about what you \"say.\" I guess she feels like she can't talk about this."
 
 show shizu behind_blank_close
 with charachange
@@ -5310,7 +5310,7 @@ with locationchange
 
 "When I open the door to the roof, I see I'm not alone. Misha leans against the fence, looking over the school grounds, not having noticed me at all."
 
-"Instantly, I know what I have to do: I have to put my hands over her eyes and say “Guess who?” It's the only option."
+"Instantly, I know what I have to do: I have to put my hands over her eyes and say \"Guess who?\" It's the only option."
 
 "Halfway, I start thinking of how bad this would look if Shizune suddenly popped in, having left just for a second to get some sandwiches, and saw me sneaking up on Misha like this."
 
@@ -5502,7 +5502,7 @@ mi "Hicchan, a soda is not a breakfast. It's like water~."
 
 hi "It's not like water, it's a liquid. Water isn't food. Liquid can be food."
 
-"“Now who sounds like Shizune, Misha?” I want to say it. Even her tone reminds me of Shizune's unblinking, matter-of-fact way of stating the ridiculous. If I did say that, though, I would be the one who sounds like Shizune again."
+"“Now who sounds like Shizune, Misha?\" I want to say it. Even her tone reminds me of Shizune's unblinking, matter-of-fact way of stating the ridiculous. If I did say that, though, I would be the one who sounds like Shizune again."
 
 "It's terrible, her competitiveness is really rubbing off on me."
 
@@ -5766,7 +5766,7 @@ hi "Yes."
 show shizuyu basic_angry_close
 with charachange
 
-"Shizune alternates between as many forceful iterations of “no” she can think of."
+"Shizune alternates between as many forceful iterations of \"no\" she can think of."
 
 show misha perky_smile_yuk
 with charachange
@@ -5995,3 +5995,4 @@ stop music fadeout 3.0
 
 nvl hide dissolve
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

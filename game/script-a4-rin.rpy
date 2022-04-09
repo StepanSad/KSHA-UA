@@ -415,13 +415,13 @@ window hide
 show rin basic_lucid_superclose at center
 with charachange
 
-centered "“It was a bad idea.”"
+centered "“It was a bad idea.\""
 
-centered "“Maybe you should forget about it, and I will too.”"
+centered "“Maybe you should forget about it, and I will too.\""
 
 window show
 
-"It's a reflex, and almost as an afterthought, the words “no,” “yes” and “maybe” simultaneously surface inside my mind."
+"It's a reflex, and almost as an afterthought, the words \"no,\" \"yes\" and \"maybe\" simultaneously surface inside my mind."
 
 "My hand is between her lips and mine, a wall that I raised to guard against… something."
 
@@ -1570,7 +1570,7 @@ emi "That Rin, how can she do this? I'm telling you, she doesn't have a bit of c
 
 "I guess I understand Emi, she is {b}that{/b} kind of a person."
 
-"“Give up” has never felt like a part of her vocabulary, and maybe she feels it shouldn't be a part of anyone's vocabulary."
+"“Give up\" has never felt like a part of her vocabulary, and maybe she feels it shouldn't be a part of anyone's vocabulary."
 
 hi "It's probably best to leave her alone for tonight."
 
@@ -1904,7 +1904,7 @@ with charachange
 
 no "What's up with that girl? This is so unlike her, she's always been so goal-driven."
 
-"“Goal-driven?” Those don't really strike me as words to describe Rin with."
+"“Goal-driven?\" Those don't really strike me as words to describe Rin with."
 
 "To me, she always felt obsessive at best."
 
@@ -2022,7 +2022,7 @@ with charaexit
 
 "After he has disappeared around the corner, I ponder where Rin could really be."
 
-"It feels like she has not one, but at least half a dozen of these “secret places.”"
+"It feels like she has not one, but at least half a dozen of these \"secret places.\""
 
 "I balance between the desire to solve this tangle and to drop it for good."
 
@@ -2220,7 +2220,7 @@ nvl show dissolve
 
 n "\n\nSince I came here, I've always wondered about something."
 
-n "What do the wheelchair-bound students think about this daily tradition, being unable to do it “properly?”"
+n "What do the wheelchair-bound students think about this daily tradition, being unable to do it \"properly?\""
 
 n "Is it a faux pas to keep to this tradition in a place that bypasses many others for convenience?"
 
@@ -2366,7 +2366,7 @@ n "\nI pick up the book and manage to read a hundred pages, but I'm sure by tomo
 
 n "\nI try to clean up my room, but even that proves to be too bothersome, too time-consuming and requiring too much attention to detail."
 
-n "It's usually like this. When you have “nothing to do,” you do nothing even if you could."
+n "It's usually like this. When you have \"nothing to do,\" you do nothing even if you could."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2923,7 +2923,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\nShe's too indecisive even though she's doing just fine. Like that “dizzy spell” from the night before."
+n "\nShe's too indecisive even though she's doing just fine. Like that \"dizzy spell\" from the night before."
 
 n "She just got freaked out or something, and I didn't do anything to help her."
 
@@ -3018,7 +3018,7 @@ with charachange
 
 sa "Everyone interprets art as they will, and interpretation is as much in the eye of the beholder as in the intentions of the creator."
 
-sa "“Pros” have their own way, because there is this thing called art theory."
+sa "“Pros\" have their own way, because there is this thing called art theory."
 
 sa "There are patterns in art, just like in everything, and we assume that it's possible to draw some conclusions from observing those patterns."
 
@@ -3248,7 +3248,7 @@ hide white
 show ev rin_rain_away_close behind rain at Fullpan(20.0,dir="up")
 with Dissolve(1.0)
 
-"Our footsteps go “splish splash” in the shallow puddles forming on the streets as we walk through the rainfall."
+"Our footsteps go \"splish splash\" in the shallow puddles forming on the streets as we walk through the rainfall."
 
 "Rin, now walking beside me in her unhurried and relaxed manner, doesn't seem to be even a bit bothered by the fact that she is getting wet even though she needn't to."
 
@@ -3429,7 +3429,7 @@ with locationchange
 
 "When I turn around, I find her staring at me with an impassive face."
 
-rin "I wanted someone to say “I understand how you feel.”"
+rin "I wanted someone to say \"I understand how you feel.\""
 
 rin "Wouldn't that be great?"
 
@@ -4128,7 +4128,7 @@ n "I reached out for her yesterday, thinking it would be the last time."
 
 n "She walked away."
 
-n "“I want to be me.”"
+n "“I want to be me.\""
 
 n "What the heck does that even mean? Rin, if anyone, is most definitely herself."
 
@@ -4171,7 +4171,7 @@ rin "I think I still don't know, but okay."
 
 "The thinking pause that follows seems to last for half an eternity."
 
-"Unlike most people, Rin doesn't flavor her thinking pauses by body language or saying “like” or “umm” or anything."
+"Unlike most people, Rin doesn't flavor her thinking pauses by body language or saying \"like\" or \"umm\" or anything."
 
 "I've noticed that I might prefer her way. The usual way even annoys me, as if people were so infatuated by the sound of their own voice they just have to keep making some noise even when they are just thinking what they could say next."
 
@@ -4252,7 +4252,7 @@ rin "But if you don't like it, would you like me to say something else instead?"
 show rin basic_lucid
 with charachange
 
-rin "I don't have any good ones though. How about… “Your pants are on fire?”"
+rin "I don't have any good ones though. How about… \"Your pants are on fire?\""
 
 show rin basic_absent
 with charachange
@@ -4354,7 +4354,7 @@ with locationchange
 
 "The hallway is empty, almost intimidating."
 
-"Nomiya's “office” is the art classroom at the other end of the third floor hallway."
+"Nomiya's \"office\" is the art classroom at the other end of the third floor hallway."
 
 show rin basic_absent at center
 with charaenter
@@ -4423,7 +4423,7 @@ no "Reputation is what counts, surely you know that?"
 
 rin "It's all right. I don't need it."
 
-no "“Don't need!” What do you think you know?"
+no "“Don't need!\" What do you think you know?"
 
 "Rin's replies only seem to agitate the teacher more, his voice rising with every sentence."
 
@@ -5305,7 +5305,7 @@ with charachange
 
 rin "I haven't. It's raining pretty hard though. I was on a walk."
 
-hi "Is this what you call “wallowing in self-pity?”"
+hi "Is this what you call \"wallowing in self-pity?\""
 
 show rin basic_deadpanupset
 with charachange
@@ -5543,7 +5543,7 @@ n "In how we are closer than we have ever been, yet I'm not feeling happy. It's 
 
 n "When did tenderness and forlornness become one and the same word, acts of affection start invoking only longing? …How, why did we end up like this?"
 
-n "“No, don't answer that,” I'd like to say to myself, but fighting against the omniscience of self-awareness is a lost cause."
+n "“No, don't answer that,\" I'd like to say to myself, but fighting against the omniscience of self-awareness is a lost cause."
 
 n "Still, I am here, and Rin is here, and it feels like she might be able to solve whatever problems she has."
 
@@ -6107,7 +6107,7 @@ play music music_timeskip fadein 4.0
 
 centered_b "Present{fast}" with Dissolve(4.0)
 
-nb "“Present” is a fleeting and vague concept at best.\n"
+nb "“Present\" is a fleeting and vague concept at best.\n"
 
 extend "The moment between the past and the future?\n"
 
@@ -6144,7 +6144,7 @@ window show Dissolve(2.0)
 $ renpy.music.set_volume(1.0, 0.0, channel="music")
 play music music_dreamy fadein 4.0
 
-"I am pretty sure that the girl who is standing there half-naked, staring out of the window of my room, has a much better grasp of “present” than I do."
+"I am pretty sure that the girl who is standing there half-naked, staring out of the window of my room, has a much better grasp of \"present\" than I do."
 
 "As for me… well, right now I'm somewhat confused by my present state, since I should try to locate my shirt and not stare at Rin's butt."
 
@@ -6268,7 +6268,7 @@ rin "You know, so that they are… fine."
 
 "…"
 
-"As I have no idea when her breasts are supposed to be “fine,” I end up fumbling around her chest for a good while without really getting anywhere."
+"As I have no idea when her breasts are supposed to be \"fine,\" I end up fumbling around her chest for a good while without really getting anywhere."
 
 "Not that I would complain, but Rin does."
 
@@ -6294,7 +6294,7 @@ hide rinpan
 show rin basic_absent_close
 with shorttimeskip
 
-"With her bra and breasts eventually “fine” as they should, the rest of her clothes are considerably easier to put on."
+"With her bra and breasts eventually \"fine\" as they should, the rest of her clothes are considerably easier to put on."
 
 hide rin
 with charaexit
@@ -6313,7 +6313,7 @@ with locationskip
 
 "As soon as I realize that we are heading for the side entrance leading to the forest, I think I know where Rin wanted to go, although I couldn't say why she'd want to go there."
 
-"Then again, I can't really assume my guesses to be anywhere near correct when Rin is concerned, not even for a quite generous definition of “correct.”"
+"Then again, I can't really assume my guesses to be anywhere near correct when Rin is concerned, not even for a quite generous definition of \"correct.\""
 
 $ renpy.music.set_volume(0.6, 0.5, channel="ambient")
 $ renpy.music.set_volume(0.8, 0.5, channel="music")
@@ -6469,7 +6469,7 @@ hi "…It's fine, isn't it?"
 show rin basic_lucid
 with charachange
 
-"“How should I know?”, the shrug of her shoulders seems to say, hesitating to give a firmer answer."
+"“How should I know?\", the shrug of her shoulders seems to say, hesitating to give a firmer answer."
 
 "She stays silent for only a second too long, but even that second isn't long enough for me to think ahead…"
 
@@ -6987,3 +6987,4 @@ stop ambient fadeout 4.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -359,7 +359,7 @@ scene bg gallery_ext:
 with locationskip
 
 
-"Après avoir tourné encore trois fois, Nomiya s'arrête devant une porte. Il y a une enseigne où il est écrit en grosses lettres rouges : “22nd Corner.”"
+"Après avoir tourné encore trois fois, Nomiya s'arrête devant une porte. Il y a une enseigne où il est écrit en grosses lettres rouges : \"22nd Corner.\""
 
 show bg gallery_ext:
     yalign 1.0 
@@ -934,7 +934,7 @@ nvl clear
 nvl show dissolve
 
 
-n "\n\n\n\nRin fait la demande et - merci à Nomiya faisant pression sur le principal, j'en suis sûr - obtient l'exemption du reste du trimestre pour “activité périscolaire exceptionnelle.” Elle va devoir rattraper ça durant les vacances d'été, mais ça ne semble pas la gêner."
+n "\n\n\n\nRin fait la demande et - merci à Nomiya faisant pression sur le principal, j'en suis sûr - obtient l'exemption du reste du trimestre pour \"activité périscolaire exceptionnelle.\" Elle va devoir rattraper ça durant les vacances d'été, mais ça ne semble pas la gêner."
 
 
 n "Rin sera toujours en mesure de manger et de dormir à l'école, bien sûr ; elle n'a juste pas besoin d'aller en cours. Je ne suis pas sûr de savoir si je l'envie ou non."
@@ -1944,7 +1944,7 @@ show yuuko closedhappy_down
 with charachange
 
 
-yu "Oui, quand je me sens vraiment mal, je prends un peu de recul et me fais une tasse de thé ! Et quand j'ai bu le thé, je me donne un coup de pied aux fesses, genre WHAM ! Et puis je me dis “maintenant tu vas le faire Yuuko !“ et puis je le fais."
+yu "Oui, quand je me sens vraiment mal, je prends un peu de recul et me fais une tasse de thé ! Et quand j'ai bu le thé, je me donne un coup de pied aux fesses, genre WHAM ! Et puis je me dis \"maintenant tu vas le faire Yuuko !“ et puis je le fais."
 
 show yuuko happy_up
 with charachange
@@ -2367,7 +2367,7 @@ scene bg gallery_ext:
 with locationchange
 
 
-"Malgré une légère difficulté pour trouver mon chemin, j'arrive jusqu'à la galerie, et me retrouve devant les grandes lettres disant “22nd Corner.”"
+"Malgré une légère difficulté pour trouver mon chemin, j'arrive jusqu'à la galerie, et me retrouve devant les grandes lettres disant \"22nd Corner.\""
 
 
 play sound sfx_storebell
@@ -2792,7 +2792,7 @@ show rin basic_surprised_cas
 with charachange
 
 
-rin "C'est quoi “plus” ?"
+rin "C'est quoi \"plus\" ?"
 
 $ renpy.music.set_volume(0.3, 7.0, channel="ambient")
 
@@ -3330,7 +3330,7 @@ with charachange
 rin "Je vais peut-être commencer à peindre différemment bientôt, si ça continue."
 
 
-hi "C'est pas de ce “changement” dont tu parlais ?"
+hi "C'est pas de ce \"changement\" dont tu parlais ?"
 
 show rin basic_surprised_cas_close
 with charachange
@@ -3530,13 +3530,13 @@ show sae scowl_smoke
 with charachange
 
 
-sa "Alors donc, les peintures seront juste “Sans nom, numéro un” et ainsi de suite ? C'est assez peu pratique, mais..."
+sa "Alors donc, les peintures seront juste \"Sans nom, numéro un\" et ainsi de suite ? C'est assez peu pratique, mais..."
 
 show rin basic_deadpanupset_cas
 with charachange
 
 
-rin "C'est pas bon. “Sans nom” veut dire que je n'ai juste pas trouvé de bon nom. Et Sans nom est un nom, comme ce gars grec avec le mouton et tout."
+rin "C'est pas bon. \"Sans nom\" veut dire que je n'ai juste pas trouvé de bon nom. Et Sans nom est un nom, comme ce gars grec avec le mouton et tout."
 
 
 "Sae réfléchit un moment, fronçant les sourcils alors qu'elle regarde le visage sérieux de Rin."
@@ -3596,7 +3596,7 @@ show sae smile
 with charachange
 
 
-sa "On pourrait appeler l'exposition “Sans nom” et partir de ce thème. Tu trouves ça comment ?"
+sa "On pourrait appeler l'exposition \"Sans nom\" et partir de ce thème. Tu trouves ça comment ?"
 
 show rin basic_lucid_cas
 with charachange
@@ -3760,7 +3760,7 @@ rin "J'ai besoin de quelque chose de plus. Ce n'est pas suffisant comme ça."
 "C'est énervant comment ses pensées peuvent être à la fois totalement claires et masquées à chaque fois qu'elle ouvre la bouche."
 
 
-hi "C'est quoi “plus” ? Tu as dit la même chose à Sae aussi. Un ingrédient manquant ?"
+hi "C'est quoi \"plus\" ? Tu as dit la même chose à Sae aussi. Un ingrédient manquant ?"
 
 play music music_rain fadein 4.0
 
@@ -3825,7 +3825,7 @@ with charachange
 rin "Oui. J'ai besoin de faire quelque chose. Je veux peindre. J'ai besoin de quelque chose de plus."
 
 
-hi "Alors d'accord. Et après avoir fumé une cigarette ? Comment est-ce que tu comptes te “détruire” ?"
+hi "Alors d'accord. Et après avoir fumé une cigarette ? Comment est-ce que tu comptes te \"détruire\" ?"
 
 show rin basic_awayabsent_cas_ss
 with charachange
@@ -3956,7 +3956,7 @@ with charachange
 "C'est moins désagréable au second essai, mais je repasse quand même la cigarette à Rin."
 
 
-"On est comme une paire de potes délinquants au collège, fumant leur première cigarette en douce en le cachant aux professeurs et aux parents. Enfin, ce n'est pas vraiment “comme”, je crois que c'est exactement ce qu'on est."
+"On est comme une paire de potes délinquants au collège, fumant leur première cigarette en douce en le cachant aux professeurs et aux parents. Enfin, ce n'est pas vraiment \"comme\", je crois que c'est exactement ce qu'on est."
 
 show ev rin_wisp3 at wispturn 
 with charachange
@@ -4138,7 +4138,7 @@ hi "J'aimerais bien ressentir ça aussi des fois."
 "Je me demande si elle entend l'aigreur dans mes mots. Le cercle vicieux des sentiments non partagés m'empoisonne, même maintenant."
 
 
-"J'essaye de repousser le côté sinistre. Mes efforts rencontrent peu de succès alors que mon esprit n'arrête pas d'envisager des “et si”."
+"J'essaye de repousser le côté sinistre. Mes efforts rencontrent peu de succès alors que mon esprit n'arrête pas d'envisager des \"et si\"."
 
 
 "Regardant la lune s'élever lentement, je réalise qu'un long moment est passé depuis que je suis là."
@@ -5780,7 +5780,7 @@ rin "Ça importe peu."
 "Je ne veux pas voir Rin comme ça."
 
 
-"Tout ce que je peux voir est sa tristesse. Son stress et son désespoir. Est-ce que c'est ça les “limites” ? Pourquoi - comment Sae et Nomiya peuvent-ils laisser Rin aller aussi loin ? Ou est-ce moi qui suis à blâmer ?"
+"Tout ce que je peux voir est sa tristesse. Son stress et son désespoir. Est-ce que c'est ça les \"limites\" ? Pourquoi - comment Sae et Nomiya peuvent-ils laisser Rin aller aussi loin ? Ou est-ce moi qui suis à blâmer ?"
 
 stop music fadeout 6.0
 
@@ -5877,7 +5877,7 @@ rin "Mais ça me fait mal. Je ne peux plus tenir."
 "C'est une voix sans vie."
 
 
-"Je pose la main sur sa tête et sur ses épaules, l'equivalent physique pour dire “du calme, du calme.” Ce n'est pas comme si je pouvais la rassurer avec les petites choses que les gens sont supposés dire dans ce genre de situation."
+"Je pose la main sur sa tête et sur ses épaules, l'equivalent physique pour dire \"du calme, du calme.\" Ce n'est pas comme si je pouvais la rassurer avec les petites choses que les gens sont supposés dire dans ce genre de situation."
 
 
 "Je ne suis pas sûr qu'elle écouterait de toute façon, encore moins qu'elle serait rassurée."
@@ -6957,3 +6957,4 @@ stop ambient fadeout 3.0
 
 window hide
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

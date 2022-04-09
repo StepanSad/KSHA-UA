@@ -222,10 +222,10 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 nvl show dissolve
 
 
-n "\n\n\nÀ Yamaku, tout le monde est “spécial” ce qui annule la “spécificité” de tous."
+n "\n\n\nÀ Yamaku, tout le monde est \"spécial\" ce qui annule la \"spécificité\" de tous."
 
 
-n "Mais une fois qu'on s'aventure en dehors de l'école, nous retournons à notre statut de “spéciaux”."
+n "Mais une fois qu'on s'aventure en dehors de l'école, nous retournons à notre statut de \"spéciaux\"."
 
 
 n "Surtout quand on porte notre uniforme. C'est comme tenir une pancarte autour de notre cou qui invite les gens à deviner ce qui ne va pas chez nous."
@@ -270,7 +270,7 @@ stop music fadeout 6.0
 "Mais la caractéristique la plus étonnante du salon est son manque de vie. Je crois que je peux entendre quelque chose bouillir au fond, mais en dehors de ça, la pièce est silencieuse."
 
 
-"Ne sachant pas quoi faire, nous attendons simplement près de l'entrée, obéissant au panneau disant “Veuillez attendre ici qu'on vienne vous servir.”."
+"Ne sachant pas quoi faire, nous attendons simplement près de l'entrée, obéissant au panneau disant \"Veuillez attendre ici qu'on vienne vous servir.\"."
 
 
 hi "Erh, c'est fermé ou quoi ?"
@@ -1474,7 +1474,7 @@ with charaenter
 "Et, alors que Hanako et moi passons le portail, je remarque qu'elle se rapproche de moi."
 
 
-"Pas suffisamment pour être considérée comme “proche”, mais elle n'est pas aussi éloignée qu'elle l'est habituellement."
+"Pas suffisamment pour être considérée comme \"proche\", mais elle n'est pas aussi éloignée qu'elle l'est habituellement."
 
 
 "J'imagine qu'on n'est pas assez proches pour qu'elle fasse comme elle fait avec Lilly."
@@ -1531,7 +1531,7 @@ with charachange
 ha "O-oui. Avec Lilly."
 
 
-"Bien sûr. “Avec Lilly.” Je me demande si elle est déjà sortie de l'école sans elle."
+"Bien sûr. \"Avec Lilly.\" Je me demande si elle est déjà sortie de l'école sans elle."
 
 
 "On ne le remarque pas du premier coup d'œil, mais la dépendance de Hanako envers Lilly est vraiment forte."
@@ -2912,7 +2912,7 @@ with charachange
 mi "Eh bien, elle ne parle avec personne d'autre, non ? C'est pas bon Hicchan !"
 
 
-"Si Shizune et Lilly ne s'apprécient pas parce que “leurs personnalités sont différentes” alors je ne veux pas savoir comment Misha et Hanako s'entendraient..."
+"Si Shizune et Lilly ne s'apprécient pas parce que \"leurs personnalités sont différentes\" alors je ne veux pas savoir comment Misha et Hanako s'entendraient..."
 
 show misha perky_confused
 with charachange
@@ -3152,7 +3152,7 @@ mi "Ton travail a été jugé suffisant. Tu peux partir."
 hi "D'accord, merci."
 
 
-hi "Tu sais, si tu appuyais sur le côté “repas gratuit” plutôt que sur le côté “travail infini”, tu pourrais probablement recruter plus de gens."
+hi "Tu sais, si tu appuyais sur le côté \"repas gratuit\" plutôt que sur le côté \"travail infini\", tu pourrais probablement recruter plus de gens."
 
 stop music fadeout 6.0
 
@@ -3386,7 +3386,7 @@ with charamove
 
 
 
-"Au fond de l'aile, entre un livre sur les tours de magie avec des cartes et un livre sur les jeux d'enfants, se tient un livre portant le titre “Tactiques aux échecs pour les champions”."
+"Au fond de l'aile, entre un livre sur les tours de magie avec des cartes et un livre sur les jeux d'enfants, se tient un livre portant le titre \"Tactiques aux échecs pour les champions\"."
 
 show hanako basic_bashful
 with charachange
@@ -3471,7 +3471,7 @@ with charaexit
 "La plupart de ceux cités sont faits en bois. Ça ne me semble pas vraiment prudent."
 
 
-"Si je dois monter dans quelque chose de potentiellement dangereux, je veux qu'il soit fait de métal, ou un autre mot impressionnant comme “Titanium” ou “Ruthenium”."
+"Si je dois monter dans quelque chose de potentiellement dangereux, je veux qu'il soit fait de métal, ou un autre mot impressionnant comme \"Titanium\" ou \"Ruthenium\"."
 
 
 "Je perds rapidement mon intérêt pour le livre et mes yeux se baladent dans la pièce pour finir par s’arrêter sur Hanako."
@@ -3820,7 +3820,7 @@ with charachange
 li "Hisao, ça te gêne si je te pose une question ?"
 
 
-"Zut, tout ce que je voulais c'était manger, et quelques heures de sommeil. Personne ne dit “je peux te poser une question” pour une simple question."
+"Zut, tout ce que je voulais c'était manger, et quelques heures de sommeil. Personne ne dit \"je peux te poser une question\" pour une simple question."
 
 
 hi "Non, vas-y."
@@ -3921,7 +3921,7 @@ li "Les règles ne peuvent pas changer la nature humaine après tout, juste la r
 hi "J'imagine que tu as raison. La première fois que je suis venu ici, tout était vraiment perturbant."
 
 
-hi "Je faisais tout le temps des erreurs, ou du moins je croyais en faire. Comme la première fois que je t'ai rencontrée, et que je t’ai dit “Je vois”."
+hi "Je faisais tout le temps des erreurs, ou du moins je croyais en faire. Comme la première fois que je t'ai rencontrée, et que je t’ai dit \"Je vois\"."
 
 
 hi "Je ne savais pas si c'était considéré comme malpoli ou autre, donc j'ai essayé d'éviter ça, traiter les gens différemment et tout ça."
@@ -4121,7 +4121,7 @@ window show
 "Tout dans la pièce semble à sa place, sauf peut-être les quelques piles de livres collés contre les murs."
 
 
-"Mon sens de la vue n'est pas le seul à être stimulé. Une légère odeur peut être sentie. Vernis à ongle, parfum, maquillage... c'est difficile de décrire cette odeur autrement que “féminine”."
+"Mon sens de la vue n'est pas le seul à être stimulé. Une légère odeur peut être sentie. Vernis à ongle, parfum, maquillage... c'est difficile de décrire cette odeur autrement que \"féminine\"."
 
 
 "Je finis de balayer la pièce du regard avant de me concentrer sur les filles."
@@ -4271,7 +4271,7 @@ with charaenter
 "Ça fait bizarre en contraste avec les meubles sophistiqués de Lilly, ce qui me fait penser que c'est Hanako qui l'a choisi."
 
 
-"Il y a un léger “schting” quand Hanako cogne accidentellement la théière sur la tasse où elle verse le thé."
+"Il y a un léger \"schting\" quand Hanako cogne accidentellement la théière sur la tasse où elle verse le thé."
 
 show hanagown worry
 show lilly basic_displeased_paj
@@ -5263,7 +5263,7 @@ scene ev hana_library_read_std
 with locationskip
 
 
-"Comme prévu, Hanako est assise dans son pouf, concentrée sur un exemplaire de “Dance Dance Dance.”"
+"Comme prévu, Hanako est assise dans son pouf, concentrée sur un exemplaire de \"Dance Dance Dance.\""
 
 
 hi "Salut Hanako. Comment ça va ?"
@@ -5356,7 +5356,7 @@ with charaenter
 ha "N-... ce n'est rien."
 
 
-hi "Je te l'ai déjà dit auparavant, “rien” veut dire “quelque chose” quand tu le dis comme ça."
+hi "Je te l'ai déjà dit auparavant, \"rien\" veut dire \"quelque chose\" quand tu le dis comme ça."
 
 show hanako cover_worry
 with charachange
@@ -5577,3 +5577,4 @@ $ renpy.music.set_volume(1.0, 0.0, channel="music")
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

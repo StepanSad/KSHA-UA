@@ -342,7 +342,7 @@ n "\n\n\n\nAt some point I stopped watching TV. I don't know why, I just did."
 
 n "Maybe it was the wrong kind of escapism for my situation."
 
-n "\nI started reading instead. There was a small “library” at the hospital, although it was more like a storeroom for books. I began working my way through it, one small stack at a time. After consuming them, I would go back for more."
+n "\nI started reading instead. There was a small \"library\" at the hospital, although it was more like a storeroom for books. I began working my way through it, one small stack at a time. After consuming them, I would go back for more."
 
 n "I found that I liked reading and I think I even became a bit addicted. I started feeling naked without a book in my hands."
 
@@ -457,7 +457,7 @@ with fade
 
 "Independence? It's a school for disabled kids. Don't try to disguise that fact."
 
-"If it was really that “free,” there wouldn't be a 24-hour nursing staff, and you wouldn't make a hospital being nearby a selling point."
+"If it was really that \"free,\" there wouldn't be a 24-hour nursing staff, and you wouldn't make a hospital being nearby a selling point."
 
 "Dad" "Of course, that's only if you want to go. But… your mother and I aren't really able to home school you."
 
@@ -485,7 +485,7 @@ with fade
 
 "I don't care. A person doesn't have to be held back by their disability? That's what a disability is."
 
-"I really hate that something so important was decided for me. But what can I do about it? A “normal” life is out of the question now."
+"I really hate that something so important was decided for me. But what can I do about it? A \"normal\" life is out of the question now."
 
 stop music fadeout 10.0
 
@@ -503,7 +503,7 @@ stop music fadeout 10.0
 
 "A clean slate isn't a bad thing."
 
-"That is all I can think of to get me through this. At least I still have something; even if it's a “special school,” it's something. It's a fresh start, and my life isn't over. It would be a mistake to just resign myself to thinking that."
+"That is all I can think of to get me through this. At least I still have something; even if it's a \"special school,\" it's something. It's a fresh start, and my life isn't over. It would be a mistake to just resign myself to thinking that."
 
 "At the very least, I'll try to see what my new life will look like."
 
@@ -544,7 +544,7 @@ with locationchange
 
 "It doesn't feel like the kind of grounds a school would have, more like a park, with a clean walkway going past trees and the smell of fresh-cut grass and all other park-like things."
 
-"Words like “clean” and “hygienic” pop into my mind. It makes me shudder."
+"Words like \"clean\" and \"hygienic\" pop into my mind. It makes me shudder."
 
 "I shake them off. Stay open-minded now. It's your new life. You have to take it as it comes."
 
@@ -868,7 +868,7 @@ with charachange
 
 "Hakamichi nods and makes a few gestures of her own."
 
-"I start to wonder if the teacher was messing with me, saying things like “you'll be able to talk to people” and “who better to explain things to you.”"
+"I start to wonder if the teacher was messing with me, saying things like \"you'll be able to talk to people\" and \"who better to explain things to you.\""
 
 show misha hips_smile
 with charachange
@@ -1061,7 +1061,7 @@ shi "…"
 show misha perky_smile
 with charachange
 
-mi "Ah, and another thing, you don't have to call Shicchan something so formal like “Hakamichi” or “class rep” all the time! Just call her Shicchan~!"
+mi "Ah, and another thing, you don't have to call Shicchan something so formal like \"Hakamichi\" or \"class rep\" all the time! Just call her Shicchan~!"
 
 stop music fadeout 0.5
 
@@ -1073,7 +1073,7 @@ shi "…"
 show misha hips_smile
 with charachange
 
-mi "Ahaha~! Okay, maybe that's too casual. Maybe “Shizune” would be more appropriate?"
+mi "Ahaha~! Okay, maybe that's too casual. Maybe \"Shizune\" would be more appropriate?"
 
 show shizu basic_normal2
 with charachange
@@ -1085,7 +1085,7 @@ with charachange
 
 play music music_shizune fadein 5.0
 
-mi "Yup, yup~! “Shizune” is fine!"
+mi "Yup, yup~! \"Shizune\" is fine!"
 
 hi "Heh. Okay, that would be a lot easier for me."
 
@@ -1202,7 +1202,7 @@ shi "…"
 
 "I don't understand sign, so the point escapes me."
 
-"Maybe looking at a person who “talks” to you is proper and polite?"
+"Maybe looking at a person who \"talks\" to you is proper and polite?"
 
 show misha hips_smile
 show shizu behind_blank
@@ -1437,7 +1437,7 @@ with locationchange
 
 "I walk in, hoping that this really will be only a quick visit like the teacher said."
 
-"On a white door on the left is a green cross with the text “Head Nurse” and a nameplate."
+"On a white door on the left is a green cross with the text \"Head Nurse\" and a nameplate."
 
 play sound sfx_doorknock2
 
@@ -1472,7 +1472,7 @@ with charachange
 
 nk_ "Why yes, I am. It says so on the door, no?"
 
-nk_ "You can call me by my name or just “the nurse” like everyone else."
+nk_ "You can call me by my name or just \"the nurse\" like everyone else."
 
 "Of course. I shake off my confusion, realizing I probably should grab his extended hand.{w} His handshake is rather firm and friendly."
 
@@ -1656,7 +1656,7 @@ hi "Room one-one-nine…"
 
 "Inside a few students are watching the television."
 
-"One nods and gives a quick “hello” before turning back to the TV."
+"One nods and gives a quick \"hello\" before turning back to the TV."
 
 "Seems that only the girls around here are sociable. I suppose that's perfectly fine with me."
 
@@ -1883,3 +1883,4 @@ with shuteye
 
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

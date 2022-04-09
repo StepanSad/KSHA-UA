@@ -754,7 +754,7 @@ with charachange
 mi "Comment était le festival pour toi ? Tu t'es amusé ?"
 
 
-hi "Mmm... Je suis encore un peu indécis. Je vais dire “sûrement”."
+hi "Mmm... Je suis encore un peu indécis. Je vais dire \"sûrement\"."
 
 
 hi "Pourquoi ?"
@@ -822,7 +822,7 @@ with None
 "Je ne vois que des petites zones de bleu, tout le reste de ma vision est parasité par des obstacles et des mouvements."
 
 
-"Quelle “expérience” faisait Rin en regardant le ciel ? Elle l'a sûrement déjà fait auparavant. Tout le monde l'a déjà fait."
+"Quelle \"expérience\" faisait Rin en regardant le ciel ? Elle l'a sûrement déjà fait auparavant. Tout le monde l'a déjà fait."
 
 
 "Il ne sert à rien d'essayer de la comprendre, mais si je ne fais pas ça, alors je n'ai aucune excuse pour ne pas me concentrer sur ce que dit le professeur."
@@ -1673,7 +1673,7 @@ with charachange
 ke "De quoi tu parles, mec ? Je les ai libérés de l'oppression que le mouvement féministe exerce contre la bibliothèque."
 
 
-hi "S'il te plaît, dis-moi que “l'oppression féministe” n'est pas pour cette pauvre bibliothécaire, Yuuko. Elle ne pourrait pas opprimer un bébé mouche."
+hi "S'il te plaît, dis-moi que \"l'oppression féministe\" n'est pas pour cette pauvre bibliothécaire, Yuuko. Elle ne pourrait pas opprimer un bébé mouche."
 
 show kenji invis:
     xpos 0.2 
@@ -2020,7 +2020,7 @@ show ev hisaobird_8
 with charachange
 
 
-"Le cours d'art en primaire était le cours “facile” entre des sujets épuisants comme les maths ou le japonais. Mais il y a cet autre côté de l'art, celui que tu vois quand tu fais les choses sérieusement."
+"Le cours d'art en primaire était le cours \"facile\" entre des sujets épuisants comme les maths ou le japonais. Mais il y a cet autre côté de l'art, celui que tu vois quand tu fais les choses sérieusement."
 
 show ev hisaobird_9
 with charachange
@@ -2256,7 +2256,7 @@ nvl clear
 n "\n\nC'est rare quand je vois quelqu'un assis seul, en train de rêvasser ou autre. Bien sûr il y a des gens comme ça ici, aussi ; la fille qui s'appelle Hanako et moi-même, juste pour en citer deux dans ma propre classe. Mais dans tous les cas, c'est une minorité."
 
 
-n "Dans tous les cas, je ne dirais pas que Rin et moi “socialisons” non plus, mais c'est au moins quelque chose."
+n "Dans tous les cas, je ne dirais pas que Rin et moi \"socialisons\" non plus, mais c'est au moins quelque chose."
 
 
 n "Ces évènements en eux-mêmes ne m’embêtent pas, mais le fait qu'ils arrivent m’embêtent."
@@ -3577,7 +3577,7 @@ nvl show dissolve
 n "\n\n\n\nLa remarque qu'elle a faite plus tôt me trotte dans la tête."
 
 
-n "“Emi est la plus Emi-esque quand elle court.”"
+n "“Emi est la plus Emi-esque quand elle court.\""
 
 
 n "C'est logique, maintenant que j'y pense. Après avoir vu sa course, je peux croire qu'Emi donne tout ce qu'elle a sur la piste."
@@ -3589,7 +3589,7 @@ n "Les sports sont plus qu'un hobby ou même une compétition pour elle. C'est u
 n "Et pour Rin, alors ? Est-ce qu'elle ressent la même chose pour l'art ? Vu la persévérance dont elle a fait preuve avant le festival, je veux bien le croire."
 
 
-n "Est-ce que j'ai vu Rin “la plus Rin-esque” quand elle peignait le mur ?"
+n "Est-ce que j'ai vu Rin \"la plus Rin-esque\" quand elle peignait le mur ?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3770,7 +3770,7 @@ show rin basic_deadpannormal
 with charachange
 
 
-rin "Quand j'ai dit “Essaye de trouver une couronne de laurier”."
+rin "Quand j'ai dit \"Essaye de trouver une couronne de laurier\"."
 
 show rin basic_deadpandelight
 with charachange
@@ -4167,7 +4167,7 @@ with charachange
 play music music_another fadein 0.5
 
 
-no "Déjà, prenons les questions dont nous voulons des réponses, telles que : “Qu'est-ce que l'art ?” et “Pourquoi est-ce que l'art existe ?”"
+no "Déjà, prenons les questions dont nous voulons des réponses, telles que : \"Qu'est-ce que l'art ?\" et \"Pourquoi est-ce que l'art existe ?\""
 
 show nomiya smile
 with charachange
@@ -4648,7 +4648,7 @@ with charachange
 
 
 
-rin "Il y a des gens qui pensent que tu dois venir ici pour te vautrer dans tes problèmes si tu es malheureux. Sauf que par “gens” je veux dire moi, et l'arbre n'a pas vraiment de nom en fait."
+rin "Il y a des gens qui pensent que tu dois venir ici pour te vautrer dans tes problèmes si tu es malheureux. Sauf que par \"gens\" je veux dire moi, et l'arbre n'a pas vraiment de nom en fait."
 
 
 hi "Donc... si tu es malheureuse, tu en parles à un arbre ?"
@@ -4916,7 +4916,7 @@ $ renpy.music.set_volume(0.5, 0.5, channel="ambient")
 "Emi l'a probablement déjà fait. Elle est si joyeuse et pleine d’énergie, un coureur sans jambes."
 
 
-"Si quelqu'un a déjà “battu” un handicap, c'est bien elle."
+"Si quelqu'un a déjà \"battu\" un handicap, c'est bien elle."
 
 label fr_R9c:
 
@@ -5312,7 +5312,7 @@ play music music_rain fadein 4.0
 n "\n\n\nLa dernière fois que j'ai vu Iwanako c'était terriblement gênant ; embarrassant même. Elle est venue dans ma chambre d’hôpital, m'a épluché une pomme par courtoisie et puis on est restés assis en silence pendant une demi-heure."
 
 
-n "Elle a dit “au revoir” et ne m'a pas regardé dans les yeux quand elle a fermé la porte."
+n "Elle a dit \"au revoir\" et ne m'a pas regardé dans les yeux quand elle a fermé la porte."
 
 
 n "C'était peut-être une fin naturelle à une série de visites qui étaient probablement assez difficiles pour nous deux."
@@ -5616,7 +5616,7 @@ with locationchange
 window show
 
 
-"Alors que les deux filles sortent de la salle du club avec un joyeux “salut-salut”, Nomiya se lève de son bureau. Sa chaise grince avec un bruit perçant qui rompt l'harmonie calme de la salle en cette fin d’après-midi."
+"Alors que les deux filles sortent de la salle du club avec un joyeux \"salut-salut\", Nomiya se lève de son bureau. Sa chaise grince avec un bruit perçant qui rompt l'harmonie calme de la salle en cette fin d’après-midi."
 
 
 "Il tasse une pile de papiers en les tapotant deux fois sur son bureau pour les remettre droit, puis s'étire le dos."
@@ -6471,7 +6471,7 @@ no "Tu es devenu ami avec elle alors, Nakai ?"
 hi "Euh... eh bien, quelque chose comme ça, je crois. Ça dépend de comment on voit les choses. Pour être honnête, je ne suis pas vraiment sûr."
 
 
-"C'est plus que Rin et moi avons tendance à traîner ensemble de manière irrégulière, parlant ou ne parlant pas de choses qui ressemblent plus à une étrange philosophie qu'à une discussion habituelle que les “amis” ont."
+"C'est plus que Rin et moi avons tendance à traîner ensemble de manière irrégulière, parlant ou ne parlant pas de choses qui ressemblent plus à une étrange philosophie qu'à une discussion habituelle que les \"amis\" ont."
 
 show nomiya frown
 with charachange
@@ -6567,7 +6567,7 @@ show nomiya frown
 with charachange
 
 
-no "Les gens demandent toujours aux artistes “Où est-ce que vous trouvez toutes ces idées ?” Comme si les idées étaient quelque chose qui se vendait au marché."
+no "Les gens demandent toujours aux artistes \"Où est-ce que vous trouvez toutes ces idées ?\" Comme si les idées étaient quelque chose qui se vendait au marché."
 
 show nomiya serious
 with charachange
@@ -7556,7 +7556,7 @@ rin "Ce n'est pas la même chose. Tu compares les pommes et les calmars."
 "Je me demande comment elle ressent elle-même cette déconnexion."
 
 
-"Si Rin se demande chaque jour “Qui suis-je ?” et peint de manière obsessionnelle des images pour se définir jour après jour, qu'est-ce qu'elle pense de cette manière de vivre ?"
+"Si Rin se demande chaque jour \"Qui suis-je ?\" et peint de manière obsessionnelle des images pour se définir jour après jour, qu'est-ce qu'elle pense de cette manière de vivre ?"
 
 hide ovl
 with charachange
@@ -7897,7 +7897,7 @@ hi "Sous la pluie ?"
 rin "Sous la pluie."
 
 
-"Ça paraît beaucoup, juste pour garder son niveau. Emi est une tête de mule cela dit. Je la vois bien courir sous une tempête juste parce qu'elle “le doit”."
+"Ça paraît beaucoup, juste pour garder son niveau. Emi est une tête de mule cela dit. Je la vois bien courir sous une tempête juste parce qu'elle \"le doit\"."
 
 
 hi "Bah, c'était bien évidemment en trop. C'est sûrement pour ça qu'elle a un rhume, aussi."
@@ -10119,3 +10119,4 @@ with shorttimeskip
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

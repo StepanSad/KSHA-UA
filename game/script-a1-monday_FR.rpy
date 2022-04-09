@@ -424,7 +424,7 @@ n "\n\n\n\nÀ un moment j'ai arrêté de regarder la télévision. Je ne sais pa
 n "Peut-être était-ce une mauvaise façon d'échapper à ma situation."
 
 
-n "\nJ'ai commencé à lire à la place. Il y avait une petite “bibliothèque” à l'hôpital, même si elle ressemble plus à une pièce de stockage pour livres. J'ai commencé à tailler mon chemin à travers elle, une petite pile à la fois. Après les avoir lus, j'y retournais pour en prendre d'autres."
+n "\nJ'ai commencé à lire à la place. Il y avait une petite \"bibliothèque\" à l'hôpital, même si elle ressemble plus à une pièce de stockage pour livres. J'ai commencé à tailler mon chemin à travers elle, une petite pile à la fois. Après les avoir lus, j'y retournais pour en prendre d'autres."
 
 
 n "Il s'est avéré que j'aimais lire et je pense que je suis devenu un peu accro. J'ai commencé à me sentir nu sans un livre dans les mains."
@@ -583,7 +583,7 @@ with fade
 "Indépendance ? C'est une école pour enfants handicapés. Pas la peine d'amenuiser ce fait."
 
 
-"Si c'était vraiment “libre,” il n'y aurait pas un personnel infirmier 24 heures sur 24 et vous n'utiliseriez pas la proximité de l'hôpital comme un argument de vente."
+"Si c'était vraiment \"libre,\" il n'y aurait pas un personnel infirmier 24 heures sur 24 et vous n'utiliseriez pas la proximité de l'hôpital comme un argument de vente."
 
 
 "Papa" "Bien sûr, c'est uniquement si tu veux y aller. Mais... ta mère et moi ne sommes pas vraiment en mesure de te scolariser à la maison."
@@ -625,7 +625,7 @@ with fade
 "Je m'en fous. Une personne ne doit pas être freinée par son handicap ? C'est pourtant la définition même du mot."
 
 
-"Je déteste vraiment le fait que quelque chose de si important ait été décidé sans moi. Mais qu'est-ce que j'y peux ? Une vie “normale” n'est plus possible maintenant."
+"Je déteste vraiment le fait que quelque chose de si important ait été décidé sans moi. Mais qu'est-ce que j'y peux ? Une vie \"normale\" n'est plus possible maintenant."
 
 stop music fadeout 10.0
 
@@ -651,7 +651,7 @@ stop music fadeout 10.0
 "Faire table rase n'est pas une mauvaise chose."
 
 
-"C'est la seule chose à laquelle je puisse penser pour pouvoir m'en sortir. Au moins, j'ai quelque chose ; même si c'est une “école spéciale,” c'est quelque chose. C'est un nouveau départ, et ma vie n'est pas finie. Ce serait une erreur de penser ça."
+"C'est la seule chose à laquelle je puisse penser pour pouvoir m'en sortir. Au moins, j'ai quelque chose ; même si c'est une \"école spéciale,\" c'est quelque chose. C'est un nouveau départ, et ma vie n'est pas finie. Ce serait une erreur de penser ça."
 
 
 "Tout du moins, je vais essayer de voir ce à quoi ma nouvelle vie va ressembler."
@@ -703,7 +703,7 @@ with locationchange
 "Ça ne ressemble pas à une cour d'école, mais plus à un parc, avec un chemin entre les arbres et l'odeur de l'herbe fraîchement coupée et tous les autres trucs qu'on trouve dans un parc."
 
 
-"Des mots comme “propre” et “hygiénique” surgissent dans ma tête. Ça me fait frémir."
+"Des mots comme \"propre\" et \"hygiénique\" surgissent dans ma tête. Ça me fait frémir."
 
 
 "Je les chasse de mon esprit. Reste ouvert. C'est ta nouvelle vie. Il faut la prendre comme elle vient."
@@ -1125,7 +1125,7 @@ with charachange
 "Hakamichi hoche la tête et fait quelques gestes à son tour."
 
 
-"Je commence à me demander si le professeur se moquait de moi en disant des choses comme “tu seras en mesure de parler aux gens” et “qui pourrait mieux t'expliquer les choses”."
+"Je commence à me demander si le professeur se moquait de moi en disant des choses comme \"tu seras en mesure de parler aux gens\" et \"qui pourrait mieux t'expliquer les choses\"."
 
 show misha hips_smile
 with charachange
@@ -1364,7 +1364,7 @@ show misha perky_smile
 with charachange
 
 
-mi "Ah, autre chose, tu n'as pas besoin d'appeler Shicchan d'une façon aussi formelle que “Hakamichi” ou “déléguée” tout le temps ! Appelle-la juste Shicchan~ !"
+mi "Ah, autre chose, tu n'as pas besoin d'appeler Shicchan d'une façon aussi formelle que \"Hakamichi\" ou \"déléguée\" tout le temps ! Appelle-la juste Shicchan~ !"
 
 stop music fadeout 0.5
 
@@ -1378,7 +1378,7 @@ show misha hips_smile
 with charachange
 
 
-mi "Ahaha~ ! Bon, c'est peut-être trop décontracté. Peut-être que “Shizune” serait plus approprié ?"
+mi "Ahaha~ ! Bon, c'est peut-être trop décontracté. Peut-être que \"Shizune\" serait plus approprié ?"
 
 show shizu basic_normal2
 with charachange
@@ -1392,7 +1392,7 @@ with charachange
 play music music_shizune fadein 5.0
 
 
-mi "Yep, yep~ ! “Shizune” c'est bien !"
+mi "Yep, yep~ ! \"Shizune\" c'est bien !"
 
 
 hi "Euh, d'accord, ce serait beaucoup plus facile pour moi."
@@ -1539,7 +1539,7 @@ shi "..."
 "Je ne comprends pas les signes, alors la raison m'échappe."
 
 
-"Peut-être que regarder quelqu'un qui vous “parle” est convenable et poli ?"
+"Peut-être que regarder quelqu'un qui vous \"parle\" est convenable et poli ?"
 
 show misha hips_smile
 show shizu behind_blank
@@ -1834,7 +1834,7 @@ with locationchange
 "Je rentre dans le bâtiment, espérant que ça ne sera vraiment qu'une visite rapide comme le professeur l'a dit."
 
 
-"Sur une porte blanche à gauche, il y a une croix verte avec le texte “Infirmier en Chef” et une plaque avec un nom."
+"Sur une porte blanche à gauche, il y a une croix verte avec le texte \"Infirmier en Chef\" et une plaque avec un nom."
 
 play sound sfx_doorknock2
 
@@ -1879,7 +1879,7 @@ with charachange
 nk_ "Mais oui, c'est moi. C'est écrit sur la porte, non ?"
 
 
-nk_ "Tu peux m'appeler par mon nom ou juste “l'infirmier” comme tout le monde."
+nk_ "Tu peux m'appeler par mon nom ou juste \"l'infirmier\" comme tout le monde."
 
 
 "Bien sûr. Je sors de ma confusion, réalisant que je devrais probablement saisir sa main tendue.{w} Sa poignée de main est plutôt ferme et amicale."
@@ -2427,3 +2427,4 @@ with shuteye
 
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

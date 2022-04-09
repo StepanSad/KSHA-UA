@@ -141,7 +141,7 @@ with charachange
 
 mi "¿Pero fuiste de todos modos? Es raro ver a un hombre a quien le guste ir de compras~…"
 
-hi "Bueno, mi rol probablemente pueda ser descrito como “mula de carga”. No puedo decir que comparta tu entusiasmo por la experiencia."
+hi "Bueno, mi rol probablemente pueda ser descrito como \"mula de carga\". No puedo decir que comparta tu entusiasmo por la experiencia."
 
 hi "De vuelta a los exámenes; estudiaste después de regresar de los días libres, ¿verdad, Shizune?"
 
@@ -858,7 +858,7 @@ with charachange
 show lilly basic_weaksmile_paj
 with charachange
 
-li "“Soportándolo” puede ser la mejor forma de llamar a la situación. ¿Estás de acuerdo, Hisao?"
+li "“Soportándolo\" puede ser la mejor forma de llamar a la situación. ¿Estás de acuerdo, Hisao?"
 
 hi "Sí, eso lo describe bien. Al menos está siendo razonable al respecto."
 
@@ -1020,7 +1020,7 @@ hi "Yo no me preocuparía por eso. Hay muchas personas que en realidad no son ta
 show lilly basic_concerned_paj_close
 with charachange
 
-li "“Tan” inusual…"
+li "“Tan\" inusual…"
 
 "Ahora ella parece más deprimida. Se siente como si yo estuviera hundiendo el cuchillo, en lugar de tratar la herida."
 
@@ -1118,7 +1118,7 @@ nk "Ya veo."
 
 "A medida que hablo su sonrisa comienza a desaparecer."
 
-"Me siento algo culpable al respecto. Son esos momentos donde no puedo llamarme a mí mismo “normal” de forma racional los que me ponen tan reacio a ver al enfermero. Son una admisión de que soy diferente a los demás."
+"Me siento algo culpable al respecto. Son esos momentos donde no puedo llamarme a mí mismo \"normal\" de forma racional los que me ponen tan reacio a ver al enfermero. Son una admisión de que soy diferente a los demás."
 
 stop music fadeout 5.0
 
@@ -1166,7 +1166,7 @@ play music music_nurse fadein 1.0
 
 nk "Bueno, lo sobreviviste. Eso siempre es positivo."
 
-"Pestañeo al oír esto, y luego noto que el enfermero tiene su cara de “te atrapé”."
+"Pestañeo al oír esto, y luego noto que el enfermero tiene su cara de \"te atrapé\"."
 
 "En realidad es algo tranquilizador. No creo que él fuese capaz de bromear si las cosas fueran de verdad serias, así que guardo silencio y acepto mi regaño."
 
@@ -1195,9 +1195,9 @@ nk "Sin embargo, quiero vigilarte de cerca por un tiempo, solamente como observa
 
 "Eso es algo que de verdad no quería oír. Desde que llegué a Yamaku, lo único que he querido hacer es vivir tan normalmente como sea posible."
 
-"“Observación” era una de esas palabras que llegué a odiar más que las otras cuando estaba en el hospital."
+"“Observación\" era una de esas palabras que llegué a odiar más que las otras cuando estaba en el hospital."
 
-"Durante todo ese tiempo sentí que podría haber simplemente salido por las puertas del hospital, si no fuera por esa “observación” que los médicos tanto querían."
+"Durante todo ese tiempo sentí que podría haber simplemente salido por las puertas del hospital, si no fuera por esa \"observación\" que los médicos tanto querían."
 
 hi "Claro. ¿Debería venir más a menudo?"
 
@@ -1506,7 +1506,7 @@ li "Niños…"
 show akira basic_laugh_ss
 with charachange
 
-aki "Tsch. “Ustedes dos”, entonces. Los niños crecen tan rápido hoy en día."
+aki "Tsch. \"Ustedes dos\", entonces. Los niños crecen tan rápido hoy en día."
 
 show lilly cane_pout_ss
 with charachange
@@ -2275,7 +2275,7 @@ with charachange
 
 li "Pero hay una persona de la cual más me arrepiento de no haber vuelto a ver. Él era el motivo por el cual elegí el inglés como una carrera a futuro."
 
-"¿“Él”? Considerando que ella vino de una escuela para chicas, entonces no debe haber sido un compañero…"
+"¿“Él\"? Considerando que ella vino de una escuela para chicas, entonces no debe haber sido un compañero…"
 
 li "Rechacé las confesiones que recibí hasta entonces por él. Cada vez que mejoraba mis habilidades con el inglés, sus elogios eran mi recompensa más preciada."
 
@@ -2341,7 +2341,7 @@ with whiteout
 
 "Miro hacia atrás alrededor del cuarto con su continuo y silencioso murmullo de los comensales."
 
-hi "Este lugar probablemente cae en la categoría de “curioso” también."
+hi "Este lugar probablemente cae en la categoría de \"curioso\" también."
 
 show lilly basic_weaksmile_che_close:
     center
@@ -3003,7 +3003,7 @@ play music music_normal fadein 4.0
 
 "Luego de pensar en ello, me he dado cuenta de que de verdad quiero seguir una carrera de alguna forma relacionada con las ciencias, en lugar de simplemente que sean el camino de menor resistencia."
 
-"Hasta ahora, no tenía mucha idea de en qué campo de las ciencias quería seguir. Solo “ciencia” es una categoría bastante amplia de trabajos."
+"Hasta ahora, no tenía mucha idea de en qué campo de las ciencias quería seguir. Solo \"ciencia\" es una categoría bastante amplia de trabajos."
 
 "Algo que Lilly mencionó antes enfocó mis pensamientos. Algo que solamente había pensado a la ligera antes, no había considerado en serio seguir este camino en específico."
 
@@ -3070,7 +3070,7 @@ mu "Simplemente deseo poder darle a otros aunque sea una pequeña parte de esa c
 
 "Siento como que ahora lo entiendo mejor. Aun si es extraño con otras personas, él tiene un interés genuino en estar junto a los demás y ofrecerles una parte de su ser que valora."
 
-"Lo que Lilly me dijo ayer resuena en mis oídos. “Creo que tú te llevas bien con los demás”, eh. Ella siempre ha dicho que yo tengo una curiosidad inusual…"
+"Lo que Lilly me dijo ayer resuena en mis oídos. \"Creo que tú te llevas bien con los demás\", eh. Ella siempre ha dicho que yo tengo una curiosidad inusual…"
 
 show muto normal
 with charachange
@@ -3121,7 +3121,7 @@ with dissolve
 nvl clear
 nvl show dissolve
 
-n "\n\n“Esto es extraño”."
+n "\n\n\"Esto es extraño\"."
 
 play music music_pearly fadein 5.0
 
@@ -3144,7 +3144,7 @@ n "En efecto, cuando pienso al respecto, parece una analogía maravillosamente a
 
 nvl clear
 
-n "\n\nPero se supone que tales situaciones también te vuelven muy competente en ese lenguaje de forma muy rápida, al verte forzado a aprenderlo para poder sobrevivir. Dicho de otro modo, la situación se vuelve del tipo “nada o ahógate”."
+n "\n\nPero se supone que tales situaciones también te vuelven muy competente en ese lenguaje de forma muy rápida, al verte forzado a aprenderlo para poder sobrevivir. Dicho de otro modo, la situación se vuelve del tipo \"nada o ahógate\"."
 
 n "\nMe pregunto si de verdad he logrado nadar, después de todo este tiempo."
 
@@ -3152,7 +3152,7 @@ n "Los exámenes me estresan un montón, a pesar de que al fin están acabando, 
 
 n "Pero sigo usando esa estúpida frase sin sentido."
 
-n "\n\n“Esto es extraño”."
+n "\n\n\"Esto es extraño\"."
 
 nvl clear
 
@@ -4262,7 +4262,7 @@ with Pause (0.5)
 hide phone
 with None
 
-"Durante un buen rato me quedo ahí parado, mirando el mensaje de “LLAMADA TERMINADA” en la pantalla mientras repaso la conversación en mi cabeza."
+"Durante un buen rato me quedo ahí parado, mirando el mensaje de \"LLAMADA TERMINADA\" en la pantalla mientras repaso la conversación en mi cabeza."
 
 hi "¿Qué demonios, Akira?"
 
@@ -4377,7 +4377,7 @@ aki "Estoy sentada aquí quejándome contigo al respecto. ¿Qué crees?"
 show akira basic_lost_close_ss
 with charachange
 
-aki "La Academia Yamaku. Siempre he sentido que ese lugar es un tanto raro; como si fuera un escondite aislado para aquellos que la “sociedad correcta” no quiere ver ni oír."
+aki "La Academia Yamaku. Siempre he sentido que ese lugar es un tanto raro; como si fuera un escondite aislado para aquellos que la \"sociedad correcta\" no quiere ver ni oír."
 
 show akira basic_annoyed_close_ss
 with charachange
@@ -4588,7 +4588,7 @@ with charaexit
 
 "Por primera vez en mucho tiempo, al fin tengo una respuesta a algo. Quizás ni siquiera eso. Pero al menos ahora tengo la pregunta correcta para hacer."
 
-"“¿Te irás o te quedarás?”."
+"“¿Te irás o te quedarás?\"."
 
 stop ambient fadeout 2.0
 
@@ -4838,7 +4838,7 @@ hi "Bueno, sí pienso que es una persona bastante genial con la cual hablar. Ser
 show lilly basic_sleepy_cas_close
 with charachange
 
-li "“Genial”…"
+li "“Genial\"…"
 
 "Por un momento intento reconocer el tono de su voz, mi boca doblándose en una sonrisa cuando lo hago."
 
@@ -7209,13 +7209,13 @@ n "Una condición rara. Provoca al corazón a actuar de forma errática y ocasio
 
 nvl clear
 
-n "\n“Fue un milagro que hayas podido continuar por tanto tiempo sin que sucediera nada”, me dijeron."
+n "\n\"Fue un milagro que hayas podido continuar por tanto tiempo sin que sucediera nada\", me dijeron."
 
 n "Y luego, sucedió. Mi condición me arrebató todo; mi vieja escuela ya no era de importancia. Mi hogar quedó reducido a un lugar lejano. Tanto mis amigos como mi primer amor simplemente dejaron de visitar después de pasado un tiempo."
 
 n "Me volví cínico y amargado. Distante y sumiso. En mi defensa, ninguna persona podría haber evitado eso luego de que le pasara tal cosa, pero de todas formas dejé el hospital como una persona definitivamente muy cambiada."
 
-n "Las cosas cambiaron. Hice nuevas amistades con Hanako, Shizune y Misha. Encontré un nuevo sentido de “hogar” en mi dormitorio, un nuevo interés por las ciencias y el mundo a mi alrededor, y encontré una dirección en mi vida que nunca había sentido antes."
+n "Las cosas cambiaron. Hice nuevas amistades con Hanako, Shizune y Misha. Encontré un nuevo sentido de \"hogar\" en mi dormitorio, un nuevo interés por las ciencias y el mundo a mi alrededor, y encontré una dirección en mi vida que nunca había sentido antes."
 
 n "Pero también descubrí otras cosas."
 
@@ -7318,7 +7318,7 @@ hi "¿Estaré bien? ¿Hay algún problema duradero?"
 
 "Suelta una breve risa de su burla hacia sí mismo mientras yo hago una mueca incómodo, descubierto de mal forma."
 
-"Pero la risa del doctor suena diferente a la del enfermero en Yamaku, ahora que lo pienso. Mientras busco la razón, me doy cuenta de por qué el hombre frente a mí da una sensación un tanto “rara”."
+"Pero la risa del doctor suena diferente a la del enfermero en Yamaku, ahora que lo pienso. Mientras busco la razón, me doy cuenta de por qué el hombre frente a mí da una sensación un tanto \"rara\"."
 
 "Su sonrisa es ordenada y estéril. Dice su pequeño chiste perfectamente, con una risita común e inofensiva."
 
@@ -7961,3 +7961,4 @@ with Dissolve(1.0)
 with Pause(1.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

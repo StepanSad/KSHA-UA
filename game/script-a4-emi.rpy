@@ -578,7 +578,7 @@ label en_E30a:
 
 "What if it's something awful that makes me repulsed by her? Can I really say that I'm prepared to handle whatever she has to say, regardless of what it is?"
 
-"Emi said she wanted to tell me “without screwing it up.” What the hell did she mean by that? What's there to screw up?"
+"Emi said she wanted to tell me \"without screwing it up.\" What the hell did she mean by that? What's there to screw up?"
 
 "I suppose there's not much use worrying about it, though. I'll find out today. It occurs to me that I really, really need a run this morning, to clear my head if nothing else."
 
@@ -1205,7 +1205,7 @@ emi "Don't be. That's what everyone always says, that they're sorry. I hate hear
 show emicas frown
 with charachange
 
-emi "You know the best piece of advice I got? “These things happen.” I don't even remember who said it, but I guess they didn't have anything better to say."
+emi "You know the best piece of advice I got? \"These things happen.\" I don't even remember who said it, but I guess they didn't have anything better to say."
 
 show emicas sad
 with charachange
@@ -1354,7 +1354,7 @@ emi "Stay with me? Please?"
 
 "There's something about the way that she asks that question, the hesitancy in it, the quiet voice, that makes me think she doesn't mean tonight."
 
-"No, she means exactly what she said. “Stay with me.” Not “tonight” or “forever,” because both of us know there's no such thing as forever."
+"No, she means exactly what she said. \"Stay with me.\" Not \"tonight\" or \"forever,\" because both of us know there's no such thing as forever."
 
 "There's no time limit to her request, there's just the request."
 
@@ -1627,3 +1627,4 @@ window hide
 stop music fadeout 3.0
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

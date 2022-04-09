@@ -39,7 +39,7 @@ with charachange
 
 yu "Eso es genial, pero desearía que los hubieras traído antes. No sería un problema si la biblioteca tuviera más copias de todo, pero no las tiene… y ellos actúan como si fuera mi culpa."
 
-hi "¿“Ellos”?"
+hi "¿“Ellos\"?"
 
 show yuuko panic_down
 with charachange
@@ -59,7 +59,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nDe manera sumisa, Yuuko se pone a la tarea de registrar todos los libros que he traído de vuelta como “devuelto”, tratándolos con extremo cuidado y precisión, como si ella fuera más una técnica antiexplosivos que una bibliotecaria."
+n "\n\nDe manera sumisa, Yuuko se pone a la tarea de registrar todos los libros que he traído de vuelta como \"devuelto\", tratándolos con extremo cuidado y precisión, como si ella fuera más una técnica antiexplosivos que una bibliotecaria."
 
 n "Durante el último par de días, he estado pensando en algo que Misha dijo. Por supuesto, había pensado en todo lo que ella dijo, pero una cosa en particular sigue regresando. Ella habló de cómo no quería extrañar a las personas ni pensar en estar separada de ellas nunca más."
 
@@ -73,7 +73,7 @@ n "\n\nMisha resultó ser más sensible de lo que parecía. Eso la habría destr
 
 n "También puedo entender por qué Misha estaría afligida por la idea de alejarse de alguien que es una parte tan importante de ella. Nunca había pensado en la graduación hasta ese momento."
 
-n "Entonces comencé a pensar cosas como, “¿Realmente solo ha pasado menos de un año?”. Comencé a pensar en todas las personas que he conocido. No solo en Shizune y Misha, sino en todas los demás. Ellas son pensamientos afectuosos. Entonces, pensé en perderlas. De repente, pude entender las ansiedades de Misha."
+n "Entonces comencé a pensar cosas como, “¿Realmente solo ha pasado menos de un año?\". Comencé a pensar en todas las personas que he conocido. No solo en Shizune y Misha, sino en todas los demás. Ellas son pensamientos afectuosos. Entonces, pensé en perderlas. De repente, pude entender las ansiedades de Misha."
 
 n "\nSería bueno hablar con alguien al respecto."
 
@@ -176,7 +176,7 @@ with charachange
 
 yu "Aun así… También creo que es algo admirable… Algo valiente. ¿No lo crees?"
 
-hi "“Valiente” es una nueva manera de decirlo."
+hi "“Valiente\" es una nueva manera de decirlo."
 
 show yuuko neutral_down
 with charachange
@@ -253,7 +253,7 @@ yu "Tenemos muchos libros de autoayuda…"
 
 "Es curioso que pueda encontrar eso sorprendente, porque no me habría sorprendido hace solo unos meses."
 
-hi "Quise decir “sobre”, no “para”. No hay muchos, ¿cierto?"
+hi "Quise decir \"sobre\", no \"para\". No hay muchos, ¿cierto?"
 
 show yuuko worried_down
 with charachange
@@ -360,7 +360,7 @@ with charachange
 
 ssh "Es cierto. Incluso con el consejo estudiantil siendo tan pequeño, y nosotros estando siempre inundados de trabajo, es mi culpa. Puede que hasta haya terminado apartando a mucha gente, y alejándola del consejo estudiantil, al actuar de esa manera."
 
-"Shizune mueve un dedo pícaramente, reconociendo que “puede que” es una sutileza. Sin embargo, por la manera cansada como lo hace, es obvio que el humor es solo para tranquilizarme, y por tanto no es genuino."
+"Shizune mueve un dedo pícaramente, reconociendo que \"puede que\" es una sutileza. Sin embargo, por la manera cansada como lo hace, es obvio que el humor es solo para tranquilizarme, y por tanto no es genuino."
 
 show shizu basic_normal
 with charachange
@@ -571,12 +571,12 @@ show shizu basic_normal:
     ease 0.5 center
 with charachange
 
-"Shizune la pone en el suelo para liberar sus manos, y de inmediato comienza a darle golpecitos alegremente entre sus pies como un balón de futbol. Definitivamente eso no es lo que harías con cualquier cosa a la que llames un “arma final”."
+"Shizune la pone en el suelo para liberar sus manos, y de inmediato comienza a darle golpecitos alegremente entre sus pies como un balón de futbol. Definitivamente eso no es lo que harías con cualquier cosa a la que llames un \"arma final\"."
 
 show shizu adjust_happy at center
 with charachange
 
-ssh "Todo es parte de mi plan llamado “hacer que Misha deje de estar tan deprimida”. Estuve despierta toda la noche trabajando en él."
+ssh "Todo es parte de mi plan llamado \"hacer que Misha deje de estar tan deprimida\". Estuve despierta toda la noche trabajando en él."
 
 show shizu behind_smile
 with charachange
@@ -1366,14 +1366,14 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\nRecuerdo lo que dijo Yuuko, que encontraba a Shizune valiente, de cierta manera. Creo que entiendo lo que quiso decir, y tengo que reconocerlo. Aunque también podría ser llamado imprudencia, e insensatez, y obstinación sin sentido, supongo que también podrías llamarlo “valentía”."
+n "\n\nRecuerdo lo que dijo Yuuko, que encontraba a Shizune valiente, de cierta manera. Creo que entiendo lo que quiso decir, y tengo que reconocerlo. Aunque también podría ser llamado imprudencia, e insensatez, y obstinación sin sentido, supongo que también podrías llamarlo \"valentía\"."
 
 
 n "Sin embargo, puedo ver que hay un defecto fundamental en el pensamiento de Shizune que no había notado hasta ahora."
 
 n "\nEstoy seguro de que Shizune ha reflexionado por más tiempo, y más arduamente de lo que yo podría, acerca de dónde metió la pata para crear una situación tan mala entre ella y Misha. Sin embargo, como es típico de ella, no se permitiría darle espera e inmediatamente se dispondría a arreglar el problema."
 
-n "Esto ignora completamente una gran parte del problema: Misha en sí. Pasar de una introspección crítica a presentar a Misha como parte de una meta causa que la persona sea ignorada. Shizune ha “dicho” mucho en los últimos días, pero nada sobre cómo se siente Misha."
+n "Esto ignora completamente una gran parte del problema: Misha en sí. Pasar de una introspección crítica a presentar a Misha como parte de una meta causa que la persona sea ignorada. Shizune ha \"dicho\" mucho en los últimos días, pero nada sobre cómo se siente Misha."
 
 nvl clear
 
@@ -1385,7 +1385,7 @@ n "Para Shizune, un suceso es un suceso, y pocos de ellos se cruzan. La vida est
 
 n "En realidad, es exactamente como pensaría alguien obsesionado con vivir el momento."
 
-n "Igualmente, Shizune puede ver a Misha como una amiga, pero dudo que ella alguna vez haya pensado en Misha como algo más hasta hace poco. O que se haya preguntado algo sobre ella. “Misha es Misha” sería suficiente para ella, aunque para Misha debe ser increíblemente agobiante."
+n "Igualmente, Shizune puede ver a Misha como una amiga, pero dudo que ella alguna vez haya pensado en Misha como algo más hasta hace poco. O que se haya preguntado algo sobre ella. \"Misha es Misha\" sería suficiente para ella, aunque para Misha debe ser increíblemente agobiante."
 
 nvl clear
 
@@ -1654,7 +1654,7 @@ with charachange
 
 ssh "¿Revisar la tienda de té? Por lo general está vacía a esta hora; a Misha le encanta ir allí si tiene ganas de saltar clases, y le encantan los parfaits que tienen allí."
 
-"“Realmente sabes mucho de ella”. Pero ella lo pensaría demasiado, y lo convertiría en algo que parecería mucho más ambiguo de lo que realmente es, así que mejor elijo asentir con la cabeza e irme, hasta que la siento agarrarse de mi manga."
+"“Realmente sabes mucho de ella\". Pero ella lo pensaría demasiado, y lo convertiría en algo que parecería mucho más ambiguo de lo que realmente es, así que mejor elijo asentir con la cabeza e irme, hasta que la siento agarrarse de mi manga."
 
 show shizu basic_normal_close
 with characlose
@@ -1713,7 +1713,7 @@ with charachange
 
 mi "¡Sorpresa~, Hicchan~! ¿Estabas buscándome? ¡Tenía un presentimiento~!"
 
-"Iba a decir “Oye, te estaba buscando”, pero supongo que eso no es bueno ahora."
+"Iba a decir \"Oye, te estaba buscando\", pero supongo que eso no es bueno ahora."
 
 show mishashort hips_grin:
     easeout 0.7 xpos 1.0 alpha 0.0
@@ -1899,7 +1899,7 @@ mi "Se siente como si de cualquier manera, voy a terminar empeorando las cosas. 
 
 hi "No seas ridícula. ¿Por qué se te ocurriría pensar eso en primer lugar? Sé más positiva."
 
-"Quería decir, “Debería ser fácil para ti”, pero eso sería atrevido."
+"Quería decir, \"Debería ser fácil para ti\", pero eso sería atrevido."
 
 show mishashort hips_smile_close
 with charachange
@@ -1923,7 +1923,7 @@ mi "Jaja~."
 show mishashort perky_smile_close
 with charachange
 
-mi "“Ahora”, ¿eh~…?"
+mi "“Ahora\", ¿eh~…?"
 
 hi "Me da rabia cuando la gente se da por vencida. Solía pensar que darse por vencido era más o menos como huir, ya que así es como la gente siempre lo describe, pero ahora que lo pienso, por lo general es más como tirar algo."
 
@@ -1960,7 +1960,7 @@ play music music_comfort
 
 "Aunque comienzo a sentirme cansado, incluso después de hacer lo que podría describirse aproximadamente como un trote rápido en el mejor de los casos, Misha y yo finalmente llegamos al portón de la escuela con algo más de diez minutos de sobra."
 
-hi "Sabes, en realidad ni siquiera quería venir a esta escuela. No tuve elección. Cuando llegué a este portón, estoy seguro de que una parte de mí estaba pensando, “Qué lugar tan deprimente”."
+hi "Sabes, en realidad ni siquiera quería venir a esta escuela. No tuve elección. Cuando llegué a este portón, estoy seguro de que una parte de mí estaba pensando, \"Qué lugar tan deprimente\"."
 
 
 hi "Sin embargo, no se ve deprimente en absoluto. Bueno, todavía pensaba que tenía todo planeado. Me sentí prácticamente como otra persona."
@@ -1975,7 +1975,7 @@ with locationskip
 
 "En el campus de la escuela todavía hay unas cuantas personas. Es la hora del almuerzo, así que es típico."
 
-hi "Aquí es donde Shizune y tú me tuvieron ayudándoles a armar dos festivales. Fue mucho trabajo duro. Yo pensaba, “No tengo tiempo para esto”."
+hi "Aquí es donde Shizune y tú me tuvieron ayudándoles a armar dos festivales. Fue mucho trabajo duro. Yo pensaba, \"No tengo tiempo para esto\"."
 
 hi "Pero cuando miro hacia atrás, no hice tanto. Tampoco tenía nada mejor que hacer. Habría pasado el tiempo solo."
 
@@ -2053,7 +2053,7 @@ hi "Pero ni siquiera pensé en eso entonces. Así que fue como si despertara un 
 show mishashort perky_sad_close
 with charachange
 
-mi "“Eso es todo~”."
+mi "“Eso es todo~\"."
 
 hi "Me entristece pensar que harás lo mismo y apartarás a tu amiga. Especialmente porque no estás muy lejos de Shizune; quiero decir, hasta viven en el mismo dormitorio."
 
@@ -2205,7 +2205,7 @@ ke "Necesito usar tu habitación."
 
 hi "¿Para qué?"
 
-"Lo arruiné, debí haber dicho “de ninguna manera”."
+"Lo arruiné, debí haber dicho \"de ninguna manera\"."
 
 show kenji tsun
 with charachange
@@ -2453,7 +2453,7 @@ with charachange
 ssh "Está bien, no me estaba esforzando mucho en esconderlo en primer lugar."
 
 
-hi "Eso no es propio de ti. Eres el tipo de persona que piensa que “Cualquier cosa que vale la pena es digna de esfuerzo”."
+hi "Eso no es propio de ti. Eres el tipo de persona que piensa que \"Cualquier cosa que vale la pena es digna de esfuerzo\"."
 
 ke "¿Las chicas tomando iniciativa? ¿Y qué hay de mí? He estado usando esa frase por años. ¿Dónde está mi desfile, amigo?"
 
@@ -2779,7 +2779,7 @@ ssh "No puedo evitarlo, así es como me han enseñado a hacer las cosas."
 show shizu adjust_happy_close
 with charachange
 
-ssh "Estoy feliz de que preguntes por Misha. Sería más preciso decir “de vuelta a ser la verdadera Misha”. Ella solo volvería a ser la de siempre para ti."
+ssh "Estoy feliz de que preguntes por Misha. Sería más preciso decir \"de vuelta a ser la verdadera Misha\". Ella solo volvería a ser la de siempre para ti."
 
 show shizu basic_normal_close
 with charachange
@@ -2829,7 +2829,7 @@ ssh "¡Pero!"
 show shizu basic_happy_close
 with charachange
 
-ssh "“La gente no cambia tan fácilmente”. Según tú. ¿Estoy en lo cierto?"
+ssh "“La gente no cambia tan fácilmente\". Según tú. ¿Estoy en lo cierto?"
 
 "Ella hace un guiño, claramente disfrutándolo mucho."
 
@@ -2862,7 +2862,7 @@ his "Pero pensé que lo disfrutabas."
 show shizu behind_smile_close
 with charachange
 
-ssh "Quizás solo un poco. Es por eso que usé específicamente el “menos”."
+ssh "Quizás solo un poco. Es por eso que usé específicamente el \"menos\"."
 
 "Ella se apoya contra la valla. Tengo cosas que quiero decirle, pero de alguna manera, no parece el momento adecuado para ello. Es una sensación que tengo. Puedo notar que ella todavía no ha terminado."
 
@@ -3019,7 +3019,7 @@ hi "¿Entienden? Finjan que lo estoy gritando."
 "Keiko" "Sí, señor."
 
 
-hi "¿“Señor”? De todas maneras, ¿a quién le están hablando?"
+hi "¿“Señor\"? De todas maneras, ¿a quién le están hablando?"
 
 play sound sfx_flash
 
@@ -3152,7 +3152,7 @@ ssh "Después del festival, me preguntaron si podíamos también hacer un evento
 show shizu adjust_smug_ss
 with charachange
 
-ssh "Por supuesto, mi respuesta fue “no”. Hice que Misha les dijera que lo hicieran ellas mismas, si lo querían tanto. Por alguna razón, estaban enojadas."
+ssh "Por supuesto, mi respuesta fue \"no\". Hice que Misha les dijera que lo hicieran ellas mismas, si lo querían tanto. Por alguna razón, estaban enojadas."
 
 show mishashort cross_laugh_ss
 with charachange
@@ -3177,7 +3177,7 @@ ssh "De repente, quieren tanto. Si querían una casa embrujada, o un café estil
 show shizu behind_frown_ss
 with charachange
 
-ssh "Trabajé duro para organizar esos festivales, y a cambio vinieron a mí con “Eso estuvo bien, pero ¿puedes hacer esto ahora? ¿Qué tal hacer esto? Eso es lo que realmente quiero”."
+ssh "Trabajé duro para organizar esos festivales, y a cambio vinieron a mí con \"Eso estuvo bien, pero ¿puedes hacer esto ahora? ¿Qué tal hacer esto? Eso es lo que realmente quiero\"."
 
 show mishashort sign_smile_ss
 with charachange
@@ -3214,7 +3214,7 @@ with charachange
 
 ssh "¡Es cierto! Íbamos a hacer una fiesta para celebrar el paso de las riendas al nuevo consejo estudiantil, ¿no es así? ¿Por qué no la hacemos ahora? O por lo menos planeémosla ahora, y la hacemos mañana."
 
-hi "Pero ni siquiera están a cargo todavía. De hecho, eso es lo primero que les dijiste: “No están a cargo todavía”. Parece prematuro."
+hi "Pero ni siquiera están a cargo todavía. De hecho, eso es lo primero que les dijiste: \"No están a cargo todavía\". Parece prematuro."
 
 show shizu adjust_frown_ss
 with charachange
@@ -3402,7 +3402,7 @@ with charachange
 
 ssh "Besarme, por supuesto."
 
-his "¿Esas son “las acciones apropiadas”?"
+his "¿Esas son \"las acciones apropiadas\"?"
 
 show shizu behind_blank
 with charachange
@@ -3714,7 +3714,7 @@ with vpunch
 
 "Al sentir una mano sobre mi hombro, me pongo tenso reflexivamente."
 
-"No es Misha, o de lo contrario habría manos tapando mis ojos y un cantarín “adivina quién” acompañándolas. Entonces, ¿quién es? Espero que no sea Kenji, o al menos que sea alguien que conozca, o esto tomará un giro hacia lo raro."
+"No es Misha, o de lo contrario habría manos tapando mis ojos y un cantarín \"adivina quién\" acompañándolas. Entonces, ¿quién es? Espero que no sea Kenji, o al menos que sea alguien que conozca, o esto tomará un giro hacia lo raro."
 
 show shizu invis_close at tworight
 with None
@@ -3894,7 +3894,7 @@ with charachange
 
 "Esto es una prueba. Su opinión de la gente rara vez está formada en cómo responden a las preguntas; es el cómo responden a las declaraciones lo que cuenta."
 
-"En retrospectiva, tiene sentido. La incapacidad de Shizune de hablar, además de solo su personalidad en general, significa que cualquier cosa que ella “diga” es un gran compromiso de su parte. Todo."
+"En retrospectiva, tiene sentido. La incapacidad de Shizune de hablar, además de solo su personalidad en general, significa que cualquier cosa que ella \"diga\" es un gran compromiso de su parte. Todo."
 
 "Por esa razón, a veces dudo que ella diga algo sin intenciones ocultas detrás de ello."
 
@@ -4059,7 +4059,7 @@ ssh "Eso es inteligente."
 show shizu adjust_frown_close_ni
 with charachange
 
-ssh "Pero yo no quiero “domesticar” a nadie."
+ssh "Pero yo no quiero \"domesticar\" a nadie."
 
 his "Entonces ser la líder y ser admirada. Es lo mismo."
 
@@ -4298,7 +4298,7 @@ with vpunch
 
 "Con un saludo, él corre hacia atrás a través de la puerta, cerrándola de un golpe detrás de él con tanta fuerza que probablemente todo el dormitorio escuchó. He notado que mucha gente cierra las puertas de un golpe aquí. Tal vez sea algo local."
 
-"“Que me cuide”. Es la primera vez que le oí decir eso. Normalmente termina nuestras conversaciones con algo como “Nos vemos” o “Te pagaré luego, hombre”. Bueno, a veces él era un poco molesto, pero lo extrañaré. Lo tacho de mi lista mentalmente."
+"“Que me cuide\". Es la primera vez que le oí decir eso. Normalmente termina nuestras conversaciones con algo como \"Nos vemos\" o \"Te pagaré luego, hombre\". Bueno, a veces él era un poco molesto, pero lo extrañaré. Lo tacho de mi lista mentalmente."
 
 "La lista es muy corta ahora, y una vez más descarto la noción de completarla en cualquier tipo de orden. Como dije, nunca tuve esa intención."
 
@@ -4321,9 +4321,9 @@ with locationskip
 
 "El nuevo consejo estudiantil me rodea mientras estoy pensando. Si alguien estuviera mirando esto desde lejos, sería una vista bastante siniestra."
 
-"Quizás han venido para finalmente vengarse de mí por llamarlos “el nuevo consejo estudiantil” todas esas veces. Solo estaba traduciendo a Shizune, pero supongo que debí haber sido menos perezoso y más discreto. No me arrepiento de nada."
+"Quizás han venido para finalmente vengarse de mí por llamarlos \"el nuevo consejo estudiantil\" todas esas veces. Solo estaba traduciendo a Shizune, pero supongo que debí haber sido menos perezoso y más discreto. No me arrepiento de nada."
 
-"Me encuentro recibiendo las gracias por “todo lo que he hecho”."
+"Me encuentro recibiendo las gracias por \"todo lo que he hecho\"."
 
 "Me están dando las gracias. Esto debería hacerme feliz, considerando lo mucho que pensaba para mí mismo que estar en el consejo estudiantil era un trabajo completamente ingrato. Sí me hace feliz, pero no puedo disfrutarlo por completo."
 
@@ -4415,7 +4415,7 @@ with charachange
 
 mi "Quería decir que lo siento~, por supuesto~, por todos los problemas que les causé a ti y a Shicchan."
 
-hi "No los llames “problemas”."
+hi "No los llames \"problemas\"."
 
 show mishashort sign_confused
 with charachange
@@ -4470,7 +4470,7 @@ mi "Ahora, tengo miedo. Me pregunto si Shicchan alguna vez será feliz."
 
 hi "No, no lo creo. No sobre ella alguna vez siendo feliz. Creo que estás equivocada. Shizune en realidad es feliz más a menudo de lo que había pensado."
 
-hi "Creo que en realidad es algo sorprendente. Por lo general, las personas no piensan en ese tipo de cosas hasta que llegan a la mediana edad o están muriendo. Entonces piensan “Quiero dejar algo atrás” o “Quiero ser recordado”."
+hi "Creo que en realidad es algo sorprendente. Por lo general, las personas no piensan en ese tipo de cosas hasta que llegan a la mediana edad o están muriendo. Entonces piensan \"Quiero dejar algo atrás\" o \"Quiero ser recordado\"."
 
 "Como yo."
 
@@ -4676,7 +4676,7 @@ show mishashort invis:
     xpos 0.0
 with dissolvecharamove
 
-"Incluso me doy la vuelta, para no “espiar” su conversación."
+"Incluso me doy la vuelta, para no \"espiar\" su conversación."
 
 "Termino perdiendo la noción del tiempo."
 
@@ -4795,7 +4795,7 @@ ssh "Se supone que las fotografías capturan el momento, ¿no es así? Sin duda.
 show shizu behind_smile
 with charachange
 
-ssh "Siento que nos veremos de nuevo. Entonces, esta no es una ocasión para tomar una foto tan seria. Debería ser una foto que diga “hasta luego”; no es gran cosa. Debería ser algo más… festivo."
+ssh "Siento que nos veremos de nuevo. Entonces, esta no es una ocasión para tomar una foto tan seria. Debería ser una foto que diga \"hasta luego\"; no es gran cosa. Debería ser algo más… festivo."
 
 hi "Oh, vaya."
 
@@ -5304,7 +5304,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\n\n“¿Y por qué la ley del hielo?” es la frase que de inmediato viene a mi mente, a pesar de que no es el momento para chistes. Pero sí describe lo que siento. No podemos comunicarnos normalmente, así que aprecio los pocos momentos en los que podemos. Ser rechazado así duele."
+n "\n\n\n\n“¿Y por qué la ley del hielo?\" es la frase que de inmediato viene a mi mente, a pesar de que no es el momento para chistes. Pero sí describe lo que siento. No podemos comunicarnos normalmente, así que aprecio los pocos momentos en los que podemos. Ser rechazado así duele."
 
 n "Es obvio que sean cuales sean sus razones, va a ser prácticamente imposible hablar con Shizune hoy. Más allá de simplemente ser terca, ella parece estar deprimida, pero con la manera en que ya estaba yendo nuestra conversación, no me veo siendo capaz de averiguar por qué está deprimida."
 
@@ -5436,7 +5436,7 @@ with charaenter
 
 ke "Hola."
 
-hi "¿Pero qué demonios? ¿Acaso te acercas sigilosamente a las personas de noche y les dices “hola” de manera casual y frecuente?"
+hi "¿Pero qué demonios? ¿Acaso te acercas sigilosamente a las personas de noche y les dices \"hola\" de manera casual y frecuente?"
 
 show kenji neutral_ni
 with charachange
@@ -5490,7 +5490,7 @@ with charachange
 
 ke "Pareces algo deprimido o aislado o algo así. No pienses demasiado, ¡un hombre tiene que estar siempre en acción! Puedes pensar en cosas todo el día, pero la mejor manera de cambiar la situación es haciendo algo."
 
-ke "Hago cosas sin pensar, todo el tiempo. Por eso en la secundaria me llamaban “causa muchos problemas”. Pensé que era genial, sonaba como un nombre hindú."
+ke "Hago cosas sin pensar, todo el tiempo. Por eso en la secundaria me llamaban \"causa muchos problemas\". Pensé que era genial, sonaba como un nombre hindú."
 
 hi "Realmente no estoy de humor."
 
@@ -5539,7 +5539,7 @@ with charachange
 
 ssh "Misha me dijo que estabas buscándome."
 
-"Estoy un poco dolido por no recibir ni siquiera un “buenos días”, pero no es gran cosa."
+"Estoy un poco dolido por no recibir ni siquiera un \"buenos días\", pero no es gran cosa."
 
 his "Así es."
 
@@ -5638,7 +5638,7 @@ play music music_sadness fadein 8.0
 show shizu behind_blank_close
 with charachange
 
-ssh "Hay un dicho. “No sabes lo mucho que lo has arruinado hasta que lo arruinas”."
+ssh "Hay un dicho. \"No sabes lo mucho que lo has arruinado hasta que lo arruinas\"."
 
 his "¿Quién dice eso?"
 
@@ -5783,3 +5783,4 @@ stop music fadeout 4.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

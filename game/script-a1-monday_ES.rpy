@@ -28,7 +28,7 @@ hi "¿Pues cuánto tiempo se supone que esté esperando aquí? Estoy seguro de q
 
 "Ah sí… la nota… deslizada entre las páginas de mi libro de matemáticas mientras no miraba."
 
-"En cuanto a clichés, soy más fan de “la carta en el casillero”, pero por lo menos esta manera muestra un poco de iniciativa."
+"En cuanto a clichés, soy más fan de \"la carta en el casillero\", pero por lo menos esta manera muestra un poco de iniciativa."
 
 "Mientras reflexiono el significado de la nota, la nevada se espesa gradualmente."
 
@@ -308,7 +308,7 @@ n "Cuando recién fui admitido, se sentía como si fuese extrañado…"
 
 n "Por alrededor de una semana, mi habitación en la sala del hospital se encontraba llena de flores, globos y cartas."
 
-n "Pero las visitas pronto se redujeron, y todos los regalos de “recupérate pronto” comenzaron a disminuir hasta no quedar nada, poco después."
+n "Pero las visitas pronto se redujeron, y todos los regalos de \"recupérate pronto\" comenzaron a disminuir hasta no quedar nada, poco después."
 
 n "Me di cuenta de que la única razón por la que recibí tantas cartas y flores, fue porque enviarme su simpatía se había convertido en un proyecto de clase."
 
@@ -331,7 +331,7 @@ n "Los doctores y enfermeras se sienten tan impersonales y faltos de rostro."
 
 n "Creo se debe a que se encuentran apresurados y tienen otro millón de pacientes esperándolos, pero me hace sentir incómodo."
 
-n "Durante el primer mes, más o menos, le preguntaba al jefe de cardiología cada vez que lo veía por una estimación “grosso modo” de cuándo podría dejar este lugar."
+n "Durante el primer mes, más o menos, le preguntaba al jefe de cardiología cada vez que lo veía por una estimación \"grosso modo\" de cuándo podría dejar este lugar."
 
 n "Él nunca respondía algo de manera directa, en cambio me decía que esperara y viera si el tratamiento y cirugías habían funcionado."
 
@@ -347,7 +347,7 @@ n "\n\n\n\nEn algún momento dejé de ver televisión. No sé por qué, solo lo 
 
 n "Tal vez era el tipo equivocado de escapismo para mi situación."
 
-n "\nEn lugar de eso, empecé a leer. Había una pequeña “biblioteca” en el hospital, aunque era más como un almacén para libros. Comencé a leer todo lo que había ahí, una pila pequeña a la vez. Después de consumirla, regresaba por más."
+n "\nEn lugar de eso, empecé a leer. Había una pequeña \"biblioteca\" en el hospital, aunque era más como un almacén para libros. Comencé a leer todo lo que había ahí, una pila pequeña a la vez. Después de consumirla, regresaba por más."
 
 n "Descubrí que me gustaba la lectura, incluso pienso que me volví un poco adicto. Empecé a sentirme desnudo sin un libro en las manos."
 
@@ -463,7 +463,7 @@ with fade
 
 "¿Independencia? Es una escuela para muchachos discapacitados. No trate de ocultar ese hecho."
 
-"Si fuese realmente “libre”, no habría personal de enfermería las 24 horas, y usted no haría del hospital cercano un gancho de venta."
+"Si fuese realmente \"libre\", no habría personal de enfermería las 24 horas, y usted no haría del hospital cercano un gancho de venta."
 
 "Papá" "Por supuesto, eso es solo si tú quieres ir. Pero… tu madre y yo no somos capaces de educarte en casa."
 
@@ -494,7 +494,7 @@ with fade
 
 "No me importa. ¿Una persona no tiene que ser frenada por su discapacidad? Eso es lo que una discapacidad es."
 
-"Realmente odio que algo tan importante haya sido decidido por mí. Pero ¿qué puedo hacer al respecto? Una vida “normal” es ahora imposible."
+"Realmente odio que algo tan importante haya sido decidido por mí. Pero ¿qué puedo hacer al respecto? Una vida \"normal\" es ahora imposible."
 
 stop music fadeout 10.0
 
@@ -514,7 +514,7 @@ stop music fadeout 10.0
 
 "Un borrón y cuenta nueva no es algo malo."
 
-"Eso es en todo lo que puedo pensar para salir de esto. Al menos todavía tengo algo; incluso si es una “escuela especial”, es algo. Es un nuevo inicio, y mi vida no ha terminado. Sería un error simplemente resignarme a pensar eso."
+"Eso es en todo lo que puedo pensar para salir de esto. Al menos todavía tengo algo; incluso si es una \"escuela especial\", es algo. Es un nuevo inicio, y mi vida no ha terminado. Sería un error simplemente resignarme a pensar eso."
 
 "Por lo menos, trataré de ver cómo será mi nueva vida."
 
@@ -557,7 +557,7 @@ with locationchange
 
 "No se siente como el tipo de campus que una escuela tendría, es más como un parque, con un camino limpio pasando por los árboles y el olor a césped recién podado y todas las demás cosas como en los parques."
 
-"Palabras como “limpio” e “higiénico” aparecen en mi mente. Me hacen temblar."
+"Palabras como \"limpio\" e \"higiénico\" aparecen en mi mente. Me hacen temblar."
 
 "Me las quito de encima. Mantente con mente abierta ahora. Es tu nueva vida. Tienes que tomártelo tal y como venga."
 
@@ -893,7 +893,7 @@ with charachange
 
 "Hakamichi asiente y hace algunos gestos propios."
 
-"Empiezo a preguntarme si el maestro estaba jugando conmigo, diciendo algo como “podrás hablar con la gente” y “quién mejor para explicarte las cosas”."
+"Empiezo a preguntarme si el maestro estaba jugando conmigo, diciendo algo como \"podrás hablar con la gente\" y \"quién mejor para explicarte las cosas\"."
 
 show misha hips_smile
 with charachange
@@ -1093,7 +1093,7 @@ shi "…"
 show misha perky_smile
 with charachange
 
-mi "Ah, y otra cosa, ¡no tienes que llamar a Shicchan de forma tan formal, como “Hakamichi” o “representante del grupo” todo el tiempo! ¡Solo llámala Shicchan~!"
+mi "Ah, y otra cosa, ¡no tienes que llamar a Shicchan de forma tan formal, como \"Hakamichi\" o \"representante del grupo\" todo el tiempo! ¡Solo llámala Shicchan~!"
 
 stop music fadeout 0.5
 
@@ -1105,7 +1105,7 @@ shi "…"
 show misha hips_smile
 with charachange
 
-mi "¡Ajaja~! Bueno, puede que eso sea demasiado casual. Tal vez “Shizune” sería más apropiado."
+mi "¡Ajaja~! Bueno, puede que eso sea demasiado casual. Tal vez \"Shizune\" sería más apropiado."
 
 show shizu basic_normal2
 with charachange
@@ -1117,7 +1117,7 @@ with charachange
 
 play music music_shizune fadein 5.0
 
-mi "¡Síp, síp~! ¡“Shizune” está bien!"
+mi "¡Síp, síp~! ¡“Shizune\" está bien!"
 
 hi "Je. Está bien, eso sería bastante más fácil para mí."
 
@@ -1235,7 +1235,7 @@ shi "…"
 
 "No entiendo las señas, así que el significado me elude."
 
-"¿Tal vez mirar a la persona con quien “hablas” es correcto y educado?"
+"¿Tal vez mirar a la persona con quien \"hablas\" es correcto y educado?"
 
 show misha hips_smile
 show shizu behind_blank
@@ -1472,7 +1472,7 @@ with locationchange
 
 "Camino hacia adentro, con la esperanza de que esto en verdad sea solo una visita rápida como dijo el maestro."
 
-"En una puerta blanca a la izquierda hay una cruz verde con la leyenda “Jefe de Enfermería” y una placa con un nombre."
+"En una puerta blanca a la izquierda hay una cruz verde con la leyenda \"Jefe de Enfermería\" y una placa con un nombre."
 
 play sound sfx_doorknock2
 
@@ -1508,7 +1508,7 @@ with charachange
 
 nk_ "Pues sí, sí lo soy. Lo dice ahí mismo en la puerta, ¿no?"
 
-nk_ "Puedes llamarme por mi nombre o solo “el enfermero” como todos los demás."
+nk_ "Puedes llamarme por mi nombre o solo \"el enfermero\" como todos los demás."
 
 "Por supuesto. Me quito la confusión de encima, dándome cuenta de que probablemente debería tomar su mano extendida.{w} Su apretón de manos es bastante firme y amigable."
 
@@ -1692,7 +1692,7 @@ hi "Habitación uno-uno-nueve…"
 
 "Dentro hay algunos estudiantes viendo televisión."
 
-"Uno asiente la cabeza y da un “hola” rápido antes de regresar a ver la televisión."
+"Uno asiente la cabeza y da un \"hola\" rápido antes de regresar a ver la televisión."
 
 "Parece que únicamente las chicas son sociables por aquí. Supongo que eso está perfectamente bien para mí."
 
@@ -1920,3 +1920,4 @@ with shuteye
 
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

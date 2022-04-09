@@ -329,7 +329,7 @@ with Dissolve (0.2)
 "C'est comme une chaîne tirant sur ma poitrine, une sensation d'étroitesse étouffante et de douleur."
 
 
-"Avant que je puisse penser à autre chose que “Oh merde” la piste se dérobe sous mes pieds."
+"Avant que je puisse penser à autre chose que \"Oh merde\" la piste se dérobe sous mes pieds."
 
 scene bg school_track_on:
     xalign 0.5  yalign 0.52  rotate 0  zoom 1.0 
@@ -546,7 +546,7 @@ show nurse concern
 with charachange
 
 
-"L'infirmier fronce les sourcils, comme pour dire que “juste un mauvais battement” était un genre d'oxymore."
+"L'infirmier fronce les sourcils, comme pour dire que \"juste un mauvais battement\" était un genre d'oxymore."
 
 
 nk "Je ne voulais pas dire ça quand je t'ai suggéré de faire de l'exercice. Tu dois être plus prudent, Hisao."
@@ -555,7 +555,7 @@ nk "Je ne voulais pas dire ça quand je t'ai suggéré de faire de l'exercice. T
 hi "J'étais prudent, j'ai juste..."
 
 
-"À bien y penser, “J'ai juste fait une course avec un membre de l'équipe d'athlétisme” ne semble pas être aussi raisonnable que je pensais que ce le serait."
+"À bien y penser, \"J'ai juste fait une course avec un membre de l'équipe d'athlétisme\" ne semble pas être aussi raisonnable que je pensais que ce le serait."
 
 
 nk "Tu as juste quoi ?"
@@ -684,7 +684,7 @@ emi "Donc tu dois venir déjeuner avec moi."
 emi "C'est moi qui t'apporterai le repas, d'accord ? Quelque chose de vraiment, vraiment bon !"
 
 
-"Je commence avec un “Tu n'as pas à...” mais je me tais et hoche juste la tête en ayant vu son visage."
+"Je commence avec un \"Tu n'as pas à...\" mais je me tais et hoche juste la tête en ayant vu son visage."
 
 show emi excited_proud_gym
 with charachange
@@ -932,7 +932,7 @@ with charachange
 "Il hoche la tête, ayant toujours l'air aussi neutre qu'il l'était auparavant."
 
 
-"Ça serait facile d'être fâché contre lui s'il disait “Je te l'avais dit” ou quelque chose du genre, mais il ne le fait pas."
+"Ça serait facile d'être fâché contre lui s'il disait \"Je te l'avais dit\" ou quelque chose du genre, mais il ne le fait pas."
 
 
 nk "Je peux essayer de t'aider à garder la santé, mais finalement tout dépend de toi. J'espère que ce petit épisode sera quelque chose qui te le rappellera."
@@ -1479,7 +1479,7 @@ show misha sign_smile
 with charachange
 
 
-mi "Fantastique, Hicchan~ ! Tu l'as dit, hein ? Rappelle-toi : “Je veux bien vous aider~” c'est ce que t'as dit, hein~ ?"
+mi "Fantastique, Hicchan~ ! Tu l'as dit, hein ? Rappelle-toi : \"Je veux bien vous aider~\" c'est ce que t'as dit, hein~ ?"
 
 
 hi "Ouais."
@@ -1627,7 +1627,7 @@ show misha perky_confused
 with charachange
 
 
-mi "Ça a l'air bien plus que “juste quelques trucs”..."
+mi "Ça a l'air bien plus que \"juste quelques trucs\"..."
 
 
 "Je ne peux pas leur reprocher d'être comme ça. Misha parle juste pour Shizune, et Shizune est juste curieuse par nature. Pourtant, j'aimerais qu'elles arrêtent et comprennent l'allusion. Mais Misha ne la verra pas, et Shizune ne peut pas."
@@ -2427,7 +2427,7 @@ show misha sign_smile
 with charachange
 
 
-mi "C'était supposé être pour un stand à paniers-repas, mais la fille qui le tenait a soudainement dit qu'elle ne pouvait pas le faire. Shicchan a dit “Quel gâchis, c'était tellement dur de leurer Hicchan pour qu'il fasse ça~”—"
+mi "C'était supposé être pour un stand à paniers-repas, mais la fille qui le tenait a soudainement dit qu'elle ne pouvait pas le faire. Shicchan a dit \"Quel gâchis, c'était tellement dur de leurer Hicchan pour qu'il fasse ça~\"—"
 
 
 hi "Hé, mais qu'est-ce que..."
@@ -3483,7 +3483,7 @@ show emi basic_grin_close
 with charachange
 
 
-"Emi fronce les sourcils à ma déclaration de “pas mal” mais semble plutôt contente que j'aie accepté son invitation."
+"Emi fronce les sourcils à ma déclaration de \"pas mal\" mais semble plutôt contente que j'aie accepté son invitation."
 
 
 "J'imagine que ça fait de nous des amis maintenant."
@@ -3625,7 +3625,7 @@ with locationskip
 "Me sentant complétement vide, je me dirige vers ma chambre pour lire les livres que j'ai empruntés. J'ai eu bien suffisamment d'action et d'excitation pour la journée."
 
 
-"Le premier est “Alice au pays des merveilles”. Je connais l'histoire, bien sûr, mais je n'ai jamais lu le livre original."
+"Le premier est \"Alice au pays des merveilles\". Je connais l'histoire, bien sûr, mais je n'ai jamais lu le livre original."
 
 
 "C'est juste aussi fou que ce que je me rappelle de l'histoire, avec les personnages loufoques et l'intrigue absurde."
@@ -4431,7 +4431,7 @@ rin "Malchance."
 hi "Un problème, Lilly ?"
 
 
-"Je résiste à l'envie de dire “A part notre compagne de voyage ?” Mais uniquement de justesse."
+"Je résiste à l'envie de dire \"A part notre compagne de voyage ?\" Mais uniquement de justesse."
 
 
 "Pendant un moment elle semble se demander si elle doit en parler, mais le fait en fin de compte."
@@ -4695,7 +4695,7 @@ rin "C'est pas bon. Pas bon."
 "Donc elle a du mal à tenir la date limite. Me rappelant l'exaspération de Shizune pour l'insouciance de Rin il y a quelques jours, je ne sais pas quoi penser."
 
 
-"Elle peut s'attendre à un “je te l'avais dit” sauf si elle arrive à faire tout ce qu'elle doit faire pour dimanche matin."
+"Elle peut s'attendre à un \"je te l'avais dit\" sauf si elle arrive à faire tout ce qu'elle doit faire pour dimanche matin."
 
 
 "Rin continue de fixer le mur ayant l'air aussi mortifiée que possible."
@@ -4810,3 +4810,4 @@ scene black
 with Dissolve(3.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

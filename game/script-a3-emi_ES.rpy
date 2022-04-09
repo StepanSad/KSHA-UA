@@ -244,7 +244,7 @@ mu "Lee eso."
 
 mu "Si es interesante, entonces podríamos hablarlo."
 
-"¿“Breve Historia del Tiempo”?"
+"¿“Breve Historia del Tiempo\"?"
 
 "No sé si realmente quiero leerlo, pero Mutou parece muy emocionado por esto."
 
@@ -290,7 +290,7 @@ with locationskip
 
 "De todas maneras, me pregunto en dónde se supone que me encuentre con Emi."
 
-"Ella dijo “luego de la práctica”, pero no dijo dónde debía encontrarme con ella."
+"Ella dijo \"luego de la práctica\", pero no dijo dónde debía encontrarme con ella."
 
 "Supongo que puedo pasar por la pista; probablemente sea lo mejor, de todos modos."
 
@@ -647,7 +647,7 @@ emi "No realmente. Solo… cosas, en realidad."
 show emicas neutral
 with charachange
 
-emi "Rin cree que el cambio de término de “amiga” a “novia” parece arbitrario la mayor parte del tiempo."
+emi "Rin cree que el cambio de término de \"amiga\" a \"novia\" parece arbitrario la mayor parte del tiempo."
 
 emi "Como si no hubiera diferencia entre los dos."
 
@@ -804,7 +804,7 @@ hi "¡Usaste tu encanto femenino en mí!"
 show emicas pout
 with charachange
 
-"Emi parece confundida por la frase “encanto femenino”, pero la comprensión ilumina sus rasgos luego de unos momentos de reflexión."
+"Emi parece confundida por la frase \"encanto femenino\", pero la comprensión ilumina sus rasgos luego de unos momentos de reflexión."
 
 show emicas angry_up
 with charachange
@@ -856,7 +856,7 @@ with Pause(0.6)
 hide emicas
 with vpunch
 
-"Retuerzo una pierna intentando despertarla, lo que tiene el indeseado efecto de desbalancear a Emi, quien cae de lado con un asustado ¡“Ayy”!"
+"Retuerzo una pierna intentando despertarla, lo que tiene el indeseado efecto de desbalancear a Emi, quien cae de lado con un asustado ¡“Ayy\"!"
 
 hi "¡Oops! Disculpa."
 
@@ -970,7 +970,7 @@ hi "Estoy seguro de que me las arreglaré."
 show emicas pout_up
 with charachange
 
-emi "¡Qué horrible! ¿No se supone que digas algo como “estaré contando los segundos que estés lejos”?"
+emi "¡Qué horrible! ¿No se supone que digas algo como \"estaré contando los segundos que estés lejos\"?"
 
 hi "Nah, no lo creo."
 
@@ -1762,7 +1762,7 @@ with charachange
 
 nk "No está enferma de nuevo, ¿o sí?"
 
-"Por el tono de su voz, no creo que el enfermero esté esperando que yo diga “Sí, lo está”."
+"Por el tono de su voz, no creo que el enfermero esté esperando que yo diga \"Sí, lo está\"."
 
 hi "Eh, ella dijo que olvidó hacer algo, entonces tuvo que irse, pero te verá más tarde."
 
@@ -1795,7 +1795,7 @@ hi "Y anoche también."
 show nurse concern
 with charachange
 
-"Los ojos del enfermero se entrecierran con la palabra “anoche”."
+"Los ojos del enfermero se entrecierran con la palabra \"anoche\"."
 
 nk "¿Y exactamente qué estaban haciendo ustedes dos anoche?"
 
@@ -1893,7 +1893,7 @@ hi "¿Huh?"
 show nurse grin
 with charachange
 
-nk "Pasarte, en el sentido de “pasarte a mejor vida”."
+nk "Pasarte, en el sentido de \"pasarte a mejor vida\"."
 
 show nurse concern
 with charachange
@@ -2212,11 +2212,11 @@ hi "Correcto. Seguiré insistiendo, y eso podría arruinar nuestras citas."
 
 
 
-hi "“¿Cómo está la comida, Hisao?” “Habla con el enfermero, Emi”."
+hi "“¿Cómo está la comida, Hisao?\" \"Habla con el enfermero, Emi\"."
 
-hi "“¿Cómo estuvo tu día, Hisao?” “Habla con el enfermero, Emi”."
+hi "“¿Cómo estuvo tu día, Hisao?\" \"Habla con el enfermero, Emi\"."
 
-hi "“Hisao, creo que estoy lista para que m—” “{b}Habla con el enfermero, Emi{/b}”."
+hi "“Hisao, creo que estoy lista para que m—\" “{b}Habla con el enfermero, Emi{/b}\"."
 
 hi "¿Ves? No funciona muy bien."
 
@@ -2591,7 +2591,7 @@ hi "¿Supongo?"
 show muto normal
 with charachange
 
-mu "Un científico responde con autoridad, Hisao. La respuesta aquí es “Sí, lo hago”."
+mu "Un científico responde con autoridad, Hisao. La respuesta aquí es \"Sí, lo hago\"."
 
 mu "Cuando el mundo quiere saber cómo funciona algo, les decimos. Incluso si todo lo que tenemos es una hipótesis decente."
 
@@ -2827,7 +2827,7 @@ with charachange
 
 yu "Vigila cualquier actividad sospechosa."
 
-"De todas formas, ¿qué constituye “sospechosa”?"
+"De todas formas, ¿qué constituye \"sospechosa\"?"
 
 "Quiero decir, Kenji es un tipo bastante sospechoso, pero apostaría a que apenas asiste a clases, mucho menos entraría a hurtadillas a la biblioteca para robar libros."
 
@@ -2901,7 +2901,7 @@ with charachange
 
 yu "Me encanta ver cómo las personas se encuentras las unas a las otras así, ¿sabes?"
 
-yu "Incluso aquella vez cuando entraste en el Shanghái pensé, “me pregunto si ese chico terminará con alguna de esas chicas”."
+yu "Incluso aquella vez cuando entraste en el Shanghái pensé, \"me pregunto si ese chico terminará con alguna de esas chicas\"."
 
 hi "… ¿En serio?"
 
@@ -3048,7 +3048,7 @@ with locationskip
 
 play sound sfx_doorknock2
 
-"Toco la puerta y soy recibido con un suave “Entra”."
+"Toco la puerta y soy recibido con un suave \"Entra\"."
 
 scene bg school_dormemi at left 
 with locationchange
@@ -3182,7 +3182,7 @@ emi "Pero igual es un dolor de cabeza."
 
 "No hay mucho más que pueda hacer, después de todo."
 
-"¿Qué voy a hacer? ¿Decir “te lo dije”?"
+"¿Qué voy a hacer? ¿Decir \"te lo dije\"?"
 
 "Aunque {b}sí{/b} le dije que debían revisarle esa pierna."
 
@@ -3589,7 +3589,7 @@ hi "¿Qué? Eso no cuenta; usaste tus encantos femeninos."
 show evh emi_grinding_wink
 with charachange
 
-emi "“En el amor y la guerra todo se vale”, ¿no?"
+emi "“En el amor y la guerra todo se vale\", ¿no?"
 
 emi "Ja, ¡hasta te estás sonrojando! No sabía que eras de los que se sonrojan, Hisao."
 
@@ -3849,7 +3849,7 @@ play sound sfx_doorclose
 hide rin
 with None
 
-"Rin se encoge de hombros, como si dijera ¿“puedes”? y arrastra sus pies a través de la puerta, cerrándola tras ella."
+"Rin se encoge de hombros, como si dijera ¿“puedes\"? y arrastra sus pies a través de la puerta, cerrándola tras ella."
 
 show eminude happy_close
 with charachange
@@ -4272,7 +4272,7 @@ hi "Sí, creo. Aunque no estoy seguro sobre qué caí…"
 
 stop music fadeout 0.2
 
-"“Lubricante personal. Sabor a limón”."
+"“Lubricante personal. Sabor a limón\"."
 
 "Espera, ¿qué?"
 
@@ -4314,7 +4314,7 @@ emi "Porque fue él quien me dijo que el almacén de atletismo era un buen lugar
 show eminude pout_ni
 with charachange
 
-emi "“Encuentros clandestinos”."
+emi "“Encuentros clandestinos\"."
 
 hi "¿Oh? ¿Te invitó a alguno o algo así?"
 
@@ -4609,7 +4609,7 @@ with charachange
 
 "Tiene los ojos cerrados, y está mordiéndose el labio, pero parece ser más por tolerancia que por placer."
 
-"Una mirada que dice algo así como “bueno, esto fue un fracaso, pero tal vez termine pronto”."
+"Una mirada que dice algo así como \"bueno, esto fue un fracaso, pero tal vez termine pronto\"."
 
 "Vaya situación en la que me metí."
 
@@ -4754,7 +4754,7 @@ with charachange
 
 emi "De todas formas casi todo esto es nuevo para mí."
 
-hi "¿A qué te refieres con “casi todo”?"
+hi "¿A qué te refieres con \"casi todo\"?"
 
 show eminude grin_close_ni
 with charachange
@@ -4921,7 +4921,7 @@ stop music fadeout 4.0
 scene bg school_dormhisao
 with locationskip
 
-"Me ducho por más tiempo del usual, solo para asegurarme de que estoy limpio de nuestro pequeño “experimento”, y luego colapso en mi cama."
+"Me ducho por más tiempo del usual, solo para asegurarme de que estoy limpio de nuestro pequeño \"experimento\", y luego colapso en mi cama."
 
 "Las clases empiezan en veinte minutos, así que probablemente pueda permitirme una siesta."
 
@@ -4971,7 +4971,7 @@ with openeyefast
 
 "Mejor no le doy esa excusa a Mutou."
 
-"“Perdón por no estar en clases, estaba experimentando sexualmente con mi novia y me dejó agotado”."
+"“Perdón por no estar en clases, estaba experimentando sexualmente con mi novia y me dejó agotado\"."
 
 "Sí, eso funcionaría muy bien."
 
@@ -5562,7 +5562,7 @@ nvl clear
 
 n "\n\n\n\n\n\nMutou cree que tengo dominado el examen de ciencias, por lo menos."
 
-n "O como él dice, “La última cosa que debería darte problemas es mi examen, Hisao. Está muy por debajo de tus habilidades”."
+n "O como él dice, \"La última cosa que debería darte problemas es mi examen, Hisao. Está muy por debajo de tus habilidades\"."
 
 n "Por otro lado, es Mutou quien me está diciendo esto."
 
@@ -5836,7 +5836,7 @@ hi "Es como si cada vez que intento saber más de ella, o sobre lo que ella quie
 
 hi "Como el otro día, estaba hablando con ella durante el almuerzo sobre unas universidades que busqué."
 
-hi "Y le pregunté, “¿has buscado alguna escuela últimamente?”."
+hi "Y le pregunté, “¿has buscado alguna escuela últimamente?\"."
 
 hi "Ella se encoge de hombros como respuesta, dice que no, y cuando le pregunto por qué no, dice que no piensa tan a futuro."
 
@@ -6525,7 +6525,7 @@ emi "Estás preocupado, lo entiendo. Está bien."
 
 emi "Pero me siento bien, y no es nada por lo que debas preocuparte."
 
-hi "No dormir y distraerse más que Rin no me parece “sentirse bien”."
+hi "No dormir y distraerse más que Rin no me parece \"sentirse bien\"."
 
 hi "Yo solo… Quiero ayudar."
 
@@ -6861,13 +6861,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n“No puedo depender de ti”."
+n "\n\n\"No puedo depender de ti\"."
 
 n "\nPalabras dichas tan casualmente."
 
 n "Es casi como si estuviera bromeando conmigo, o regañándome por sugerir que la Tierra es plana."
 
-n "\n“Así es como debe ser”."
+n "\n\"Así es como debe ser\"."
 
 n "\nLa forma en que debe ser apesta."
 
@@ -7171,7 +7171,7 @@ with charachange
 
 nk "¿Con qué?"
 
-hi "“Para esta época del año”. Sigo intentando descubrir qué ha estado molestándola, pero ella se calla como un muerto cuando abordo el tema."
+hi "“Para esta época del año\". Sigo intentando descubrir qué ha estado molestándola, pero ella se calla como un muerto cuando abordo el tema."
 
 hi "Y anoche, ella dijo—"
 
@@ -7386,7 +7386,7 @@ hi "Como sea, ¿qué ocurre, Emi? ¿Olvidaste algo?"
 
 "Intento adoptar un tono más alegre con ella."
 
-"No hace falta preocuparla. Dos pueden jugar al juego de “todo está bien”."
+"No hace falta preocuparla. Dos pueden jugar al juego de \"todo está bien\"."
 
 show emi sad_grin_gym at tworight 
 with charachange
@@ -7863,7 +7863,7 @@ with charachange
 
 emm "Así que, Hisao, he escuchado que tú y mi hija se han vuelto bastante íntimos, ¿eh?"
 
-"La urgencia de decir algo como “No realmente” es tan fuerte que abro mi boca para decirlo, pero luego recupero el control."
+"La urgencia de decir algo como \"No realmente\" es tan fuerte que abro mi boca para decirlo, pero luego recupero el control."
 
 "Somos íntimos, eso no se puede negar. Quiero decir, Emi me trajo aquí, ¿no?"
 
@@ -8481,7 +8481,7 @@ with charachange
 
 emm "Bien, tal vez no sea así de sencillo, pero es un resumen bastante preciso. Emi cree que el accidente no la definió, y que todo lo que perdió ese día tampoco la definió."
 
-emm "Ella no es “esa chica que perdió sus piernas”, ella es “La Más Rápida sin Piernas”. Su optimismo y energía salieron ilesos de esa colisión, en lo que a ella respecta."
+emm "Ella no es \"esa chica que perdió sus piernas\", ella es \"La Más Rápida sin Piernas\". Su optimismo y energía salieron ilesos de esa colisión, en lo que a ella respecta."
 
 hi "Pero aun así va más allá de eso, ¿no es verdad? Quiero decir, anoche me dijo que se negaba a depender de mí porque eso haría que perderme resulte demasiado doloroso."
 
@@ -8754,7 +8754,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n "\n\n\nGracias, Iwanako. Quería responder “sí” a tu pregunta en ese nevado día de invierno, pero nunca pude hacerlo."
+n "\n\n\nGracias, Iwanako. Quería responder \"sí\" a tu pregunta en ese nevado día de invierno, pero nunca pude hacerlo."
 
 n "Para cuando nos encontramos de nuevo, era demasiado tarde."
 
@@ -8993,7 +8993,7 @@ hi "De todas formas, ¿por qué el repentino interés en mi bienestar?"
 show misha sign_smile
 with charachange
 
-mi "Ah, Shicchan dijo “¡Es deber del consejo no perder de vista la salud emocional de sus estudiantes! ¡Permitir que un cons-constitutivo caiga en una espiral de depresión sin revisión alguna sería un fracaso imperdonable en los deberes del consejo!”."
+mi "Ah, Shicchan dijo “¡Es deber del consejo no perder de vista la salud emocional de sus estudiantes! ¡Permitir que un cons-constitutivo caiga en una espiral de depresión sin revisión alguna sería un fracaso imperdonable en los deberes del consejo!\"."
 
 hi "Bueno, eso es fácil, entonces. No estoy deprimido."
 
@@ -9298,7 +9298,7 @@ emi "Eres un buen chico, pero lo nuestro no funcionará."
 
 "Qué diablos, ella probablemente habría estado de acuerdo con nunca volver a verme."
 
-hi "¿Así que eso es todo? ¿Nada más qué decir además de “Caray, fue divertido mientras duró, pero hasta nunca”?"
+hi "¿Así que eso es todo? ¿Nada más qué decir además de \"Caray, fue divertido mientras duró, pero hasta nunca\"?"
 
 show emi basic_closedgrin_gym_close
 with charachange
@@ -9350,7 +9350,7 @@ with Pause(0.5)
 hide emi
 with None
 
-"Ella se encoge de hombros, como si dijera “Como quieras”, y me da la espalda una vez más, acelerando rápidamente por la curva de la pista."
+"Ella se encoge de hombros, como si dijera \"Como quieras\", y me da la espalda una vez más, acelerando rápidamente por la curva de la pista."
 
 "Me siento entumecido. Esto es todo. El final del camino para nosotros, lo que sea que haya sido. La conclusión, al fin."
 
@@ -9760,3 +9760,4 @@ stop music fadeout 2.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

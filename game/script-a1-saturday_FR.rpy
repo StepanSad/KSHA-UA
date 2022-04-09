@@ -46,7 +46,7 @@ stop sound fadeout 6.0
 "C'est très silencieux quand Misha n'est pas là."
 
 
-"Je me demande si elle est née aussi bruyante que ça, ou si elle “compense” pour le manque de voix de Shizune."
+"Je me demande si elle est née aussi bruyante que ça, ou si elle \"compense\" pour le manque de voix de Shizune."
 
 show muto normal at center
 with charaenter
@@ -124,7 +124,7 @@ mu "Beaucoup de gens ont consacré beaucoup de temps, d'effort et d'argent pour 
 mu "Que tu en abuses en ignorant nos conseils, les conseils médicaux en particulier, c'est plutôt égoïste."
 
 
-"Je ne suis pas sûr que ce soit exactement ce qu'il ressent, ou s'il s'agit d'une technique qu'il a pratiquée de nombreuses fois pour culpabiliser les étudiants et les remettre dans le “droit” chemin. Dans tous les cas, ça marche."
+"Je ne suis pas sûr que ce soit exactement ce qu'il ressent, ou s'il s'agit d'une technique qu'il a pratiquée de nombreuses fois pour culpabiliser les étudiants et les remettre dans le \"droit\" chemin. Dans tous les cas, ça marche."
 
 
 hi "Je comprends. C'est tout nouveau pour moi, et je m'excuse. Je connais mes limites maintenant, et je vais en tenir compte."
@@ -173,7 +173,7 @@ with charachange
 mu "Je vois. Et comment est ta... santé ?"
 
 
-"La pause avant “santé” ne me semblait pas utile."
+"La pause avant \"santé\" ne me semblait pas utile."
 
 
 hi "Je n'ai pas eu de problèmes pour l'instant."
@@ -700,7 +700,7 @@ show emi basic_annoyed
 with charachange
 
 
-"Elle me fusille encore une fois du regard, mais n'arrive pas à trouver de riposte. Avec un “hmph”, elle me tourne le dos."
+"Elle me fusille encore une fois du regard, mais n'arrive pas à trouver de riposte. Avec un \"hmph\", elle me tourne le dos."
 
 hide emi
 with charaexit
@@ -850,7 +850,7 @@ play music music_happiness fadein 2.0
 "Les visages humains défigurés sont le plus souvent dans les tons rouge, rose, et orange ; des... choses étranges, imaginaires peuplant les espaces entre eux."
 
 
-"Ça a l'air... bien. Je ne peux pas penser à un mot qui pourrait décrire le travail de manière concise et compréhensive, alors je me contente d'un quelconque “bien.”"
+"Ça a l'air... bien. Je ne peux pas penser à un mot qui pourrait décrire le travail de manière concise et compréhensive, alors je me contente d'un quelconque \"bien.\""
 
 
 "Mais honnêtement, on dirait que la zone autour du mur devient de plus en plus en désordre au fur et à mesure que la peinture progresse."
@@ -1141,7 +1141,7 @@ with charaexit
 "Comme la raison pour laquelle Rin peint. On dirait que Emi et elle sont pareilles, aller à l'encontre de leur destin comme si c'était juste par dépit."
 
 
-"Rin a même dit quelque chose comme ça. “Faire quelque chose que tu ne peux pas faire juste parce que tu le peux.”"
+"Rin a même dit quelque chose comme ça. \"Faire quelque chose que tu ne peux pas faire juste parce que tu le peux.\""
 
 
 "C'est ce qu'elle voulait dire ? C'est ça sa raison ? Ça peut être celle d'Emi, elle se trouve être une personne plutôt têtue."
@@ -1442,7 +1442,7 @@ with charachange
 no "Je dois vraiment prendre congé maintenant, mais si tu as des questions, je suis sûr que Tezuka pourra te clarifier les choses."
 
 
-"D'une certaine manière, “clarifier” et Rin dans la même phrase donne une drôle d'impression. Cependant, je n'en dis pas autant au professeur, car il semble pressé."
+"D'une certaine manière, \"clarifier\" et Rin dans la même phrase donne une drôle d'impression. Cependant, je n'en dis pas autant au professeur, car il semble pressé."
 
 show nomiya smile
 with charachange
@@ -1531,7 +1531,7 @@ show rin negative_spaciness
 with charachange
 
 
-rin "T'as déjà parlé de t'ennuyer ? C'est inutile et pas très excitant. Tout ce que tu peux encore dire c'est “Je m'ennuie tellement”. J'ai passé une fois une semaine à essayer de penser à quelque chose de significatif à dire sur l'ennui."
+rin "T'as déjà parlé de t'ennuyer ? C'est inutile et pas très excitant. Tout ce que tu peux encore dire c'est \"Je m'ennuie tellement\". J'ai passé une fois une semaine à essayer de penser à quelque chose de significatif à dire sur l'ennui."
 
 
 rin "C'était la plus ennuyeuse semaine que j'aie jamais eue."
@@ -1593,7 +1593,7 @@ show rin basic_delight
 with charachange
 
 
-rin "En y pensant, je crois que je vais l'appeler “Aucune idée”."
+rin "En y pensant, je crois que je vais l'appeler \"Aucune idée\"."
 
 show rin negative_worried
 with charachange
@@ -1635,7 +1635,7 @@ show rin negative_worried
 with Dissolve(0.5)
 
 
-"Elle secoue vigoureusement la tête pendant un moment, essayant de sortir la “pensée” de sa tête. Ses cheveux rouge-ambre virevoltent dans tous les sens."
+"Elle secoue vigoureusement la tête pendant un moment, essayant de sortir la \"pensée\" de sa tête. Ses cheveux rouge-ambre virevoltent dans tous les sens."
 
 show rin basic_deadpannormal
 with charachange
@@ -1788,7 +1788,7 @@ with Dissolve(3.0)
 "Quand elle déclare que le mur est fini, il fait déjà tellement noir que je n'ai aucune idée de comment elle peut le savoir."
 
 
-"Il n'y a pas de célébration, pas de satisfaction générale d'un travail bien fait, juste un fatigué et laconique “J'ai fini” et nous allons tous les deux dormir."
+"Il n'y a pas de célébration, pas de satisfaction générale d'un travail bien fait, juste un fatigué et laconique \"J'ai fini\" et nous allons tous les deux dormir."
 
 stop ambient fadeout 3.0
 
@@ -2095,7 +2095,7 @@ label fr_A34a:
 "Peut-être que c'est celle dont parlait Kenji..."
 
 
-hi "Ça semble un peu beaucoup pour juste “garder un œil sur moi.”"
+hi "Ça semble un peu beaucoup pour juste \"garder un œil sur moi.\""
 
 show emi sad_grin
 with charachange
@@ -2393,7 +2393,7 @@ with locationchange
 "Je lâche un grognement alors que je me lève de mon siège, débattant brièvement avec moi-même sur le fait de sortir avec Kenji ou pas."
 
 
-"Il ne m'a pas vraiment l'air d'être celui qui “apprécie le beau temps dehors avec les autres”. Je pense que je le rattraperai plus tard."
+"Il ne m'a pas vraiment l'air d'être celui qui \"apprécie le beau temps dehors avec les autres\". Je pense que je le rattraperai plus tard."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3661,7 +3661,7 @@ scene ev shizu_shanghai
 with charachange
 
 
-"La réponse parfaite, il n'y a pas de moyen qu'elles puissent y résister. Shizune hausse les épaules, comme pour dire “bien joué.”"
+"La réponse parfaite, il n'y a pas de moyen qu'elles puissent y résister. Shizune hausse les épaules, comme pour dire \"bien joué.\""
 
 
 "Elles n'ont toujours pas répondu à ma seconde question."
@@ -4827,10 +4827,10 @@ show misha sign_smile_ss
 with charachange
 
 
-mi "Et j'ai pensé, “Je vais peut-être passer le reste de mon année à côté de cette personne !”"
+mi "Et j'ai pensé, \"Je vais peut-être passer le reste de mon année à côté de cette personne !\""
 
 
-mi "“Donc ça serait bien si on pouvait être amies ! Mais~, je me demandais si elle m'aimerait bien.”"
+mi "“Donc ça serait bien si on pouvait être amies ! Mais~, je me demandais si elle m'aimerait bien.\""
 
 show misha hips_grin_ss
 with charachange
@@ -5170,7 +5170,7 @@ with charachange
 mi "Une omelette chinoise ? Ok, alors."
 
 
-hi "Hé, Misha, ça veut vraiment dire “omelette” ? Je peux le revoir ?"
+hi "Hé, Misha, ça veut vraiment dire \"omelette\" ? Je peux le revoir ?"
 
 show misha hips_grin
 with charachange
@@ -5550,7 +5550,7 @@ with charachange
 ha "Je... je ne sais pas."
 
 
-"La réponse d'Hanako est ce que disent les gens quand ils ne veulent pas que vous posiez plus de questions. Je suppose que les grandes foules et la musique forte ne sont pas vraiment son “truc.”"
+"La réponse d'Hanako est ce que disent les gens quand ils ne veulent pas que vous posiez plus de questions. Je suppose que les grandes foules et la musique forte ne sont pas vraiment son \"truc.\""
 
 
 hi "Oh, d'accord."
@@ -5710,3 +5710,4 @@ scene black
 with Dissolve(3.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

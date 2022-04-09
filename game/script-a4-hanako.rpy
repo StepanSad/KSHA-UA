@@ -327,7 +327,7 @@ mi "There are a couple of things we know about Hanako as Student Council members
 
 hi "Understandable."
 
-"It sounds a lot like the nurse's “patient confidentiality.” Every time I find someone that knows something about Hanako's past, it turns up being a dead end."
+"It sounds a lot like the nurse's \"patient confidentiality.\" Every time I find someone that knows something about Hanako's past, it turns up being a dead end."
 
 "The only way I'll ever find out is by asking her. I don't know if she'll let me know such things, but if it's for her sake, I have to at least try."
 
@@ -393,7 +393,7 @@ ke "What's with that response?"
 
 hi "Sorry, just thinking about a lot of stuff."
 
-ke "“Thinking” is a pretty poor excuse to not be aiding the war effort."
+ke "“Thinking\" is a pretty poor excuse to not be aiding the war effort."
 
 hi "And how goes the war?"
 
@@ -619,7 +619,7 @@ with charachange
 
 hi "Are you… okay? If you're feeling sick or anything, I could go get a nurse."
 
-"It feels almost pitiful to put on such a routine “get well soon” act. I can't think of anything else I could possibly do for her, though."
+"It feels almost pitiful to put on such a routine \"get well soon\" act. I can't think of anything else I could possibly do for her, though."
 
 show hanagown normal_close
 with charachange
@@ -822,7 +822,7 @@ hi "Sorry, I was just taken a bit off guard. Still, isn't Hanako a bigger proble
 
 li "For some time now I've thought that the both of you may be feeding into each other's more worrying habits. I tried to amend this before leaving, but it seems to have done little."
 
-hi "“Worrying habits?”"
+hi "“Worrying habits?\""
 
 li "When I asked you about what you had in mind for the future, your answer was very similar to what Hanako has said in the past when that question was posed to her."
 
@@ -847,7 +847,7 @@ label en_H22a:
 
 "I don't want to admit it, but she may have a point. Something else bugs me, though."
 
-hi "And you tried to… “amend” this?"
+hi "And you tried to… \"amend\" this?"
 
 hi "Wait… our outing into the city?"
 
@@ -1655,7 +1655,7 @@ mk "Come on, don't get that down. She's done this before, you've just gotta wait
 
 "Well, I might think that, but there's nothing that I can do. I can't force her to come out, and she does see a therapist, so it's not like she isn't getting any help for her issues."
 
-"Maybe it's natural to think that way when you're so powerless to help someone. “That's just the way she is, and you just have to deal with it.”"
+"Maybe it's natural to think that way when you're so powerless to help someone. \"That's just the way she is, and you just have to deal with it.\""
 
 show bg school_scienceroom at center 
 show miki smile_close at twoleft 
@@ -1747,7 +1747,7 @@ ha "But… I thought you were studying."
 
 "Studying can wait. Turning up for class after all this time must have taken some courage for Hanako, so the least I can do is stay with her."
 
-"“That's just the way she is, and you just have to deal with it” is the way Miki, and probably the class as a whole, views Hanako. I can do more for her, though. I want to do more for her."
+"“That's just the way she is, and you just have to deal with it\" is the way Miki, and probably the class as a whole, views Hanako. I can do more for her, though. I want to do more for her."
 
 hi "After being distracted by Miki, I don't think I'm going to get any work done. Come on, let's go."
 
@@ -2126,7 +2126,7 @@ play music music_night fadein 1.0
 
 "In the end, I suppose that was a rather naive thing to think. Sooner or later, my past would have caught up with me one way or the other."
 
-"But what am I supposed to say to her? “Thank you for bringing me closure?” All the letter did was end the sense of closure I'd previously felt."
+"But what am I supposed to say to her? \"Thank you for bringing me closure?\" All the letter did was end the sense of closure I'd previously felt."
 
 "Try as I might, I can't write so much as a single word down on the paper in front of me. I can't even think of what exactly I want to say."
 
@@ -2340,7 +2340,7 @@ ha "But… why are you showing this to me?"
 
 hi "I wanted to prove to myself that I could do this; that I could accept my past and move on. I wanted to show that to you, as well."
 
-"She nods. From her reaction, she seems to know how difficult this is for me. More than anything, this scar represents a visible reminder of my condition. A reminder that I'm not “normal” any more."
+"She nods. From her reaction, she seems to know how difficult this is for me. More than anything, this scar represents a visible reminder of my condition. A reminder that I'm not \"normal\" any more."
 
 "That's something that, until now, I had tried my hardest to ignore."
 
@@ -3976,7 +3976,7 @@ play ambient sfx_parkambience fadein 2.0
 
 "My hand dives into my pocket once more. This time I quickly navigate to the texting menu before I have a chance to change my mind again."
 
-"“Hanako, if you want to talk, I'll be at the park in town for a while.”"
+"“Hanako, if you want to talk, I'll be at the park in town for a while.\""
 
 "Fighting a last measure of doubt, I thumb in my message to Hanako and press the button to send it."
 
@@ -4427,3 +4427,4 @@ $ renpy.music.set_volume(1.0, 2.0, channel="ambient")
 stop music fadeout 4.0
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

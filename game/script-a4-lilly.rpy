@@ -137,7 +137,7 @@ with charachange
 
 mi "But you went anyway? It's so rare to see a guy that likes going shopping~…"
 
-hi "Well, my role would probably be best described as “pack mule”. I can't say I share your enthusiasm about the experience."
+hi "Well, my role would probably be best described as \"pack mule\". I can't say I share your enthusiasm about the experience."
 
 hi "Back to the exams; you studied after you got back from the days off, didn't you, Shizune?"
 
@@ -848,7 +848,7 @@ with charachange
 show lilly basic_weaksmile_paj
 with charachange
 
-li "“Putting up with it” may be the best term for the situation. Don't you agree, Hisao?"
+li "“Putting up with it\" may be the best term for the situation. Don't you agree, Hisao?"
 
 hi "Yeah, that sounds about right. At least she's being reasonable about it."
 
@@ -1008,7 +1008,7 @@ hi "I wouldn't worry about it. A lot of people aren't really that good with them
 show lilly basic_concerned_paj_close
 with charachange
 
-li "“That” unusual…"
+li "“That\" unusual…"
 
 "Now she's even more depressed. It feels like I'm twisting the knife, rather than healing her wounds."
 
@@ -1100,7 +1100,7 @@ with charachange
 
 nk "I see."
 
-"His smile drops as I trail off. I feel slightly guilty about it. It's these moments where I can't rationally call myself “normal” that make me so reluctant to see the nurse. They're an admission that I'm different from everyone else."
+"His smile drops as I trail off. I feel slightly guilty about it. It's these moments where I can't rationally call myself \"normal\" that make me so reluctant to see the nurse. They're an admission that I'm different from everyone else."
 
 stop music fadeout 5.0
 
@@ -1148,7 +1148,7 @@ play music music_nurse fadein 1.0
 
 nk "Well, you survived it. That's always on the plus side."
 
-"I blink at this one, then notice the nurse wearing his “got you” face."
+"I blink at this one, then notice the nurse wearing his \"got you\" face."
 
 "It's actually somewhat reassuring. I don't think he would crack jokes if things were really serious, so I keep silent and take my lumps."
 
@@ -1177,7 +1177,7 @@ nk "Nevertheless, I want to keep a close eye on you for a while, just for observ
 
 "That's something I really didn't want to hear. Since coming to Yamaku, all I've wanted to do is live as normal a life as possible."
 
-"“Observation” was one of the words I came to hate most during my hospital stay. For so long I felt as if I could have just walked straight out the hospital doors, if not for that “observation” the doctors wanted so dearly."
+"“Observation\" was one of the words I came to hate most during my hospital stay. For so long I felt as if I could have just walked straight out the hospital doors, if not for that \"observation\" the doctors wanted so dearly."
 
 hi "Sure. Should I come in more often?"
 
@@ -1484,7 +1484,7 @@ li "Kids…"
 show akira basic_laugh_ss
 with charachange
 
-aki "Tsch. “You two,” then. Kids grow up so fast, nowadays."
+aki "Tsch. \"You two,\" then. Kids grow up so fast, nowadays."
 
 show lilly cane_pout_ss
 with charachange
@@ -2247,7 +2247,7 @@ with charachange
 
 li "But there was one person whom I most regretted not seeing again. He was the reason I took up English as a future career."
 
-"“He?” Considering she came from an all-girls school, that can't have been a schoolmate then…"
+"“He?\" Considering she came from an all-girls school, that can't have been a schoolmate then…"
 
 li "I rejected the confessions I'd received until then for him. Every time I improved my English skills, his praise was my most treasured reward."
 
@@ -2313,7 +2313,7 @@ with whiteout
 
 "I look back around the room with its continuing quiet hum of patrons."
 
-hi "This place probably fits into the “odd” category, too."
+hi "This place probably fits into the \"odd\" category, too."
 
 show lilly basic_weaksmile_che_close:
     center
@@ -2975,7 +2975,7 @@ play music music_normal fadein 4.0
 
 "After thinking about it, I have realized that I do genuinely want to pursue science in some form as a career, rather than it simply being the path of least resistance."
 
-"Until now though, I didn't have much of an idea of where in the field I wanted to go. Just “science” is a pretty broad category of jobs."
+"Until now though, I didn't have much of an idea of where in the field I wanted to go. Just \"science\" is a pretty broad category of jobs."
 
 "Something Lilly mentioned earlier focused my thoughts. Something I'd only idly pondered about before, I'd not seriously considered following this specific path."
 
@@ -3040,7 +3040,7 @@ mu "I just hope that I can give others even a small piece of that wonderment I f
 
 "I feel like I understand him better now. Even if he's awkward around others, he does have a genuine want to be around them and offer them a piece of his self that he values."
 
-"What Lilly told me yesterday rings in my ears. “I think you get on well with others,” huh. She always did say I was unusually curious…"
+"What Lilly told me yesterday rings in my ears. \"I think you get on well with others,\" huh. She always did say I was unusually curious…"
 
 show muto normal
 with charachange
@@ -3091,7 +3091,7 @@ with dissolve
 nvl clear
 nvl show dissolve
 
-n "\n\n“This is strange.”"
+n "\n\n\"This is strange.\""
 
 play music music_pearly fadein 5.0
 
@@ -3114,7 +3114,7 @@ n "Indeed, when I think about it, that seems a marvelously apt analogy for what'
 
 nvl clear
 
-n "\n\nBut such situations are also supposed to make you very capable in that language very fast, as you're forced to learn it in order to survive. Put another way, the situation becomes “sink or swim.”"
+n "\n\nBut such situations are also supposed to make you very capable in that language very fast, as you're forced to learn it in order to survive. Put another way, the situation becomes \"sink or swim.\""
 
 n "\nI wonder if I've really managed to swim, after all this time."
 
@@ -3122,7 +3122,7 @@ n "The exams are stressing me out a lot, even though they're finally coming to a
 
 n "But I keep using that stupid, meaningless phrase."
 
-n "\n\n“This is strange.”"
+n "\n\n\"This is strange.\""
 
 nvl clear
 
@@ -4224,7 +4224,7 @@ with Pause (0.5)
 hide phone
 with None
 
-"For a long time I just stand there, staring at the “CALL ENDED” message on the screen while replaying the conversation in my head."
+"For a long time I just stand there, staring at the \"CALL ENDED\" message on the screen while replaying the conversation in my head."
 
 hi "What the hell, Akira?"
 
@@ -4339,7 +4339,7 @@ aki "I'm sitting here bitching to you about it. What do you think?"
 show akira basic_lost_close_ss
 with charachange
 
-aki "Yamaku Academy. I've always felt that place was kinda creepy; like it was an isolated hideaway for those “proper society” doesn't want to see nor hear."
+aki "Yamaku Academy. I've always felt that place was kinda creepy; like it was an isolated hideaway for those \"proper society\" doesn't want to see nor hear."
 
 show akira basic_annoyed_close_ss
 with charachange
@@ -4550,7 +4550,7 @@ with charaexit
 
 "For the first time in a long while, I finally have an answer to something. Perhaps not even that. But at least I now have the right question to ask."
 
-"“Will you leave, or stay?”"
+"“Will you leave, or stay?\""
 
 stop ambient fadeout 2.0
 
@@ -4798,7 +4798,7 @@ hi "Well, I do think she's a pretty cool person to talk with. It'd be nice if an
 show lilly basic_sleepy_cas_close
 with charachange
 
-li "“Cool…”"
+li "“Cool…\""
 
 "For a moment I try to place her tone of voice, my mouth curling into a smirk as I realize it."
 
@@ -7148,13 +7148,13 @@ n "A rare condition. It causes the heart to act erratically and occasionally bea
 
 nvl clear
 
-n "\n“It was a miracle that you were able to go on so long without anything happening,” they said."
+n "\n\"It was a miracle that you were able to go on so long without anything happening,\" they said."
 
 n "And then, it did. My condition had taken away everything; my old school was of no importance any more. My home was reduced to a faraway place. Both my friends and my first love simply stopped visiting after a length of time."
 
 n "I became cynical and embittered. Distant and subdued. In my defense, no person could avoid that after such a thing happening to them, but nonetheless I left the hospital as a very definitely changed person."
 
-n "Things changed. I made new friends in Hanako, Shizune and Misha. I found a new sense of “home” in my dormitory, a new interest in science and the world around me, and I found a direction to my life that I had never felt before."
+n "Things changed. I made new friends in Hanako, Shizune and Misha. I found a new sense of \"home\" in my dormitory, a new interest in science and the world around me, and I found a direction to my life that I had never felt before."
 
 n "\nBut I'd also discovered other things."
 
@@ -7257,7 +7257,7 @@ hi "Will I be all right? Are there any lasting problems?"
 
 "He gives a short chuckle at his self-deprecating joke as I grimace awkwardly, having been rather badly caught out."
 
-"The doctor's chuckle sounds different from that of the nurse at Yamaku though, come to think of it. As I ponder why, I realize why the man in front of me feels just that little bit “off”."
+"The doctor's chuckle sounds different from that of the nurse at Yamaku though, come to think of it. As I ponder why, I realize why the man in front of me feels just that little bit \"off\"."
 
 "His smile is neat and sterile. He delivers his little joke perfectly, with a customary inoffensive chuckle."
 
@@ -7894,3 +7894,4 @@ with Dissolve(1.0)
 with Pause(1.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

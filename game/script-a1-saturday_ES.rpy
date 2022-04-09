@@ -36,7 +36,7 @@ stop sound fadeout 6.0
 
 "Está muy tranquilo sin Misha presente."
 
-"Me pregunto si ella nació siendo tan ruidosa como es, o si está “compensando” por la falta de voz de Shizune."
+"Me pregunto si ella nació siendo tan ruidosa como es, o si está \"compensando\" por la falta de voz de Shizune."
 
 show muto normal at center
 with charaenter
@@ -96,7 +96,7 @@ mu "Mucha gente ha puesto demasiado tiempo, esfuerzo y dinero para asegurar que 
 
 mu "Que abuses y rechaces nuestros consejos, especialmente los consejos médicos, es simplemente egoísta."
 
-"No estoy completamente seguro de si es así como realmente se siente, o si es un acto que ha practicado varias veces para hacer a los estudiantes sentir remordimiento para que hagan “lo correcto”. Sea como sea, está funcionando."
+"No estoy completamente seguro de si es así como realmente se siente, o si es un acto que ha practicado varias veces para hacer a los estudiantes sentir remordimiento para que hagan \"lo correcto\". Sea como sea, está funcionando."
 
 hi "Entiendo. Todo esto es nuevo para mí, y me disculpo. Ahora conozco mis límites, y me apegaré a ellos."
 
@@ -135,7 +135,7 @@ with charachange
 
 mu "Ya veo. ¿Y cómo está tu… condición?"
 
-"La pausa antes de “condición” pareció un poco innecesaria."
+"La pausa antes de \"condición\" pareció un poco innecesaria."
 
 hi "No he tenido ningún problema hasta ahora."
 
@@ -679,7 +679,7 @@ play music music_happiness fadein 2.0
 
 "Las desfiguradas formas humanas han sido casi enteramente coloreadas en tonos rojos, rosas y naranjas; cosas… extrañas e imaginarias llenando los espacios en medio."
 
-"Luce… bien. No puedo pensar en ninguna palabra que describiría el trabajo consistente y comprensivamente así que me decido por un no-descriptivo “bien”."
+"Luce… bien. No puedo pensar en ninguna palabra que describiría el trabajo consistente y comprensivamente así que me decido por un no-descriptivo \"bien\"."
 
 "Pero honestamente, parece que el área alrededor de la pared se torna más desordenada con el mismo ritmo al cual el mural progresa."
 
@@ -915,7 +915,7 @@ with charaexit
 
 "Como el porqué Rin pinta. Parece como que Rin y Emi son iguales, yendo firmemente contra sus destinos como si fuera por simple despecho."
 
-"Rin incluso dijo algo como eso. “Haz algo que no puedes simplemente porque puedes”."
+"Rin incluso dijo algo como eso. \"Haz algo que no puedes simplemente porque puedes\"."
 
 "¿Eso es a lo que se refería? ¿Es esa su razón? Podría ser la de Emi, ella parece una persona un tanto testaruda."
 
@@ -1143,7 +1143,7 @@ with charachange
 
 no "Realmente me debo ir ahora, pero si tienes preguntas, estoy seguro de que Tezuka las puede aclarar."
 
-"De alguna forma, mencionar “aclarar” y Rin en la misma oración no se siente bien. Como sea, no digo mucho al maestro, pues parece que tiene prisa."
+"De alguna forma, mencionar \"aclarar\" y Rin en la misma oración no se siente bien. Como sea, no digo mucho al maestro, pues parece que tiene prisa."
 
 show nomiya smile
 with charachange
@@ -1214,7 +1214,7 @@ hi "No te estoy entendiendo."
 show rin negative_spaciness
 with charachange
 
-rin "¿Has hablado alguna vez sobre estar aburrido? No tiene sentido y no es muy emocionante. Todo lo que puedes decir en realidad es “Estoy tan aburrido”. Una vez pasé una semana intentando pensar en algo valioso para decir sobre el aburrimiento."
+rin "¿Has hablado alguna vez sobre estar aburrido? No tiene sentido y no es muy emocionante. Todo lo que puedes decir en realidad es \"Estoy tan aburrido\". Una vez pasé una semana intentando pensar en algo valioso para decir sobre el aburrimiento."
 
 rin "Fue la semana más aburrida que he tenido jamás."
 
@@ -1264,7 +1264,7 @@ rin "Ni idea."
 show rin basic_delight
 with charachange
 
-rin "Ahora que lo pienso, creo que le llamaré a esto “Ni idea”."
+rin "Ahora que lo pienso, creo que le llamaré a esto \"Ni idea\"."
 
 show rin negative_worried
 with charachange
@@ -1304,7 +1304,7 @@ with Dissolve(0.15)
 show rin negative_worried
 with Dissolve(0.5)
 
-"Ella sacude su cabeza vigorosamente por un rato, tratando de sacar “el pensar” fuera de su cabeza. Aquel cabello rojo ámbar vuela descontroladamente por doquier."
+"Ella sacude su cabeza vigorosamente por un rato, tratando de sacar \"el pensar\" fuera de su cabeza. Aquel cabello rojo ámbar vuela descontroladamente por doquier."
 
 show rin basic_deadpannormal
 with charachange
@@ -1424,7 +1424,7 @@ with Dissolve(3.0)
 
 "Cuando declara el mural terminado, es ya tan oscuro que no tengo idea de cómo puede notarlo."
 
-"No hay celebración, ni un sentido general de un trabajo bien hecho, solo un cansado y lacónico “Ya acabé” y luego ambos vamos a dormir."
+"No hay celebración, ni un sentido general de un trabajo bien hecho, solo un cansado y lacónico \"Ya acabé\" y luego ambos vamos a dormir."
 
 
 stop ambient fadeout 3.0
@@ -1672,7 +1672,7 @@ label es_A34a:
 
 "Tal vez Kenji está conectado a algo aquí…"
 
-hi "Esto parece demasiado para solo “mantenerme vigilado”."
+hi "Esto parece demasiado para solo \"mantenerme vigilado\"."
 
 show emi sad_grin
 with charachange
@@ -1901,7 +1901,7 @@ with locationchange
 
 "Doy un gruñido mientras me levanto de mi asiento, debatiendo brevemente entre ir o no a pasar el rato con Kenji."
 
-"No me parece del tipo “disfrutando el buen clima afuera con otros”, en verdad. Creo que me reuniré después con él."
+"No me parece del tipo \"disfrutando el buen clima afuera con otros\", en verdad. Creo que me reuniré después con él."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2918,7 +2918,7 @@ hi "Si este es un establecimiento de muy alta clase, entonces deben tener un caf
 scene ev shizu_shanghai
 with charachange
 
-"La respuesta perfecta, no hay forma en que puedan ponerse contra ella. Shizune se encoge de hombros, como para decir “bien jugado”."
+"La respuesta perfecta, no hay forma en que puedan ponerse contra ella. Shizune se encoge de hombros, como para decir \"bien jugado\"."
 
 "Ellas aún no han contestado mi segunda pregunta."
 
@@ -3687,7 +3687,7 @@ stop music fadeout 7.0
 
 "Puedo aceptar eso. Últimamente, ellas han estado luciendo fatigadas cada vez que las veo."
 
-"El trabajo del consejo estudiantil es aparentemente algo de “24 horas al día”, y por lo que he visto aquí, solo están ellas dos. Bueno, supongo que conmigo son tres."
+"El trabajo del consejo estudiantil es aparentemente algo de \"24 horas al día\", y por lo que he visto aquí, solo están ellas dos. Bueno, supongo que conmigo son tres."
 
 "Deben trabajar casi sin parar. Me pregunto cuánto tiempo pasan trabajando en esta habitación, cuando no las veo."
 
@@ -3859,9 +3859,9 @@ mi "Cuando vine a esta escuela, ellos solo me pusieron al lado de Shicchan, y el
 show misha sign_smile_ss
 with charachange
 
-mi "Y pensé, “¡Voy a estar pasando el resto del año al lado de esta persona, tal vez!”."
+mi "Y pensé, “¡Voy a estar pasando el resto del año al lado de esta persona, tal vez!\"."
 
-mi "“¡Así que sería bueno si pudiéramos ser amigas! Pero~, me pregunto si le gustaré”."
+mi "“¡Así que sería bueno si pudiéramos ser amigas! Pero~, me pregunto si le gustaré\"."
 
 show misha hips_grin_ss
 with charachange
@@ -4143,7 +4143,7 @@ with charachange
 
 mi "¿Un omelette chino? Muy bien, entonces."
 
-hi "Oye, Misha, ¿eso realmente significa “omelette”? ¿Puedo ver eso otra vez?"
+hi "Oye, Misha, ¿eso realmente significa \"omelette\"? ¿Puedo ver eso otra vez?"
 
 show misha hips_grin
 with charachange
@@ -4452,7 +4452,7 @@ with charachange
 
 ha "Yo… no lo sé."
 
-"Hanako responde en la forma en que lo hace la gente cuando no quieren que hagas más preguntas. Supongo que grandes multitudes y música fuerte no son su “estilo”."
+"Hanako responde en la forma en que lo hace la gente cuando no quieren que hagas más preguntas. Supongo que grandes multitudes y música fuerte no son su \"estilo\"."
 
 hi "Oh, está bien."
 
@@ -4579,3 +4579,4 @@ scene black
 with Dissolve(3.0)
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1691,7 +1691,7 @@ with None
 
 "Él asiente y se despide, Akira colocando un brazo sobre el hombro de Lilly mientras la guía lejos de nuestro campo auditivo."
 
-"Y así, estoy solo con el “Peque”."
+"Y así, estoy solo con el \"Peque\"."
 
 hi "Entonces… buen clima, ¿no crees?"
 
@@ -2489,7 +2489,7 @@ li "Uno podría decir que es la forma perfecta de evitar que la gente tome prest
 
 "Ella dice esto en broma, pero me siento un poco desilusionado. Tener todos estos libros a mi alrededor sin tener forma de leerlos se siente como una gran tentación."
 
-"Hanako se ríe en silencio mientras alcanzo la pila más cercana, tomando el libro superior con solo una inspección general. “Death on the Nile”, en grandes letras sobre la cubierta, es el único texto impreso visible."
+"Hanako se ríe en silencio mientras alcanzo la pila más cercana, tomando el libro superior con solo una inspección general. \"Death on the Nile\", en grandes letras sobre la cubierta, es el único texto impreso visible."
 
 $ renpy.music.set_volume(0.5, 0.5, channel="music")
 play sound sfx_paper
@@ -2703,7 +2703,7 @@ aki "Fuertes palabras para quien prácticamente está babeando mientras examina 
 show lilly basic_displeased_paj
 with charachange
 
-"Lilly frota su frente, rindiéndose en la pelea que sabe que Akira ganaría simplemente por no importarle lo suficiente esas ridículas “reglas” y “regulaciones”."
+"Lilly frota su frente, rindiéndose en la pelea que sabe que Akira ganaría simplemente por no importarle lo suficiente esas ridículas \"reglas\" y \"regulaciones\"."
 
 show lilly basic_displeased_paj
 with charachange
@@ -4352,7 +4352,7 @@ with charachange
 
 "Todo lo que puedo hacer es levantar una ceja y darle una sonrisa deslumbrada. No creo que haya visto este lado juguetón y coqueto de ella antes."
 
-"Entonces… Soy “diferente”. Es difícil distinguir el contexto exacto, pero conociéndola, esta ambigüedad es intencional."
+"Entonces… Soy \"diferente\". Es difícil distinguir el contexto exacto, pero conociéndola, esta ambigüedad es intencional."
 
 "Nuestra relación ha estado cambiando, por lo menos simplemente porque he comenzado a valerme por mí mismo más y he comenzado a sentir más curiosidad por la situación de quienes me rodean."
 
@@ -4514,7 +4514,7 @@ with Pause (1.0)
 
 "El nombre prolijamente adornando al reverso del sobre me detiene por completo. Ha pasado tanto tiempo desde que vi su letra, que no hay muchas posibilidades de que pudiera identificarla como suya de otra forma."
 
-"“Iwanako”."
+"“Iwanako\"."
 
 "¿Por qué… me podrá haber escrito? No puedo pensar en ningún buen motivo para hacer esto."
 
@@ -4539,7 +4539,7 @@ n "\n\n\nAunque me gustaría decir que no sé por qué ella usó un método tan 
 
 n "Una carta deja una distancia cómoda entre el remitente y el destinatario. A diferencia de un teléfono, no se requiere ninguna conversación, y a diferencia de un e-mail, hay menos expectativa de una respuesta inmediata."
 
-n "\nAfirmaciones como “los ánimos entre los de tercer año parecen ser de muchas ansias por los exámenes finales”, y “es tan extraño pensar que ya estamos en el último año, ¿no es así?” son nada más que cháchara. Cháchara que podría haberse conseguido simplemente respondiendo a cualquiera de los mensajes que le envié cuando estaba en el hospital."
+n "\nAfirmaciones como \"los ánimos entre los de tercer año parecen ser de muchas ansias por los exámenes finales\", y \"es tan extraño pensar que ya estamos en el último año, ¿no es así?\" son nada más que cháchara. Cháchara que podría haberse conseguido simplemente respondiendo a cualquiera de los mensajes que le envié cuando estaba en el hospital."
 
 n "El final, sin embargo, es el motivo verdadero por el que envió esto. Las últimas líneas, añadidas casi como si fuera una idea de último momento."
 
@@ -4553,7 +4553,7 @@ with locationchange
 
 nvl show dissolve
 
-n "\n\n\n\n\n\n\n“Me pregunto si nos encontraremos de nuevo. ¿Tal vez sea mejor si no?”"
+n "\n\n\n\n\n\n\n\"Me pregunto si nos encontraremos de nuevo. ¿Tal vez sea mejor si no?\""
 
 n "Es una afirmación que debería doler. Siempre he escuchado que el terminar es cosa seria, pero se siente como si esto fuera simplemente una reafirmación de algo que ambos ya sabíamos."
 
@@ -4561,7 +4561,7 @@ n "Es el texto que lo antecede, no más que cháchara, lo que me hace sentir má
 
 nvl clear
 
-n "\n\n\n\n\n\n\n\n“Si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta”."
+n "\n\n\n\n\n\n\n\n\"Si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta\"."
 
 n "Es claramente obvio que este no es el tipo de carta que uno respondería. Al final, esta carta no es más que una simple abdicación de responsabilidad; una afirmación final para asegurarse a sí misma de que nuestra relación se ha acabado."
 
@@ -4980,7 +4980,7 @@ hi "La mari…"
 
 "Al mirar alrededor, en efecto, una pequeña mariposa amarilla revolotea por mi campo de visión."
 
-hi "Entonces dime, ¿cómo ayudó esta mariposa a Lilly a “robar” este lugar?"
+hi "Entonces dime, ¿cómo ayudó esta mariposa a Lilly a \"robar\" este lugar?"
 
 show rin basic_lucid
 with charachange
@@ -5425,7 +5425,7 @@ emi "¡Ves! Solo alguien mitad extranjero podría haber obtenido un puntaje tan 
 show rin basic_absent
 with charachange
 
-hi "“Ves”…"
+hi "“Ves\"…"
 
 show rin basic_awayabsent
 show emi basic_closedsweat
@@ -5611,7 +5611,7 @@ with locationskip
 
 "Sonrío cuando me doy cuenta del significado del ave."
 
-"“Todos aquí tenemos que encontrar nuestra propia manera de tratar con sus condiciones. No estás solo aquí cuando tienes problemas”."
+"“Todos aquí tenemos que encontrar nuestra propia manera de tratar con sus condiciones. No estás solo aquí cuando tienes problemas\"."
 
 hi "Gracias, Lilly. Agradezco esto."
 
@@ -5833,7 +5833,7 @@ $ renpy.music.set_volume(1.0, 0.0, channel="ambient")
 play ambient sfx_rooftop fadein 1.0
 play music music_tranquil fadein 3.0
 
-"El largo viaje en taxi hasta el aeropuerto es sorprendentemente agradable, a pesar de que los tres estemos algo apretados juntos para caber en el pequeño asiento trasero. Por otra parte, quizás “pesar” no es la palabra apropiada."
+"El largo viaje en taxi hasta el aeropuerto es sorprendentemente agradable, a pesar de que los tres estemos algo apretados juntos para caber en el pequeño asiento trasero. Por otra parte, quizás \"pesar\" no es la palabra apropiada."
 
 "Lilly paga la tarifa al conductor cuando nos bajamos, los ojos de Hanako revolotean de izquierda a derecha. Afortunadamente no hay mucha gente por los alrededores, la mayoría de ellos estando dentro del edificio central en lugar de rondar por afuera."
 
@@ -6015,3 +6015,4 @@ stop ambient fadeout 3.0
 window hide
 
 return
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
