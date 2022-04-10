@@ -13,9 +13,9 @@ play music music_normal fadein 1.0
 
 n " {vspace=90}After the excitement of our trip to Hokkaido, it seems strange to be right back to the usual daily routine so soon. Indeed, it feels like a normal day, the same as any other."
 
-n "" {vspace=30}Well, that's what I'd like to think, anyway."
+n " {vspace=30}Well, that's what I'd like to think, anyway."
 
-n "" {vspace=30}To tell the truth, the atmosphere of the entire class, no, the entire school has changed."
+n " {vspace=30}To tell the truth, the atmosphere of the entire class, no, the entire school has changed."
 
 n "While an undercurrent of subdued trepidation had previously pervaded the class, now that the exams are in sight it's boiled over into frantic studying rarely seen otherwise."
 
@@ -3117,7 +3117,7 @@ nvl clear
 
 n " {vspace=60}But such situations are also supposed to make you very capable in that language very fast, as you're forced to learn it in order to survive. Put another way, the situation becomes \"sink or swim.\""
 
-n "" {vspace=30}I wonder if I've really managed to swim, after all this time."
+n " {vspace=30}I wonder if I've really managed to swim, after all this time."
 
 n "The exams are stressing me out a lot, even though they're finally coming to an end, but I have remained in Mutou's favor, and I have some sort of direction for my future now."
 
@@ -3131,7 +3131,7 @@ n " {vspace=60}It really is amazing how fast one comes to accept being surround
 
 n "So much so, that I really wonder why I feel so much like a foreigner."
 
-n "" {vspace=30}It certainly isn't for lack of socialization or friends. I've come to know most of my classmates on first-name terms, and know a few others around the school. Whether they're missing an arm or a leg, the students here are just like anyone else of their age."
+n " {vspace=30}It certainly isn't for lack of socialization or friends. I've come to know most of my classmates on first-name terms, and know a few others around the school. Whether they're missing an arm or a leg, the students here are just like anyone else of their age."
 
 n " {vspace=60}I can navigate the halls that I once lost myself in with an ease I'd not expected to ever have, thanks to the school's logical layout, and can engage my teachers in comfortable discussion."
 
@@ -6373,7 +6373,7 @@ n " {vspace=90}Hanako's plans for her holidays are in sharp contrast to my simp
 
 n "Holidays had always made me feel less excited than most, though, so maybe this is just a return to the status quo."
 
-n "" {vspace=30}Before my heart attack, I'd always lived so aimlessly that holidays weren't all that much different from my everyday life anyway."
+n " {vspace=30}Before my heart attack, I'd always lived so aimlessly that holidays weren't all that much different from my everyday life anyway."
 
 n "After school I'd wander around a bit in the city, often hanging out with some friends, before making my way home to eat dinner with usually one of my parents, but rarely both."
 
