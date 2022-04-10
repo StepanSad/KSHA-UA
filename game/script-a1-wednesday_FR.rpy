@@ -3459,7 +3459,7 @@ with charaexit
 "Devrais-je le dire naturellement lors des présentations ? Est-ce ce qu'on attend de moi ?"
 
 
-"“Salut, je suis Hisao. J'ai un gros problème cardiaque.'"
+"'Salut, je suis Hisao. J'ai un gros problème cardiaque.'"
 
 
 "C'est comme ça que je suis supposé me présenter à partir de maintenant ?"

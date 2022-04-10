@@ -268,7 +268,7 @@ with charachange
 
 mi "Okay~! Well, like we were asking, you don't have any plans for lunch today, do you?"
 
-"“I thought I would go to the library and pick up some books.'"
+"'I thought I would go to the library and pick up some books.'"
 
 hi "…Not really."
 
@@ -818,7 +818,7 @@ with charachange
 
 mi "That's not true, Hicchan, Shicchan says that when their life is threatened, people have shown the capability to pull off superhuman bursts of speed."
 
-hi "“Life is threatened?'"
+hi "'Life is threatened?'"
 
 show shizu behind_smile
 with charachange
@@ -1995,7 +1995,7 @@ with locationskip
 
 "She must have noticed me staring before."
 
-hi "“Life of Pi'? I've never heard of it before. What's it about?"
+hi "'Life of Pi'? I've never heard of it before. What's it about?"
 
 ha "A boy… and a tiger…"
 
@@ -2061,7 +2061,7 @@ with locationchange
 
 "I take the seat next to her, and she hides herself behind her book."
 
-"“Life of Pi'… Never heard of it."
+"'Life of Pi'… Never heard of it."
 
 hi "So, errr… sorry again for startling you. I'm Hisao."
 

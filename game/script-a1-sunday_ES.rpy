@@ -3980,7 +3980,7 @@ li "Estás en lo cierto. Sería agradable ir ahí cuando llegue."
 
 "Ver a ellas dos me recuerda aquel consejo que Lilly me había dado mientras caminamos hacia el pueblo juntos."
 
-"“Atesora la oportunidad de hacer nuevos amigos', ¿eh?"
+"'Atesora la oportunidad de hacer nuevos amigos', ¿eh?"
 
 hi "Oye, ¿Lilly?"
 

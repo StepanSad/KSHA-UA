@@ -117,7 +117,7 @@ label es_A19i:
 show emi excited_circle_gym
 with charachange
 
-emi "“¿Señorita Ibarazaki?'"
+emi "'¿Señorita Ibarazaki?'"
 
 "Imita a Misha 'imitando' a Shizune, sin lograr obtener ese tenue tono alegre con su voz aguda."
 
@@ -641,7 +641,7 @@ show kenji tsun_naked
 with charachange
 
 
-ke "Y ese día llegará, cuando las feministas salgan de su cuartel general central feminista mundial ultra secreto en todo el mundo, y digan “¡Ahora es cuando, hijos de puta!'."
+ke "Y ese día llegará, cuando las feministas salgan de su cuartel general central feminista mundial ultra secreto en todo el mundo, y digan '¡Ahora es cuando, hijos de puta!'."
 
 hi "Estás siendo ridículo, no hay tal gran edificio del 'cuartel general feminista mundial', ¿dónde iban siquiera a esconder eso?"
 hi "Quiero decir, tendría que ser masivo, no podrías esconder eso en la Tierra, alguien notaría una gran fortaleza con solo mujeres dentro."
@@ -953,7 +953,7 @@ shi "…"
 show misha cross_frown
 with charachange
 
-mi "¡Hoy! ¡La fecha límite es hoy! Sí que te estás tomando tu tiempo, ¿no es así? Si yo pudiese hacer las cosas a mi modo, hubiera tenido todo el papeleo hecho hace días, pero ¡alguien~! tuvo que decir “¡por favor, extiende la fecha límite~!'."
+mi "¡Hoy! ¡La fecha límite es hoy! Sí que te estás tomando tu tiempo, ¿no es así? Si yo pudiese hacer las cosas a mi modo, hubiera tenido todo el papeleo hecho hace días, pero ¡alguien~! tuvo que decir '¡por favor, extiende la fecha límite~!'."
 
 show lilly cane_displeased
 with charachange
@@ -1288,7 +1288,7 @@ with charachange
 show misha hips_smile
 with charachange
 
-mi "¡Representante~! Shicchan dice: “¡No te olvides de ese informe, por favor~!'."
+mi "¡Representante~! Shicchan dice: '¡No te olvides de ese informe, por favor~!'."
 
 li "No lo haré."
 
@@ -3835,7 +3835,7 @@ with charachange
 
 ke "Sí, unos puestos afuera. O algo así."
 
-"¿“O algo así'? Su naturaleza evasiva desencadena una buena cantidad de sospecha de mi parte. Sin embargo, concentrarme en la tarea viene primero."
+"¿'O algo así'? Su naturaleza evasiva desencadena una buena cantidad de sospecha de mi parte. Sin embargo, concentrarme en la tarea viene primero."
 
 hi "Entonces, ¿cómo quieres dividir esto? ¿Nosotros hacemos los bordes mientras tú haces el texto? ¿O quieres cambiar y hacer los bordes?"
 

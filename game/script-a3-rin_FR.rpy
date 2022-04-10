@@ -1945,7 +1945,7 @@ show yuuko closedhappy_down
 with charachange
 
 
-yu "Oui, quand je me sens vraiment mal, je prends un peu de recul et me fais une tasse de thé ! Et quand j'ai bu le thé, je me donne un coup de pied aux fesses, genre WHAM ! Et puis je me dis 'maintenant tu vas le faire Yuuko !“ et puis je le fais."
+yu "Oui, quand je me sens vraiment mal, je prends un peu de recul et me fais une tasse de thé ! Et quand j'ai bu le thé, je me donne un coup de pied aux fesses, genre WHAM ! Et puis je me dis 'maintenant tu vas le faire Yuuko !' et puis je le fais."
 
 show yuuko happy_up
 with charachange

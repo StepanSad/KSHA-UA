@@ -4906,7 +4906,7 @@ with charaexit
 "Bizarre. Je crois que j'avais l'habitude d’être un peu plus responsable de mes affaires."
 
 
-"“Emi-esque', hein ?"
+"'Emi-esque', hein ?"
 
 
 "Peut-être que ce n'est pas une si mauvaise chose."
@@ -6299,7 +6299,7 @@ play music music_rain fadein 5.0
 
 "Ce qui m’inquiète encore plus est le nom de l’expéditeur, parfaitement écrit au dos de l'enveloppe."
 
-"“Iwanako.'"
+"'Iwanako.'"
 
 
 "Je n'ai aucune idée de la raison pour laquelle elle m'écrirait. Je n'ai pas été en contact avec qui que ce soit de mon ancienne école depuis que j'ai été transféré, et Iwanako est vraiment la dernière personne que j'aurais imaginée m'envoyer une lettre."
@@ -8620,7 +8620,7 @@ show yuuko smile_down
 with charachange
 
 
-yu "“Cryptographie avancée'. On vient de l'avoir, et maintenant il a disparu."
+yu "'Cryptographie avancée'. On vient de l'avoir, et maintenant il a disparu."
 
 show yuuko worried_up
 with charachange

@@ -275,7 +275,7 @@ with charachange
 
 mi "¡Muy bien~! Bueno, como estábamos preguntando, no tienes ningún plan para el almuerzo hoy, ¿o sí?"
 
-"“Había pensado en ir a la biblioteca y sacar unos libros'."
+"'Había pensado en ir a la biblioteca y sacar unos libros'."
 
 hi "… No realmente."
 
@@ -835,7 +835,7 @@ with charachange
 
 mi "Eso no es cierto, Hicchan, Shicchan dice que hay personas que, cuando su vida se encuentra amenazada, han mostrado la capacidad de tener arranques de velocidad sobrehumanas."
 
-hi "¿“Su vida se encuentra amenazada'?"
+hi "¿'Su vida se encuentra amenazada'?"
 
 show shizu behind_smile
 with charachange
@@ -1377,7 +1377,7 @@ play sound sfx_door_creak
 
 "La puerta chirría lentamente como si se quejara desde un profundo sueño, sin embargo es mucho más fácil de abrir de lo que había anticipado."
 
-"Inclinándome hacia delante y asomando mi cabeza cada vez más adentro para llegar a ver el lugar lo antes posible, el dócil “¿Hola…?' en mis labios me es velozmente arrebatado."
+"Inclinándome hacia delante y asomando mi cabeza cada vez más adentro para llegar a ver el lugar lo antes posible, el dócil '¿Hola…?' en mis labios me es velozmente arrebatado."
 
 window hide
 
@@ -2052,7 +2052,7 @@ with locationskip
 "Seguramente se dio cuenta de que la miraba."
 
 
-hi "¿“La Vida de Pi'? Nunca había oído de él antes. ¿De qué trata?"
+hi "¿'La Vida de Pi'? Nunca había oído de él antes. ¿De qué trata?"
 
 ha "Un niño… y un tigre…"
 
@@ -2119,7 +2119,7 @@ with locationchange
 
 "Tomo asiento a su lado, y se esconde detrás de su libro."
 
-"“La Vida de Pi'… Nunca he oído de él."
+"'La Vida de Pi'… Nunca he oído de él."
 
 hi "Y bien, ahh… disculpa otra vez por asustarte. Soy Hisao."
 

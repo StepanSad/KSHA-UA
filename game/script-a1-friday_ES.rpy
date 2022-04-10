@@ -3605,7 +3605,7 @@ rin "Mala suerte."
 
 hi "¿Pasa algo malo, Lilly?"
 
-"Resisto la urgencia de decir “¿Aparte de nuestra compañera de viaje?'. Pero solo por poco."
+"Resisto la urgencia de decir '¿Aparte de nuestra compañera de viaje?'. Pero solo por poco."
 
 "Por un instante parece considerar si debería siquiera de mencionarlo, pero decide hacerlo de cualquier forma."
 

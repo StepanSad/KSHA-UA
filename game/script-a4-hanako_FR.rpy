@@ -483,7 +483,7 @@ ke "C'est quoi cette réponse ?"
 hi "Désolé, je réfléchissais juste à pas mal de trucs."
 
 
-ke "“Réfléchir' n'est qu'une pauvre excuse pour ne pas contribuer à l'effort de guerre."
+ke "'Réfléchir' n'est qu'une pauvre excuse pour ne pas contribuer à l'effort de guerre."
 
 
 hi "Et comment se passe la guerre ?"
@@ -2245,7 +2245,7 @@ ha "Mais... je pensais que tu voulais réviser."
 "Les révisions peuvent attendre. Venir en classe après tout ce temps a dû demander beaucoup de courage à Hanako, donc le moins que je puisse faire est de rester avec elle."
 
 
-"“Elle est juste comme ça, et tu dois faire avec' est la façon dont Miki, et probablement la classe entière, voient Hanako. Mais je peux faire plus pour elle. Je veux faire plus pour elle."
+"'Elle est juste comme ça, et tu dois faire avec' est la façon dont Miki, et probablement la classe entière, voient Hanako. Mais je peux faire plus pour elle. Je veux faire plus pour elle."
 
 
 hi "Après avoir été distrait par Miki, je ne crois pas que je vais réussir à travailler. Allez, on y va."
@@ -5100,7 +5100,7 @@ play ambient sfx_parkambience fadein 2.0
 "Je mets ma main dans ma poche encore une fois. Cette fois je navigue rapidement jusqu'au menu des e-mails avant d'avoir une chance de changer d'avis."
 
 
-"“Hanako, si tu veux parler, je serai au parc en ville pendant un moment.'"
+"'Hanako, si tu veux parler, je serai au parc en ville pendant un moment.'"
 
 
 "Combattant un dernier doute, je choisis Hanako dans la liste et appuie sur envoyer."

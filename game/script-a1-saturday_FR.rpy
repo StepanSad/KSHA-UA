@@ -4830,7 +4830,7 @@ with charachange
 mi "Et j'ai pensé, 'Je vais peut-être passer le reste de mon année à côté de cette personne !'"
 
 
-mi "“Donc ça serait bien si on pouvait être amies ! Mais~, je me demandais si elle m'aimerait bien.'"
+mi "'Donc ça serait bien si on pouvait être amies ! Mais~, je me demandais si elle m'aimerait bien.'"
 
 show misha hips_grin_ss
 with charachange

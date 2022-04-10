@@ -3859,9 +3859,9 @@ mi "Cuando vine a esta escuela, ellos solo me pusieron al lado de Shicchan, y el
 show misha sign_smile_ss
 with charachange
 
-mi "Y pensé, “¡Voy a estar pasando el resto del año al lado de esta persona, tal vez!'."
+mi "Y pensé, '¡Voy a estar pasando el resto del año al lado de esta persona, tal vez!'."
 
-mi "“¡Así que sería bueno si pudiéramos ser amigas! Pero~, me pregunto si le gustaré'."
+mi "'¡Así que sería bueno si pudiéramos ser amigas! Pero~, me pregunto si le gustaré'."
 
 show misha hips_grin_ss
 with charachange

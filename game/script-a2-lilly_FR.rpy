@@ -2081,7 +2081,7 @@ with None
 "Il hoche la tête et lui fait un signe de la main, Akira met une main sur l’épaule de Lilly et l’emmène hors de portée de voix."
 
 
-"Et donc, je suis seul avec 'Petit“."
+"Et donc, je suis seul avec 'Petit'."
 
 
 
@@ -5622,7 +5622,7 @@ with Pause (1.0)
 "Le nom ornant le dos de l'enveloppe me paralyse. Ça fait si longtemps que je n'ai pas vu son écriture, que sans le nom, je n'aurais certainement pas pu l'identifier."
 
 
-"“Iwanako.'"
+"'Iwanako.'"
 
 
 "Pourquoi... m'a-t-elle écrit ? Je ne trouve pas de bonne raison pour qu'elle l'ait fait."
@@ -5655,7 +5655,7 @@ n " {vspace=90}Bien que j'aimerais dire que je ne sais pas pourquoi elle utilis
 n "Une lettre laisse une distance confortable entre l'expéditrice et le destinataire. Contrairement à un téléphone, il n'est pas requis d'engager une conversation, et contrairement à un mail, on attend moins une réponse immédiate."
 
 
-n " {vspace=30}Des phrases telles que 'les étudiants de troisième année semblent très inquiets pour les examens finaux' ou 'c'est bizarre de penser qu'on est déjà en dernière année, non ?“ sont juste là pour parler de choses peu importantes. Des choses qui auraient pu être répondues à n'importe lequel des messages que je lui ai envoyés pendant que j’étais à l’hôpital."
+n " {vspace=30}Des phrases telles que 'les étudiants de troisième année semblent très inquiets pour les examens finaux' ou 'c'est bizarre de penser qu'on est déjà en dernière année, non ?' sont juste là pour parler de choses peu importantes. Des choses qui auraient pu être répondues à n'importe lequel des messages que je lui ai envoyés pendant que j’étais à l’hôpital."
 
 
 
@@ -6725,7 +6725,7 @@ show rin basic_absent
 with charachange
 
 
-hi "“Tu vois'..."
+hi "'Tu vois'..."
 
 show rin basic_awayabsent
 show emi basic_closedsweat
@@ -6958,7 +6958,7 @@ with locationskip
 "Je souris en réalisant la signification de l'oiseau."
 
 
-"“Tout le monde ici doit trouver ses propres moyens de gérer son handicap. Tu n'es pas seul ici quand tu as des problèmes.'"
+"'Tout le monde ici doit trouver ses propres moyens de gérer son handicap. Tu n'es pas seul ici quand tu as des problèmes.'"
 
 
 hi "Merci, Lilly. J’apprécie l'attention."

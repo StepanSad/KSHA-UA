@@ -397,7 +397,7 @@ ke "¿Qué onda con esa respuesta?"
 
 hi "Perdón, solo estaba pensando en varias cosas."
 
-ke "“Pensando' es una respuesta bastante pobre para no estar ayudando en la campaña solidaria de la guerra."
+ke "'Pensando' es una respuesta bastante pobre para no estar ayudando en la campaña solidaria de la guerra."
 
 hi "¿Y cómo va la guerra?"
 
@@ -834,7 +834,7 @@ hi "Perdón, solo me tomaste un poco con la guardia baja. Como sea, ¿no es Hana
 
 li "Ya hace algún tiempo he pensado que ambos podrían haber estado alimentándose entre ustedes los hábitos más preocupantes de cada uno. Traté de enmendar esto antes de irme, pero parece que logré muy poco."
 
-hi "¿“Hábitos preocupantes'?"
+hi "¿'Hábitos preocupantes'?"
 
 li "Cuando te pregunté sobre lo que tenías en mente para el futuro, tu respuesta fue muy similar a lo que Hanako había dicho en el pasado cuando esa pregunta se le presentó."
 
@@ -1773,7 +1773,7 @@ ha "Pero… pensé que estabas estudiando."
 
 "El estudio puede esperar. Presentarse a clase después de todo este tiempo debe haber pedido algo de coraje a Hanako, así que lo menos que puedo hacer es estar con ella."
 
-"“Esa es su forma de ser y solo tienes que lidiar con ello' es la forma en que Miki y probablemente el grupo entero ve a Hanako. Sin embargo puedo hacer más por ella. Quiero hacer más por ella."
+"'Esa es su forma de ser y solo tienes que lidiar con ello' es la forma en que Miki y probablemente el grupo entero ve a Hanako. Sin embargo puedo hacer más por ella. Quiero hacer más por ella."
 
 hi "Después de ser distraído por Miki, no creo que vaya a lograr hacer nada. Vente, vamos."
 
@@ -2154,7 +2154,7 @@ play music music_night fadein 1.0
 
 "Al final, supongo que fue una idea algo ingenua. Tarde o temprano, mi pasado me habría alcanzado de una forma u otra."
 
-"¿Pero qué se supone que le diga? ¿“Gracias por terminar conmigo'? Todo lo que hizo la carta fue acabar con la sensación de conclusión que desde antes sentí."
+"¿Pero qué se supone que le diga? ¿'Gracias por terminar conmigo'? Todo lo que hizo la carta fue acabar con la sensación de conclusión que desde antes sentí."
 
 "Por más que lo intento, no puedo escribir ni una simple palabra en el papel frente a mí. No puedo pensar ni siquiera en exactamente qué es lo que quiero decir."
 
@@ -4053,7 +4053,7 @@ play ambient sfx_parkambience fadein 2.0
 
 "Mi mano se hunde en mi bolsillo una vez más. Esta vez navego rápidamente al menú de mensajes de texto antes de tener oportunidad de cambiar de opinión otra vez."
 
-"“Hanako, si quieres hablar, estaré en el parque del pueblo por un rato'."
+"'Hanako, si quieres hablar, estaré en el parque del pueblo por un rato'."
 
 "Peleando contra una última cantidad de duda, digito mi mensaje a Hanako y presiono el botón para enviarlo."
 

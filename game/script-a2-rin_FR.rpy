@@ -3577,7 +3577,7 @@ nvl show dissolve
 n " {vspace=120}La remarque qu'elle a faite plus tôt me trotte dans la tête."
 
 
-n "“Emi est la plus Emi-esque quand elle court.'"
+n "'Emi est la plus Emi-esque quand elle court.'"
 
 
 n "C'est logique, maintenant que j'y pense. Après avoir vu sa course, je peux croire qu'Emi donne tout ce qu'elle a sur la piste."

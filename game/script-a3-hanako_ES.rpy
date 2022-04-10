@@ -1465,7 +1465,7 @@ with charaenter
 
 li "No creo que ella tenga mucha necesidad de algo así, ¿y eso qué tipo de mensaje le enviaría?"
 
-hi "Um… ¿“cocina más comida'? Eso no es tan mala idea, tal vez…"
+hi "Um… ¿'cocina más comida'? Eso no es tan mala idea, tal vez…"
 
 show lilly cane_weaksmile_cas_close
 with charachange
@@ -3145,7 +3145,7 @@ with charachange
 
 li "No estoy del todo segura de exactamente cómo se encuentra en este momento, pero lo último que escuché es que estaba estable. Me iré el sábado; es el vuelo más cercano que pude conseguir."
 
-"“Estable'. Ese es el código para 'necesita quedarse en el hospital'."
+"'Estable'. Ese es el código para 'necesita quedarse en el hospital'."
 
 "He estado 'estable' lo suficiente como para saber eso, y para saber que no necesariamente significa que alguien está en buenas condiciones, sino meramente en un punto muerto."
 

@@ -539,7 +539,7 @@ with charachange
 hh "Tu es la deuxième personne que ma sœur a emmenée avec elle ?"
 
 
-hi "“Emmenée avec elle' ? Je ne suis pas une valise."
+hi "'Emmenée avec elle' ? Je ne suis pas une valise."
 
 
 hi "Bref, je suis Hisao. Tu as pris mon sac ?"
@@ -1557,7 +1557,7 @@ with charachange
 hh "Qu'est-ce qu'on va prendre comme petit déjeuner ?"
 
 
-hi "“On ?' Tu n'es pas déjà en train de manger ?"
+hi "'On ?' Tu n'es pas déjà en train de manger ?"
 
 show hideaki normal
 with charachange
@@ -2325,7 +2325,7 @@ hx "Arrête de parler. Tu parles mal. J'en ai assez de ta grossièreté. Vraimen
 hi "Quoi... ?"
 
 
-hx "“Quoi ?' Tu es si irrespectueux. Incroyable. Tous les délinquants sont comme ça ? Même la façon dont tu t'habilles montre un irrespect total de l'autorité. Sweat-shirt. Honteux..."
+hx "'Quoi ?' Tu es si irrespectueux. Incroyable. Tous les délinquants sont comme ça ? Même la façon dont tu t'habilles montre un irrespect total de l'autorité. Sweat-shirt. Honteux..."
 
 
 hi "Délinquant ? Je suis dans le Conseil des Étudiants."
@@ -4073,7 +4073,7 @@ with charachange
 hx "Tu poses même les questions de manière impolie. Honteux. Cela dit, pourquoi est-ce que tu me poses une question aussi stupide ? Comment est-ce que je saurais ? Suis-je le gardien de mon fils ?"
 
 
-"“Eh bien, vous êtes son père, et apparemment il vit ici, alors...' Mais je ne peux pas dire ça, même si c'est tentant."
+"'Eh bien, vous êtes son père, et apparemment il vit ici, alors...' Mais je ne peux pas dire ça, même si c'est tentant."
 
 
 "J'abandonne. J'ai essayé de discuter avec lui et j'ai échoué. C'est comme parler à un mur de brique qui vous déteste. Ça me suffit pour partir, je fouille dans mon portefeuille pour voir si j'ai assez d'argent pour aller voir un film."
@@ -5182,7 +5182,7 @@ show shizu cross_angry
 with charachange
 
 
-ssh "“Encore' six mois ? S'ils ne font rien maintenant, ils ne méritent pas un vote !"
+ssh "'Encore' six mois ? S'ils ne font rien maintenant, ils ne méritent pas un vote !"
 
 show mishashort sign_smile
 with charachange
@@ -6882,7 +6882,7 @@ with charachange
 ke "La seule question maintenant est comment est-ce qu'elles peuvent agir comme des termites quand elles sont naturellement repoussées par le bois."
 
 
-hi "“Tu ne pourras plus jamais rentrer chez toi.' C'est ça ?"
+hi "'Tu ne pourras plus jamais rentrer chez toi.' C'est ça ?"
 
 show kenji neutral
 with charachange
@@ -7446,7 +7446,7 @@ play sound sfx_snap
 "C'est définitivement pour attirer l'attention, ce qui est inestimable pour une muette. Elle s'est peut-être entraînée rien que pour ça."
 
 
-his "“Tout ton travail' ? Tu es trop sévère."
+his "'Tout ton travail' ? Tu es trop sévère."
 
 show shizu behind_blank
 with charachange
@@ -7653,7 +7653,7 @@ with charachange
 ssh "Commander deux jours de suite est anormal. Seulement en cas d'urgence. C'est ma politique personnelle."
 
 
-"C'est pour ça qu'on devrait penser à mettre à manger dans son bureau, ça serait plus facile de se débrouiller en cas d'“urgence'. J'ai envie de lui dire, mais signer au moins cinq fois à quel point je suis affamé m'a trop fatigué pour que je fasse le malin."
+"C'est pour ça qu'on devrait penser à mettre à manger dans son bureau, ça serait plus facile de se débrouiller en cas d''urgence'. J'ai envie de lui dire, mais signer au moins cinq fois à quel point je suis affamé m'a trop fatigué pour que je fasse le malin."
 
 
 "Je suis grandement tenté, cela dit."
@@ -7680,7 +7680,7 @@ with charachange
 mi "Hicchan~ ! Tu es là aussi~ !"
 
 
-hi "“Aussi ?' Comment est-ce que tu savais qu'il y avait déjà quelqu'un ?"
+hi "'Aussi ?' Comment est-ce que tu savais qu'il y avait déjà quelqu'un ?"
 
 show mishashort sign_smile
 with charachange
@@ -8595,7 +8595,7 @@ hi "Pas de ça..."
 hi "Qu'est-ce qui se passe entre Shizune et toi ? Elle ne veut pas me dire, alors je te demande."
 
 
-"“Parce que c'est plus facile d'avoir une réponse de ta part, vu que la même latence qui me donne le temps de mentir lui donne le temps d'éviter mes questions.' Alors que je vois qu'elle hésite, je la pousse un peu."
+"'Parce que c'est plus facile d'avoir une réponse de ta part, vu que la même latence qui me donne le temps de mentir lui donne le temps d'éviter mes questions.' Alors que je vois qu'elle hésite, je la pousse un peu."
 
 
 hi "Donne-moi une réponse honnête, s'il te plaît."

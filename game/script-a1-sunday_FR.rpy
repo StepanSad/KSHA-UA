@@ -5086,7 +5086,7 @@ li "Tu as raison. Ça serait bien d'y aller quand ça arrivera."
 "Les voir toutes les deux me rappelle le conseil que m'avait donné Lilly quand on avait été en ville ensemble."
 
 
-"“Chérir l'opportunité de se faire de nouveaux amis', hein ?"
+"'Chérir l'opportunité de se faire de nouveaux amis', hein ?"
 
 
 hi "Dis, Lilly ?"

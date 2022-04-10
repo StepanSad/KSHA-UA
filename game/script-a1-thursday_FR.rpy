@@ -147,7 +147,7 @@ show emi excited_circle_gym
 with charachange
 
 
-emi "“Mademoiselle Ibarazaki ?'"
+emi "'Mademoiselle Ibarazaki ?'"
 
 
 "Elle imite Misha 'imitant' Shizune, ne réussissant pas à obtenir le même genre de cadence modérée dans sa voix haut perchée."
@@ -4741,7 +4741,7 @@ with charachange
 ke "Ouais, des stands à l'extérieur. Ou un truc du genre."
 
 
-"“Ou un truc du genre ?' Sa nature évasive ne fait que renforcer mes soupçons à son sujet. Mais la bannière passe avant, de toute façon."
+"'Ou un truc du genre ?' Sa nature évasive ne fait que renforcer mes soupçons à son sujet. Mais la bannière passe avant, de toute façon."
 
 
 hi "Alors, comment tu veux le partager ? On fait les bords pendant que tu fais le texte ? Ou tu veux échanger et faire les bords ?"

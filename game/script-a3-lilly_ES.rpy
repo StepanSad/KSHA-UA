@@ -1332,7 +1332,7 @@ hi "Cierto. ¿Entonces cómo va la vida por allá? Suena como si estuvieras vivi
 
 li "Yo no la llamaría mansión…"
 
-"“Pero es bastante grande' obviamente es lo que quiere decir, pero la modestia la detiene. Siento un poco de envidia, pero son sus vacaciones."
+"'Pero es bastante grande' obviamente es lo que quiere decir, pero la modestia la detiene. Siento un poco de envidia, pero son sus vacaciones."
 
 li "Aunque es una casa agradable para estar. Hay una playa cerca de aquí también, a la cual Akira le tiene un apego especial."
 

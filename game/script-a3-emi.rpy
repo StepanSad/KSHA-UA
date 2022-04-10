@@ -244,7 +244,7 @@ mu "Read that."
 
 mu "If it's interesting, then we can talk about it."
 
-"“A Brief History of Time?'"
+"'A Brief History of Time?'"
 
 "I don't know if I actually want to read this, but Mutou seems pretty excited about it."
 
@@ -2206,11 +2206,11 @@ hi "That's right. I'll keep bugging you about it, and that might put a damper on
 
 
 
-hi "“How's the food, Hisao?' 'Talk to the nurse, Emi.'"
+hi "'How's the food, Hisao?' 'Talk to the nurse, Emi.'"
 
-hi "“How was your day, Hisao?' 'Talk to the nurse, Emi.'"
+hi "'How was your day, Hisao?' 'Talk to the nurse, Emi.'"
 
-hi "“Hisao, I think I'm ready to go all the w—' “{b}Talk to the nurse, Emi.{/b}'"
+hi "'Hisao, I think I'm ready to go all the w—' '{b}Talk to the nurse, Emi.{/b}'"
 
 hi "See? It doesn't work that well."
 
@@ -3582,7 +3582,7 @@ hi "What? That doesn't count; you used feminine wiles."
 show evh emi_grinding_wink
 with charachange
 
-emi "“All's fair in love and war,' right?"
+emi "'All's fair in love and war,' right?"
 
 emi "Ha, and you're even blushing! I didn't know you were a blusher, Hisao."
 
@@ -4263,7 +4263,7 @@ hi "Yeah, I think so. Not sure what I landed on, though…"
 
 stop music fadeout 0.2
 
-"“Personal lubricant. Lemon-flavored.'"
+"'Personal lubricant. Lemon-flavored.'"
 
 "Wait, what?"
 
@@ -4305,7 +4305,7 @@ emi "Because he's the one who told me the track shed was a good place for… wha
 show eminude pout_ni
 with charachange
 
-emi "“Clandestine encounters.'"
+emi "'Clandestine encounters.'"
 
 hi "Oh? He invite you to one or something?"
 
@@ -4962,7 +4962,7 @@ with openeyefast
 
 "Better not give that excuse to Mutou."
 
-"“Sorry I wasn't in class, I was experimenting sexually with my girlfriend and it tired me out.'"
+"'Sorry I wasn't in class, I was experimenting sexually with my girlfriend and it tired me out.'"
 
 "Yeah, that'll go over well."
 
@@ -7160,7 +7160,7 @@ with charachange
 
 nk "By what?"
 
-hi "“For this time of year.' I keep trying to find out what's been bothering her, but she clams up as soon as I broach the subject."
+hi "'For this time of year.' I keep trying to find out what's been bothering her, but she clams up as soon as I broach the subject."
 
 hi "Then last night, she said—"
 

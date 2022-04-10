@@ -3938,7 +3938,7 @@ with charaexit
 
 "Extraño. Creo que solía ser más responsable con mis cosas."
 
-"“Muy típico de Emi', ¿eh?"
+"'Muy típico de Emi', ¿eh?"
 
 "Tal vez no sea algo tan malo."
 
@@ -4531,7 +4531,7 @@ show emi basic_grin_close
 with charachange
 
 
-emi "Ya sabes, una de esas cosas tipo “¿Qué quieres hacer después de la secundaria?'."
+emi "Ya sabes, una de esas cosas tipo '¿Qué quieres hacer después de la secundaria?'."
 
 hi "No… lo creo. Tal vez nos den uno mañana."
 
@@ -5030,7 +5030,7 @@ play music music_rain fadein 5.0
 
 "Lo que me causa aún más aprensión es el nombre del remitente, escrito cuidadosamente en la parte posterior del sobre."
 
-"“Iwanako'."
+"'Iwanako'."
 
 "No tengo idea de por qué ella me escribiría. No he estado en contacto con nadie de mi antigua escuela desde que fui transferido, e Iwanako es la última persona de quien esperaría el gesto de escribirme una carta."
 
@@ -6877,7 +6877,7 @@ yu "¡Yo también!"
 show yuuko smile_down
 with charachange
 
-yu "“Criptografía Avanzada'. Acabamos de adquirirlo, y ya se ha perdido."
+yu "'Criptografía Avanzada'. Acabamos de adquirirlo, y ya se ha perdido."
 
 show yuuko worried_up
 with charachange
@@ -8953,7 +8953,7 @@ stop music fadeout 1.0
 
 "Estoy seguro de que mi boca está abierta por la sorpresa."
 
-"Todo lo que consigo decir es un sofocado “¿Eh?'"
+"Todo lo que consigo decir es un sofocado '¿Eh?'"
 
 show emi basic_closedgrin_close
 with charachange

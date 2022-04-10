@@ -400,7 +400,7 @@ with charaexit
 
 stop music fadeout 5.0
 
-"“Not sure?' I'm starting to think Shizune doesn't spend a lot of time at home. Before I can make a joke of it at her expense, Shizune vanishes into the house, and Misha goes with her, leaving me alone on the grounds."
+"'Not sure?' I'm starting to think Shizune doesn't spend a lot of time at home. Before I can make a joke of it at her expense, Shizune vanishes into the house, and Misha goes with her, leaving me alone on the grounds."
 
 "I don't want to follow them inside just yet. I put my bag down by the front door, and take the opportunity to look around the grounds, just making a quick lap around the house."
 
@@ -430,7 +430,7 @@ with charachange
 
 hh "Are you the second person that my sister brought with her?"
 
-hi "“Brought with her?' I'm not luggage."
+hi "'Brought with her?' I'm not luggage."
 
 hi "Anyway, I'm Hisao. Did you take my bag?"
 
@@ -1243,7 +1243,7 @@ with charachange
 
 hh "What do you think we should have for breakfast?"
 
-hi "“We?' Aren't you eating breakfast right now?"
+hi "'We?' Aren't you eating breakfast right now?"
 
 show hideaki normal
 with charachange
@@ -1844,7 +1844,7 @@ hx "Stop talking. That sounds unspeakably dirty. I have had enough of your filth
 
 hi "What…?"
 
-hx "“What?' You are so disrespectful. Amazing. Are all delinquent types like this? Even the way you dress shows flippant disregard for authority. Sweater vest. Disgraceful…"
+hx "'What?' You are so disrespectful. Amazing. Are all delinquent types like this? Even the way you dress shows flippant disregard for authority. Sweater vest. Disgraceful…"
 
 hi "Delinquent? I'm on the Student Council."
 
@@ -3233,7 +3233,7 @@ with charachange
 
 hx "You even ask questions rudely. Disgraceful. That aside, why would you even ask me such a stupid question? How would I know? Am I my son's keeper?"
 
-"“Well, you are his dad, and it seems like he does live here, so…' But, I guess I can't say that, tempting as it is."
+"'Well, you are his dad, and it seems like he does live here, so…' But, I guess I can't say that, tempting as it is."
 
 "I give up. I already tried to make small talk with him and failed. It's like trying to talk to a brick wall that also hates you. That is my cue to leave and sift through my wallet to see if I have enough money to go to a movie."
 
@@ -4093,7 +4093,7 @@ ssh "Hmph. I'm trying to get more people to run, but everyone is so lazy. They t
 show shizu cross_angry
 with charachange
 
-ssh "“Still' six months away? If they aren't making their move now, they don't deserve a vote!"
+ssh "'Still' six months away? If they aren't making their move now, they don't deserve a vote!"
 
 show mishashort sign_smile
 with charachange
@@ -5412,7 +5412,7 @@ with charachange
 
 ke "The only question is how they could take a page out of the termite playbook when women are naturally repelled by wood."
 
-hi "“You can never go home again.' Is that how the saying goes?"
+hi "'You can never go home again.' Is that how the saying goes?"
 
 show kenji neutral
 with charachange
@@ -5857,7 +5857,7 @@ play sound sfx_snap
 
 "It's definitely an attention-grabber, so I could only see it as invaluable to a mute. She might have practiced it because of that."
 
-his "“All of it,' huh? That's too harsh."
+his "'All of it,' huh? That's too harsh."
 
 show shizu behind_blank
 with charachange
@@ -6040,7 +6040,7 @@ with charachange
 
 mi "Hicchan~! You're here, too~!"
 
-hi "“Too?' How did you know there was already someone in here?"
+hi "'Too?' How did you know there was already someone in here?"
 
 show mishashort sign_smile
 with charachange
@@ -6764,7 +6764,7 @@ hi "Not that…"
 
 hi "What's going on between you and Shizune? She won't tell me, so I'm asking you."
 
-"“Because you're easier to get an answer out of, since the same sign language that gives me the leeway to lie to her gives her a cushion against my questions, so that she can more easily brush them off.' When she hesitates, I push her harder."
+"'Because you're easier to get an answer out of, since the same sign language that gives me the leeway to lie to her gives her a cushion against my questions, so that she can more easily brush them off.' When she hesitates, I push her harder."
 
 hi "Give me an honest answer, please."
 

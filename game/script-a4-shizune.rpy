@@ -39,7 +39,7 @@ with charachange
 
 yu "That's great, but I wish you had brought them back sooner. It wouldn't be a problem if the library had more copies of everything, but it doesn't… and they act like that's my fault."
 
-hi "“They?'"
+hi "'They?'"
 
 show yuuko panic_down
 with charachange
@@ -175,7 +175,7 @@ with charachange
 
 yu "Even so… I think that is kind of admirable, too… Kind of brave. Don't you think so?"
 
-hi "“Brave' is a new way to put it."
+hi "'Brave' is a new way to put it."
 
 show yuuko neutral_down
 with charachange
@@ -1631,7 +1631,7 @@ with charachange
 
 ssh "Check the tea shop? It's usually empty this early; Misha loves to go there if she feels like skipping class, and she loves the parfaits they have there."
 
-"“You really know a lot about her.' But she would overthink it, and turn it into something that would seem a lot more backhanded than it actually is, so I choose to just nod and leave instead, until I feel her holding on to my sleeve."
+"'You really know a lot about her.' But she would overthink it, and turn it into something that would seem a lot more backhanded than it actually is, so I choose to just nod and leave instead, until I feel her holding on to my sleeve."
 
 show shizu basic_normal_close
 with characlose
@@ -1871,7 +1871,7 @@ mi "I screwed up already, Hicchan. It'll happen again~, I'm sure. When I think a
 
 hi "Don't be ridiculous. Why would you even think that way in the first place? Be more positive."
 
-"“It should be easy for you,' I want to say, but that would be presumptuous."
+"'It should be easy for you,' I want to say, but that would be presumptuous."
 
 show mishashort hips_smile_close
 with charachange
@@ -1895,7 +1895,7 @@ mi "Haha~."
 show mishashort perky_smile_close
 with charachange
 
-mi "“Now,' huh~…?"
+mi "'Now,' huh~…?"
 
 hi "It makes me mad when people give up. I used to think that giving up was kind of like running away, since that's how people always describe it, but now that I think about it, it's usually more like throwing something away."
 
@@ -2022,7 +2022,7 @@ hi "But I didn't even think about it then. So, it was like I woke up one day and
 show mishashort perky_sad_close
 with charachange
 
-mi "“That's all~.'"
+mi "'That's all~.'"
 
 hi "It makes me sad to think that you'll do the same thing and push away your friend. Especially because you're not far away from Shizune; I mean, you even live in the same dorm."
 
@@ -2780,7 +2780,7 @@ ssh "But!"
 show shizu basic_happy_close
 with charachange
 
-ssh "“People don't change so easily.' According to you. Am I right?"
+ssh "'People don't change so easily.' According to you. Am I right?"
 
 "She winks, clearly enjoying herself very much."
 
@@ -2962,7 +2962,7 @@ hi "Do you understand? Pretend I'm shouting it."
 
 "Keiko" "Yes, sir."
 
-hi "“Sir?' Who are you guys talking to, anyway?"
+hi "'Sir?' Who are you guys talking to, anyway?"
 
 play sound sfx_flash
 
@@ -4220,7 +4220,7 @@ with vpunch
 
 "With a salute, he shoots backwards through the door, slamming it shut behind him hard enough that the entire dorm probably heard it. I've noticed that a lot of people slam doors here. Maybe it's a local thing."
 
-"“Take care of myself.' It's the first time I've heard him say it. Usually he ends our conversations with something like, 'seeya.' 'I'll pay you back later, man.' Well, he was a little annoying sometimes, but I'll miss him. I cross him off my list mentally."
+"'Take care of myself.' It's the first time I've heard him say it. Usually he ends our conversations with something like, 'seeya.' 'I'll pay you back later, man.' Well, he was a little annoying sometimes, but I'll miss him. I cross him off my list mentally."
 
 "The list is very short now, and I once again discard the notion of going through it in any kind of order. Like I said, I never had that intention."
 

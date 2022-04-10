@@ -1031,7 +1031,7 @@ with charachange
 mi "Ce n'est pas vrai, Hicchan, Shicchan dit que quand leur vie est menacée, les gens sont capable d'avoir une vitesse surhumaine."
 
 
-hi "“Quand leur vie est menacée' ?"
+hi "'Quand leur vie est menacée' ?"
 
 show shizu behind_smile
 with charachange
@@ -2552,7 +2552,7 @@ with locationskip
 "Elle doit avoir vu que j'étais en train de la fixer juste avant."
 
 
-hi "“Life of Pi' ? Je n'en ai jamais entendu parler. Ça parle de quoi ?"
+hi "'Life of Pi' ? Je n'en ai jamais entendu parler. Ça parle de quoi ?"
 
 
 ha "D'un garçon... et un tigre..."
@@ -2641,7 +2641,7 @@ with locationchange
 "Je m'assieds sur le siège à côté d'elle alors qu'elle se cache derrière son livre."
 
 
-"“Life of Pi'... Jamais entendu parler."
+"'Life of Pi'... Jamais entendu parler."
 
 
 hi "Alors, euh... encore désolé de t'avoir fait peur. Je suis Hisao."

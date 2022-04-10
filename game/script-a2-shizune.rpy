@@ -1612,7 +1612,7 @@ with charachange
 
 mi "Student Council~!"
 
-"“Student Council' was the first thing I asked to learn; it seemed like it would come in handy."
+"'Student Council' was the first thing I asked to learn; it seemed like it would come in handy."
 
 hi "Yeah, I've been dodging it for a while now, huh?"
 
@@ -2352,7 +2352,7 @@ mi "Hicchan, do you hate games where luck is involved?"
 show misha hips_grin
 with charachange
 
-mi "“I don't like games that revolve around luck of the draw,' right? That was you, Hicchan~."
+mi "'I don't like games that revolve around luck of the draw,' right? That was you, Hicchan~."
 
 hi "Yeah. Revolving around luck isn't the same as just having luck involved, though. I don't hate games just for having an element of luck. Most games have an element of luck to them anyway. It's what keeps them interesting."
 
@@ -3730,15 +3730,15 @@ play music music_tension
 
 ke "I walked up to the desk and said to her, 'Hey you, fascist woman! What is this badge idea? How out of touch can you be, here in your ivory tower, smugly looking down upon us like we're just a bunch of idiots? Who do you think you are?'"
 
-ke "“Your level of elitism is terrible, you're probably one of those outrageous rich people who have chaffeurs drive them around slums so they can point and laugh…'"
+ke "'Your level of elitism is terrible, you're probably one of those outrageous rich people who have chaffeurs drive them around slums so they can point and laugh…'"
 
-ke "“…and only drink pricey coffee beans shat out by the last living dinosaur and brewed in a solid gold skull.'"
+ke "'…and only drink pricey coffee beans shat out by the last living dinosaur and brewed in a solid gold skull.'"
 
-ke "“And how could you? Go open up a history book; don't you know that the bourgeoisie are always overthrown in a bloody revolution for shit like this? Stupid! You're an idiot!'"
+ke "'And how could you? Go open up a history book; don't you know that the bourgeoisie are always overthrown in a bloody revolution for shit like this? Stupid! You're an idiot!'"
 
-ke "“Sure, the revolutionaries usually end up turning everything into an utter clusterfuck later on, but a maniac is the only kind of person who would create a policy like this…'"
+ke "'Sure, the revolutionaries usually end up turning everything into an utter clusterfuck later on, but a maniac is the only kind of person who would create a policy like this…'"
 
-ke "“…it's like something I would create to make people suffer, only real and you want to institutionalize it! Where will this desecration of our rights end? We are people! This is not justice!'"
+ke "'…it's like something I would create to make people suffer, only real and you want to institutionalize it! Where will this desecration of our rights end? We are people! This is not justice!'"
 
 show kenji neutral
 with charachange
@@ -4098,7 +4098,7 @@ ssh "I'll devour you!"
 
 hi "Yeah, very busy."
 
-"“Devour' is a hard word. I'm pleased that I can read it. This isn't time to celebrate, though, not over that. Instead, it looks like they might stop squabbling. I would drink to that."
+"'Devour' is a hard word. I'm pleased that I can read it. This isn't time to celebrate, though, not over that. Instead, it looks like they might stop squabbling. I would drink to that."
 
 show lilly cane_listen
 with charachange
@@ -5502,7 +5502,7 @@ mi "Hicchan, a soda is not a breakfast. It's like water~."
 
 hi "It's not like water, it's a liquid. Water isn't food. Liquid can be food."
 
-"“Now who sounds like Shizune, Misha?' I want to say it. Even her tone reminds me of Shizune's unblinking, matter-of-fact way of stating the ridiculous. If I did say that, though, I would be the one who sounds like Shizune again."
+"'Now who sounds like Shizune, Misha?' I want to say it. Even her tone reminds me of Shizune's unblinking, matter-of-fact way of stating the ridiculous. If I did say that, though, I would be the one who sounds like Shizune again."
 
 "It's terrible, her competitiveness is really rubbing off on me."
 

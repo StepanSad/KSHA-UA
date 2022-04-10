@@ -3907,7 +3907,7 @@ with charachange
 li "Je ne sais pas exactement dans quel état elle est, bien que j'aie entendu dire que son état était stable. Je partirai samedi, c’était le prochain vol disponible."
 
 
-"“Stable.' C'est un code pour 'a besoin de rester à l’hôpital'. J'ai été 'stable' suffisamment longtemps pour le savoir, et aussi savoir que ça ne veut pas forcément dire en forme, mais qu'il garde juste la tête hors de l'eau."
+"'Stable.' C'est un code pour 'a besoin de rester à l’hôpital'. J'ai été 'stable' suffisamment longtemps pour le savoir, et aussi savoir que ça ne veut pas forcément dire en forme, mais qu'il garde juste la tête hors de l'eau."
 
 
 "D'un autre coté, 'stable' est bien meilleur que 'état critique'. Au moins elle n'est pas sur le point de mourir."

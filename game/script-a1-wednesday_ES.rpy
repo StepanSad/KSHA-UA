@@ -1802,7 +1802,7 @@ shi "…"
 
 mi "Shicchan dice que se siente halagada, Hicchan, ¡pero hacer esa clase de cosas sería un abuso de poder tremendamente inapropiado, y una imposición a tu libre albedrío~! ¡Y además~! ¡Sería chantaje, también! Shicchan nunca haría algo como eso, ¡nunca!"
 
-"Pienso en preguntarle a Misha “¿estás segura?' pero resisto las ganas."
+"Pienso en preguntarle a Misha '¿estás segura?' pero resisto las ganas."
 
 show shizu basic_normal_close
 with charachange
@@ -1975,7 +1975,7 @@ shi "…"
 show misha hips_grin
 with charachange
 
-mi "Lo intentó, ¡pero incluso con Shizune siendo sorda, él intentará decir “¡hola~!' de todos modos!"
+mi "Lo intentó, ¡pero incluso con Shizune siendo sorda, él intentará decir '¡hola~!' de todos modos!"
 
 hi "¿Huye?"
 
@@ -2468,7 +2468,7 @@ mi "¿Puedes? ¡Gracias, Hicchan, eres realmente amable!"
 show misha sign_confused
 with charachange
 
-"Ella hace una pausa, me mira por segunda vez y entonces me señala con el dedo chillando “¡Ah!', viéndose muy confundida."
+"Ella hace una pausa, me mira por segunda vez y entonces me señala con el dedo chillando '¡Ah!', viéndose muy confundida."
 
 mi "Ahora que lo pienso, ¿qué está haciendo Hicchan aquí? ¡Las clases acabaron, deberías estar divirtiéndote~!"
 
@@ -2770,7 +2770,7 @@ with charaexit
 
 "¿Debería haberlo dicho como una parte natural de las presentaciones? ¿Se espera eso de mí?"
 
-"“Hola, soy Hisao. Tengo una enfermedad cardiaca muy seria'."
+"'Hola, soy Hisao. Tengo una enfermedad cardiaca muy seria'."
 
 "¿Es así como se supone que debería presentarme de ahora en adelante?"
 

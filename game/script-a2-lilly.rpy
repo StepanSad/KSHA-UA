@@ -4503,7 +4503,7 @@ with Pause (1.0)
 
 "The name neatly adorning the back of the envelope freezes me in my tracks. It's been so long since I've seen her writing, there's little chance I could have identified it as hers otherwise."
 
-"“Iwanako.'"
+"'Iwanako.'"
 
 "Why… should she have written me? I can't think of any good reason for her to do this."
 
@@ -5415,7 +5415,7 @@ emi "See! Only someone part-foreign could get a score that good."
 show rin basic_absent
 with charachange
 
-hi "“See'…"
+hi "'See'…"
 
 show rin basic_awayabsent
 show emi basic_closedsweat
@@ -5601,7 +5601,7 @@ with locationskip
 
 "I smile as I realize the bird's meaning."
 
-"“Everyone here has had to find their own ways of dealing with their conditions. You aren't alone here when you have problems.'"
+"'Everyone here has had to find their own ways of dealing with their conditions. You aren't alone here when you have problems.'"
 
 hi "Thanks, Lilly. I appreciate this."
 

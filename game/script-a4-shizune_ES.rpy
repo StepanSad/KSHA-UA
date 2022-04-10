@@ -39,7 +39,7 @@ with charachange
 
 yu "Eso es genial, pero desearía que los hubieras traído antes. No sería un problema si la biblioteca tuviera más copias de todo, pero no las tiene… y ellos actúan como si fuera mi culpa."
 
-hi "¿“Ellos'?"
+hi "¿'Ellos'?"
 
 show yuuko panic_down
 with charachange
@@ -73,7 +73,7 @@ n " {vspace=60}Misha resultó ser más sensible de lo que parecía. Eso la habr
 
 n "También puedo entender por qué Misha estaría afligida por la idea de alejarse de alguien que es una parte tan importante de ella. Nunca había pensado en la graduación hasta ese momento."
 
-n "Entonces comencé a pensar cosas como, “¿Realmente solo ha pasado menos de un año?'. Comencé a pensar en todas las personas que he conocido. No solo en Shizune y Misha, sino en todas los demás. Ellas son pensamientos afectuosos. Entonces, pensé en perderlas. De repente, pude entender las ansiedades de Misha."
+n "Entonces comencé a pensar cosas como, '¿Realmente solo ha pasado menos de un año?'. Comencé a pensar en todas las personas que he conocido. No solo en Shizune y Misha, sino en todas los demás. Ellas son pensamientos afectuosos. Entonces, pensé en perderlas. De repente, pude entender las ansiedades de Misha."
 
 n " {vspace=30}Sería bueno hablar con alguien al respecto."
 
@@ -176,7 +176,7 @@ with charachange
 
 yu "Aun así… También creo que es algo admirable… Algo valiente. ¿No lo crees?"
 
-hi "“Valiente' es una nueva manera de decirlo."
+hi "'Valiente' es una nueva manera de decirlo."
 
 show yuuko neutral_down
 with charachange
@@ -1654,7 +1654,7 @@ with charachange
 
 ssh "¿Revisar la tienda de té? Por lo general está vacía a esta hora; a Misha le encanta ir allí si tiene ganas de saltar clases, y le encantan los parfaits que tienen allí."
 
-"“Realmente sabes mucho de ella'. Pero ella lo pensaría demasiado, y lo convertiría en algo que parecería mucho más ambiguo de lo que realmente es, así que mejor elijo asentir con la cabeza e irme, hasta que la siento agarrarse de mi manga."
+"'Realmente sabes mucho de ella'. Pero ella lo pensaría demasiado, y lo convertiría en algo que parecería mucho más ambiguo de lo que realmente es, así que mejor elijo asentir con la cabeza e irme, hasta que la siento agarrarse de mi manga."
 
 show shizu basic_normal_close
 with characlose
@@ -1923,7 +1923,7 @@ mi "Jaja~."
 show mishashort perky_smile_close
 with charachange
 
-mi "“Ahora', ¿eh~…?"
+mi "'Ahora', ¿eh~…?"
 
 hi "Me da rabia cuando la gente se da por vencida. Solía pensar que darse por vencido era más o menos como huir, ya que así es como la gente siempre lo describe, pero ahora que lo pienso, por lo general es más como tirar algo."
 
@@ -2053,7 +2053,7 @@ hi "Pero ni siquiera pensé en eso entonces. Así que fue como si despertara un 
 show mishashort perky_sad_close
 with charachange
 
-mi "“Eso es todo~'."
+mi "'Eso es todo~'."
 
 hi "Me entristece pensar que harás lo mismo y apartarás a tu amiga. Especialmente porque no estás muy lejos de Shizune; quiero decir, hasta viven en el mismo dormitorio."
 
@@ -2829,7 +2829,7 @@ ssh "¡Pero!"
 show shizu basic_happy_close
 with charachange
 
-ssh "“La gente no cambia tan fácilmente'. Según tú. ¿Estoy en lo cierto?"
+ssh "'La gente no cambia tan fácilmente'. Según tú. ¿Estoy en lo cierto?"
 
 "Ella hace un guiño, claramente disfrutándolo mucho."
 
@@ -3019,7 +3019,7 @@ hi "¿Entienden? Finjan que lo estoy gritando."
 "Keiko" "Sí, señor."
 
 
-hi "¿“Señor'? De todas maneras, ¿a quién le están hablando?"
+hi "¿'Señor'? De todas maneras, ¿a quién le están hablando?"
 
 play sound sfx_flash
 
@@ -4298,7 +4298,7 @@ with vpunch
 
 "Con un saludo, él corre hacia atrás a través de la puerta, cerrándola de un golpe detrás de él con tanta fuerza que probablemente todo el dormitorio escuchó. He notado que mucha gente cierra las puertas de un golpe aquí. Tal vez sea algo local."
 
-"“Que me cuide'. Es la primera vez que le oí decir eso. Normalmente termina nuestras conversaciones con algo como 'Nos vemos' o 'Te pagaré luego, hombre'. Bueno, a veces él era un poco molesto, pero lo extrañaré. Lo tacho de mi lista mentalmente."
+"'Que me cuide'. Es la primera vez que le oí decir eso. Normalmente termina nuestras conversaciones con algo como 'Nos vemos' o 'Te pagaré luego, hombre'. Bueno, a veces él era un poco molesto, pero lo extrañaré. Lo tacho de mi lista mentalmente."
 
 "La lista es muy corta ahora, y una vez más descarto la noción de completarla en cualquier tipo de orden. Como dije, nunca tuve esa intención."
 
@@ -5304,7 +5304,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n " {vspace=120}“¿Y por qué la ley del hielo?' es la frase que de inmediato viene a mi mente, a pesar de que no es el momento para chistes. Pero sí describe lo que siento. No podemos comunicarnos normalmente, así que aprecio los pocos momentos en los que podemos. Ser rechazado así duele."
+n " {vspace=120}'¿Y por qué la ley del hielo?' es la frase que de inmediato viene a mi mente, a pesar de que no es el momento para chistes. Pero sí describe lo que siento. No podemos comunicarnos normalmente, así que aprecio los pocos momentos en los que podemos. Ser rechazado así duele."
 
 n "Es obvio que sean cuales sean sus razones, va a ser prácticamente imposible hablar con Shizune hoy. Más allá de simplemente ser terca, ella parece estar deprimida, pero con la manera en que ya estaba yendo nuestra conversación, no me veo siendo capaz de averiguar por qué está deprimida."
 

@@ -415,9 +415,9 @@ window hide
 show rin basic_lucid_superclose at center
 with charachange
 
-centered "“It was a bad idea.'"
+centered "'It was a bad idea.'"
 
-centered "“Maybe you should forget about it, and I will too.'"
+centered "'Maybe you should forget about it, and I will too.'"
 
 window show
 
@@ -1570,7 +1570,7 @@ emi "That Rin, how can she do this? I'm telling you, she doesn't have a bit of c
 
 "I guess I understand Emi, she is {b}that{/b} kind of a person."
 
-"“Give up' has never felt like a part of her vocabulary, and maybe she feels it shouldn't be a part of anyone's vocabulary."
+"'Give up' has never felt like a part of her vocabulary, and maybe she feels it shouldn't be a part of anyone's vocabulary."
 
 hi "It's probably best to leave her alone for tonight."
 
@@ -1904,7 +1904,7 @@ with charachange
 
 no "What's up with that girl? This is so unlike her, she's always been so goal-driven."
 
-"“Goal-driven?' Those don't really strike me as words to describe Rin with."
+"'Goal-driven?' Those don't really strike me as words to describe Rin with."
 
 "To me, she always felt obsessive at best."
 
@@ -3018,7 +3018,7 @@ with charachange
 
 sa "Everyone interprets art as they will, and interpretation is as much in the eye of the beholder as in the intentions of the creator."
 
-sa "“Pros' have their own way, because there is this thing called art theory."
+sa "'Pros' have their own way, because there is this thing called art theory."
 
 sa "There are patterns in art, just like in everything, and we assume that it's possible to draw some conclusions from observing those patterns."
 
@@ -4128,7 +4128,7 @@ n "I reached out for her yesterday, thinking it would be the last time."
 
 n "She walked away."
 
-n "“I want to be me.'"
+n "'I want to be me.'"
 
 n "What the heck does that even mean? Rin, if anyone, is most definitely herself."
 
@@ -4423,7 +4423,7 @@ no "Reputation is what counts, surely you know that?"
 
 rin "It's all right. I don't need it."
 
-no "“Don't need!' What do you think you know?"
+no "'Don't need!' What do you think you know?"
 
 "Rin's replies only seem to agitate the teacher more, his voice rising with every sentence."
 
@@ -5543,7 +5543,7 @@ n "In how we are closer than we have ever been, yet I'm not feeling happy. It's 
 
 n "When did tenderness and forlornness become one and the same word, acts of affection start invoking only longing? …How, why did we end up like this?"
 
-n "“No, don't answer that,' I'd like to say to myself, but fighting against the omniscience of self-awareness is a lost cause."
+n "'No, don't answer that,' I'd like to say to myself, but fighting against the omniscience of self-awareness is a lost cause."
 
 n "Still, I am here, and Rin is here, and it feels like she might be able to solve whatever problems she has."
 
@@ -6107,7 +6107,7 @@ play music music_timeskip fadein 4.0
 
 centered_b "Present{fast}" with Dissolve(4.0)
 
-nb "“Present' is a fleeting and vague concept at best. {vspace=30} "
+nb "'Present' is a fleeting and vague concept at best. {vspace=30} "
 
 extend "The moment between the past and the future? {vspace=90} "
 
@@ -6469,7 +6469,7 @@ hi "…It's fine, isn't it?"
 show rin basic_lucid
 with charachange
 
-"“How should I know?', the shrug of her shoulders seems to say, hesitating to give a firmer answer."
+"'How should I know?', the shrug of her shoulders seems to say, hesitating to give a firmer answer."
 
 "She stays silent for only a second too long, but even that second isn't long enough for me to think ahead…"
 

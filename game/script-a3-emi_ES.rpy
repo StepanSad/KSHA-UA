@@ -244,7 +244,7 @@ mu "Lee eso."
 
 mu "Si es interesante, entonces podríamos hablarlo."
 
-"¿“Breve Historia del Tiempo'?"
+"¿'Breve Historia del Tiempo'?"
 
 "No sé si realmente quiero leerlo, pero Mutou parece muy emocionado por esto."
 
@@ -856,7 +856,7 @@ with Pause(0.6)
 hide emicas
 with vpunch
 
-"Retuerzo una pierna intentando despertarla, lo que tiene el indeseado efecto de desbalancear a Emi, quien cae de lado con un asustado ¡“Ayy'!"
+"Retuerzo una pierna intentando despertarla, lo que tiene el indeseado efecto de desbalancear a Emi, quien cae de lado con un asustado ¡'Ayy'!"
 
 hi "¡Oops! Disculpa."
 
@@ -2212,11 +2212,11 @@ hi "Correcto. Seguiré insistiendo, y eso podría arruinar nuestras citas."
 
 
 
-hi "“¿Cómo está la comida, Hisao?' 'Habla con el enfermero, Emi'."
+hi "'¿Cómo está la comida, Hisao?' 'Habla con el enfermero, Emi'."
 
-hi "“¿Cómo estuvo tu día, Hisao?' 'Habla con el enfermero, Emi'."
+hi "'¿Cómo estuvo tu día, Hisao?' 'Habla con el enfermero, Emi'."
 
-hi "“Hisao, creo que estoy lista para que m—' “{b}Habla con el enfermero, Emi{/b}'."
+hi "'Hisao, creo que estoy lista para que m—' '{b}Habla con el enfermero, Emi{/b}'."
 
 hi "¿Ves? No funciona muy bien."
 
@@ -3589,7 +3589,7 @@ hi "¿Qué? Eso no cuenta; usaste tus encantos femeninos."
 show evh emi_grinding_wink
 with charachange
 
-emi "“En el amor y la guerra todo se vale', ¿no?"
+emi "'En el amor y la guerra todo se vale', ¿no?"
 
 emi "Ja, ¡hasta te estás sonrojando! No sabía que eras de los que se sonrojan, Hisao."
 
@@ -3849,7 +3849,7 @@ play sound sfx_doorclose
 hide rin
 with None
 
-"Rin se encoge de hombros, como si dijera ¿“puedes'? y arrastra sus pies a través de la puerta, cerrándola tras ella."
+"Rin se encoge de hombros, como si dijera ¿'puedes'? y arrastra sus pies a través de la puerta, cerrándola tras ella."
 
 show eminude happy_close
 with charachange
@@ -4272,7 +4272,7 @@ hi "Sí, creo. Aunque no estoy seguro sobre qué caí…"
 
 stop music fadeout 0.2
 
-"“Lubricante personal. Sabor a limón'."
+"'Lubricante personal. Sabor a limón'."
 
 "Espera, ¿qué?"
 
@@ -4314,7 +4314,7 @@ emi "Porque fue él quien me dijo que el almacén de atletismo era un buen lugar
 show eminude pout_ni
 with charachange
 
-emi "“Encuentros clandestinos'."
+emi "'Encuentros clandestinos'."
 
 hi "¿Oh? ¿Te invitó a alguno o algo así?"
 
@@ -4971,7 +4971,7 @@ with openeyefast
 
 "Mejor no le doy esa excusa a Mutou."
 
-"“Perdón por no estar en clases, estaba experimentando sexualmente con mi novia y me dejó agotado'."
+"'Perdón por no estar en clases, estaba experimentando sexualmente con mi novia y me dejó agotado'."
 
 "Sí, eso funcionaría muy bien."
 
@@ -5836,7 +5836,7 @@ hi "Es como si cada vez que intento saber más de ella, o sobre lo que ella quie
 
 hi "Como el otro día, estaba hablando con ella durante el almuerzo sobre unas universidades que busqué."
 
-hi "Y le pregunté, “¿has buscado alguna escuela últimamente?'."
+hi "Y le pregunté, '¿has buscado alguna escuela últimamente?'."
 
 hi "Ella se encoge de hombros como respuesta, dice que no, y cuando le pregunto por qué no, dice que no piensa tan a futuro."
 
@@ -6861,7 +6861,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n " {vspace=60}“No puedo depender de ti”."
+n " {vspace=60}'No puedo depender de ti'."
 
 
 n " {vspace=60}'No puedo depender de ti'."
@@ -7175,7 +7175,7 @@ with charachange
 
 nk "¿Con qué?"
 
-hi "“Para esta época del año'. Sigo intentando descubrir qué ha estado molestándola, pero ella se calla como un muerto cuando abordo el tema."
+hi "'Para esta época del año'. Sigo intentando descubrir qué ha estado molestándola, pero ella se calla como un muerto cuando abordo el tema."
 
 hi "Y anoche, ella dijo—"
 
@@ -8997,7 +8997,7 @@ hi "De todas formas, ¿por qué el repentino interés en mi bienestar?"
 show misha sign_smile
 with charachange
 
-mi "Ah, Shicchan dijo “¡Es deber del consejo no perder de vista la salud emocional de sus estudiantes! ¡Permitir que un cons-constitutivo caiga en una espiral de depresión sin revisión alguna sería un fracaso imperdonable en los deberes del consejo!'."
+mi "Ah, Shicchan dijo '¡Es deber del consejo no perder de vista la salud emocional de sus estudiantes! ¡Permitir que un cons-constitutivo caiga en una espiral de depresión sin revisión alguna sería un fracaso imperdonable en los deberes del consejo!'."
 
 hi "Bueno, eso es fácil, entonces. No estoy deprimido."
 

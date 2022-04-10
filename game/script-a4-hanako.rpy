@@ -393,7 +393,7 @@ ke "What's with that response?"
 
 hi "Sorry, just thinking about a lot of stuff."
 
-ke "“Thinking' is a pretty poor excuse to not be aiding the war effort."
+ke "'Thinking' is a pretty poor excuse to not be aiding the war effort."
 
 hi "And how goes the war?"
 
@@ -822,7 +822,7 @@ hi "Sorry, I was just taken a bit off guard. Still, isn't Hanako a bigger proble
 
 li "For some time now I've thought that the both of you may be feeding into each other's more worrying habits. I tried to amend this before leaving, but it seems to have done little."
 
-hi "“Worrying habits?'"
+hi "'Worrying habits?'"
 
 li "When I asked you about what you had in mind for the future, your answer was very similar to what Hanako has said in the past when that question was posed to her."
 
@@ -1747,7 +1747,7 @@ ha "But… I thought you were studying."
 
 "Studying can wait. Turning up for class after all this time must have taken some courage for Hanako, so the least I can do is stay with her."
 
-"“That's just the way she is, and you just have to deal with it' is the way Miki, and probably the class as a whole, views Hanako. I can do more for her, though. I want to do more for her."
+"'That's just the way she is, and you just have to deal with it' is the way Miki, and probably the class as a whole, views Hanako. I can do more for her, though. I want to do more for her."
 
 hi "After being distracted by Miki, I don't think I'm going to get any work done. Come on, let's go."
 
@@ -3976,7 +3976,7 @@ play ambient sfx_parkambience fadein 2.0
 
 "My hand dives into my pocket once more. This time I quickly navigate to the texting menu before I have a chance to change my mind again."
 
-"“Hanako, if you want to talk, I'll be at the park in town for a while.'"
+"'Hanako, if you want to talk, I'll be at the park in town for a while.'"
 
 "Fighting a last measure of doubt, I thumb in my message to Hanako and press the button to send it."
 

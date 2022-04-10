@@ -3101,7 +3101,7 @@ with charachange
 
 li "I'm not altogether sure of exactly how she's faring at the moment, though last I heard she was stable. I'll be leaving Saturday; it's the earliest flight that I could get."
 
-"“Stable.' That's code for 'needs to stay in the hospital.' I've been 'stable' long enough to know that, and to know that it doesn't necessarily mean someone is in good condition, but merely treading water."
+"'Stable.' That's code for 'needs to stay in the hospital.' I've been 'stable' long enough to know that, and to know that it doesn't necessarily mean someone is in good condition, but merely treading water."
 
 "On the upside, 'stable' is much better than 'critical condition.' At least she's not on the brink of death."
 

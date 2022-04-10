@@ -376,7 +376,7 @@ hi "¿Vives en una mansión?"
 show shizu cross_angry_cas at center 
 with charaenter
 
-"Shizune se para en la punta de sus pies, indignada, para que estemos al nivel de nuestros ojos, y frunce el ceño profundamente, después de que mi comentario es traducido por Misha. Es como si dijera, “¿cómo puedes decir algo así?'."
+"Shizune se para en la punta de sus pies, indignada, para que estemos al nivel de nuestros ojos, y frunce el ceño profundamente, después de que mi comentario es traducido por Misha. Es como si dijera, '¿cómo puedes decir algo así?'."
 
 show shizu basic_frown_cas
 with charachange
@@ -412,7 +412,7 @@ with charaexit
 
 stop music fadeout 5.0
 
-"¿“No estoy segura'? Estoy comenzando a pensar que Shizune no pasa mucho tiempo en casa. Antes de que pueda hacer una broma al respecto a costa de ella, Shizune se desvanece en la casa, y Misha va con ella, dejándome solo en el jardín."
+"¿'No estoy segura'? Estoy comenzando a pensar que Shizune no pasa mucho tiempo en casa. Antes de que pueda hacer una broma al respecto a costa de ella, Shizune se desvanece en la casa, y Misha va con ella, dejándome solo en el jardín."
 
 "No quiero seguirlas adentro todavía. Dejo mi maleta junto a la puerta principal, y aprovecho la oportunidad para mirar los jardines, simplemente dando una vuelta rápida alrededor de la casa."
 
@@ -442,7 +442,7 @@ with charachange
 
 hh "¿Eres la segunda persona que mi hermana trajo con ella?"
 
-hi "“¿Trajo con ella?'. No soy equipaje."
+hi "'¿Trajo con ella?'. No soy equipaje."
 
 hi "En fin, soy Hisao. ¿Tú tomaste mi maleta?"
 
@@ -462,7 +462,7 @@ hh "Se la di a Shizune. Está adentro. ¿Estás en el consejo estudiantil?"
 
 hi "Sí, ¿cómo supiste? ¿Ella saca el tema a menudo?"
 
-"Casi digo “¿ella habla de eso a menudo?'. Eso podría haber sido malo."
+"Casi digo '¿ella habla de eso a menudo?'. Eso podría haber sido malo."
 
 show hideaki bored
 with charachange
@@ -1262,7 +1262,7 @@ with charachange
 hh "¿Qué crees que deberíamos desayunar?"
 
 
-hi "¿“Deberíamos'? ¿Tú no estás desayunando ya?"
+hi "¿'Deberíamos'? ¿Tú no estás desayunando ya?"
 
 show hideaki normal
 with charachange
@@ -1871,7 +1871,7 @@ hx "Deja de hablar. Eso suena indescriptiblemente sucio. He tenido suficiente de
 
 hi "¿Qué…?"
 
-hx "“¿Qué?' Eres tan irrespetuoso. Increíble. ¿Todos los tipos de delincuentes son así? Incluso la manera como vistes muestra un frívolo desprecio por la autoridad. Chaleco. Vergonzoso…"
+hx "'¿Qué?' Eres tan irrespetuoso. Increíble. ¿Todos los tipos de delincuentes son así? Incluso la manera como vistes muestra un frívolo desprecio por la autoridad. Chaleco. Vergonzoso…"
 
 hi "¿Delincuente? Estoy en el consejo estudiantil."
 
@@ -2093,7 +2093,7 @@ hh "¿Puedes enseñarme lenguaje de señas?"
 
 "Supongo que a Hideaki le gusta su hermana después de todo. Pero yo pensaría que Misha es mucho más accesible, así que me pregunto por qué no le preguntó a ella."
 
-"En secreto, estoy gritando “¡sí!' por dentro. Había pensado que él quería aprender lenguaje de señas y hasta lo saqué a relucir, pero había evadido el tema hábilmente."
+"En secreto, estoy gritando '¡sí!' por dentro. Había pensado que él quería aprender lenguaje de señas y hasta lo saqué a relucir, pero había evadido el tema hábilmente."
 
 "Resulta que yo tenía razón después de todo. Realmente no sé por qué esto me pone tan contento."
 
@@ -3310,7 +3310,7 @@ with charachange
 
 hx "Hasta haces preguntas groseramente. Vergonzoso. Aparte de eso, ¿por qué me harías una pregunta tan estúpida como esa? ¿Cómo voy a saberlo? ¿Soy el guardián de mi hijo?"
 
-"“Bueno, usted es su papá, y parece que él vive aquí, así que…'. Pero, supongo que no puedo decir eso, por muy tentador que sea."
+"'Bueno, usted es su papá, y parece que él vive aquí, así que…'. Pero, supongo que no puedo decir eso, por muy tentador que sea."
 
 "Me doy por vencido. Ya intenté tener una charla trivial con él y fallé. Es como tratar de hablar con una pared de ladrillo que también te odia. Esa es mi señal para irme y escudriño en mi billetera para ver si tengo suficiente dinero para ir al cine."
 
@@ -4205,7 +4205,7 @@ ssh "Hmf. Estoy intentando hacer que más gente se lance, pero todos son tan per
 show shizu cross_angry
 with charachange
 
-ssh "¿“Aún' faltan seis meses? ¡Si ellos no hacen su jugada ahora, no merecen un voto!"
+ssh "¿'Aún' faltan seis meses? ¡Si ellos no hacen su jugada ahora, no merecen un voto!"
 
 show mishashort sign_smile
 with charachange
@@ -5569,7 +5569,7 @@ with charachange
 ke "La única pregunta es cómo pudieron sacar una página del manual de estrategias de las termitas, cuando las mujeres son naturalmente repelidas por la madera."
 
 
-hi "“Nunca puedes regresar a casa otra vez'. ¿Así es como dice el dicho?"
+hi "'Nunca puedes regresar a casa otra vez'. ¿Así es como dice el dicho?"
 
 show kenji neutral
 with charachange
@@ -6020,7 +6020,7 @@ play sound sfx_snap
 
 "Definitivamente es un captador de atención, así que solo podría verlo como invaluable para un mudo. Ella podría haberlo practicado por eso."
 
-his "“Todo', ¿eh? Eso es muy severo."
+his "'Todo', ¿eh? Eso es muy severo."
 
 show shizu behind_blank
 with charachange
@@ -6212,7 +6212,7 @@ with charachange
 
 mi "¡Hicchan~! ¡También estás aquí~!"
 
-hi "¿“También'? ¿Cómo supiste que ya había alguien aquí?"
+hi "¿'También'? ¿Cómo supiste que ya había alguien aquí?"
 
 show mishashort sign_smile
 with charachange
@@ -6954,7 +6954,7 @@ hi "Eso no…"
 
 hi "¿Qué está pasando entre Shizune y tú? Ella no me lo dirá, así que te lo pregunto a ti."
 
-"“Porque es más fácil sacarte una respuesta a ti, ya que el mismo lenguaje de señas que me da la libertad de mentirle a ella le da una protección contra mis preguntas, así que puede evadirlas más fácilmente'. Cuando ella duda, la presiono más."
+"'Porque es más fácil sacarte una respuesta a ti, ya que el mismo lenguaje de señas que me da la libertad de mentirle a ella le da una protección contra mis preguntas, así que puede evadirlas más fácilmente'. Cuando ella duda, la presiono más."
 
 hi "Dame una respuesta sincera, por favor."
 
@@ -7146,7 +7146,7 @@ hi "Shizune es el tipo de persona que no dejará que nadie se acerque a ella, ex
 
 hi "Eso probablemente me habría molestado, cuando estaba en el hospital y cualquiera que se cerrara conmigo estaba muerto para mí. Había olvidado eso por completo hasta hace poco. Recibí una carta, y toda era sobre eso."
 
-hi "Estaba furioso. Pensé, “¿Cómo puedes acusarme de alejarme de todos y de darme por vencido? ¿No es eso lo que todos los demás hicieron conmigo? ¿Qué más se supone que haga? ¿Qué puedo hacer?'."
+hi "Estaba furioso. Pensé, '¿Cómo puedes acusarme de alejarme de todos y de darme por vencido? ¿No es eso lo que todos los demás hicieron conmigo? ¿Qué más se supone que haga? ¿Qué puedo hacer?'."
 
 hi "Sí, incluso ahora, sé que así es como pasó, pero… ella también tenía razón. Sí me alejé."
 

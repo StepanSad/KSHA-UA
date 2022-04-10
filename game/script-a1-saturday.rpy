@@ -3842,7 +3842,7 @@ with charachange
 
 mi "And I thought, 'I'm going to be spending the rest of the year next to this person, maybe!'"
 
-mi "“So it would be nice if we could be friends! But~, I wonder if she'll like me.'"
+mi "'So it would be nice if we could be friends! But~, I wonder if she'll like me.'"
 
 show misha hips_grin_ss
 with charachange

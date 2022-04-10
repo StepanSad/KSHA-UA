@@ -3967,7 +3967,7 @@ li "You're right. It would be nice to go there when it comes."
 
 "Seeing these two reminds me of those words of advice Lilly had given me as we walked into town together."
 
-"“Cherish the opportunity to make new friends', huh?"
+"'Cherish the opportunity to make new friends', huh?"
 
 hi "Hey, Lilly?"
 

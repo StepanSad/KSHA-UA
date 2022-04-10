@@ -1583,7 +1583,7 @@ hi "Está bien. Era una broma, más o menos. De cualquier manera, parece que te 
 show yuuko closedhappy_down
 with charachange
 
-yu "Sí, cuando me siento muy triste, ¡doy un paso atrás y hago una taza de té! Y cuando ya me he tomado el té, le doy una patada en el trasero a mi ánimo, así como ¡PUM! y luego me digo a mí misma “¡ahora vas a hacer esto, Yuuko!', ¡y luego voy y lo hago!"
+yu "Sí, cuando me siento muy triste, ¡doy un paso atrás y hago una taza de té! Y cuando ya me he tomado el té, le doy una patada en el trasero a mi ánimo, así como ¡PUM! y luego me digo a mí misma '¡ahora vas a hacer esto, Yuuko!', ¡y luego voy y lo hago!"
 
 show yuuko happy_up
 with charachange

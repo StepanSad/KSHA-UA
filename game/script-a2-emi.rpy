@@ -3887,7 +3887,7 @@ with charaexit
 
 "Odd. I think I used to be a little more responsible with my stuff."
 
-"“Emi-ish,' huh?"
+"'Emi-ish,' huh?"
 
 "Maybe that's not really a bad thing."
 
@@ -4967,7 +4967,7 @@ play music music_rain fadein 5.0
 
 "What causes me even more trepidation is the name of the sender, written neatly on the back of the envelope."
 
-"“Iwanako.'"
+"'Iwanako.'"
 
 "I have no idea why she would write to me. I haven't been in contact with anyone from my old school since I transferred, and Iwanako is the last person I'd expect to want to write me a letter."
 
@@ -6805,7 +6805,7 @@ yu "So am I!"
 show yuuko smile_down
 with charachange
 
-yu "“Advanced Cryptography.' We just got it in, and now it's gone missing."
+yu "'Advanced Cryptography.' We just got it in, and now it's gone missing."
 
 show yuuko worried_up
 with charachange

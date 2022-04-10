@@ -416,9 +416,9 @@ window hide
 show rin basic_lucid_superclose at center
 with charachange
 
-centered "“Fue una mala idea.'"
+centered "'Fue una mala idea.'"
 
-centered "“Quizás deberías olvidarlo, y yo lo haré también.'"
+centered "'Quizás deberías olvidarlo, y yo lo haré también.'"
 
 window show
 
@@ -1576,7 +1576,7 @@ emi "Esa Rin, ¿cómo puede hacer esto? Déjame decirte, ¡ella no tiene un cach
 
 "Supongo que entiendo a Emi, ella es de {b}ese{/b} tipo de personas."
 
-"“Rendirse' nunca ha sido parte de su vocabulario, y tal vez siente como si no debiera de ser parte del vocabulario de nadie."
+"'Rendirse' nunca ha sido parte de su vocabulario, y tal vez siente como si no debiera de ser parte del vocabulario de nadie."
 
 hi "Probablemente lo mejor es dejarla sola esta noche."
 
@@ -1910,7 +1910,7 @@ with charachange
 
 no "¿Qué pasa con esa niña? Esto no es como ella, siempre ha sido tan determinada."
 
-"¿“Determinada'? Esa realmente no me parece una palabra con la cual describir a Rin."
+"¿'Determinada'? Esa realmente no me parece una palabra con la cual describir a Rin."
 
 "Para mí, ella siempre dio la sensación de ser obsesiva como mínimo."
 
@@ -4141,7 +4141,7 @@ n "Me acerqué a ella ayer, pensando que sería la última vez."
 
 n "Se marchó."
 
-n "“Quiero ser yo'."
+n "'Quiero ser yo'."
 
 n "¿Qué diablos significa eso? Si alguien lo es, Rin en definitiva es ella misma."
 
@@ -4440,7 +4440,7 @@ no "La reputación es lo que cuenta, ¿seguramente sabes eso?"
 
 rin "Está bien. No la necesito."
 
-no "¡“No necesitas'! ¿Tú qué crees que sabes?"
+no "¡'No necesitas'! ¿Tú qué crees que sabes?"
 
 "Las respuestas de Rin solo parecen agitar más al maestro, su voz se levanta con cada oración."
 
@@ -5561,7 +5561,7 @@ n "En cómo estamos más cerca de lo que hemos estado, y aun así no me siento f
 
 n "¿Cuándo fue que la ternura y el desamparo se convirtieron en una misma palabra, y las muestras de afecto comenzaron a invocar únicamente anhelo…? ¿Cómo… por qué fue que terminamos así?"
 
-n "“No, no respondas eso', me gustaría decirme a mí mismo, pero pelear con la omnisciencia de la consciencia de uno mismo es un caso perdido."
+n "'No, no respondas eso', me gustaría decirme a mí mismo, pero pelear con la omnisciencia de la consciencia de uno mismo es un caso perdido."
 
 n "Igualmente, estoy aquí, y Rin está aquí, y se siente como si ella podría ser capaz de resolver cualesquiera que sean sus problemas."
 
@@ -6488,7 +6488,7 @@ hi "… Está bien, ¿no?"
 show rin basic_lucid
 with charachange
 
-"“¿Cómo podría saberlo?', el cómo se encoge de hombros parece decir eso, titubeando en dar una respuesta más firme."
+"'¿Cómo podría saberlo?', el cómo se encoge de hombros parece decir eso, titubeando en dar una respuesta más firme."
 
 "Ella guarda silencio por solo un segundo de más, pero aun así ese segundo no es lo suficientemente largo para que yo piense más allá…"
 

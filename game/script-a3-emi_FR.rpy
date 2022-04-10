@@ -324,7 +324,7 @@ mu "Lis ça."
 mu "Si c'est intéressant, alors on pourra en parler."
 
 
-"“Une Brève Histoire dans le Temps ?'"
+"'Une Brève Histoire dans le Temps ?'"
 
 
 "Je ne sais pas si j'ai vraiment envie de le lire, mais Mutou semble assez excité à cette idée."
@@ -847,7 +847,7 @@ show emicas neutral
 with charachange
 
 
-emi "Rin pense que le changement d'“amie' à 'petite amie' est arbitraire la plupart du temps."
+emi "Rin pense que le changement d''amie' à 'petite amie' est arbitraire la plupart du temps."
 
 
 emi "Comme s'il n'y avait pas de différence entre les deux."
@@ -2852,13 +2852,13 @@ hi "Exact. Je continuerai de t’embêter pour ça, et ça pourrait plomber l'am
 
 
 
-hi "“Tu trouves ça bon, Hisao ?' 'Parle à l'infirmier, Emi.'"
+hi "'Tu trouves ça bon, Hisao ?' 'Parle à l'infirmier, Emi.'"
 
 
-hi "“Comment était ta journée, Hisao ?' 'Parle à l'infirmier, Emi.'"
+hi "'Comment était ta journée, Hisao ?' 'Parle à l'infirmier, Emi.'"
 
 
-hi "“Hisao, je suis prête à ce qu'on le fas—' “{b}Parle à l'infirmier, Emi.{/b}'"
+hi "'Hisao, je suis prête à ce qu'on le fas—' '{b}Parle à l'infirmier, Emi.{/b}'"
 
 
 hi "Tu vois ? Ça ne marche pas très bien."
@@ -4603,7 +4603,7 @@ show evh emi_grinding_wink
 with charachange
 
 
-emi "“À l'amour comme à la guerre', hein ?"
+emi "'À l'amour comme à la guerre', hein ?"
 
 
 emi "Ha, et tu rougis même ! Je ne savais pas que tu étais du genre à rougir, Hisao."
@@ -5468,7 +5468,7 @@ hi "Ouais, je crois. Je sais pas sur quoi j'ai atterri, cela dit."
 stop music fadeout 0.2
 
 
-"“Lubrifiant intime. Saveur citron.'"
+"'Lubrifiant intime. Saveur citron.'"
 
 
 "Hein, quoi ?"
@@ -5521,7 +5521,7 @@ show eminude pout_ni
 with charachange
 
 
-emi "“Des rencontres clandestines.'"
+emi "'Des rencontres clandestines.'"
 
 
 hi "Oh ? Il t'a invitée à une ?"
@@ -6369,7 +6369,7 @@ with openeyefast
 "Va falloir que je trouve une meilleure excuse que ça pour mon absence."
 
 
-"“Désolé de n’être pas venu en classe, j’expérimentais sexuellement avec ma petite copine et ça m'a épuisé.'"
+"'Désolé de n’être pas venu en classe, j’expérimentais sexuellement avec ma petite copine et ça m'a épuisé.'"
 
 
 "Ouaip, ça passera bien."

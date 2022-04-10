@@ -2746,7 +2746,7 @@ with charaexit
 
 "Should I have told it as a natural part of introductions? Is it expected of me?"
 
-"“Hi, I'm Hisao. I have a very serious heart condition.'"
+"'Hi, I'm Hisao. I have a very serious heart condition.'"
 
 "Is that how I'm supposed to go around introducing myself from now on?"
 

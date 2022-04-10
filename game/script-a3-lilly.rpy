@@ -1331,7 +1331,7 @@ hi "True. How's life over there, then? It sounds like you've been living in noth
 
 li "I wouldn't call it a mansion…"
 
-"“But it is rather large' is obviously what she wants to say, though modesty stops her. I'm a little envious, but it is her holiday."
+"'But it is rather large' is obviously what she wants to say, though modesty stops her. I'm a little envious, but it is her holiday."
 
 li "It's a nice house to stay in, though. There's a beach near here too, which Akira's especially fond of."
 

@@ -848,7 +848,7 @@ with charachange
 show lilly basic_weaksmile_paj
 with charachange
 
-li "“Putting up with it' may be the best term for the situation. Don't you agree, Hisao?"
+li "'Putting up with it' may be the best term for the situation. Don't you agree, Hisao?"
 
 hi "Yeah, that sounds about right. At least she's being reasonable about it."
 
@@ -1008,7 +1008,7 @@ hi "I wouldn't worry about it. A lot of people aren't really that good with them
 show lilly basic_concerned_paj_close
 with charachange
 
-li "“That' unusual…"
+li "'That' unusual…"
 
 "Now she's even more depressed. It feels like I'm twisting the knife, rather than healing her wounds."
 
@@ -1177,7 +1177,7 @@ nk "Nevertheless, I want to keep a close eye on you for a while, just for observ
 
 "That's something I really didn't want to hear. Since coming to Yamaku, all I've wanted to do is live as normal a life as possible."
 
-"“Observation' was one of the words I came to hate most during my hospital stay. For so long I felt as if I could have just walked straight out the hospital doors, if not for that 'observation' the doctors wanted so dearly."
+"'Observation' was one of the words I came to hate most during my hospital stay. For so long I felt as if I could have just walked straight out the hospital doors, if not for that 'observation' the doctors wanted so dearly."
 
 hi "Sure. Should I come in more often?"
 
@@ -2247,7 +2247,7 @@ with charachange
 
 li "But there was one person whom I most regretted not seeing again. He was the reason I took up English as a future career."
 
-"“He?' Considering she came from an all-girls school, that can't have been a schoolmate then…"
+"'He?' Considering she came from an all-girls school, that can't have been a schoolmate then…"
 
 li "I rejected the confessions I'd received until then for him. Every time I improved my English skills, his praise was my most treasured reward."
 
@@ -4551,7 +4551,7 @@ with charaexit
 
 "For the first time in a long while, I finally have an answer to something. Perhaps not even that. But at least I now have the right question to ask."
 
-"“Will you leave, or stay?'"
+"'Will you leave, or stay?'"
 
 stop ambient fadeout 2.0
 
@@ -4799,7 +4799,7 @@ hi "Well, I do think she's a pretty cool person to talk with. It'd be nice if an
 show lilly basic_sleepy_cas_close
 with charachange
 
-li "“Cool…'"
+li "'Cool…'"
 
 "For a moment I try to place her tone of voice, my mouth curling into a smirk as I realize it."
 

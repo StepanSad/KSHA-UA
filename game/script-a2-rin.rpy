@@ -2857,7 +2857,7 @@ nvl show dissolve
 
 n " {vspace=120}That remark she made before is still stuck in my head."
 
-n "“Emi's the most Emi when she runs.'"
+n "'Emi's the most Emi when she runs.'"
 
 n "It does make sense, now that I think about it. After seeing her run now, I can believe that Emi gives her all on the track."
 

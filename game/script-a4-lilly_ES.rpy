@@ -858,7 +858,7 @@ with charachange
 show lilly basic_weaksmile_paj
 with charachange
 
-li "“Soportándolo' puede ser la mejor forma de llamar a la situación. ¿Estás de acuerdo, Hisao?"
+li "'Soportándolo' puede ser la mejor forma de llamar a la situación. ¿Estás de acuerdo, Hisao?"
 
 hi "Sí, eso lo describe bien. Al menos está siendo razonable al respecto."
 
@@ -1020,7 +1020,7 @@ hi "Yo no me preocuparía por eso. Hay muchas personas que en realidad no son ta
 show lilly basic_concerned_paj_close
 with charachange
 
-li "“Tan' inusual…"
+li "'Tan' inusual…"
 
 "Ahora ella parece más deprimida. Se siente como si yo estuviera hundiendo el cuchillo, en lugar de tratar la herida."
 
@@ -1195,7 +1195,7 @@ nk "Sin embargo, quiero vigilarte de cerca por un tiempo, solamente como observa
 
 "Eso es algo que de verdad no quería oír. Desde que llegué a Yamaku, lo único que he querido hacer es vivir tan normalmente como sea posible."
 
-"“Observación' era una de esas palabras que llegué a odiar más que las otras cuando estaba en el hospital."
+"'Observación' era una de esas palabras que llegué a odiar más que las otras cuando estaba en el hospital."
 
 "Durante todo ese tiempo sentí que podría haber simplemente salido por las puertas del hospital, si no fuera por esa 'observación' que los médicos tanto querían."
 
@@ -2275,7 +2275,7 @@ with charachange
 
 li "Pero hay una persona de la cual más me arrepiento de no haber vuelto a ver. Él era el motivo por el cual elegí el inglés como una carrera a futuro."
 
-"¿“Él'? Considerando que ella vino de una escuela para chicas, entonces no debe haber sido un compañero…"
+"¿'Él'? Considerando que ella vino de una escuela para chicas, entonces no debe haber sido un compañero…"
 
 li "Rechacé las confesiones que recibí hasta entonces por él. Cada vez que mejoraba mis habilidades con el inglés, sus elogios eran mi recompensa más preciada."
 
@@ -4590,7 +4590,7 @@ with charaexit
 
 "Por primera vez en mucho tiempo, al fin tengo una respuesta a algo. Quizás ni siquiera eso. Pero al menos ahora tengo la pregunta correcta para hacer."
 
-"“¿Te irás o te quedarás?'."
+"'¿Te irás o te quedarás?'."
 
 stop ambient fadeout 2.0
 
@@ -4840,7 +4840,7 @@ hi "Bueno, sí pienso que es una persona bastante genial con la cual hablar. Ser
 show lilly basic_sleepy_cas_close
 with charachange
 
-li "“Genial'…"
+li "'Genial'…"
 
 "Por un momento intento reconocer el tono de su voz, mi boca doblándose en una sonrisa cuando lo hago."
 

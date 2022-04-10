@@ -2997,7 +2997,7 @@ nvl show dissolve
 
 n " {vspace=120}Ese comentario que hizo antes todavía lo tengo en mente."
 
-n "“Emi es su más Emi cuando corre'."
+n "'Emi es su más Emi cuando corre'."
 
 n "Sí tiene sentido, ya que me pongo a pensarlo. Ya que la vi correr, puedo creer que Emi da su mayor esfuerzo en la pista."
 
@@ -3488,7 +3488,7 @@ with charachange
 
 play music music_another fadein 0.5
 
-no "Primero, pensemos en algunas preguntas que queremos contestadas, como “¿Qué es el arte?' y “¿Por qué existe el arte?'."
+no "Primero, pensemos en algunas preguntas que queremos contestadas, como '¿Qué es el arte?' y '¿Por qué existe el arte?'."
 
 show nomiya smile
 with charachange
@@ -5485,7 +5485,7 @@ no "Es tan tonto."
 show nomiya frown
 with charachange
 
-no "La gente siempre le pregunta a los artistas “¿De dónde sacas tus ideas?' como si las ideas fueran algo en venta en el mercado por unas monedas."
+no "La gente siempre le pregunta a los artistas '¿De dónde sacas tus ideas?' como si las ideas fueran algo en venta en el mercado por unas monedas."
 
 show nomiya serious
 with charachange
@@ -6315,7 +6315,7 @@ rin "No es lo mismo. Estás comparando manzanas y calamares."
 
 "Me pregunto cómo es que ella misma siente esa desconexión."
 
-"Si Rin se está preguntando a sí misma cada día “¿Quién soy?', y pinta obsesivamente imágenes para definirse a sí misma día tras día, ¿qué pensará ella de ese estilo de vida?"
+"Si Rin se está preguntando a sí misma cada día '¿Quién soy?', y pinta obsesivamente imágenes para definirse a sí misma día tras día, ¿qué pensará ella de ese estilo de vida?"
 
 hide ovl
 with charachange

@@ -45,7 +45,7 @@ with charachange
 yu "C'est super, mais j'aurais aimé que tu les ramènes plus tôt. Ça n'aurait pas été un problème si la bibliothèque avait plusieurs copies de chaque exemplaire, mais ce n'est pas le cas... et ils agissent comme si c'était de ma faute."
 
 
-hi "“Ils ?'"
+hi "'Ils ?'"
 
 show yuuko panic_down
 with charachange
@@ -221,7 +221,7 @@ with charachange
 yu "Même si... Je trouve ça admirable... Presque brave. Tu ne penses pas ?"
 
 
-hi "“Brave' est une étrange façon de dire ça."
+hi "'Brave' est une étrange façon de dire ça."
 
 show yuuko neutral_down
 with charachange
@@ -2351,7 +2351,7 @@ show mishashort perky_smile_close
 with charachange
 
 
-mi "“Maintenant', hein~... ?"
+mi "'Maintenant', hein~... ?"
 
 
 hi "Ça m'énerve quand les gens abandonnent. J'avais l'habitude de penser qu'abandonner était une façon de s'enfuir, vu que c'est comme ça que les gens décrivent toujours ça, mais maintenant que j'y pense, c'est plus comme jeter quelque chose."
@@ -2519,7 +2519,7 @@ show mishashort perky_sad_close
 with charachange
 
 
-mi "“C'est tout~.'"
+mi "'C'est tout~.'"
 
 
 hi "Ça me rend triste de penser que tu puisses faire la même chose et repousser ton amie. Surtout vu que tu n'es pas loin de Shizune, je veux dire, tu vis même dans le même dortoir."
@@ -3478,7 +3478,7 @@ show shizu basic_happy_close
 with charachange
 
 
-ssh "“Les gens ne changent pas si facilement.' Selon toi. C'est ça ?"
+ssh "'Les gens ne changent pas si facilement.' Selon toi. C'est ça ?"
 
 
 "Elle me fait un clin d’œil, s'amusant clairement."
@@ -3703,7 +3703,7 @@ hi "Est-ce que vous comprenez ? Faites comme si je criais."
 "Keiko" "Oui, monsieur."
 
 
-hi "“Monsieur ?' À qui est-ce que vous parlez d'ailleurs ?"
+hi "'Monsieur ?' À qui est-ce que vous parlez d'ailleurs ?"
 
 play sound sfx_flash
 
@@ -5282,7 +5282,7 @@ with vpunch
 "Après un salut, il rentre à reculons dans sa chambre et claque la porte assez fort pour que le dortoir entier l'entende. J'ai remarqué que beaucoup de personnes claquaient les portes ici. C'est peut-être un truc local."
 
 
-"“Prends soin de toi.' C'est la première fois que je l'entends dire ça. Généralement nos conversations se finissaient sur 'à plus' ou 'j'te rembourserai plus tard, mec.' Il était un peu énervant parfois, mais il me manquera. Je le raye de ma liste mentale."
+"'Prends soin de toi.' C'est la première fois que je l'entends dire ça. Généralement nos conversations se finissaient sur 'à plus' ou 'j'te rembourserai plus tard, mec.' Il était un peu énervant parfois, mais il me manquera. Je le raye de ma liste mentale."
 
 
 "La liste est très réduite maintenant, et encore une fois je m'interdis de faire selon un certain ordre. Comme je l'ai déjà dit, je n'ai jamais eu cette intention."

@@ -2010,7 +2010,7 @@ with charachange
 mi "Conseil des Étudiants~ !"
 
 
-"“Conseil des Étudiants' a été la première chose que j'ai demandé à apprendre, j'ai pensé que ça pourrait être pratique."
+"'Conseil des Étudiants' a été la première chose que j'ai demandé à apprendre, j'ai pensé que ça pourrait être pratique."
 
 
 hi "Ouais, j'évite ça depuis un moment, hein ?"
@@ -2908,7 +2908,7 @@ show misha hips_grin
 with charachange
 
 
-mi "“Je n'aime pas les jeux qui sont basés sur la chance', n'est-ce pas ? C'est toi qui as dit ça, Hicchan."
+mi "'Je n'aime pas les jeux qui sont basés sur la chance', n'est-ce pas ? C'est toi qui as dit ça, Hicchan."
 
 
 hi "Ouais. Mais que le jeu soit basé sur la chance, ce n'est pas pareil qu'un jeu contenant des éléments de chance. Je n'ai rien contre ceux-ci. C'est le cas de la plupart des jeux de toute façon. C'est ce qui rend le jeu intéressant."
@@ -4638,19 +4638,19 @@ play music music_tension
 ke "J'ai été jusqu’à son bureau et lui ai dit 'Eh toi, femme fasciste ! C'est quoi cette idée de badge ? Pour qui tu te prends ici, dans ta tour d'ivoire, à nous regarder de haut comme si nous étions une bande d'idiots ?'"
 
 
-ke "“Ton niveau d'élitisme est honteux, tu es probablement une de ces riches qui demandent à leur chauffeur de les conduire vers des taudis pour qu'ils puissent pointer du doigt et rire...'"
+ke "'Ton niveau d'élitisme est honteux, tu es probablement une de ces riches qui demandent à leur chauffeur de les conduire vers des taudis pour qu'ils puissent pointer du doigt et rire...'"
 
 
-ke "“...et ne boire que du café provenant de grains de luxe chiés par le dernier dinosaure vivant et brassé dans un crâne en or massif."
+ke "'...et ne boire que du café provenant de grains de luxe chiés par le dernier dinosaure vivant et brassé dans un crâne en or massif."
 
 
-ke "“Et comment peux-tu ? Va ouvrir un livre d'histoire, tu ne sais pas que la bourgeoisie a toujours déclenché des révolutions sanglantes pour des merdes comme ça ? Stupide ! Tu es une idiote !'"
+ke "'Et comment peux-tu ? Va ouvrir un livre d'histoire, tu ne sais pas que la bourgeoisie a toujours déclenché des révolutions sanglantes pour des merdes comme ça ? Stupide ! Tu es une idiote !'"
 
 
-ke "“D'accord, les révolutionnaires finissent généralement par foutre la merde partout au bout d'un moment, mais seul un maniaque pourrait créer une politique comme ça...'"
+ke "'D'accord, les révolutionnaires finissent généralement par foutre la merde partout au bout d'un moment, mais seul un maniaque pourrait créer une politique comme ça...'"
 
 
-ke "“...c'est comme si c'était quelque chose qui était créé pour faire souffrir les gens, sauf que c'est réel et que tu veux l'institutionnaliser ! Quand finira la désacralisation de nos droits ? Nous sommes des gens ! Ce n'est pas une justice !'"
+ke "'...c'est comme si c'était quelque chose qui était créé pour faire souffrir les gens, sauf que c'est réel et que tu veux l'institutionnaliser ! Quand finira la désacralisation de nos droits ? Nous sommes des gens ! Ce n'est pas une justice !'"
 
 show kenji neutral
 with charachange
@@ -5104,7 +5104,7 @@ ssh "Je vais te dévorer !"
 hi "Ouais, très occupés."
 
 
-"“Dévorer' est un mot compliqué. Je suis content de pouvoir le lire. Ce n'est pas le bon moment pour célébrer ça, cela dit. Au lieu de ça, on dirait qu'elles ont fini de se chamailler. Ça, ça se fête."
+"'Dévorer' est un mot compliqué. Je suis content de pouvoir le lire. Ce n'est pas le bon moment pour célébrer ça, cela dit. Au lieu de ça, on dirait qu'elles ont fini de se chamailler. Ça, ça se fête."
 
 show lilly cane_listen
 with charachange
@@ -6864,7 +6864,7 @@ mi "Hicchan, un soda n'est pas un petit déjeuner. C'est comme de l'eau."
 hi "Ce n'est pas comme de l'eau, c'est un liquide. De l'eau n'est pas de la nourriture. Un liquide peut être de la nourriture."
 
 
-"“Maintenant qui parle comme Shizune, Misha ?' J'ai envie de lui dire. Même son ton me rappelle la façon qu'a Shizune de dire avec confiance des choses ridicules. Mais si j'avais dit ça, j'aurais été celui qui parle comme Shizune encore une fois."
+"'Maintenant qui parle comme Shizune, Misha ?' J'ai envie de lui dire. Même son ton me rappelle la façon qu'a Shizune de dire avec confiance des choses ridicules. Mais si j'avais dit ça, j'aurais été celui qui parle comme Shizune encore une fois."
 
 
 "C'est terrible, sa compétitivité déteint vraiment sur moi."

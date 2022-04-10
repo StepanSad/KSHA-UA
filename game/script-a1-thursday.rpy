@@ -116,7 +116,7 @@ label en_A19i:
 show emi excited_circle_gym
 with charachange
 
-emi "“Miss Ibarazaki?'"
+emi "'Miss Ibarazaki?'"
 
 "She imitates Misha 'imitating' Shizune, failing to get the same kind of subdued lilt into her high-pitched voice."
 
@@ -3786,7 +3786,7 @@ with charachange
 
 ke "Yeah, some stalls outside. Or something."
 
-"“Or something?' His noncommittal nature sparks a fair amount of suspicion on my behalf. The task at hand comes first, though."
+"'Or something?' His noncommittal nature sparks a fair amount of suspicion on my behalf. The task at hand comes first, though."
 
 hi "So how do you want to split this? We do borders while you do the text? Or do you want to switch and do the borders?"
 

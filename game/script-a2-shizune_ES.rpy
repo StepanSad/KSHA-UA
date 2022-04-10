@@ -1158,7 +1158,7 @@ with charachange
 
 yu "Oh no, lo siento, lo siento mucho, mucho, ¡por favor perdóneme!"
 
-hi "Está bien, y no tienes que hacer esa cosa de “¡Hola, gracias por elegir nuestro negocio!' ya que te conocemos."
+hi "Está bien, y no tienes que hacer esa cosa de '¡Hola, gracias por elegir nuestro negocio!' ya que te conocemos."
 
 show yuukoshang worried_up
 with charachange
@@ -1649,7 +1649,7 @@ with charachange
 mi "¡Consejo estudiantil~!"
 
 
-"“Consejo estudiantil' fue la primera cosa que pedí aprender; parecía que me sería útil."
+"'Consejo estudiantil' fue la primera cosa que pedí aprender; parecía que me sería útil."
 
 hi "Sí, lo he estado evadiendo desde hace un tiempo, ¿eh?"
 
@@ -2406,7 +2406,7 @@ mi "Hicchan, ¿odias los juegos en donde está involucrada la suerte?"
 show misha hips_grin
 with charachange
 
-mi "“No me gustan los juegos que giran en torno a una cuestión de suerte', ¿cierto? Ese eras tú, Hicchan~."
+mi "'No me gustan los juegos que giran en torno a una cuestión de suerte', ¿cierto? Ese eras tú, Hicchan~."
 
 hi "Sí. Aunque girar en torno a la suerte no es lo mismo que simplemente tener suerte involucrada."
 
@@ -3802,20 +3802,20 @@ play music music_tension
 
 "Kenji no me oye, habiendo conseguido un buen impulso en marcha. Envuelto en la energía de su propio desatino, él comienza a enloquecer por completo y a sacudir sus brazos, pareciendo lanzar salvajemente gestos de pandillas."
 
-ke "Me acerqué al escritorio y le dije, “¡Oye tú, mujer fascista! ¿Qué es esta idea de la insignia?'."
+ke "Me acerqué al escritorio y le dije, '¡Oye tú, mujer fascista! ¿Qué es esta idea de la insignia?'."
 
-ke "“¿Qué tan aislada puedes estar, aquí en tu torre de marfil, mirándonos engreídamente por encima del hombro como si fuéramos un montón de idiotas? ¿Quién te crees que eres?'."
+ke "'¿Qué tan aislada puedes estar, aquí en tu torre de marfil, mirándonos engreídamente por encima del hombro como si fuéramos un montón de idiotas? ¿Quién te crees que eres?'."
 
-ke "“Tu nivel de elitismo es terrible, probablemente eres una de esas personas ricas y extravagantes que tienen choferes que los llevan por los barrios pobres para así señalar a la gente y reírse…'."
+ke "'Tu nivel de elitismo es terrible, probablemente eres una de esas personas ricas y extravagantes que tienen choferes que los llevan por los barrios pobres para así señalar a la gente y reírse…'."
 
-ke "“… y solo beben granos de café costosos cagados por el último dinosaurio vivo y preparados en un cráneo de oro sólido'."
+ke "'… y solo beben granos de café costosos cagados por el último dinosaurio vivo y preparados en un cráneo de oro sólido'."
 
-ke "“¿Y cómo podrías? Ve y abre un libro de historia; ¿no sabes que la burguesía siempre es derrocada en una revolución sangrienta por mierda como esta? ¡Estúpida! ¡Eres una idiota!'."
+ke "'¿Y cómo podrías? Ve y abre un libro de historia; ¿no sabes que la burguesía siempre es derrocada en una revolución sangrienta por mierda como esta? ¡Estúpida! ¡Eres una idiota!'."
 
 
-ke "“Claro, los revolucionarios por lo general terminan convirtiendo todo en un completo mierdero más adelante, pero un maníaco es la única clase de persona que crearía una política como esta…'."
+ke "'Claro, los revolucionarios por lo general terminan convirtiendo todo en un completo mierdero más adelante, pero un maníaco es la única clase de persona que crearía una política como esta…'."
 
-ke "“… es como algo que yo crearía para hacer sufrir a la gente, ¡solo que real y tú quieres institucionalizarla! ¿Dónde terminará esta profanación de nuestros derechos? ¡Somos el pueblo! ¡Esto no es justicia!'."
+ke "'… es como algo que yo crearía para hacer sufrir a la gente, ¡solo que real y tú quieres institucionalizarla! ¿Dónde terminará esta profanación de nuestros derechos? ¡Somos el pueblo! ¡Esto no es justicia!'."
 
 show kenji neutral
 with charachange
@@ -3825,7 +3825,7 @@ ke "Eso fue lo que dije."
 show kenji rage
 with charachange
 
-ke "Luego añadí un grito de “¡Pueden quitarnos nuestras cosas, pero nunca nos quitarán nuestra libertaaaaaad!' para atraer a las masas como en esa película sobre la vida de William Wallace donde le quitaron sus cosas pero no su libertad, y luego lo mataron."
+ke "Luego añadí un grito de '¡Pueden quitarnos nuestras cosas, pero nunca nos quitarán nuestra libertaaaaaad!' para atraer a las masas como en esa película sobre la vida de William Wallace donde le quitaron sus cosas pero no su libertad, y luego lo mataron."
 
 stop music fadeout 5.0
 
@@ -3960,7 +3960,7 @@ his "No eres maga."
 show shizu behind_smile
 with charachange
 
-"Haciendo un guiño, ella saca dos recipientes plásticos de su mochila, luego los pone en una tabla cercana antes de levantar ligeramente sus manos como para decir “¡Ta-rá!'."
+"Haciendo un guiño, ella saca dos recipientes plásticos de su mochila, luego los pone en una tabla cercana antes de levantar ligeramente sus manos como para decir '¡Ta-rá!'."
 
 show shizu adjust_happy
 with charachange
@@ -4183,7 +4183,7 @@ ssh "¡Te voy a devorar!"
 
 hi "Sí, muy ocupados."
 
-"“Devorar' es una palabra difícil. Me alegra poder leerla. Aunque no es tiempo para celebrar, no sobre eso. En vez de ello, parece que podrían dejar de pelear. Brindaría por eso."
+"'Devorar' es una palabra difícil. Me alegra poder leerla. Aunque no es tiempo para celebrar, no sobre eso. En vez de ello, parece que podrían dejar de pelear. Brindaría por eso."
 
 show lilly cane_listen
 with charachange
@@ -4781,7 +4781,7 @@ with charachange
 
 ssh "Cualquiera saltaría ante la oportunidad de sentarse con dos chicas lindas, de todos modos."
 
-"Ella hace una pausa, en caso de que yo pueda decir algo como “¡No eres tan linda!' e instantáneamente me encierre en una obvia situación sin salida. Cuando no muerdo el anzuelo, Shizune se vuelve más enérgica y continúa."
+"Ella hace una pausa, en caso de que yo pueda decir algo como '¡No eres tan linda!' e instantáneamente me encierre en una obvia situación sin salida. Cuando no muerdo el anzuelo, Shizune se vuelve más enérgica y continúa."
 
 show shizu basic_happy
 with charachange
@@ -5208,7 +5208,7 @@ show misha hips_smile
 with charachange
 
 
-mi "Shicchan seguía diciendo, “¡Es tan ineficiente~! ¡Misha~! ¿Por qué tienes que ser la intermediaria? Mejor dicho~, ¿por qué hay una intermediaria en primer lugar? ¿Eh~? ¡Estaría bien si yo cocinara y tú tomaras las órdenes! ¡Esto no tiene ningún sentido!'."
+mi "Shicchan seguía diciendo, '¡Es tan ineficiente~! ¡Misha~! ¿Por qué tienes que ser la intermediaria? Mejor dicho~, ¿por qué hay una intermediaria en primer lugar? ¿Eh~? ¡Estaría bien si yo cocinara y tú tomaras las órdenes! ¡Esto no tiene ningún sentido!'."
 
 show misha sign_smile
 with charachange
@@ -5418,7 +5418,7 @@ with locationchange
 
 "Cuando abro la puerta a la azotea, veo que no estoy solo. Misha se apoya contra la cerca, observando el campus de la escuela, no habiéndome notado en absoluto."
 
-"Al instante, sé lo que tengo que hacer: tengo que poner mis manos sobre sus ojos y decir “¿Adivina quién?'. Es la única opción."
+"Al instante, sé lo que tengo que hacer: tengo que poner mis manos sobre sus ojos y decir '¿Adivina quién?'. Es la única opción."
 
 "A mitad de camino, comienzo a pensar en lo mal que esto se vería si Shizune apareciera de repente, habiéndose ido solo por un segundo para traer unos emparedados, y me viera acercándome sigilosamente a Misha de esta manera."
 
@@ -5613,7 +5613,7 @@ mi "Hicchan, una gaseosa no es un desayuno. Es como agua~."
 
 hi "No es como agua, es un líquido. El agua no es comida. Un líquido puede ser comida."
 
-"“¿Ahora quién suena como Shizune, Misha?'. Quiero decirlo. Incluso su tono me recuerda la manera imperturbable y realista de Shizune de expresar lo ridículo. Pero si dijera eso, yo sería el que sonaría como Shizune de nuevo."
+"'¿Ahora quién suena como Shizune, Misha?'. Quiero decirlo. Incluso su tono me recuerda la manera imperturbable y realista de Shizune de expresar lo ridículo. Pero si dijera eso, yo sería el que sonaría como Shizune de nuevo."
 
 "Es terrible, su competitividad realmente se me está pegando."
 

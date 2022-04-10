@@ -1119,7 +1119,7 @@ with charachange
 
 play music music_shizune fadein 5.0
 
-mi "¡Síp, síp~! ¡“Shizune' está bien!"
+mi "¡Síp, síp~! ¡'Shizune' está bien!"
 
 hi "Je. Está bien, eso sería bastante más fácil para mí."
 

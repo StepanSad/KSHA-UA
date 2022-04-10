@@ -520,10 +520,10 @@ show rin basic_lucid_superclose at center
 with charachange
 
 
-centered "“C'était une mauvaise idée.'"
+centered "'C'était une mauvaise idée.'"
 
 
-centered "“Peut-être que tu devrais oublier ça et je ferai de même.'"
+centered "'Peut-être que tu devrais oublier ça et je ferai de même.'"
 
 window show
 
@@ -1995,7 +1995,7 @@ emi "Cette Rin, comment est-ce qu'elle peut faire ça ? Je te le dis, elle n'a 
 "Je crois que je comprends Emi, elle est {b}ce{/b} genre de personne."
 
 
-"“Abandonner' n'a jamais fait partie de son vocabulaire, et peut-être qu'elle ressent que ça ne devrait faire partie du vocabulaire de personne."
+"'Abandonner' n'a jamais fait partie de son vocabulaire, et peut-être qu'elle ressent que ça ne devrait faire partie du vocabulaire de personne."
 
 
 hi "C'est sûrement mieux de la laisser seule ce soir."
@@ -2421,7 +2421,7 @@ with charachange
 no "C'est quoi son problème ? Elle n'a jamais été comme ça, elle a toujours été sérieuse et directe."
 
 
-"“Sérieuse et directe ?' Ce ne sont pas les mots que j'aurais utilisés pour décrire Rin."
+"'Sérieuse et directe ?' Ce ne sont pas les mots que j'aurais utilisés pour décrire Rin."
 
 
 "Pour moi, elle est obsessionnelle au mieux."
@@ -5307,7 +5307,7 @@ n "J'ai essayé de l'atteindre hier, pensant que ça serait la dernière fois."
 n "Elle est partie."
 
 
-n "“Je veux être moi.'"
+n "'Je veux être moi.'"
 
 
 n "Qu'est-ce que ça veut dire ? Rin, plus que n'importe qui, est elle-même."
@@ -5706,7 +5706,7 @@ no "La réputation, ça compte énormément, tu le sais j'imagine ?"
 rin "C'est pas grave. Je n'en ai pas besoin."
 
 
-no "“Pas besoin !' D’où est-ce que tu sors ça ?"
+no "'Pas besoin !' D’où est-ce que tu sors ça ?"
 
 
 "Les réponses de Rin semblent énerver le professeur encore plus, sa voix s’élevant à chaque phrase."
@@ -7173,7 +7173,7 @@ n "Nous sommes plus proches que nous ne l'avons jamais été, et pourtant je ne 
 n "Depuis quand tendresse et tristesse sont devenues le même mot, actes d'affection n'invoquant que le désir ? ...Comment, pourquoi est-ce qu'on a fini comme ça ?"
 
 
-n "“Non, ne dis pas ça', j'ai envie de me dire à moi-même, mais combattre l'omniscience de la conscience est une cause perdue."
+n "'Non, ne dis pas ça', j'ai envie de me dire à moi-même, mais combattre l'omniscience de la conscience est une cause perdue."
 
 
 n "Pourtant, je suis là, et Rin est là, et j'ai l'impression qu'elle serait capable de résoudre tous les problèmes qu'elle a."
@@ -7915,7 +7915,7 @@ play music music_timeskip fadein 4.0
 centered_b "Present{fast}" with Dissolve(4.0)
 
 
-nb "“Présent' est un concept vague et fugace au mieux. {vspace=30} "
+nb "'Présent' est un concept vague et fugace au mieux. {vspace=30} "
 
 
 extend "Le moment entre le passé et le futur ? {vspace=90} "
@@ -8376,7 +8376,7 @@ show rin basic_lucid
 with charachange
 
 
-"“Qu'est-ce que j'en sais moi ?' semble dire son haussement d'épaules, hésitant à donner une réponse précise."
+"'Qu'est-ce que j'en sais moi ?' semble dire son haussement d'épaules, hésitant à donner une réponse précise."
 
 
 "Elle reste silencieuse pendant une seconde de trop, mais même cette seconde n'est pas assez longue pour réfléchir..."

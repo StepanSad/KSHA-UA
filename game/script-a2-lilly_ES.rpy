@@ -4514,7 +4514,7 @@ with Pause (1.0)
 
 "El nombre prolijamente adornando al reverso del sobre me detiene por completo. Ha pasado tanto tiempo desde que vi su letra, que no hay muchas posibilidades de que pudiera identificarla como suya de otra forma."
 
-"“Iwanako'."
+"'Iwanako'."
 
 "¿Por qué… me podrá haber escrito? No puedo pensar en ningún buen motivo para hacer esto."
 
@@ -4562,7 +4562,7 @@ n "Es el texto que lo antecede, no más que cháchara, lo que me hace sentir má
 
 nvl clear
 
-n " {vspace=240}“Si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta”."
+n " {vspace=240}'Si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta'."
 
 n " {vspace=240}'Si te gustaría mantener correspondencia conmigo, por supuesto que puedes escribirme de vuelta'."
 
@@ -5613,7 +5613,7 @@ with locationskip
 
 "Sonrío cuando me doy cuenta del significado del ave."
 
-"“Todos aquí tenemos que encontrar nuestra propia manera de tratar con sus condiciones. No estás solo aquí cuando tienes problemas'."
+"'Todos aquí tenemos que encontrar nuestra propia manera de tratar con sus condiciones. No estás solo aquí cuando tienes problemas'."
 
 hi "Gracias, Lilly. Agradezco esto."
 
