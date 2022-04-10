@@ -399,7 +399,7 @@ mi "Il y a certaines choses que nous connaissons sur Hanako en tant que membres 
 hi "Normal."
 
 
-"Ça ressemble beaucoup au \"secret médical\" de l'infirmier. À chaque fois que je trouve quelqu'un qui sait quelque chose sur le passé de Hanako, je me retrouve face à un mur."
+"Ça ressemble beaucoup au 'secret médical' de l'infirmier. À chaque fois que je trouve quelqu'un qui sait quelque chose sur le passé de Hanako, je me retrouve face à un mur."
 
 
 "Je n'ai qu'une seule manière de faire, si je veux savoir : lui demander. Je ne sais pas si elle me laissera savoir de telles choses, mais si c'est dans son intérêt, je dois au moins essayer."
@@ -483,7 +483,7 @@ ke "C'est quoi cette réponse ?"
 hi "Désolé, je réfléchissais juste à pas mal de trucs."
 
 
-ke "“Réfléchir\" n'est qu'une pauvre excuse pour ne pas contribuer à l'effort de guerre."
+ke "“Réfléchir' n'est qu'une pauvre excuse pour ne pas contribuer à l'effort de guerre."
 
 
 hi "Et comment se passe la guerre ?"
@@ -779,7 +779,7 @@ with charachange
 hi "Ça... va ? Si tu te sens mal ou autre, je peux aller chercher l'infirmier."
 
 
-"Je me sens mal de lui sortir l'habituel \"j’espère que tu iras mieux\". Je n'arrive pas à imaginer ce que je peux faire d'autre pour elle."
+"Je me sens mal de lui sortir l'habituel 'j’espère que tu iras mieux'. Je n'arrive pas à imaginer ce que je peux faire d'autre pour elle."
 
 show hanagown normal_close
 with charachange
@@ -1088,7 +1088,7 @@ label fr_H22a:
 "Je ne veux pas l'avouer, mais elle a peut-être raison. Quelque chose d'autre me gêne, cela dit."
 
 
-hi "Et tu as essayé de... \"empêcher\" ça ?"
+hi "Et tu as essayé de... 'empêcher' ça ?"
 
 
 hi "Attends... notre sortie en ville ?"
@@ -2133,7 +2133,7 @@ mk "Allez, ne sois pas si déprimé. C'était déjà arrivé, tu dois juste atte
 "Enfin, je dis ça, mais je ne peux rien faire. Je ne peux pas la forcer à sortir et elle voit un thérapeute, donc ce n'est pas comme si elle ne recevait aucune aide pour ses problèmes."
 
 
-"Peut-être qu'il est normal de penser de cette façon quand on ne peut rien faire pour aider quelqu'un. \"Elle est juste comme ça, et tu dois faire avec.\""
+"Peut-être qu'il est normal de penser de cette façon quand on ne peut rien faire pour aider quelqu'un. 'Elle est juste comme ça, et tu dois faire avec.'"
 
 show bg school_scienceroom at center 
 show miki smile_close at twoleft 
@@ -2245,7 +2245,7 @@ ha "Mais... je pensais que tu voulais réviser."
 "Les révisions peuvent attendre. Venir en classe après tout ce temps a dû demander beaucoup de courage à Hanako, donc le moins que je puisse faire est de rester avec elle."
 
 
-"“Elle est juste comme ça, et tu dois faire avec\" est la façon dont Miki, et probablement la classe entière, voient Hanako. Mais je peux faire plus pour elle. Je veux faire plus pour elle."
+"“Elle est juste comme ça, et tu dois faire avec' est la façon dont Miki, et probablement la classe entière, voient Hanako. Mais je peux faire plus pour elle. Je veux faire plus pour elle."
 
 
 hi "Après avoir été distrait par Miki, je ne crois pas que je vais réussir à travailler. Allez, on y va."
@@ -2724,7 +2724,7 @@ play music music_night fadein 1.0
 "En fin de compte, j'imagine que c'était une façon naïve de penser. Tôt ou tard, mon passé m'aurait rattrapé d'une façon ou d'une autre."
 
 
-"Mais qu'est-ce que je suis censé lui dire ? \"Merci d'avoir mis un point final\" ? Tout ce que la lettre a fait est mettre fin au faux sentiment d'aboutissement que je ressentais."
+"Mais qu'est-ce que je suis censé lui dire ? 'Merci d'avoir mis un point final' ? Tout ce que la lettre a fait est mettre fin au faux sentiment d'aboutissement que je ressentais."
 
 
 "J'ai beau essayer, je n'arrive pas à écrire un seul mot sur la feuille en face de moi. Je n'arrive même pas à trouver ce que je veux dire exactement."
@@ -2996,7 +2996,7 @@ ha "Mais... pourquoi est-ce que tu me la montres ?"
 hi "Je voulais me prouver que je pouvais le faire, que je pouvais accepter mon passé et avancer. Je voulais te la montrer aussi."
 
 
-"Elle hoche la tête. D’après sa réaction, elle semble savoir à quel point c'est difficile pour moi. Plus que tout, cette cicatrice est un rappel visible de ma condition. Un rappel que je ne suis plus \"normal\"."
+"Elle hoche la tête. D’après sa réaction, elle semble savoir à quel point c'est difficile pour moi. Plus que tout, cette cicatrice est un rappel visible de ma condition. Un rappel que je ne suis plus 'normal'."
 
 
 "C'est quelque chose que, jusqu’à maintenant, j'ai essayé d'ignorer."
@@ -5100,7 +5100,7 @@ play ambient sfx_parkambience fadein 2.0
 "Je mets ma main dans ma poche encore une fois. Cette fois je navigue rapidement jusqu'au menu des e-mails avant d'avoir une chance de changer d'avis."
 
 
-"“Hanako, si tu veux parler, je serai au parc en ville pendant un moment.\""
+"“Hanako, si tu veux parler, je serai au parc en ville pendant un moment.'"
 
 
 "Combattant un dernier doute, je choisis Hanako dans la liste et appuie sur envoyer."

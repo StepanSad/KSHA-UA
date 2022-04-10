@@ -117,9 +117,9 @@ label es_A19i:
 show emi excited_circle_gym
 with charachange
 
-emi "“¿Señorita Ibarazaki?\""
+emi "“¿Señorita Ibarazaki?'"
 
-"Imita a Misha \"imitando\" a Shizune, sin lograr obtener ese tenue tono alegre con su voz aguda."
+"Imita a Misha 'imitando' a Shizune, sin lograr obtener ese tenue tono alegre con su voz aguda."
 
 
 
@@ -146,7 +146,7 @@ emi "¡Genial!"
 
 "No estoy seguro de si se dio cuenta de que estaba bromeando."
 
-hi "Entonces el \"espía-asesor\" del que hablaba el enfermero… ¿en realidad eres tú?"
+hi "Entonces el 'espía-asesor' del que hablaba el enfermero… ¿en realidad eres tú?"
 
 show emi basic_closedgrin_gym
 with charachange
@@ -170,7 +170,7 @@ hi "A menos que estés aquí para hacer exactamente eso."
 show emi excited_laugh_gym
 with charachange
 
-emi "No, estoy aquí por mis propios motivos, el enfermero solo me preguntó si había visto a \"un estudiante de intercambio con pelo revuelto y una cara como si estuviera perdido\" por la pista."
+emi "No, estoy aquí por mis propios motivos, el enfermero solo me preguntó si había visto a 'un estudiante de intercambio con pelo revuelto y una cara como si estuviera perdido' por la pista."
 
 
 hi "Entonces, ¿por qué estás aquí?"
@@ -466,7 +466,7 @@ with charachange
 
 ke "Debería estar preguntándote eso. Te he estado buscando por todo el lugar, hombre."
 
-hi "¿Qué quieres decir con \"por todo el lugar\"?"
+hi "¿Qué quieres decir con 'por todo el lugar'?"
 
 
 "Quiero preguntar si ha estado buscándome estando así, completamente desnudo, pero me callo."
@@ -641,9 +641,9 @@ show kenji tsun_naked
 with charachange
 
 
-ke "Y ese día llegará, cuando las feministas salgan de su cuartel general central feminista mundial ultra secreto en todo el mundo, y digan “¡Ahora es cuando, hijos de puta!\"."
+ke "Y ese día llegará, cuando las feministas salgan de su cuartel general central feminista mundial ultra secreto en todo el mundo, y digan “¡Ahora es cuando, hijos de puta!'."
 
-hi "Estás siendo ridículo, no hay tal gran edificio del \"cuartel general feminista mundial\", ¿dónde iban siquiera a esconder eso?"
+hi "Estás siendo ridículo, no hay tal gran edificio del 'cuartel general feminista mundial', ¿dónde iban siquiera a esconder eso?"
 hi "Quiero decir, tendría que ser masivo, no podrías esconder eso en la Tierra, alguien notaría una gran fortaleza con solo mujeres dentro."
 
 show kenji happy_naked
@@ -666,7 +666,7 @@ ke "Imagínalo, el sangriento campo de batalla. Un conflicto brutal sin final."
 
 ke "Casi me di por vencido, cuando pensé que esta causa era tonta… Cuando me cansé de la crudeza de nuestra pelea… Cuando confundí la vez en que se fue la luz por un asalto feminista, y pensé que el final estaba cerca…"
 
-ke "Pero después me di cuenta de que si me rendía, todo acabaría, fue como, \"epa\" y supe que tenía que ir en serio. Porque soy el último hombre cuerdo en un mundo de locos. Es sobre el deber."
+ke "Pero después me di cuenta de que si me rendía, todo acabaría, fue como, 'epa' y supe que tenía que ir en serio. Porque soy el último hombre cuerdo en un mundo de locos. Es sobre el deber."
 
 hi "Debe ser un movimiento de porquería si todo se mueve alrededor de un tipo desnudo, despotricando en un baño a otro tipo desnudo."
 
@@ -863,7 +863,7 @@ mi "¡Mira, es la representante del grupo! ¡Hola~!"
 show lilly cane_smile
 with charachange
 
-"Lilly sonríe, probablemente entretenida por el uso de Misha —o el de Shizune— de la palabra \"mira\"."
+"Lilly sonríe, probablemente entretenida por el uso de Misha —o el de Shizune— de la palabra 'mira'."
 
 show lilly cane_smile
 with charachange
@@ -889,7 +889,7 @@ li "No lo soy."
 
 "Entonces me doy cuenta de que Lilly quizás no sepa que Shizune está presente y que esté intentando detectar si ella está o no, para saber con quién está hablando."
 
-"Pues todo lo que ella sabe es que está hablando con Misha, pero sabiendo que ella y Shizune son prácticamente inseparables, puede que espere que sea Shizune quien realmente \"habla\"."
+"Pues todo lo que ella sabe es que está hablando con Misha, pero sabiendo que ella y Shizune son prácticamente inseparables, puede que espere que sea Shizune quien realmente 'habla'."
 
 "Maldición, qué complicado. Decido ayudar a Lilly, por mi propia tranquilidad más que por cualquier otra cosa."
 
@@ -953,7 +953,7 @@ shi "…"
 show misha cross_frown
 with charachange
 
-mi "¡Hoy! ¡La fecha límite es hoy! Sí que te estás tomando tu tiempo, ¿no es así? Si yo pudiese hacer las cosas a mi modo, hubiera tenido todo el papeleo hecho hace días, pero ¡alguien~! tuvo que decir “¡por favor, extiende la fecha límite~!\"."
+mi "¡Hoy! ¡La fecha límite es hoy! Sí que te estás tomando tu tiempo, ¿no es así? Si yo pudiese hacer las cosas a mi modo, hubiera tenido todo el papeleo hecho hace días, pero ¡alguien~! tuvo que decir “¡por favor, extiende la fecha límite~!'."
 
 show lilly cane_displeased
 with charachange
@@ -1288,7 +1288,7 @@ with charachange
 show misha hips_smile
 with charachange
 
-mi "¡Representante~! Shicchan dice: “¡No te olvides de ese informe, por favor~!\"."
+mi "¡Representante~! Shicchan dice: “¡No te olvides de ese informe, por favor~!'."
 
 li "No lo haré."
 
@@ -1599,7 +1599,7 @@ with charachange
 
 mi "¿Eh?"
 
-"El tono de las acciones de Shizune me hace pensar que ella está \"hablando\" con desdén, pero Misha lo interpreta normalmente, reemplazando cualquier intención que pudiera haber tenido con su propio giro alegre de las cosas."
+"El tono de las acciones de Shizune me hace pensar que ella está 'hablando' con desdén, pero Misha lo interpreta normalmente, reemplazando cualquier intención que pudiera haber tenido con su propio giro alegre de las cosas."
 "Todavía es desorientador, no creo que algún día me acostumbre."
 
 hi "No importa."
@@ -2091,7 +2091,7 @@ with charachange
 
 mi "Además, tú eres el criminal aquí, ¡tú sabes lo que hiciste!"
 
-hi "¿Alguna vez leíste \"El Proceso\" de Kafka?"
+hi "¿Alguna vez leíste 'El Proceso' de Kafka?"
 
 show misha hips_grin
 with charachange
@@ -2858,7 +2858,7 @@ shi "…"
 show misha sign_smile
 with charachange
 
-mi "Por eso no debe haber fallas… emmm creo que eso era \"obstáculos\", nada en absoluto que pudiera hacer que el festival no sea exactamente perfecto."
+mi "Por eso no debe haber fallas… emmm creo que eso era 'obstáculos', nada en absoluto que pudiera hacer que el festival no sea exactamente perfecto."
 
 
 "El apasionado discurso de Shizune y la actuación de Misha son en verdad extrañamente concordantes con ellas."
@@ -3835,7 +3835,7 @@ with charachange
 
 ke "Sí, unos puestos afuera. O algo así."
 
-"¿“O algo así\"? Su naturaleza evasiva desencadena una buena cantidad de sospecha de mi parte. Sin embargo, concentrarme en la tarea viene primero."
+"¿“O algo así'? Su naturaleza evasiva desencadena una buena cantidad de sospecha de mi parte. Sin embargo, concentrarme en la tarea viene primero."
 
 hi "Entonces, ¿cómo quieres dividir esto? ¿Nosotros hacemos los bordes mientras tú haces el texto? ¿O quieres cambiar y hacer los bordes?"
 

@@ -23,7 +23,7 @@ play music music_dreamy fadein 8.0
 
 "Mi habitación…"
 
-"Esta es la tercera habitación en este año a la que se supone que llame \"mía\"."
+"Esta es la tercera habitación en este año a la que se supone que llame 'mía'."
 
 
 "Varias cosas a mi alrededor me recuerdan que, en efecto, soy yo quien se supone que debería estar viviendo aquí."
@@ -275,7 +275,7 @@ with charachange
 
 mi "¡Muy bien~! Bueno, como estábamos preguntando, no tienes ningún plan para el almuerzo hoy, ¿o sí?"
 
-"“Había pensado en ir a la biblioteca y sacar unos libros\"."
+"“Había pensado en ir a la biblioteca y sacar unos libros'."
 
 hi "… No realmente."
 
@@ -835,7 +835,7 @@ with charachange
 
 mi "Eso no es cierto, Hicchan, Shicchan dice que hay personas que, cuando su vida se encuentra amenazada, han mostrado la capacidad de tener arranques de velocidad sobrehumanas."
 
-hi "¿“Su vida se encuentra amenazada\"?"
+hi "¿“Su vida se encuentra amenazada'?"
 
 show shizu behind_smile
 with charachange
@@ -876,7 +876,7 @@ with charachange
 
 mi "No~."
 
-hi "¿Qué quieres decir con \"no\"? ¿Acaso significa que nadie más vendrá hoy?"
+hi "¿Qué quieres decir con 'no'? ¿Acaso significa que nadie más vendrá hoy?"
 
 show shizu adjust_smug
 with charachange
@@ -1262,7 +1262,7 @@ shi "…"
 show misha perky_smile
 with charachange
 
-mi "Está bien, Hicchan, pero no nos daremos por vencidas tan fácilmente. Dijiste \"tal vez\"; ¡todavía hay una posibilidad de que cambies de opinión~!"
+mi "Está bien, Hicchan, pero no nos daremos por vencidas tan fácilmente. Dijiste 'tal vez'; ¡todavía hay una posibilidad de que cambies de opinión~!"
 
 show shizu basic_angry
 with charachange
@@ -1377,7 +1377,7 @@ play sound sfx_door_creak
 
 "La puerta chirría lentamente como si se quejara desde un profundo sueño, sin embargo es mucho más fácil de abrir de lo que había anticipado."
 
-"Inclinándome hacia delante y asomando mi cabeza cada vez más adentro para llegar a ver el lugar lo antes posible, el dócil “¿Hola…?\" en mis labios me es velozmente arrebatado."
+"Inclinándome hacia delante y asomando mi cabeza cada vez más adentro para llegar a ver el lugar lo antes posible, el dócil “¿Hola…?' en mis labios me es velozmente arrebatado."
 
 window hide
 
@@ -1479,7 +1479,7 @@ with fade
 
 "Shizune y Misha no tienen ningún problema trabajando juntas para comunicarse conmigo, y la misma Lilly parece tener soluciones alternativas para problemas que nunca había pensado."
 
-"Aunque me siento un poco culpable de que ella haga todo el trabajo, parece contenta de seguir el procedimiento \"correcto\" del oferente preparando el té."
+"Aunque me siento un poco culpable de que ella haga todo el trabajo, parece contenta de seguir el procedimiento 'correcto' del oferente preparando el té."
 
 li "Y bien,"
 
@@ -1580,7 +1580,7 @@ show tearoom_lilly smileclosed
 show tearoom_hisao think
 with charachange
 
-li "Vengo aquí con frecuencia durante la hora del almuerzo. Mis deberes como representante de grupo no dejan tiempo suficiente para un club \"oficial\", así que una amiga y yo usamos este cuarto para tomar el té."
+li "Vengo aquí con frecuencia durante la hora del almuerzo. Mis deberes como representante de grupo no dejan tiempo suficiente para un club 'oficial', así que una amiga y yo usamos este cuarto para tomar el té."
 
 "Representante de grupo, ¿eh?"
 
@@ -2038,7 +2038,7 @@ ha_ "Ha… Hanako…"
 
 "Tartamudea al hablar y lo hace tan bajo que es apenas audible, incluso en la callada biblioteca."
 
-"De alguna manera creo que mi impresión de ella de una \"delincuente\" estaba equivocada."
+"De alguna manera creo que mi impresión de ella de una 'delincuente' estaba equivocada."
 
 hi "Hanako, ¿eh? Así que, ¿qué estás leyendo?"
 
@@ -2052,7 +2052,7 @@ with locationskip
 "Seguramente se dio cuenta de que la miraba."
 
 
-hi "¿“La Vida de Pi\"? Nunca había oído de él antes. ¿De qué trata?"
+hi "¿“La Vida de Pi'? Nunca había oído de él antes. ¿De qué trata?"
 
 ha "Un niño… y un tigre…"
 
@@ -2119,7 +2119,7 @@ with locationchange
 
 "Tomo asiento a su lado, y se esconde detrás de su libro."
 
-"“La Vida de Pi\"… Nunca he oído de él."
+"“La Vida de Pi'… Nunca he oído de él."
 
 hi "Y bien, ahh… disculpa otra vez por asustarte. Soy Hisao."
 
@@ -2134,7 +2134,7 @@ ha_ "Estamos… en la misma… misma clase."
 
 "Su forma de hablar es poco natural y tan silenciosa que apenas puede oírse en la callada biblioteca."
 
-"De alguna manera creo que mi impresión de ella de una \"delincuente\" estaba equivocada."
+"De alguna manera creo que mi impresión de ella de una 'delincuente' estaba equivocada."
 
 ha_ "Ha-Ha-Hanako. Soy… Hanako."
 
@@ -2142,7 +2142,7 @@ stop music fadeout 8.0
 
 "…"
 
-"Resisto la tentación de decir \"es un bonito nombre\" solo por tener algo que decir, pero en serio, es lo único en lo que puedo pensar."
+"Resisto la tentación de decir 'es un bonito nombre' solo por tener algo que decir, pero en serio, es lo único en lo que puedo pensar."
 
 "Me siento como un idiota. Todos aquí deben de estar acostumbrados a ser diferentes unos de otros, y aquí estoy yo, sintiéndome molesto y alborotado por ese tipo de cosas."
 
@@ -2168,7 +2168,7 @@ with locationchange
 show ev hana_library_read
 with locationchange
 
-"Después de un tiempo me doy cuenta de que está haciendo lo mismo, y solo pretende sumergirse en \"La Vida de Pi\"."
+"Después de un tiempo me doy cuenta de que está haciendo lo mismo, y solo pretende sumergirse en 'La Vida de Pi'."
 
 show ev hana_library
 with locationchange
@@ -2291,7 +2291,7 @@ with charachange
 "Yuuko suspira y se ve muy molesta, mucho más de lo que parecía antes."
 
 
-yu "Supongo que no fue algo tan \"malo\" sino más bien \"falto de tacto\"."
+yu "Supongo que no fue algo tan 'malo' sino más bien 'falto de tacto'."
 
 hi "¿Falto de tacto?"
 
@@ -2391,7 +2391,7 @@ yu "Ya veo."
 
 "Pero no dice nada más, y tan solo registra los préstamos por mí."
 
-"Supongo que es esto a lo que llaman \"tacto\"."
+"Supongo que es esto a lo que llaman 'tacto'."
 
 stop music fadeout 2.0
 
@@ -2659,7 +2659,7 @@ with charachange
 ke "¿Dónde estaba? Oh, sí, la inmensa conspiración feminista."
 
 
-hi "Basta. ¡Detente! Ya te perdí, allá por quién sabe dónde. Por ahí por \"infiltración feminista\"."
+hi "Basta. ¡Detente! Ya te perdí, allá por quién sabe dónde. Por ahí por 'infiltración feminista'."
 
 show kenji happy
 with charachange
@@ -2687,7 +2687,7 @@ with charachange
 ke "¿Quieres decir que eres tú? Eso no puede ser, porque yo soy el último hombre cuerdo en un mundo de locos. Ese es mi sueño, no puedes simplemente robarle el sueño a un hombre."
 
 
-ke "Qué diablos, no pueden haber dos últimos hombres cuerdos. Invalidaría toda la parte de \"último\"… y esa parte como que es algo importante."
+ke "Qué diablos, no pueden haber dos últimos hombres cuerdos. Invalidaría toda la parte de 'último'… y esa parte como que es algo importante."
 
 ke "Solo puede haber uno, como en esa película extranjera donde solo podía haber uno, y al final solo queda un tipo, porque ese era el punto."
 

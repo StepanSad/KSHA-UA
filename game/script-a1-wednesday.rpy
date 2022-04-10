@@ -21,7 +21,7 @@ show shizu behind_smile at tworight
 show misha perky_smile at twoleft
 with charaenter
 
-"I turn my head and see that Shizune and Misha are looking at me. Shizune gives me a smile that is equal parts cute and menacing. This is a smile that says \"We have you now. There is no escape.\""
+"I turn my head and see that Shizune and Misha are looking at me. Shizune gives me a smile that is equal parts cute and menacing. This is a smile that says 'We have you now. There is no escape.'"
 
 show misha hips_grin
 with charachange
@@ -310,7 +310,7 @@ ha "T… that's okay."
 
 ha "It… it was my fault."
 
-hi "Nah, that wasn't anyone's \"fault,\" it just kind of happened."
+hi "Nah, that wasn't anyone's 'fault,' it just kind of happened."
 
 hi "So, are you waiting for someone? I saw you looking at the door before…"
 
@@ -369,7 +369,7 @@ hi "What about her? Don't they get along?"
 
 "It does make a strange sort of sense, Shizune and Lilly not getting along so well."
 
-"Communication between the two would be all but impossible. It's hard enough talking to Shizune through Misha, even when you can see whose hands are \"talking.\""
+"Communication between the two would be all but impossible. It's hard enough talking to Shizune through Misha, even when you can see whose hands are 'talking.'"
 
 "Hanako is so focused on Shizune that I am the first to notice Lilly at the door."
 
@@ -848,7 +848,7 @@ with charachange
 
 mi "Are you okay, Hicchan? That Ibarazaki girl is always like that, causing trouble to others."
 
-hi "You know, I'm pretty certain Shizune wouldn't call me \"Hicchan.\""
+hi "You know, I'm pretty certain Shizune wouldn't call me 'Hicchan.'"
 
 show misha hips_grin
 with charachange
@@ -1093,7 +1093,7 @@ show lilly cane_weaksmile
 show hanako def_worry
 with charachange
 
-li "That \"someone\" here is Emi, isn't it?"
+li "That 'someone' here is Emi, isn't it?"
 
 show emi basic_hes_gym
 with charachange
@@ -1193,7 +1193,7 @@ play music music_tranquil fadein 3.0
 scene bg suburb_shanghaiext
 with locationchange
 
-"We arrive at the teahouse in what Misha says is \"record time,\" likely because of Shizune's blazing pace. I feel a little let down seeing that it's not a huge feudal-era building with mats on the floor and women in kimonos pouring the tea."
+"We arrive at the teahouse in what Misha says is 'record time,' likely because of Shizune's blazing pace. I feel a little let down seeing that it's not a huge feudal-era building with mats on the floor and women in kimonos pouring the tea."
 
 "It actually is more like a café, as I thought. Not that it's a bad thing. It looks very nice."
 
@@ -1407,7 +1407,7 @@ with charachange
 
 mi "You really should join the Student Council, Hicchan. Come on, it'll be fun!"
 
-hi "People always say \"come on, it'll be fun\" about things that are never, ever fun."
+hi "People always say 'come on, it'll be fun' about things that are never, ever fun."
 
 show shizu behind_frown_close
 with charachange
@@ -1480,7 +1480,7 @@ with charachange
 
 mi "Ah, that's a secret, Hicchan."
 
-hi "No, I want to know how low it was. How low is \"low\"?"
+hi "No, I want to know how low it was. How low is 'low'?"
 
 mi "Ahaha…"
 
@@ -1782,7 +1782,7 @@ shi "…"
 
 mi "Shicchan says she's flattered, Hicchan, but doing that kind of thing would be a grossly inappropriate abuse of power, and imposing on your free will~! And~! It would be blackmail, too! Shicchan would never do anything like that, never!"
 
-"I think about asking Misha, \"Are you sure?\" but resist the urge to."
+"I think about asking Misha, 'Are you sure?' but resist the urge to."
 
 show shizu basic_normal_close
 with charachange
@@ -1953,7 +1953,7 @@ shi "…"
 show misha hips_grin
 with charachange
 
-mi "She tried, but even though Shicchan is deaf, he'll try to say \"hi~!\" anyway!"
+mi "She tried, but even though Shicchan is deaf, he'll try to say 'hi~!' anyway!"
 
 hi "Run away?"
 
@@ -2081,7 +2081,7 @@ with charachange
 
 "Judging from the two girls' expressions, I don't think that they're buying it. But, in what I assume is their way of respecting my privacy, they don't press the matter."
 
-"I guess that is one of the unwritten rules around here; \"don't ask.\" Even if people's conditions are obvious, like Hanako's, there's still bound to be a story involved."
+"I guess that is one of the unwritten rules around here; 'don't ask.' Even if people's conditions are obvious, like Hanako's, there's still bound to be a story involved."
 
 "Everyone has things that they don't feel comfortable speaking about, and I think everyone here recognizes that."
 
@@ -2218,7 +2218,7 @@ with charaexit
 
 "We make our way to our seats, and I notice that Misha and Shizune are both missing as well."
 
-"I wonder if it is some form of informal agreement with the staff, or if it's a \"perk\" afforded to the unique students of this school?"
+"I wonder if it is some form of informal agreement with the staff, or if it's a 'perk' afforded to the unique students of this school?"
 
 "Trying to make as little disturbance as I can, I extract the relevant textbooks from my bag and start catching up."
 
@@ -2428,7 +2428,7 @@ mu "I wonder if you could get some temporary help?"
 show muto normal
 with charachange
 
-"He switches to staring at me focusedly, with a hard expression, as if trying to say \"go make some friends.\""
+"He switches to staring at me focusedly, with a hard expression, as if trying to say 'go make some friends.'"
 
 "…"
 
@@ -2444,7 +2444,7 @@ mi "You can? Thanks, Hicchan, you are really nice!"
 show misha sign_confused
 with charachange
 
-"She pauses, does a double take and then points at me with her finger, yelping \"Ah!\" and looking very puzzled."
+"She pauses, does a double take and then points at me with her finger, yelping 'Ah!' and looking very puzzled."
 
 mi "Come to think of it, what's Hicchan doing here? Class is over, you should be having fun~!"
 
@@ -2746,7 +2746,7 @@ with charaexit
 
 "Should I have told it as a natural part of introductions? Is it expected of me?"
 
-"“Hi, I'm Hisao. I have a very serious heart condition.\""
+"“Hi, I'm Hisao. I have a very serious heart condition.'"
 
 "Is that how I'm supposed to go around introducing myself from now on?"
 
@@ -2776,7 +2776,7 @@ with charaenter
 
 "However, I can see how this sight could discomfort people, especially while eating. It makes me feel a bit uncomfortable at least."
 
-"I hesitate to think about the word \"unnatural\" but it's too late now, isn't it?"
+"I hesitate to think about the word 'unnatural' but it's too late now, isn't it?"
 
 "I keep searching the cabins and shelves for Misha's things, but after enough time passes the silence grows too uncomfortable, so I try to force some conversation out of this strange girl."
 
@@ -3340,7 +3340,7 @@ with charachange
 
 nk "Okay. That's more like it."
 
-nk "If you go to the school track tomorrow morning, you'll meet my \"spy,\" who probably has no qualms offering consultation to you if you want to jog a bit."
+nk "If you go to the school track tomorrow morning, you'll meet my 'spy,' who probably has no qualms offering consultation to you if you want to jog a bit."
 
 hi "Consultation?"
 
@@ -3395,7 +3395,7 @@ hi "They just make me a little less worse."
 
 "I'm thankful that she doesn't. I think I'm still not quite used to all this."
 
-"At the hospital it was easy, but I still haven't sorted my feelings about having to live a \"normal\" life with this disability."
+"At the hospital it was easy, but I still haven't sorted my feelings about having to live a 'normal' life with this disability."
 
 
 
@@ -3546,7 +3546,7 @@ hi "So I don't really have anything to say."
 show rin relaxed_nonchalant
 with charachange
 
-"Rin shrugs her shoulders at that, saying \"suit yourself\" without saying it and looks up at the sky as if trying to look for something up there."
+"Rin shrugs her shoulders at that, saying 'suit yourself' without saying it and looks up at the sky as if trying to look for something up there."
 
 rin "I didn't think I'd get any actual work done but if you give me a hand with the paints I could do a little before it's too dark."
 

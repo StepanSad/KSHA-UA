@@ -52,10 +52,10 @@ with locationchange
 "Et puis, je peux imaginer qu'il a construit un abri insonorisé dans sa chambre."
 
 
-"Ou peut-être quelque chose comme un fort, avec une pancarte \"Filles Non Admises\" dessus."
+"Ou peut-être quelque chose comme un fort, avec une pancarte 'Filles Non Admises' dessus."
 
 
-"...et avec le \"Filles\" barré et un \"personnes\" grossièrement griffonné en dessous."
+"...et avec le 'Filles' barré et un 'personnes' grossièrement griffonné en dessous."
 
 stop music fadeout 2.0
 
@@ -983,7 +983,7 @@ with characlose
 mi "Allez ! Allez ! Les lots ont l'air vraiment super cette année, vraiment vraiment~ ! Tu ne voudrais pas gagner des lots pour deux filles mignonnes comme nous ?"
 
 
-"Misha prend sa meilleure pose \"mignonne\", ce qui est certes très mignon. Je regarde vers Shizune, espérant pareil de sa part, mais elle me regarde juste comme si j'étais fou."
+"Misha prend sa meilleure pose 'mignonne', ce qui est certes très mignon. Je regarde vers Shizune, espérant pareil de sa part, mais elle me regarde juste comme si j'étais fou."
 
 show shizu cross_wut_close_ss
 with charachange
@@ -2131,7 +2131,7 @@ with locationskip
 "Ils sont faciles à différencier."
 
 
-"C'est ceux qui n'arrêtent pas de fixer tout le monde, et derrière leurs regards on peut deviner qu'ils se disent \"Bon, qu'est-ce qui ne va pas avec {b}celui-là{/b} ?\""
+"C'est ceux qui n'arrêtent pas de fixer tout le monde, et derrière leurs regards on peut deviner qu'ils se disent 'Bon, qu'est-ce qui ne va pas avec {b}celui-là{/b} ?'"
 
 
 "J'ai presque envie de leur hurler dessus."
@@ -3039,7 +3039,7 @@ with charachange
 "Rin acquiesce en hochant la tête."
 
 
-rin "Je ne dirai pas \"À demain\" parce que ça serait prédire le futur, et je suis sûre de ne pas pouvoir faire ça."
+rin "Je ne dirai pas 'À demain' parce que ça serait prédire le futur, et je suis sûre de ne pas pouvoir faire ça."
 
 hi "…"
 
@@ -4825,7 +4825,7 @@ with charachange
 li "Tout le monde... a ses raisons."
 
 
-"Quelque chose me dit que l'une de ces personnes avec des \"raisons\" est Hanako, d'où son hésitation face à la réponse. Ma propre situation est encore un autre cas."
+"Quelque chose me dit que l'une de ces personnes avec des 'raisons' est Hanako, d'où son hésitation face à la réponse. Ma propre situation est encore un autre cas."
 
 
 "Je suppose que c'est un choix que tout le monde ici doit avoir fait de lui-même... ou, pour mon cas, qui a été fait pour lui."
@@ -5086,7 +5086,7 @@ li "Tu as raison. Ça serait bien d'y aller quand ça arrivera."
 "Les voir toutes les deux me rappelle le conseil que m'avait donné Lilly quand on avait été en ville ensemble."
 
 
-"“Chérir l'opportunité de se faire de nouveaux amis\", hein ?"
+"“Chérir l'opportunité de se faire de nouveaux amis', hein ?"
 
 
 hi "Dis, Lilly ?"
@@ -5345,7 +5345,7 @@ with charachange
 ha "C'est... ce n'est rien."
 
 
-hi "Tu sais, quand tu dis \"rien\" comme ça, les gens ont envie de continuer à poser des questions."
+hi "Tu sais, quand tu dis 'rien' comme ça, les gens ont envie de continuer à poser des questions."
 
 
 "Pendant une seconde, j'ai cru qu'elle n'allait pas répondre."
@@ -6131,7 +6131,7 @@ with charachange
 ke "Merde, j'ai oublié d'amener mes graphiques."
 
 
-"Je décide de jouer à un jeu d'alcool tout seul. Chaque fois que Kenji mentionne \"conspiration féminine\", je bois une gorgée."
+"Je décide de jouer à un jeu d'alcool tout seul. Chaque fois que Kenji mentionne 'conspiration féminine', je bois une gorgée."
 
 $ wdt_off(False)
 
@@ -6188,7 +6188,7 @@ show ev kenji_rooftop_large:
 ke "Nan mec, réfléchis. Réfléchis ! Réfléchis aux implications plus profondes !"
 
 
-ke "Les gens pouvaient se permettre de commencer à dire \"Oh, vu qu'il y a deux membres de la famille qui gagnent de l'argent maintenant au lieu d'un, ils peuvent certainement se permettre une augmentation des coûts de propriété.\""
+ke "Les gens pouvaient se permettre de commencer à dire 'Oh, vu qu'il y a deux membres de la famille qui gagnent de l'argent maintenant au lieu d'un, ils peuvent certainement se permettre une augmentation des coûts de propriété.'"
 
 show ev kenji_rooftop_large:
     ease 1.0  crop (1024*2.4, 260*1.6, 1920, 1080) 

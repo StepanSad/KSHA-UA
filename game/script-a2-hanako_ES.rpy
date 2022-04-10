@@ -185,9 +185,9 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 nvl show dissolve
 
 
-n " {vspace=90}Dentro de Yamaku, todo mundo es \"especial\", lo que niega la \"especialidad\" de ello."
+n " {vspace=90}Dentro de Yamaku, todo mundo es 'especial', lo que niega la 'especialidad' de ello."
 
-n "Pero una vez que nos aventuramos fuera de los portones escolares, somos devueltos al estatus de \"forasteros\" y de etiquetas genéricas."
+n "Pero una vez que nos aventuramos fuera de los portones escolares, somos devueltos al estatus de 'forasteros' y de etiquetas genéricas."
 
 n "Especialmente cuando aún estamos en uniforme escolar. Es como estar colgando una señal alrededor de tu cuello desafiando a la gente a descubrir lo que está mal contigo."
 
@@ -223,7 +223,7 @@ stop music fadeout 6.0
 
 "Pero la cualidad más llamativa del cuarto es la falta de vida. Creo que puedo escuchar vagamente algo burbujeando a lo lejos al fondo, pero fuera de eso el cuarto está en silencio."
 
-"Sin ninguna dirección, simplemente esperamos cerca de la entrada, obedeciendo educadamente la señal de \"Por favor espere a que le asignen mesa\"."
+"Sin ninguna dirección, simplemente esperamos cerca de la entrada, obedeciendo educadamente la señal de 'Por favor espere a que le asignen mesa'."
 
 hi "Eh, ¿está cerrado este lugar o algo?"
 
@@ -1211,7 +1211,7 @@ with charaenter
 
 "Y, mientras Hanako y yo pasamos a través del portón, noto que ella acorta la distancia entre nosotros."
 
-"No lo suficiente para ser considerado \"cerca\", pero claramente no está en su usual posición \"solo un poco lejos\"."
+"No lo suficiente para ser considerado 'cerca', pero claramente no está en su usual posición 'solo un poco lejos'."
 
 "Supongo que no somos lo suficientemente familiares como para que ella se acerque tanto como lo hace con Lilly."
 
@@ -1253,7 +1253,7 @@ with charachange
 
 ha "S-sí. Con Lilly."
 
-"Por supuesto. \"Con Lilly\". Me pregunto si alguna vez ha dejado la escuela sin ella."
+"Por supuesto. 'Con Lilly'. Me pregunto si alguna vez ha dejado la escuela sin ella."
 
 "No parece ser mucha a primera vista, pero la dependencia de Hanako en Lilly es absurdamente grande."
 
@@ -2359,7 +2359,7 @@ with charachange
 
 mi "Bueno, ella nunca pasa el rato con nadie más, ¿cierto? ¡No es bueno, Hicchan!"
 
-"Si Shizune y Lilly no se llevan bien porque \"sus personalidades son diferentes\" entonces odio pensar cómo se llevarían Misha y Hanako…"
+"Si Shizune y Lilly no se llevan bien porque 'sus personalidades son diferentes' entonces odio pensar cómo se llevarían Misha y Hanako…"
 
 show misha perky_confused
 with charachange
@@ -2551,7 +2551,7 @@ mi "Tu trabajo ha sido considerado suficiente. Puedes irte."
 
 hi "Bien, gracias."
 
-hi "Sabes, si remarcaras el lado de \"comida gratis\" sobre el de \"carga de trabajo sin fin\", probablemente terminarías con más reclutas."
+hi "Sabes, si remarcaras el lado de 'comida gratis' sobre el de 'carga de trabajo sin fin', probablemente terminarías con más reclutas."
 
 stop music fadeout 6.0
 
@@ -2748,7 +2748,7 @@ with charamove
 
 
 
-"Cerca del final del pasillo, entre un libro de trucos mágicos y un libro de juegos para niños, aparece un solo libro titulado \"Tácticas de Ajedrez para Campeones\"."
+"Cerca del final del pasillo, entre un libro de trucos mágicos y un libro de juegos para niños, aparece un solo libro titulado 'Tácticas de Ajedrez para Campeones'."
 
 show hanako basic_bashful
 with charachange
@@ -2811,7 +2811,7 @@ with charaexit
 
 "La mayoría de las listadas están hechas de madera. Algo sobre ello no me parece muy seguro."
 
-"Si voy a montarme en algo potencialmente peligroso, quiero que esté hecho de acero, o algún tipo de aleación de la era espacial que diga en letras grandes algo como \"Titanio\" y \"Rutenio\"."
+"Si voy a montarme en algo potencialmente peligroso, quiero que esté hecho de acero, o algún tipo de aleación de la era espacial que diga en letras grandes algo como 'Titanio' y 'Rutenio'."
 
 "Rápidamente pierdo el interés, y mis ojos divagan por el área de lectura y descansan en Hanako."
 
@@ -3088,7 +3088,7 @@ with charachange
 
 li "Hisao, ¿te importa si te hago una pregunta?"
 
-"Maldición. Todo lo que quiero es un poco de comida y unas cuatro horas de sueño. Y nadie dice \"puedo hacerte una pregunta\" por una pregunta simple."
+"Maldición. Todo lo que quiero es un poco de comida y unas cuatro horas de sueño. Y nadie dice 'puedo hacerte una pregunta' por una pregunta simple."
 
 hi "Seguro."
 
@@ -3165,7 +3165,7 @@ li "Las reglas no pueden eliminar la naturaleza humana después de todo, solo su
 
 hi "Supongo que tienes razón. Pero cuando recién llegué aquí, todo fue un poco como un shock."
 
-hi "Me mantuve cometiendo errores, o al menos pensando que había estado cometiendo errores. Como cuando nos conocimos, y te dije \"ya veo\"."
+hi "Me mantuve cometiendo errores, o al menos pensando que había estado cometiendo errores. Como cuando nos conocimos, y te dije 'ya veo'."
 
 hi "No sabía si eso era considerado maleducado o algo, así que solo traté de llevarlo al fondo de mi mente. Tratar a las personas diferente de alguna forma y ese tipo de cosas."
 
@@ -3322,7 +3322,7 @@ window show
 
 "Parece que todo en esta habitación tiene su lugar, posiblemente exceptuando las muchas pilas de libros amontonadas contra la pared."
 
-"Mi sentido de la vista no es el único estimulado; el tenue aroma de algo puede captarse en el aire. Esmalte de uñas, perfume, maquillaje… es difícil de describir de otra forma sino \"de chicas\"."
+"Mi sentido de la vista no es el único estimulado; el tenue aroma de algo puede captarse en el aire. Esmalte de uñas, perfume, maquillaje… es difícil de describir de otra forma sino 'de chicas'."
 
 "Mis ojos terminan su rápida examinación del cuarto, antes de regresar a su posición hacia las chicas."
 
@@ -3444,7 +3444,7 @@ with charaenter
 
 "Se ve extraño comparado con los planos pero generalmente sofisticados muebles de Lilly, lo que me lleva a pensar que tal vez Hanako lo eligió."
 
-"Hay un ligero \"ding\" cuando Hanako golpea accidentalmente la tetera con una taza mientras está sirviendo."
+"Hay un ligero 'ding' cuando Hanako golpea accidentalmente la tetera con una taza mientras está sirviendo."
 
 show hanagown worry
 show lilly basic_displeased_paj
@@ -3518,7 +3518,7 @@ with charachange
 
 "La sonrisa de Hanako regresa, redoblada."
 
-"Incluso con su rostro lastimado, a su tímida sonrisa no se le podría llamar sino \"linda\"."
+"Incluso con su rostro lastimado, a su tímida sonrisa no se le podría llamar sino 'linda'."
 
 show hanagown distant_blush
 with charachange
@@ -4227,7 +4227,7 @@ with None
 scene ev hana_library_read_std
 with locationskip
 
-"Como esperaba, Hanako está sentada en su puf, concentrada profundamente en una copia de \"Baila Baila Baila\"."
+"Como esperaba, Hanako está sentada en su puf, concentrada profundamente en una copia de 'Baila Baila Baila'."
 
 hi "Hola Hanako. ¿Cómo estás?"
 
@@ -4297,7 +4297,7 @@ with charaenter
 
 ha "E… nada."
 
-hi "Te lo he dicho antes, \"nada\" significa \"algo\" cuando lo dices así."
+hi "Te lo he dicho antes, 'nada' significa 'algo' cuando lo dices así."
 
 show hanako cover_worry
 with charachange

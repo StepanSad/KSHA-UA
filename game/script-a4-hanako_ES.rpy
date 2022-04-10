@@ -329,7 +329,7 @@ mi "Hay un par de cosas que sabemos sobre Hanako como miembros del consejo estud
 
 hi "Es entendible."
 
-"Suena bastante como la \"confidencialidad del paciente\" del enfermero. Cada vez que encuentro a alguien que sabe sobre el pasado de Hanako, resulta ser un callejón sin salida."
+"Suena bastante como la 'confidencialidad del paciente' del enfermero. Cada vez que encuentro a alguien que sabe sobre el pasado de Hanako, resulta ser un callejón sin salida."
 
 "La única forma en que lo descubriré será preguntándole. No sé si me dejará saber tales cosas, pero es por su bien, tengo que intentar al menos."
 
@@ -397,7 +397,7 @@ ke "¿Qué onda con esa respuesta?"
 
 hi "Perdón, solo estaba pensando en varias cosas."
 
-ke "“Pensando\" es una respuesta bastante pobre para no estar ayudando en la campaña solidaria de la guerra."
+ke "“Pensando' es una respuesta bastante pobre para no estar ayudando en la campaña solidaria de la guerra."
 
 hi "¿Y cómo va la guerra?"
 
@@ -446,7 +446,7 @@ hi "¿No es esa una lista de materiales para un refugio nuclear?"
 show kenji happy
 with charachange
 
-ke "Ah, así que has leído el panfleto \"Protect and Survive\". Es bueno ver a alguien tan informado sobre cómo protegerse a sí mismo."
+ke "Ah, así que has leído el panfleto 'Protect and Survive'. Es bueno ver a alguien tan informado sobre cómo protegerse a sí mismo."
 
 
 hi "Realmente no piensas…"
@@ -625,7 +625,7 @@ with charachange
 
 hi "¿Estás… bien? Si te sientes enferma o algo, podría ir por una enfermera."
 
-"Casi se siente detestable meter en el acto la rutina de \"mejórate pronto\". Pero no puedo pensar en nada más que podría hacer por ella."
+"Casi se siente detestable meter en el acto la rutina de 'mejórate pronto'. Pero no puedo pensar en nada más que podría hacer por ella."
 
 show hanagown normal_close
 with charachange
@@ -834,7 +834,7 @@ hi "Perdón, solo me tomaste un poco con la guardia baja. Como sea, ¿no es Hana
 
 li "Ya hace algún tiempo he pensado que ambos podrían haber estado alimentándose entre ustedes los hábitos más preocupantes de cada uno. Traté de enmendar esto antes de irme, pero parece que logré muy poco."
 
-hi "¿“Hábitos preocupantes\"?"
+hi "¿“Hábitos preocupantes'?"
 
 li "Cuando te pregunté sobre lo que tenías en mente para el futuro, tu respuesta fue muy similar a lo que Hanako había dicho en el pasado cuando esa pregunta se le presentó."
 
@@ -859,7 +859,7 @@ label es_H22a:
 
 "No quiero admitirlo, pero ella puede tener un buen punto. Sin embargo, algo más me molesta."
 
-hi "¿Y tú trataste de… \"enmendar\" esto?"
+hi "¿Y tú trataste de… 'enmendar' esto?"
 
 hi "Espera… ¿Nuestra salida a la ciudad?"
 
@@ -1681,7 +1681,7 @@ mk "Vamos, no dejes que te deprima. Ella ha hecho esto antes, solo tienes que es
 
 "Bueno, puede que piense eso, pero no hay nada que pueda hacer. No puedo forzarla a salir, y ella ve a un terapeuta, así que no es como si no estuviera recibiendo ayuda por sus problemas."
 
-"Tal vez es natural pensar de esa forma cuando te encuentras tan impotente para ayudar a alguien. \"Esa su forma de ser y solo tienes que lidiar con ello\"."
+"Tal vez es natural pensar de esa forma cuando te encuentras tan impotente para ayudar a alguien. 'Esa su forma de ser y solo tienes que lidiar con ello'."
 
 show bg school_scienceroom at center 
 show miki smile_close at twoleft 
@@ -1773,7 +1773,7 @@ ha "Pero… pensé que estabas estudiando."
 
 "El estudio puede esperar. Presentarse a clase después de todo este tiempo debe haber pedido algo de coraje a Hanako, así que lo menos que puedo hacer es estar con ella."
 
-"“Esa es su forma de ser y solo tienes que lidiar con ello\" es la forma en que Miki y probablemente el grupo entero ve a Hanako. Sin embargo puedo hacer más por ella. Quiero hacer más por ella."
+"“Esa es su forma de ser y solo tienes que lidiar con ello' es la forma en que Miki y probablemente el grupo entero ve a Hanako. Sin embargo puedo hacer más por ella. Quiero hacer más por ella."
 
 hi "Después de ser distraído por Miki, no creo que vaya a lograr hacer nada. Vente, vamos."
 
@@ -2154,7 +2154,7 @@ play music music_night fadein 1.0
 
 "Al final, supongo que fue una idea algo ingenua. Tarde o temprano, mi pasado me habría alcanzado de una forma u otra."
 
-"¿Pero qué se supone que le diga? ¿“Gracias por terminar conmigo\"? Todo lo que hizo la carta fue acabar con la sensación de conclusión que desde antes sentí."
+"¿Pero qué se supone que le diga? ¿“Gracias por terminar conmigo'? Todo lo que hizo la carta fue acabar con la sensación de conclusión que desde antes sentí."
 
 "Por más que lo intento, no puedo escribir ni una simple palabra en el papel frente a mí. No puedo pensar ni siquiera en exactamente qué es lo que quiero decir."
 
@@ -2372,7 +2372,7 @@ ha "Pero… ¿por qué me estás mostrando esto?"
 
 hi "Quería probarme a mí mismo que podía hacer esto; que podía aceptar mi pasado y continuar. Y quería mostrártelo también."
 
-"Ella asiente. Por su reacción, parece saber lo difícil que esto es para mí. Más que nada, esta cicatriz representa un recordatorio visible de mi condición. Un recordatorio de que ya no soy \"normal\"."
+"Ella asiente. Por su reacción, parece saber lo difícil que esto es para mí. Más que nada, esta cicatriz representa un recordatorio visible de mi condición. Un recordatorio de que ya no soy 'normal'."
 
 "Eso es algo que, hasta ahora, he tratado lo más posible de ignorar."
 
@@ -4053,7 +4053,7 @@ play ambient sfx_parkambience fadein 2.0
 
 "Mi mano se hunde en mi bolsillo una vez más. Esta vez navego rápidamente al menú de mensajes de texto antes de tener oportunidad de cambiar de opinión otra vez."
 
-"“Hanako, si quieres hablar, estaré en el parque del pueblo por un rato\"."
+"“Hanako, si quieres hablar, estaré en el parque del pueblo por un rato'."
 
 "Peleando contra una última cantidad de duda, digito mi mensaje a Hanako y presiono el botón para enviarlo."
 

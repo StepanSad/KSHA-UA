@@ -588,7 +588,7 @@ with charachange
 
 mi "How was your festival? Did you have fun?"
 
-hi "Umm… still somewhat undecided on that. I'd say \"probably.\""
+hi "Umm… still somewhat undecided on that. I'd say 'probably.'"
 
 hi "Why?"
 
@@ -644,7 +644,7 @@ with None
 
 "I catch only small glimpses of blue; everything else is a clutter of noise right in the middle of my field of vision."
 
-"What \"experience\" did Rin want out of staring at the sky? Surely she's done it before. Everyone has."
+"What 'experience' did Rin want out of staring at the sky? Surely she's done it before. Everyone has."
 
 "It's no use trying to guess her mind, but if I don't do that, then I have no excuse for not concentrating on the teacher's words."
 
@@ -1316,7 +1316,7 @@ with charachange
 
 ke "What are you talking about, man? I've been liberating these from the oppressive feminist movement that controls the library."
 
-hi "Please say \"oppressive feminist movement\" doesn't mean that poor librarian girl, Yuuko. She couldn't even oppress a wet towel."
+hi "Please say 'oppressive feminist movement' doesn't mean that poor librarian girl, Yuuko. She couldn't even oppress a wet towel."
 
 show kenji invis:
     xpos 0.2 
@@ -1602,7 +1602,7 @@ with charachange
 show ev hisaobird_8
 with charachange
 
-"Art class in middle school was the \"easy\" class in between exhausting subjects like math or Japanese. But there's this other side to art, the one that you see when you don't just fool around."
+"Art class in middle school was the 'easy' class in between exhausting subjects like math or Japanese. But there's this other side to art, the one that you see when you don't just fool around."
 
 show ev hisaobird_9
 with charachange
@@ -1796,7 +1796,7 @@ nvl clear
 
 n " {vspace=60}It's a rare case when I see someone sitting alone, just spacing out or whatever. Obviously there are people like that here, too; that Hanako girl and myself, just to name two from my own class. But overall, they are a minority."
 
-n "At any rate, I wouldn't exactly call what Rin and I do \"socializing,\" either, but it's something, at least."
+n "At any rate, I wouldn't exactly call what Rin and I do 'socializing,' either, but it's something, at least."
 
 n "These occurrences themselves don't bother me, but the fact that they happen at all does."
 
@@ -2857,7 +2857,7 @@ nvl show dissolve
 
 n " {vspace=120}That remark she made before is still stuck in my head."
 
-n "“Emi's the most Emi when she runs.\""
+n "“Emi's the most Emi when she runs.'"
 
 n "It does make sense, now that I think about it. After seeing her run now, I can believe that Emi gives her all on the track."
 
@@ -2865,7 +2865,7 @@ n "Sports are more than a hobby or even a competition, to her. They're a definin
 
 n "What about Rin, then? Does she feel the same way about art? Considering the persistence she displayed before the festival, I could easily believe it."
 
-n "Did I see Rin at her \"most Rin\" when she was painting the mural?"
+n "Did I see Rin at her 'most Rin' when she was painting the mural?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3013,7 +3013,7 @@ hi "When did we assign jobs?"
 show rin basic_deadpannormal
 with charachange
 
-rin "When I said \"See if you can find a laurel branch.\""
+rin "When I said 'See if you can find a laurel branch.'"
 
 show rin basic_deadpandelight
 with charachange
@@ -3332,7 +3332,7 @@ with charachange
 
 play music music_another fadein 0.5
 
-no "First, let's come up with a few questions that we want answered, such as \"What is art?\" and \"Why does art exist?\""
+no "First, let's come up with a few questions that we want answered, such as 'What is art?' and 'Why does art exist?'"
 
 show nomiya smile
 with charachange
@@ -3712,7 +3712,7 @@ hi "I guessed as much."
 show rin basic_deadpanupset
 with charachange
 
-rin "There are people who believe that you must come here to wallow in misery, if you are miserable, only by \"people\" I mean me, and the tree isn't really called anything."
+rin "There are people who believe that you must come here to wallow in misery, if you are miserable, only by 'people' I mean me, and the tree isn't really called anything."
 
 hi "So… if you're miserable, you talk to a tree about it?"
 
@@ -3918,7 +3918,7 @@ label en_R9b:
 $ renpy.music.set_volume(0.5, 0.5, channel="ambient")
 "Emi probably has done it. She's so happy and energetic, a runner girl without legs."
 
-"If anyone has \"beaten\" a disability, it must be her."
+"If anyone has 'beaten' a disability, it must be her."
 
 label en_R9c:
 
@@ -4239,7 +4239,7 @@ play music music_rain fadein 4.0
 
 n " {vspace=90}The last time I saw Iwanako was terribly awkward; embarrassingly so. She came to my hospital room, peeled me an apple out of courtesy and then we practically sat in silence for half an hour."
 
-n "She said \"goodbye\" and didn't look me in the eye when she closed the door."
+n "She said 'goodbye' and didn't look me in the eye when she closed the door."
 
 n "It might've been a natural end to the series of visits that were probably pretty painful for both of us."
 
@@ -4476,7 +4476,7 @@ with locationchange
 
 window show
 
-"As the pair of girls exit the club room with a cheerful \"bye-bye\", Nomiya stands up from his desk. His chair scoots back with a loud screech that breaks the harmony of this quiet afternoon."
+"As the pair of girls exit the club room with a cheerful 'bye-bye', Nomiya stands up from his desk. His chair scoots back with a loud screech that breaks the harmony of this quiet afternoon."
 
 "He taps a pile of papers in his hands twice against the tabletop in order to straighten them, then stretches his back."
 
@@ -5167,7 +5167,7 @@ no "You've made friends with her then, Nakai?"
 
 hi "Uh… well, something like that, I guess. Depends on how you look at it. To be honest, I'm not really sure."
 
-"It's more like me and Rin just tend to hang around each other irregularly, talking or not about something that more often resembles some twisted mockery of philosophy rather than normal, everyday things that \"friends\" chat about."
+"It's more like me and Rin just tend to hang around each other irregularly, talking or not about something that more often resembles some twisted mockery of philosophy rather than normal, everyday things that 'friends' chat about."
 
 show nomiya frown
 with charachange
@@ -5245,7 +5245,7 @@ no "It's so silly."
 show nomiya frown
 with charachange
 
-no "People always ask artists \"Where do you get your ideas?\" as if ideas were something sold at the market for pocket change."
+no "People always ask artists 'Where do you get your ideas?' as if ideas were something sold at the market for pocket change."
 
 show nomiya serious
 with charachange
@@ -6055,7 +6055,7 @@ rin "It's not the same thing. You're comparing apples and squids."
 
 "I wonder how she herself experiences that disconnect."
 
-"If Rin is asking herself every day \"Who am I?\" and obsessively paints images to define herself day after day, what does she think of that way of living?"
+"If Rin is asking herself every day 'Who am I?' and obsessively paints images to define herself day after day, what does she think of that way of living?"
 
 hide ovl
 with charachange
@@ -6327,7 +6327,7 @@ hi "In the rain?"
 
 rin "In the rain."
 
-"That sounds like a bit too much for just keeping up with training regime. Emi is a hard-headed one, though, so I can see her running in the downpour just because she \"had to.\""
+"That sounds like a bit too much for just keeping up with training regime. Emi is a hard-headed one, though, so I can see her running in the downpour just because she 'had to.'"
 
 hi "Well, that's obviously overdoing it. Probably why she came down with that cold, too."
 

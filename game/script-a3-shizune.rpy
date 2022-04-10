@@ -364,7 +364,7 @@ hi "You live in a mansion?"
 show shizu cross_angry_cas at center 
 with charaenter
 
-"Shizune indignantly stands up on her tiptoes so that we're at eye level, and frowns deeply, having had my comment translated to her by Misha. It's as if she's saying, \"how can you even suggest such a thing?\""
+"Shizune indignantly stands up on her tiptoes so that we're at eye level, and frowns deeply, having had my comment translated to her by Misha. It's as if she's saying, 'how can you even suggest such a thing?'"
 
 show shizu basic_frown_cas
 with charachange
@@ -400,7 +400,7 @@ with charaexit
 
 stop music fadeout 5.0
 
-"“Not sure?\" I'm starting to think Shizune doesn't spend a lot of time at home. Before I can make a joke of it at her expense, Shizune vanishes into the house, and Misha goes with her, leaving me alone on the grounds."
+"“Not sure?' I'm starting to think Shizune doesn't spend a lot of time at home. Before I can make a joke of it at her expense, Shizune vanishes into the house, and Misha goes with her, leaving me alone on the grounds."
 
 "I don't want to follow them inside just yet. I put my bag down by the front door, and take the opportunity to look around the grounds, just making a quick lap around the house."
 
@@ -430,7 +430,7 @@ with charachange
 
 hh "Are you the second person that my sister brought with her?"
 
-hi "“Brought with her?\" I'm not luggage."
+hi "“Brought with her?' I'm not luggage."
 
 hi "Anyway, I'm Hisao. Did you take my bag?"
 
@@ -450,7 +450,7 @@ hh "I gave it to Shizune. It's inside. Are you on the Student Council?"
 
 hi "Yeah, how did you know? Does she bring it up often?"
 
-"I almost said \"does she talk about it often?\" That could have been bad."
+"I almost said 'does she talk about it often?' That could have been bad."
 
 show hideaki bored
 with charachange
@@ -1087,7 +1087,7 @@ mi "Shicchan, I think he's upset that he's stuck with the backup rod~!"
 
 aki "Hey, even if you're depressed about it, you've got to try. You could catch the big one, for all you know. But you won't catch anything unless you do!"
 
-"I feel that at least half of her encouragement is because if Hideaki does catch \"the big one,\" she wants to be there to eat it, and having six people fishing just leads to better chances of catching something than having five."
+"I feel that at least half of her encouragement is because if Hideaki does catch 'the big one,' she wants to be there to eat it, and having six people fishing just leads to better chances of catching something than having five."
 
 "The constant awkward shuffling I have to do to communicate with Shizune, not to mention her increasing fidgeting, make me think it might be good to give her a go at fishing."
 
@@ -1130,7 +1130,7 @@ aki "What's she saying?"
 
 "Akira just sighs after I interpret for her."
 
-aki "No, I don't like that \"only.\" You know, a fish is a fish, and you take what you can get."
+aki "No, I don't like that 'only.' You know, a fish is a fish, and you take what you can get."
 
 "Unfortunately, Shizune can't hear her and Lilly doesn't seem to be paying much attention now."
 
@@ -1243,7 +1243,7 @@ with charachange
 
 hh "What do you think we should have for breakfast?"
 
-hi "“We?\" Aren't you eating breakfast right now?"
+hi "“We?' Aren't you eating breakfast right now?"
 
 show hideaki normal
 with charachange
@@ -1409,7 +1409,7 @@ with charachange
 
 hh "…Fine. What about a regular park? There is one nearby that Shizune likes going to. Maybe she will be there, and I can unload you onto her."
 
-hi "What do you mean \"unload?\" I'm not luggage."
+hi "What do you mean 'unload?' I'm not luggage."
 
 show hideaki triangle
 with charachange
@@ -1447,7 +1447,7 @@ hh "No. Are you going to jog or play frisbee with dogs like everyone else? Is th
 
 hi "Well, you go to parks to get back to nature and enjoy the atmosphere. That's why you jog in the park, instead of just on the sidewalk or something. You can jog anywhere."
 
-hi "I can't believe I am having this conversation. How can you not know this? You shouldn't have brought that up, it's too weird. Haven't you ever heard of \"children should be seen, not heard?\""
+hi "I can't believe I am having this conversation. How can you not know this? You shouldn't have brought that up, it's too weird. Haven't you ever heard of 'children should be seen, not heard?'"
 
 show hideaki bored
 with charachange
@@ -1532,7 +1532,7 @@ hi "I think it might be good for you to move your arms more, anyway."
 
 "It probably was too much of a hassle at the time. It's very easy to think that. From what I've seen so far, though, neither of them hold it against each other or are too badly affected by it. It could be that I'm overthinking the situation."
 
-hi "Come on. Well, to be honest, I'm still learning sign language myself. I brought all my books along with me so I can keep up, you know? Still, I can at least teach you the alphabet. It's pretty simple. This is \"kite.\""
+hi "Come on. Well, to be honest, I'm still learning sign language myself. I brought all my books along with me so I can keep up, you know? Still, I can at least teach you the alphabet. It's pretty simple. This is 'kite.'"
 
 "I feel really corny right now, and even more so when Hideaki stares back at me blankly as if the entire concept of learning is alien to him."
 
@@ -1583,7 +1583,7 @@ with dissolvecharamove
 
 mi "Bingo~! That's right! But~, it was too easy, somehow."
 
-"I don't know what she means by \"somehow.\""
+"I don't know what she means by 'somehow.'"
 
 show misha hips_frown_cas
 with charachange
@@ -1721,7 +1721,7 @@ show jigorocard:
     easein 1.0  ypos 0.5  alpha 1.0 
 with Pause (1.0)
 
-"He holds up a case full of them for a second and I can see that his name is Jigoro and that his office hours are from eight to six. They also say that he's a \"consultant\". What a prepared guy, carrying his card case around in his own home."
+"He holds up a case full of them for a second and I can see that his name is Jigoro and that his office hours are from eight to six. They also say that he's a 'consultant'. What a prepared guy, carrying his card case around in his own home."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -1844,7 +1844,7 @@ hx "Stop talking. That sounds unspeakably dirty. I have had enough of your filth
 
 hi "What…?"
 
-hx "“What?\" You are so disrespectful. Amazing. Are all delinquent types like this? Even the way you dress shows flippant disregard for authority. Sweater vest. Disgraceful…"
+hx "“What?' You are so disrespectful. Amazing. Are all delinquent types like this? Even the way you dress shows flippant disregard for authority. Sweater vest. Disgraceful…"
 
 hi "Delinquent? I'm on the Student Council."
 
@@ -1976,7 +1976,7 @@ play music music_dreamy fadein 2.0
 
 "I've been neglecting my sign language studies, so I should probably spend some time studying up on it. Although, I think I've learned a lot just by osmosis. I'm very proud of that, and will have to be careful not to brag about it."
 
-"Most of the books I brought with me aren't manuals on learning sign language, but studies about different signing \"dialects.\" I know Shizune has some secret signals with Misha that only the two of them know the meaning of."
+"Most of the books I brought with me aren't manuals on learning sign language, but studies about different signing 'dialects.' I know Shizune has some secret signals with Misha that only the two of them know the meaning of."
 
 "After seeing a couple of them, this book caught my eye in the school library."
 
@@ -2059,7 +2059,7 @@ hh "Can you teach me sign language?"
 
 "He says it plainly, but his body language is nervous, showing that he clearly needs to put some effort in to ask. I guess Hideaki likes his sister after all. I'd think Misha is a lot more approachable though, so I wonder why he didn't ask her."
 
-"Secretly, I'm shouting \"yes!\" inside. I had thought he wanted to learn sign language and even brought it up, but he had evaded the subject skillfully. It turns out I was right after all. I don't really know why this makes me so pleased."
+"Secretly, I'm shouting 'yes!' inside. I had thought he wanted to learn sign language and even brought it up, but he had evaded the subject skillfully. It turns out I was right after all. I don't really know why this makes me so pleased."
 
 hi "Sure."
 
@@ -2231,7 +2231,7 @@ with charachange
 
 "He narrows his eyes suspiciously, as if he's not used to people being polite to him."
 
-hx "I am writing an autobiography of my life and times. And by \"writing\" I mean I am dictating it to my biographer. Unfortunately, she is running late. Unprofessional."
+hx "I am writing an autobiography of my life and times. And by 'writing' I mean I am dictating it to my biographer. Unfortunately, she is running late. Unprofessional."
 
 show jigoro smug
 with charachange
@@ -2305,7 +2305,7 @@ with charachange
 
 hh "Assault…"
 
-"But he made an assumption too, that I huffed glue. I consider calling him out on this glaring example of hypocrisy, but I don't think it's worth it. He would probably explain his way out of it by saying \"Shut up, boy.\""
+"But he made an assumption too, that I huffed glue. I consider calling him out on this glaring example of hypocrisy, but I don't think it's worth it. He would probably explain his way out of it by saying 'Shut up, boy.'"
 
 show jigoro smug
 with charachange
@@ -3188,7 +3188,7 @@ hide shizu
 hide mishashort
 with charaexit
 
-"Instead, I just say \"never mind\" and tell them to have a good time, then wave them off."
+"Instead, I just say 'never mind' and tell them to have a good time, then wave them off."
 
 "It seems like everyone is out for the day, so I sit down on the biggest and most comfortable-looking chair in the living room with a book. Not a sign language book, but one of the novels I checked out of the library my first week."
 
@@ -3233,7 +3233,7 @@ with charachange
 
 hx "You even ask questions rudely. Disgraceful. That aside, why would you even ask me such a stupid question? How would I know? Am I my son's keeper?"
 
-"“Well, you are his dad, and it seems like he does live here, so…\" But, I guess I can't say that, tempting as it is."
+"“Well, you are his dad, and it seems like he does live here, so…' But, I guess I can't say that, tempting as it is."
 
 "I give up. I already tried to make small talk with him and failed. It's like trying to talk to a brick wall that also hates you. That is my cue to leave and sift through my wallet to see if I have enough money to go to a movie."
 
@@ -3430,7 +3430,7 @@ with shuteye
 
 window show
 
-"If no one has beaten me to it, I could do a thesis on it, maybe get in a medical journal. \"Returning From A Trip Syndrome.\" Not very creative. I fall asleep before I can think of a better name."
+"If no one has beaten me to it, I could do a thesis on it, maybe get in a medical journal. 'Returning From A Trip Syndrome.' Not very creative. I fall asleep before I can think of a better name."
 
 window hide
 
@@ -3539,7 +3539,7 @@ $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
 window show
 
-"What a convenient time for her to rediscover her sincerity. Well, even as I think that, I know she's right. \"Distant and disheartened\" is a good way to describe it. And maybe I had given up, too."
+"What a convenient time for her to rediscover her sincerity. Well, even as I think that, I know she's right. 'Distant and disheartened' is a good way to describe it. And maybe I had given up, too."
 
 "It weighs on my heart when I think back to when I was lying in the hospital, feeling so bitter when she finally stopped showing up. I wasn't surprised, and I had no right to be. How could she not stop coming when it was the only expectation I had of her?"
 
@@ -3698,7 +3698,7 @@ stop music fadeout 4.0
 show kenji tsun
 with charachange
 
-ke "Who's \"Iwanako?\""
+ke "Who's 'Iwanako?'"
 
 hi "My ex-girlfriend."
 
@@ -3777,7 +3777,7 @@ ke "I did it anyway, though. I called her out. I even used a phone. It was liter
 
 hi "I guess it was."
 
-"Even if he's right, it means that Iwanako still wants to keep her distance from me. She's \"not ready\" to chat with me comfortably."
+"Even if he's right, it means that Iwanako still wants to keep her distance from me. She's 'not ready' to chat with me comfortably."
 
 "Why? Am I some kind of freak? I'm not reassured by her actions anyway, in that case. Maybe I am overthinking it, but I just don't know."
 
@@ -3970,7 +3970,7 @@ mi "Shicchan, they don't look very cute, though~…"
 show shizu adjust_frown
 with charachange
 
-"Shizune seems to disagree. Now they're arguing, but it looks like it consists of nothing more than signing \"Yes, they do\" and \"No, they don't\" at each other until they're so tired of it they are just taking turns pointing at each other commandingly."
+"Shizune seems to disagree. Now they're arguing, but it looks like it consists of nothing more than signing 'Yes, they do' and 'No, they don't' at each other until they're so tired of it they are just taking turns pointing at each other commandingly."
 
 "It's strange, partly because it looks kind of ridiculous, but also because I've never seen them disagree."
 
@@ -4093,7 +4093,7 @@ ssh "Hmph. I'm trying to get more people to run, but everyone is so lazy. They t
 show shizu cross_angry
 with charachange
 
-ssh "“Still\" six months away? If they aren't making their move now, they don't deserve a vote!"
+ssh "“Still' six months away? If they aren't making their move now, they don't deserve a vote!"
 
 show mishashort sign_smile
 with charachange
@@ -4112,7 +4112,7 @@ ssh "If this were a real election, they would be in deep trouble. I was reading 
 
 hi "For some reason."
 
-"For a second, Shizune was \"talking\" like her father there, and it was coming out of Misha's mouth. Creepy."
+"For a second, Shizune was 'talking' like her father there, and it was coming out of Misha's mouth. Creepy."
 
 hi "Well, first off, shadow shogun, you can't really make that call. They'll be elected. Second, it's just a school election. It's not like running for city council, or the Diet. I don't think Japanese campaigning laws apply."
 
@@ -4130,7 +4130,7 @@ hi "Well, first off, shadow shogun, you can't really make that call. They'll be 
 
 hi "I still say you need to slow down. If this stuff isn't going to be relevant for months, maybe you're working a little too hard on it. That's what I think. You're worrying too much."
 
-"I don't know how to sign the word \"relevant.\" I try, and only end up flicking a long line of paint where I didn't intend to. There is no way I can fix that."
+"I don't know how to sign the word 'relevant.' I try, and only end up flicking a long line of paint where I didn't intend to. There is no way I can fix that."
 
 hi "Misha, can you ask her that?"
 
@@ -4159,7 +4159,7 @@ with charachange
 
 mi "Wahaha~! We should make them funny-looking this time, then, so no one will take them! How about that, Shicchan~?"
 
-hi "We can draw some weird faces on them. Or we can put a little picture of Shizune on each one saying \"Stealing is wrong.\""
+hi "We can draw some weird faces on them. Or we can put a little picture of Shizune on each one saying 'Stealing is wrong.'"
 
 show shizu behind_frown
 with charachange
@@ -4624,7 +4624,7 @@ ssh "Use sign language."
 
 "If she gets them quite often, though, either it's a coincidence or she has a habit of eating things that can put her in debilitating pain."
 
-"I notice the teacher staring at us disapprovingly. I don't blame him. We're \"talking\" in class, and with sign language, in quite a visible and distracting way. I try clearing my throat to back out of our conversation, but Shizune doesn't get the hint."
+"I notice the teacher staring at us disapprovingly. I don't blame him. We're 'talking' in class, and with sign language, in quite a visible and distracting way. I try clearing my throat to back out of our conversation, but Shizune doesn't get the hint."
 
 "Well, obviously. Before I try to get the message across again with my hands, however, I can see Shizune notices what's up, she just doesn't care."
 
@@ -4979,7 +4979,7 @@ with charaenter
 
 ssh "Okay."
 
-his "That's it? Just \"okay?\""
+his "That's it? Just 'okay?'"
 
 show shizu adjust_frown_ss
 with charachange
@@ -5046,7 +5046,7 @@ with charachange
 
 ssh "It's another project of mine. Just like the festivals. I'm going to do it, because it's my job. It's just that a student council election isn't as fun as a festival, so no one cares."
 
-"She briefly touches her fingertips together, as if to say \"but, maybe…\" There is some truth to it, but Shizune doesn't want to say anything that could be boiled down into something so glib."
+"She briefly touches her fingertips together, as if to say 'but, maybe…' There is some truth to it, but Shizune doesn't want to say anything that could be boiled down into something so glib."
 
 show shizu behind_frown_ss
 with charachange
@@ -5317,7 +5317,7 @@ with charaexit
 
 stop music fadeout 6.0
 
-"Before I can say as much as \"You're welcome,\" she is already dashing off with the urgency of someone late to an appointment."
+"Before I can say as much as 'You're welcome,' she is already dashing off with the urgency of someone late to an appointment."
 
 "That could be the case, but I wouldn't feel safe assuming so. It's Yuuko, and she seems like the kind of person to treat everything that way."
 
@@ -5396,7 +5396,7 @@ hi "Dorm rooms aren't secret, they put your name and number on a board right in 
 show kenji rage
 with charachange
 
-ke "I know, I saw that. They're diabolical. Why not just put up a big Wild West wanted poster, if they're gonna be like that?! \"Wanted: Dead or Alive!\" Probably alive, so they can clone me or turn me into a grasshopper."
+ke "I know, I saw that. They're diabolical. Why not just put up a big Wild West wanted poster, if they're gonna be like that?! 'Wanted: Dead or Alive!' Probably alive, so they can clone me or turn me into a grasshopper."
 
 show kenji tsun at Position(ypos=1.15) 
 with Dissolvemove(0.5)
@@ -5412,7 +5412,7 @@ with charachange
 
 ke "The only question is how they could take a page out of the termite playbook when women are naturally repelled by wood."
 
-hi "“You can never go home again.\" Is that how the saying goes?"
+hi "“You can never go home again.' Is that how the saying goes?"
 
 show kenji neutral
 with charachange
@@ -5439,7 +5439,7 @@ with charachange
 
 ke "You kept sucking down that juice."
 
-hi "So? It wasn't even juice, it was soda. And it's gone now. And what do you mean, \"sucking it down?\" I had two sips."
+hi "So? It wasn't even juice, it was soda. And it's gone now. And what do you mean, 'sucking it down?' I had two sips."
 
 ke "Yeah, right, you had like fifty million sips."
 
@@ -5495,7 +5495,7 @@ ke "Well, they do. And I do read, I read audio books, because that's the way of 
 show kenji neutral
 with charachange
 
-ke "I have to read a book a month for Literary Studies, though, and I found out that the school doesn't really accept such classics as \"Advanced Cryptography.\" If I don't read a bunch of books, they're gonna fail me."
+ke "I have to read a book a month for Literary Studies, though, and I found out that the school doesn't really accept such classics as 'Advanced Cryptography.' If I don't read a bunch of books, they're gonna fail me."
 
 show kenji tsun
 with charachange
@@ -5554,7 +5554,7 @@ with None
 
 stop music fadeout 1.0
 
-"I'm about to strangle him when I hear Misha's \"wahaha\" coming up the hallway. Apparently, Kenji hears it too, and uses the opportunity to quickly vanish behind the autobiography section. Like the wind."
+"I'm about to strangle him when I hear Misha's 'wahaha' coming up the hallway. Apparently, Kenji hears it too, and uses the opportunity to quickly vanish behind the autobiography section. Like the wind."
 
 show mishashort hips_grin at center 
 with charaenter
@@ -5625,7 +5625,7 @@ with charachange
 
 mi "Ahaha~! It's nothing~, nothing~. It's normal for one part of the Student Council to not know what the other is doing~!"
 
-hi "Hey, don't \"nothing, nothing\" something like that. That isn't normal at all. In fact, it's bad. We're only three people."
+hi "Hey, don't 'nothing, nothing' something like that. That isn't normal at all. In fact, it's bad. We're only three people."
 
 show yuuko neurotic_up
 with charachange
@@ -5857,7 +5857,7 @@ play sound sfx_snap
 
 "It's definitely an attention-grabber, so I could only see it as invaluable to a mute. She might have practiced it because of that."
 
-his "“All of it,\" huh? That's too harsh."
+his "“All of it,' huh? That's too harsh."
 
 show shizu behind_blank
 with charachange
@@ -5946,7 +5946,7 @@ ssh "I didn't, but afterwards, I decided to stick with it anyway. I wanted to be
 show shizu basic_normal
 with charachange
 
-ssh "And I want to stir people up, so that they will be able to say, \"That was interesting. Today was interesting.\" That kind of thing. Memorable experiences."
+ssh "And I want to stir people up, so that they will be able to say, 'That was interesting. Today was interesting.' That kind of thing. Memorable experiences."
 
 show shizu behind_smile
 with charachange
@@ -6018,7 +6018,7 @@ with charachange
 
 ssh "Ordering out two days in a row is unnatural. Only in case of emergencies. That is my personal policy."
 
-"This is why she should think of putting some snacks in her desk, it would be an easier way of dealing with these kinds of \"emergencies.\" I want to tell her, but signing out how hungry I am like five times has made me too tired to be a smartass."
+"This is why she should think of putting some snacks in her desk, it would be an easier way of dealing with these kinds of 'emergencies.' I want to tell her, but signing out how hungry I am like five times has made me too tired to be a smartass."
 
 "The temptation is really great, though."
 
@@ -6040,7 +6040,7 @@ with charachange
 
 mi "Hicchan~! You're here, too~!"
 
-hi "“Too?\" How did you know there was already someone in here?"
+hi "“Too?' How did you know there was already someone in here?"
 
 show mishashort sign_smile
 with charachange
@@ -6237,7 +6237,7 @@ mi "Really~? What did she say?"
 
 "They are close enough that I don't think much of how she is prying."
 
-hi "Why she joined the Student Council. Sort of. She started, but then decided that some stuff should just stay classified. And signed, \"It's a secret.\" So, I guess that's what she told me: it's a secret."
+hi "Why she joined the Student Council. Sort of. She started, but then decided that some stuff should just stay classified. And signed, 'It's a secret.' So, I guess that's what she told me: it's a secret."
 
 show mishashort sign_smile_ss
 with charachange
@@ -6609,7 +6609,7 @@ with charachange
 
 ssh "At least tell everyone that you're sick."
 
-his "I'm just not feeling it today. Yesterday I was fine, though. Tomorrow, I'll probably be fine. Taking a sick day in the middle of the week is just too suspicious. That \"24-hour flu\" thing or whatever won't fly."
+his "I'm just not feeling it today. Yesterday I was fine, though. Tomorrow, I'll probably be fine. Taking a sick day in the middle of the week is just too suspicious. That '24-hour flu' thing or whatever won't fly."
 
 show shizu adjust_frown
 with charachange
@@ -6678,7 +6678,7 @@ with charachange
 
 ssh "I feel like I'm losing a lot of people close to me, lately."
 
-"I can't think of a good way to respond to that. Something reassuring and confident, telling her not to worry. \"I'm here for you. I'm not one of those people.\""
+"I can't think of a good way to respond to that. Something reassuring and confident, telling her not to worry. 'I'm here for you. I'm not one of those people.'"
 
 "Then, who is? And it seems so forced. I manage a wave of my hand that seems extremely callous as soon as I do it."
 
@@ -6764,7 +6764,7 @@ hi "Not that…"
 
 hi "What's going on between you and Shizune? She won't tell me, so I'm asking you."
 
-"“Because you're easier to get an answer out of, since the same sign language that gives me the leeway to lie to her gives her a cushion against my questions, so that she can more easily brush them off.\" When she hesitates, I push her harder."
+"“Because you're easier to get an answer out of, since the same sign language that gives me the leeway to lie to her gives her a cushion against my questions, so that she can more easily brush them off.' When she hesitates, I push her harder."
 
 hi "Give me an honest answer, please."
 
@@ -6953,7 +6953,7 @@ hi "Shizune is the type of person who won't let anyone close to her except on he
 
 hi "That probably would have bothered me, when I was in the hospital and anyone who shut me out was dead to me. I'd forgotten all about it until recently. I got a letter, and it was all about that."
 
-hi "I was mad. I thought, \"How can you accuse me of closing myself off from everyone and giving up? Isn't that what everyone else did to me? What else am I supposed to do? What can I do?\""
+hi "I was mad. I thought, 'How can you accuse me of closing myself off from everyone and giving up? Isn't that what everyone else did to me? What else am I supposed to do? What can I do?'"
 
 hi "Yeah, even now, I know that's how it happened, but… she was right, too. I did close myself off."
 
@@ -7044,7 +7044,7 @@ play sound sfx_snap
 show shizu adjust_happy_ss
 with Dissolve(0.3)
 
-"A few seconds pass in uneasy silence, which Shizune breaks with an ear-shattering snap of her fingers, smiling as if to say \"eureka.\""
+"A few seconds pass in uneasy silence, which Shizune breaks with an ear-shattering snap of her fingers, smiling as if to say 'eureka.'"
 
 show shizu basic_happy_ss
 with charachange
@@ -7109,7 +7109,7 @@ ssh "It's okay. But refusing someone's invitation is rude. I'll expect you to ma
 show shizu adjust_happy_ss
 with charachange
 
-"Shizune turns around and smiles at Misha, and starts signing something that I can't see. I assume it's along the lines of \"it looks like it's just going to be the two of us.\""
+"Shizune turns around and smiles at Misha, and starts signing something that I can't see. I assume it's along the lines of 'it looks like it's just going to be the two of us.'"
 
 stop music fadeout 3.0
 
@@ -7128,7 +7128,7 @@ with charachange
 
 play music music_comfort fadein 5.0
 
-"Misha laughs, managing to let out a restrained \"wahaha.\" That Shizune can't see it makes me feel better. It means that it wasn't only for her benefit."
+"Misha laughs, managing to let out a restrained 'wahaha.' That Shizune can't see it makes me feel better. It means that it wasn't only for her benefit."
 
 show shizu behind_smile_ss
 with charachange

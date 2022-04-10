@@ -50,7 +50,7 @@ with charaenter
 
 ha "Are the later ones in the series good as well?"
 
-hi "Not really. You're probably best off just sticking to the original. His later books didn't live up to it, other than maybe \"God Emperor.\""
+hi "Not really. You're probably best off just sticking to the original. His later books didn't live up to it, other than maybe 'God Emperor.'"
 
 show hanako basic_bashful at center
 with charachange
@@ -844,7 +844,7 @@ hi "Hi, Hanako. Mutou wanted me to give you these since you weren't in class tod
 
 hi "Are you… okay? If you're feeling sick or anything, I could get the nurse."
 
-"It feels almost pitiful to put on such a routine \"get well soon\" act. I can't think of anything else I could possibly do for her, though."
+"It feels almost pitiful to put on such a routine 'get well soon' act. I can't think of anything else I could possibly do for her, though."
 
 show hanagown normal:
     xanchor 0.7
@@ -1331,7 +1331,7 @@ hi "True. How's life over there, then? It sounds like you've been living in noth
 
 li "I wouldn't call it a mansion…"
 
-"“But it is rather large\" is obviously what she wants to say, though modesty stops her. I'm a little envious, but it is her holiday."
+"“But it is rather large' is obviously what she wants to say, though modesty stops her. I'm a little envious, but it is her holiday."
 
 li "It's a nice house to stay in, though. There's a beach near here too, which Akira's especially fond of."
 
@@ -1593,7 +1593,7 @@ hi "No, I think that's… hold on a minute, I think that one might be it after a
 show hanako cover_distant_cas at center
 with shorttimeskip
 
-"It takes still some more time before the billboard changes their flight's status to \"disembarking.\""
+"It takes still some more time before the billboard changes their flight's status to 'disembarking.'"
 
 "A loud yawn sneaks up on me, not allowing enough time to stifle it. My sleep patterns have, once again, been all over the place; likely due to a mix of worrying about Hanako and the side-effects of my medications."
 
@@ -2047,7 +2047,7 @@ with charachange
 
 hi "What're you reading, Lilly? The title looks like it's in English."
 
-li "That's right. It's \"And Then There Were None\", an old British story. I could read it to you if you'd like."
+li "That's right. It's 'And Then There Were None', an old British story. I could read it to you if you'd like."
 
 "She extends the offer with a grin, obviously in jest."
 
@@ -2087,7 +2087,7 @@ ha "Mm, it's wonderful."
 show lilly basic_smile_cas
 with charachange
 
-li "That's nice to hear. While Akira may have said that she's kept the house in reasonable condition, I was worried that we might have different standards of \"reasonable.\""
+li "That's nice to hear. While Akira may have said that she's kept the house in reasonable condition, I was worried that we might have different standards of 'reasonable.'"
 
 hi "It looks like there isn't another soul for miles. I thought Akira would be the type to keep to the city."
 
@@ -4248,7 +4248,7 @@ with charachange
 
 "All I can do is watch. Watch and smile."
 
-"If someone were to ask me when I fell in love with her, I wouldn't be able to answer. The best I'd be able to come up with is \"it just happened at some point, but I didn't realize it.\""
+"If someone were to ask me when I fell in love with her, I wouldn't be able to answer. The best I'd be able to come up with is 'it just happened at some point, but I didn't realize it.'"
 
 "If someone were to ask me why I love her, though, then I could answer much more easily."
 

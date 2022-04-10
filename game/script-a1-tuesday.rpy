@@ -22,7 +22,7 @@ play music music_dreamy fadein 8.0
 
 "My room…"
 
-"This is the third room this year that I'm supposed to call \"mine.\""
+"This is the third room this year that I'm supposed to call 'mine.'"
 
 "Various things around here remind me that indeed, it's me who is supposed to be the one living here."
 
@@ -268,7 +268,7 @@ with charachange
 
 mi "Okay~! Well, like we were asking, you don't have any plans for lunch today, do you?"
 
-"“I thought I would go to the library and pick up some books.\""
+"“I thought I would go to the library and pick up some books.'"
 
 hi "…Not really."
 
@@ -818,7 +818,7 @@ with charachange
 
 mi "That's not true, Hicchan, Shicchan says that when their life is threatened, people have shown the capability to pull off superhuman bursts of speed."
 
-hi "“Life is threatened?\""
+hi "“Life is threatened?'"
 
 show shizu behind_smile
 with charachange
@@ -859,7 +859,7 @@ with charachange
 
 mi "No~."
 
-hi "What do you mean \"no?\" Does it mean nobody else is coming today?"
+hi "What do you mean 'no?' Does it mean nobody else is coming today?"
 
 show shizu adjust_smug
 with charachange
@@ -1239,7 +1239,7 @@ shi "…"
 show misha perky_smile
 with charachange
 
-mi "Okay, Hicchan, but we're not going to give up so easily. You said \"maybe;\" there's still a chance you'll come around~!"
+mi "Okay, Hicchan, but we're not going to give up so easily. You said 'maybe;' there's still a chance you'll come around~!"
 
 show shizu basic_angry
 with charachange
@@ -1348,7 +1348,7 @@ play sound sfx_door_creak
 
 "The door slowly creaks as if groaning from a deep sleep, though is much easier to open than I'd anticipated."
 
-"Leaning over and poking my head ever further inside to gain sight of the room as fast as possible, the meek \"Hello…?\" on my lips is quickly snatched away."
+"Leaning over and poking my head ever further inside to gain sight of the room as fast as possible, the meek 'Hello…?' on my lips is quickly snatched away."
 
 window hide
 
@@ -1444,7 +1444,7 @@ with fade
 
 "Shizune and Misha have no problem working together to communicate to me, and Lilly herself seems to have workarounds for problems I'd never thought of."
 
-"While I feel slightly guilty about her doing the work, she seems pleased to be following the \"correct\" process of the offerer preparing the drink."
+"While I feel slightly guilty about her doing the work, she seems pleased to be following the 'correct' process of the offerer preparing the drink."
 
 li "So,"
 
@@ -1540,7 +1540,7 @@ show tearoom_lilly smileclosed
 show tearoom_hisao think
 with charachange
 
-li "I come here fairly often during lunch times. My duties as class representative don't leave enough time for an \"official\" club, so a friend and I use this room for having tea."
+li "I come here fairly often during lunch times. My duties as class representative don't leave enough time for an 'official' club, so a friend and I use this room for having tea."
 
 "Class representative, huh?"
 
@@ -1983,7 +1983,7 @@ ha_ "H… Hanako…"
 
 "Her speech is stuttering and so quiet that it is barely audible even in the still library."
 
-"Somehow I think that my \"delinquent\" impression of her was wrong."
+"Somehow I think that my 'delinquent' impression of her was wrong."
 
 hi "Hanako, eh? So what are you reading?"
 
@@ -1995,7 +1995,7 @@ with locationskip
 
 "She must have noticed me staring before."
 
-hi "“Life of Pi\"? I've never heard of it before. What's it about?"
+hi "“Life of Pi'? I've never heard of it before. What's it about?"
 
 ha "A boy… and a tiger…"
 
@@ -2061,7 +2061,7 @@ with locationchange
 
 "I take the seat next to her, and she hides herself behind her book."
 
-"“Life of Pi\"… Never heard of it."
+"“Life of Pi'… Never heard of it."
 
 hi "So, errr… sorry again for startling you. I'm Hisao."
 
@@ -2076,7 +2076,7 @@ ha_ "We… are in the same… same class."
 
 "Her speech is stilted and so quiet that it is barely audible even in the still library."
 
-"Somehow I think that my \"delinquent\" impression of her was wrong."
+"Somehow I think that my 'delinquent' impression of her was wrong."
 
 ha_ "H-H-Hanako. I'm… Hanako."
 
@@ -2084,7 +2084,7 @@ stop music fadeout 8.0
 
 "…"
 
-"I resist the urge to say \"that's a nice name\" just to have something to say, but really, it's the only thing that I can think of."
+"I resist the urge to say 'that's a nice name' just to have something to say, but really, it's the only thing that I can think of."
 
 "I feel like an idiot. Everyone here must be used to being different to each other, and here I am being all bothered and fussed about that kind of thing."
 
@@ -2109,7 +2109,7 @@ with locationchange
 show ev hana_library_read
 with locationchange
 
-"After a while I realize that she's doing the same and only pretending to be immersed in \"Life of Pi.\""
+"After a while I realize that she's doing the same and only pretending to be immersed in 'Life of Pi.'"
 
 show ev hana_library
 with locationchange
@@ -2232,7 +2232,7 @@ with charachange
 
 "Yuuko sighs and looks awfully bothered, even more so than she did before."
 
-yu "I guess you weren't \"wrong\" so much as \"tactless.\""
+yu "I guess you weren't 'wrong' so much as 'tactless.'"
 
 hi "Tactless?"
 
@@ -2326,7 +2326,7 @@ yu "I see."
 
 "But she doesn't say anything else, and just checks out my books for me."
 
-"I guess this is what they call \"tact.\""
+"I guess this is what they call 'tact.'"
 
 stop music fadeout 2.0
 
@@ -2583,7 +2583,7 @@ with charachange
 
 ke "Where was I? Oh, yeah, vast feminist conspiracy."
 
-hi "Stop it. Stop! I lost you way, way back there somewhere. Somewhere around \"feminist infiltration.\""
+hi "Stop it. Stop! I lost you way, way back there somewhere. Somewhere around 'feminist infiltration.'"
 
 show kenji happy
 with charachange
@@ -2609,7 +2609,7 @@ with charachange
 
 ke "You mean that's you? That can't be, because I'm the last sane man in an insane world. That is my dream, you can't just steal a man's dream."
 
-ke "What the hell, there can't be two last sane men. It would invalidate that whole \"last\" part… and that part is kind of important."
+ke "What the hell, there can't be two last sane men. It would invalidate that whole 'last' part… and that part is kind of important."
 
 ke "There can only be one, like in that foreign movie where there could only be one, and in the end there is only one dude left, because that was the point."
 

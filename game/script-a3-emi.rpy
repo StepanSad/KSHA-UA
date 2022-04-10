@@ -244,7 +244,7 @@ mu "Read that."
 
 mu "If it's interesting, then we can talk about it."
 
-"“A Brief History of Time?\""
+"“A Brief History of Time?'"
 
 "I don't know if I actually want to read this, but Mutou seems pretty excited about it."
 
@@ -290,7 +290,7 @@ with locationskip
 
 "I wonder where I'm supposed to meet Emi, anyway."
 
-"She said \"after practice,\" but she didn't say where I should find her."
+"She said 'after practice,' but she didn't say where I should find her."
 
 "I guess I can just swing by the track; that's probably best, anyway."
 
@@ -646,7 +646,7 @@ emi "Not really. Just… stuff, really."
 show emicas neutral
 with charachange
 
-emi "Rin thinks that the change of a label from \"friend\" to \"girlfriend\" seems arbitrary most of the time."
+emi "Rin thinks that the change of a label from 'friend' to 'girlfriend' seems arbitrary most of the time."
 
 emi "Like there's no difference between the two."
 
@@ -802,7 +802,7 @@ hi "You used your feminine wiles on me!"
 show emicas pout
 with charachange
 
-"Emi seems confused by the phrase \"feminine wiles,\" but the understanding dawns on her features after a moment's thought."
+"Emi seems confused by the phrase 'feminine wiles,' but the understanding dawns on her features after a moment's thought."
 
 show emicas angry_up
 with charachange
@@ -854,7 +854,7 @@ with Pause(0.6)
 hide emicas
 with vpunch
 
-"I twitch one leg to try waking it up, which has the unintended effect of unbalancing Emi, who falls to the side with a startled \"Eep!\""
+"I twitch one leg to try waking it up, which has the unintended effect of unbalancing Emi, who falls to the side with a startled 'Eep!'"
 
 hi "Whoops! Sorry about that."
 
@@ -967,7 +967,7 @@ hi "I'm sure I'll manage."
 show emicas pout_up
 with charachange
 
-emi "How terrible! Aren't you supposed to say something like \"I'll be counting the seconds you are away?\""
+emi "How terrible! Aren't you supposed to say something like 'I'll be counting the seconds you are away?'"
 
 hi "Nah, I don't think so."
 
@@ -1757,7 +1757,7 @@ with charachange
 
 nk "She's not sick again, is she?"
 
-"From the tone of his voice, I don't think the nurse is expecting me to say \"Yes, she's ill.\""
+"From the tone of his voice, I don't think the nurse is expecting me to say 'Yes, she's ill.'"
 
 hi "Er, she said that she'd forgotten to do something, and so she had to skip out, but she'll see you later today."
 
@@ -1790,7 +1790,7 @@ hi "And last night as well."
 show nurse concern
 with charachange
 
-"The nurse's eyes narrow at the words \"last night.\""
+"The nurse's eyes narrow at the words 'last night.'"
 
 nk "And what exactly were you two doing last night?"
 
@@ -2206,11 +2206,11 @@ hi "That's right. I'll keep bugging you about it, and that might put a damper on
 
 
 
-hi "“How's the food, Hisao?\" \"Talk to the nurse, Emi.\""
+hi "“How's the food, Hisao?' 'Talk to the nurse, Emi.'"
 
-hi "“How was your day, Hisao?\" \"Talk to the nurse, Emi.\""
+hi "“How was your day, Hisao?' 'Talk to the nurse, Emi.'"
 
-hi "“Hisao, I think I'm ready to go all the w—\" “{b}Talk to the nurse, Emi.{/b}\""
+hi "“Hisao, I think I'm ready to go all the w—' “{b}Talk to the nurse, Emi.{/b}'"
 
 hi "See? It doesn't work that well."
 
@@ -2450,7 +2450,7 @@ with charachange
 
 rin "Changing location is sometimes helpful for that kind of thing."
 
-"Neither Emi or I bother asking what \"it\" is."
+"Neither Emi or I bother asking what 'it' is."
 
 stop music fadeout 3.0
 stop ambient fadeout 2.0
@@ -2584,7 +2584,7 @@ hi "I guess so?"
 show muto normal
 with charachange
 
-mu "A scientist speaks with authority, Hisao. The answer here is \"Yes, I do.\""
+mu "A scientist speaks with authority, Hisao. The answer here is 'Yes, I do.'"
 
 mu "When the world wants to know how it works, we tell it. Even if all we've got is a decent hypothesis."
 
@@ -2894,7 +2894,7 @@ with charachange
 
 yu "I love seeing people find one another like that, you know?"
 
-yu "I even thought to myself when you walked into the Shanghai that one time, \"I wonder if that kid will wind up with one of those girls.\""
+yu "I even thought to myself when you walked into the Shanghai that one time, 'I wonder if that kid will wind up with one of those girls.'"
 
 hi "…Really?"
 
@@ -3041,7 +3041,7 @@ with locationskip
 
 play sound sfx_doorknock2
 
-"I knock on the door and am greeted with a subdued \"Come in.\""
+"I knock on the door and am greeted with a subdued 'Come in.'"
 
 scene bg school_dormemi at left 
 with locationchange
@@ -3175,7 +3175,7 @@ emi "But it's a pain in the ass all the same."
 
 "There's not much else I can do, after all."
 
-"What am I gonna do, say \"I told you so?\""
+"What am I gonna do, say 'I told you so?'"
 
 "Although I {b}did{/b} tell her to get that leg looked at."
 
@@ -3582,7 +3582,7 @@ hi "What? That doesn't count; you used feminine wiles."
 show evh emi_grinding_wink
 with charachange
 
-emi "“All's fair in love and war,\" right?"
+emi "“All's fair in love and war,' right?"
 
 emi "Ha, and you're even blushing! I didn't know you were a blusher, Hisao."
 
@@ -3841,7 +3841,7 @@ play sound sfx_doorclose
 hide rin
 with None
 
-"Rin shrugs, as if to say \"Can you?\" and hooks her foot around the door, pulling it closed behind her."
+"Rin shrugs, as if to say 'Can you?' and hooks her foot around the door, pulling it closed behind her."
 
 show eminude happy_close
 with charachange
@@ -4263,7 +4263,7 @@ hi "Yeah, I think so. Not sure what I landed on, though…"
 
 stop music fadeout 0.2
 
-"“Personal lubricant. Lemon-flavored.\""
+"“Personal lubricant. Lemon-flavored.'"
 
 "Wait, what?"
 
@@ -4305,7 +4305,7 @@ emi "Because he's the one who told me the track shed was a good place for… wha
 show eminude pout_ni
 with charachange
 
-emi "“Clandestine encounters.\""
+emi "“Clandestine encounters.'"
 
 hi "Oh? He invite you to one or something?"
 
@@ -4600,7 +4600,7 @@ with charachange
 
 "Her eyes are closed, and she's biting her lip, but it seems to be out of toleration rather than enjoyment."
 
-"A sort of \"well, this was a failure, but hopefully it'll be over soon\" look."
+"A sort of 'well, this was a failure, but hopefully it'll be over soon' look."
 
 "I'm caught in a bit of a situation here."
 
@@ -4745,7 +4745,7 @@ with charachange
 
 emi "I mean most of this is new to me anyway."
 
-hi "What d'you mean, \"most?\""
+hi "What d'you mean, 'most?'"
 
 show eminude grin_close_ni
 with charachange
@@ -4912,7 +4912,7 @@ stop music fadeout 4.0
 scene bg school_dormhisao
 with locationskip
 
-"I shower for longer than usual, just to be sure I'm clean of our little \"experiment\", and then collapse on my bed."
+"I shower for longer than usual, just to be sure I'm clean of our little 'experiment', and then collapse on my bed."
 
 "Class is in twenty minutes, so I can probably afford a nap."
 
@@ -4962,7 +4962,7 @@ with openeyefast
 
 "Better not give that excuse to Mutou."
 
-"“Sorry I wasn't in class, I was experimenting sexually with my girlfriend and it tired me out.\""
+"“Sorry I wasn't in class, I was experimenting sexually with my girlfriend and it tired me out.'"
 
 "Yeah, that'll go over well."
 
@@ -5552,7 +5552,7 @@ nvl clear
 
 n " {vspace=180}Mutou thinks I've got the science examination locked up, at any rate."
 
-n "Or as he says, \"The last thing that should give you trouble is my exam, Hisao. It's way beneath your talents.\""
+n "Or as he says, 'The last thing that should give you trouble is my exam, Hisao. It's way beneath your talents.'"
 
 n "Then again, it is Mutou who's telling me this."
 
@@ -5826,7 +5826,7 @@ hi "It's like every time I try to find out more about her, or about what she wan
 
 hi "Like the other day, I was talking to her at lunch about some schools I've been looking into."
 
-hi "And I asked her, \"Have you looked into any schools lately?\""
+hi "And I asked her, 'Have you looked into any schools lately?'"
 
 hi "She shrugs in response, says no, and when I ask why not, she says that she doesn't think that far ahead."
 
@@ -6514,7 +6514,7 @@ emi "You're concerned, I get that. That's cool."
 
 emi "But I'm fine, and it's nothing that you need to worry about."
 
-hi "Not sleeping and spacing out more than Rin doesn't strike me as \"being fine.\""
+hi "Not sleeping and spacing out more than Rin doesn't strike me as 'being fine.'"
 
 hi "I just… I want to help."
 
@@ -6850,13 +6850,13 @@ window hide
 nvl clear
 nvl show dissolve
 
-n " {vspace=60}\"I can't rely on you.\""
+n " {vspace=60}'I can't rely on you.'"
 
 n " {vspace=30}Words spoken so casually."
 
 n "Almost like she were teasing me, or chastising me for suggesting that the Earth is flat."
 
-n " {vspace=30}\"That's how it's got to be.\""
+n " {vspace=30}'That's how it's got to be.'"
 
 n " {vspace=30}The way it's got to be sucks."
 
@@ -7160,7 +7160,7 @@ with charachange
 
 nk "By what?"
 
-hi "“For this time of year.\" I keep trying to find out what's been bothering her, but she clams up as soon as I broach the subject."
+hi "“For this time of year.' I keep trying to find out what's been bothering her, but she clams up as soon as I broach the subject."
 
 hi "Then last night, she said—"
 
@@ -7375,7 +7375,7 @@ hi "Anyway, what's up, Emi? Forget something?"
 
 "I try to take a more cheerful tone with her."
 
-"No need to upset her. Two can play the \"everything's fine\" game."
+"No need to upset her. Two can play the 'everything's fine' game."
 
 show emi sad_grin_gym at tworight 
 with charachange
@@ -7852,7 +7852,7 @@ with charachange
 
 emm "So Hisao, I hear that you and my daughter here have gotten rather close, hmm?"
 
-"The urge to say something like \"Not really\" is so strong that I open my mouth to say it, but then reassert control."
+"The urge to say something like 'Not really' is so strong that I open my mouth to say it, but then reassert control."
 
 "We are close, there's no getting around it. I mean Emi's brought me here, hasn't she?"
 
@@ -8469,7 +8469,7 @@ with charachange
 
 emm "Okay, maybe it's not that simple, but it's a pretty accurate summation. Emi believes that the accident did not define her, and that everything she lost that day didn't define her either."
 
-emm "She's not \"that girl who lost her legs,\" she's \"The Fastest Thing on No Legs.\" Her optimism and energy came out of that wreck without a scratch, as far as she's concerned."
+emm "She's not 'that girl who lost her legs,' she's 'The Fastest Thing on No Legs.' Her optimism and energy came out of that wreck without a scratch, as far as she's concerned."
 
 hi "Yet it goes beyond that, doesn't it? I mean, last night she told me that she refused to rely on me because it would make losing me too painful."
 
@@ -8741,7 +8741,7 @@ window hide
 nvl clear
 nvl show dissolve
 
-n " {vspace=90}Thank you, Iwanako. I wanted to answer \"yes\" to your question on that snowy winter day, but I never got to."
+n " {vspace=90}Thank you, Iwanako. I wanted to answer 'yes' to your question on that snowy winter day, but I never got to."
 
 n "By the time we met again, it was too late."
 
@@ -8980,7 +8980,7 @@ hi "Why the sudden interest in my well-being, anyway?"
 show misha sign_smile
 with charachange
 
-mi "Ah, Shicchan said \"It is the duty of the Student Council to keep track of the emotional health of its students! To allow a cons—constituent to spiral into depression unchecked would be an unforgivable failure in the council's duties!\""
+mi "Ah, Shicchan said 'It is the duty of the Student Council to keep track of the emotional health of its students! To allow a cons—constituent to spiral into depression unchecked would be an unforgivable failure in the council's duties!'"
 
 hi "Well, that's easy, then. I'm not depressed."
 
@@ -9285,7 +9285,7 @@ emi "You're a good guy, but we're not going to work."
 
 "Hell, she probably would have been fine with never seeing me again."
 
-hi "So that's it, then? Nothing else to say but \"Gee, it was fun while it lasted, but so long?\""
+hi "So that's it, then? Nothing else to say but 'Gee, it was fun while it lasted, but so long?'"
 
 show emi basic_closedgrin_gym_close
 with charachange
@@ -9337,7 +9337,7 @@ with Pause(0.5)
 hide emi
 with None
 
-"She shrugs, as if to say \"Have it your way,\" and turns her back on me once more, quickly accelerating around the curve of the track."
+"She shrugs, as if to say 'Have it your way,' and turns her back on me once more, quickly accelerating around the curve of the track."
 
 "I feel numb. This is it. The end of the road for us, whatever that was. Closure, at least."
 

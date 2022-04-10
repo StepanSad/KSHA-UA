@@ -50,7 +50,7 @@ with charaenter
 
 ha "¿Los que siguen en la serie también son buenos?"
 
-hi "En realidad no. Sería mejor que te quedaras con el original. Sus libros siguientes no le hicieron justicia, aparte quizás de \"Dios Emperador\"."
+hi "En realidad no. Sería mejor que te quedaras con el original. Sus libros siguientes no le hicieron justicia, aparte quizás de 'Dios Emperador'."
 
 show hanako basic_bashful at center
 with charachange
@@ -846,7 +846,7 @@ hi "Hola, Hanako. Mutou quería que te entregara esto, ya que no fuiste a clases
 
 hi "¿Estás… bien? Si te sientes enferma o algo, puedo traer al enfermero."
 
-"Se siente casi detestable seguir un acto de \"mejórate pronto\" tan rutinario. Pero no puedo pensar en nada más que pueda hacer por ella."
+"Se siente casi detestable seguir un acto de 'mejórate pronto' tan rutinario. Pero no puedo pensar en nada más que pueda hacer por ella."
 
 show hanagown normal:
     xanchor 0.7
@@ -1332,7 +1332,7 @@ hi "Cierto. ¿Entonces cómo va la vida por allá? Suena como si estuvieras vivi
 
 li "Yo no la llamaría mansión…"
 
-"“Pero es bastante grande\" obviamente es lo que quiere decir, pero la modestia la detiene. Siento un poco de envidia, pero son sus vacaciones."
+"“Pero es bastante grande' obviamente es lo que quiere decir, pero la modestia la detiene. Siento un poco de envidia, pero son sus vacaciones."
 
 li "Aunque es una casa agradable para estar. Hay una playa cerca de aquí también, a la cual Akira le tiene un apego especial."
 
@@ -1596,7 +1596,7 @@ hi "No, creo que ese… espera un minuto, creo que ese podría ser después de t
 show hanako cover_distant_cas at center
 with shorttimeskip
 
-"Toma un poco más de tiempo para que la pantalla cambie el estado de su vuelo a \"desembarcando\"."
+"Toma un poco más de tiempo para que la pantalla cambie el estado de su vuelo a 'desembarcando'."
 
 "Un bostezo sonoro se me escapa, sin darme tiempo suficiente para contenerlo. Mis horarios de sueño, una vez más, se han desajustado; posiblemente debido a una mezcla de preocupación por Hanako y los efectos secundarios de mis medicamentos."
 
@@ -2052,7 +2052,7 @@ with charachange
 
 hi "¿Qué estás leyendo, Lilly? Parece como si el título estuviera en inglés."
 
-li "Así es. Es \"And Then There Were None\", una vieja historia británica. Podría leértela si quieres."
+li "Así es. Es 'And Then There Were None', una vieja historia británica. Podría leértela si quieres."
 
 "Ella extiende la oferta con una sonrisa, claramente en broma."
 
@@ -2092,7 +2092,7 @@ ha "Mm, es maravilloso."
 show lilly basic_smile_cas
 with charachange
 
-li "Es bueno oír eso. Aunque Akira haya dicho que mantuvo la casa en una condición razonable, me preocupaba que pudiéramos tener un estándar distinto de lo que es \"razonable\"."
+li "Es bueno oír eso. Aunque Akira haya dicho que mantuvo la casa en una condición razonable, me preocupaba que pudiéramos tener un estándar distinto de lo que es 'razonable'."
 
 hi "Pareciera que no hay otra alma en kilómetros. Pensé que Akira era de las que prefieren quedarse en la ciudad."
 
@@ -4261,7 +4261,7 @@ with charachange
 
 "Todo lo que puedo hacer es observar. Observar y sonreír."
 
-"Si alguien fuera a preguntarme cuándo me enamoré de ella, no sería capaz de responder. Lo mejor que se me podría ocurrir sería \"solo sucedió en algún momento, pero no me di cuenta\"."
+"Si alguien fuera a preguntarme cuándo me enamoré de ella, no sería capaz de responder. Lo mejor que se me podría ocurrir sería 'solo sucedió en algún momento, pero no me di cuenta'."
 
 "Si alguien fuera a preguntarme por qué la amo, sin embargo, entonces podría responder con mucha más facilidad."
 

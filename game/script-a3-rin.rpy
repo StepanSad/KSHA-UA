@@ -289,7 +289,7 @@ scene bg gallery_ext:
 
 with locationskip
 
-"After turning around three more corners, Nomiya stops in front of a door. There is a nameplate in big, red letters over it: \"22nd Corner.\""
+"After turning around three more corners, Nomiya stops in front of a door. There is a nameplate in big, red letters over it: '22nd Corner.'"
 
 show bg gallery_ext:
     yalign 1.0 
@@ -757,7 +757,7 @@ with locationchange
 nvl clear
 nvl show dissolve
 
-n " {vspace=120}Rin applies for, and - thanks to Nomiya pressuring the principal, I'm sure - is granted leave for the rest of the term for \"exceptional extracurricular activities.\" She has to make up for it during summer vacation, but it seems she doesn't mind."
+n " {vspace=120}Rin applies for, and - thanks to Nomiya pressuring the principal, I'm sure - is granted leave for the rest of the term for 'exceptional extracurricular activities.' She has to make up for it during summer vacation, but it seems she doesn't mind."
 
 n "Rin will still be able to eat and sleep at school, of course; she just doesn't have to go to classes. I'm not entirely sure if I envy her or not."
 
@@ -1553,7 +1553,7 @@ hi "It's fine. It was a joke, sort of. Anyway, you seem to be doing just fine no
 show yuuko closedhappy_down
 with charachange
 
-yu "Yes, when I feel really down, I take a step back and make a cup of tea! And when I've drunk the tea, I give my mood a kick in the butt, like WHAM! and then I tell myself \"now you are going to do this thing, Yuuko!\" and then I go and get it done!"
+yu "Yes, when I feel really down, I take a step back and make a cup of tea! And when I've drunk the tea, I give my mood a kick in the butt, like WHAM! and then I tell myself 'now you are going to do this thing, Yuuko!' and then I go and get it done!"
 
 show yuuko happy_up
 with charachange
@@ -1885,7 +1885,7 @@ scene bg gallery_ext:
     xalign 0.5  yalign 0.0 
 with locationchange
 
-"Despite being slightly directionally challenged, I find my way from the bus station to the gallery without too much effort, and soon I find myself staring at the big letters saying \"22nd Corner.\""
+"Despite being slightly directionally challenged, I find my way from the bus station to the gallery without too much effort, and soon I find myself staring at the big letters saying '22nd Corner.'"
 
 
 play sound sfx_storebell
@@ -2200,7 +2200,7 @@ hi "So… ummm… I mean, I'd like to like you as more than a friend."
 show rin basic_surprised_cas
 with charachange
 
-rin "What is \"more?\""
+rin "What is 'more?'"
 
 $ renpy.music.set_volume(0.3, 7.0, channel="ambient")
 
@@ -2620,7 +2620,7 @@ with charachange
 
 rin "I might be starting to paint differently soon, if this goes on."
 
-hi "Well, wouldn't that just be that \"change\" you keep talking about?"
+hi "Well, wouldn't that just be that 'change' you keep talking about?"
 
 show rin basic_surprised_cas_close
 with charachange
@@ -2785,12 +2785,12 @@ hi "No, I don't think so."
 show sae scowl_smoke
 with charachange
 
-sa "Then, the paintings would go with just \"Unnamed, number one\" and so on? It's a bit inconvenient, but…"
+sa "Then, the paintings would go with just 'Unnamed, number one' and so on? It's a bit inconvenient, but…"
 
 show rin basic_deadpanupset_cas
 with charachange
 
-rin "That's no good. \"Unnamed\" means that you just didn't come up with a good name. And Unnamed is a name, like that Greek guy with the sheep and all."
+rin "That's no good. 'Unnamed' means that you just didn't come up with a good name. And Unnamed is a name, like that Greek guy with the sheep and all."
 
 "Sae thinks about this for a while, furrowing her brow as she keeps looking at Rin's serious face."
 
@@ -2838,7 +2838,7 @@ sa "Think about it. All sorts of associations can be made, starting from identit
 show sae smile
 with charachange
 
-sa "We could call your exhibition \"Nameless\" and build it on that theme. How does that sound?"
+sa "We could call your exhibition 'Nameless' and build it on that theme. How does that sound?"
 
 show rin basic_lucid_cas
 with charachange
@@ -2970,7 +2970,7 @@ rin "I need something more. It's not enough like this."
 
 "It's annoying how her thoughts are both laid out in plain sight and hidden from view every time she opens her mouth."
 
-hi "What \"more?\" You said that to Sae as well. A missing ingredient?"
+hi "What 'more?' You said that to Sae as well. A missing ingredient?"
 
 play music music_rain fadein 4.0
 
@@ -3020,7 +3020,7 @@ with charachange
 
 rin "Yes. I need to do something. I want to paint. I need something more."
 
-hi "So okay, fine. What's after smoking a cigarette, then? How do you intend to \"destroy yourself?\""
+hi "So okay, fine. What's after smoking a cigarette, then? How do you intend to 'destroy yourself?'"
 
 show rin basic_awayabsent_cas_ss
 with charachange
@@ -3124,7 +3124,7 @@ with charachange
 
 "It's less unpleasant on the second try, but I still pass the cigarette back to Rin."
 
-"We're like a pair of budding delinquents in middle school, sneaking their first smoke out of sight of their teachers and parents. Well, I suppose it's not \"like,\" that's exactly what we are."
+"We're like a pair of budding delinquents in middle school, sneaking their first smoke out of sight of their teachers and parents. Well, I suppose it's not 'like,' that's exactly what we are."
 
 show ev rin_wisp3 at wispturn 
 with charachange
@@ -4542,7 +4542,7 @@ rin "It doesn't matter."
 
 "I don't want to see Rin like this."
 
-"All I can see is her sadness. Her stress and despair. Is this what a \"limit\" means? Why would - how could Sae and Nomiya let Rin go this far? Or is it me who is to blame?"
+"All I can see is her sadness. Her stress and despair. Is this what a 'limit' means? Why would - how could Sae and Nomiya let Rin go this far? Or is it me who is to blame?"
 
 stop music fadeout 6.0
 
@@ -4611,7 +4611,7 @@ rin "But it hurt me. I can't handle this."
 
 "It is a lifeless voice."
 
-"I pet her head and shoulders, the physical equivalent of saying \"there, there.\" It's not like I could reassure her with the sweet nothings that people are supposed to say in this kind of situation."
+"I pet her head and shoulders, the physical equivalent of saying 'there, there.' It's not like I could reassure her with the sweet nothings that people are supposed to say in this kind of situation."
 
 "I'm not sure if she would even listen, or be reassured."
 

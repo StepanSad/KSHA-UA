@@ -36,7 +36,7 @@ stop sound fadeout 6.0
 
 "It's very quiet without Misha present."
 
-"I wonder if she was born as rowdy as she is, or if she is \"making up\" for Shizune's lack of voice."
+"I wonder if she was born as rowdy as she is, or if she is 'making up' for Shizune's lack of voice."
 
 show muto normal at center
 with charaenter
@@ -96,7 +96,7 @@ mu "A lot of people have put in a lot of time, effort, and money to make sure th
 
 mu "For you to abuse that by throwing out advice, especially medical advice, is plain selfish."
 
-"I'm not quite sure if this is actually how he feels, or if it is some act that he's practiced many times to guilt-trip students into doing the \"right\" thing. Either way, it's working."
+"I'm not quite sure if this is actually how he feels, or if it is some act that he's practiced many times to guilt-trip students into doing the 'right' thing. Either way, it's working."
 
 hi "I understand. This is all new to me, and I apologize. I know my limits now, and I'll be sticking to them."
 
@@ -135,7 +135,7 @@ with charachange
 
 mu "I see. And how is your… condition?"
 
-"The pause before \"condition\" seemed a little unnecessary."
+"The pause before 'condition' seemed a little unnecessary."
 
 hi "Haven't had any problems so far."
 
@@ -555,7 +555,7 @@ hi "Just kidding, just kidding. Anyway, I'll look up there, okay?"
 show emi basic_annoyed
 with charachange
 
-"She glares at me one more time, but can't come up with a retort. With a grudging \"hmph,\" turns her back to me."
+"She glares at me one more time, but can't come up with a retort. With a grudging 'hmph,' turns her back to me."
 
 hide emi
 with charaexit
@@ -673,7 +673,7 @@ play music music_happiness fadein 2.0
 
 "The disfigured human figures have been mostly colored in tones of red, pink, and orange; weird, imaginary… things populating the spaces between."
 
-"It looks… nice. I can't think of any word that would describe the work concisely and comprehensively so I settle myself on a nondescript \"nice.\""
+"It looks… nice. I can't think of any word that would describe the work concisely and comprehensively so I settle myself on a nondescript 'nice.'"
 
 "But honestly, it seems that the area around the wall becomes untidier at the same rate as the mural progresses."
 
@@ -907,7 +907,7 @@ with charaexit
 
 "Like why Rin does paintings. It feels like she and Emi are the same, going squarely against their fates as if it's just out of spite."
 
-"Rin even said something like that. \"Do something you can't just because you can.\""
+"Rin even said something like that. 'Do something you can't just because you can.'"
 
 "Is that what she meant? Is that her reason? It might be Emi's, she comes off as quite a headstrong person."
 
@@ -1135,7 +1135,7 @@ with charachange
 
 no "I really must take my leave now, but if you have questions, I'm sure Tezuka can clarify."
 
-"Somehow, mentioning \"clarify\" and Rin in the same sentence doesn't feel right. However, I don't say as much to the teacher, since he seems to be in a hurry."
+"Somehow, mentioning 'clarify' and Rin in the same sentence doesn't feel right. However, I don't say as much to the teacher, since he seems to be in a hurry."
 
 show nomiya smile
 with charachange
@@ -1206,7 +1206,7 @@ hi "I'm not following you."
 show rin negative_spaciness
 with charachange
 
-rin "Have you ever talked about being bored? It's pointless and not very exciting. All you can really say about it is \"I'm so bored.\" I once spent a week trying to think of something meaningful to say about boredness."
+rin "Have you ever talked about being bored? It's pointless and not very exciting. All you can really say about it is 'I'm so bored.' I once spent a week trying to think of something meaningful to say about boredness."
 
 rin "It was the most boring week I've ever had."
 
@@ -1255,7 +1255,7 @@ rin "No idea."
 show rin basic_delight
 with charachange
 
-rin "Come to think of it, I think I'll call this \"No idea.\""
+rin "Come to think of it, I think I'll call this 'No idea.'"
 
 show rin negative_worried
 with charachange
@@ -1295,7 +1295,7 @@ with Dissolve(0.15)
 show rin negative_worried
 with Dissolve(0.5)
 
-"She shakes her head vigorously for a while, trying to shake \"thinking\" out of her head. That amber-red hair flies wildly around."
+"She shakes her head vigorously for a while, trying to shake 'thinking' out of her head. That amber-red hair flies wildly around."
 
 show rin basic_deadpannormal
 with charachange
@@ -1414,7 +1414,7 @@ with Dissolve(3.0)
 
 "When she declares the mural to be finished, it's already so dark that I have no idea how she can tell."
 
-"There is no celebration, no general sense of a job well done, just a tired and laconic \"I'm done\" and then we both go to sleep."
+"There is no celebration, no general sense of a job well done, just a tired and laconic 'I'm done' and then we both go to sleep."
 
 stop ambient fadeout 3.0
 
@@ -1661,7 +1661,7 @@ label en_A34a:
 
 "Maybe Kenji's on to something here…"
 
-hi "This seems a bit much for just \"keeping an eye on me.\""
+hi "This seems a bit much for just 'keeping an eye on me.'"
 
 show emi sad_grin
 with charachange
@@ -1890,7 +1890,7 @@ with locationchange
 
 "I give a grunt as I lever myself out of my seat, briefly debating with myself whether or not to hang out with Kenji."
 
-"He doesn't strike me as the \"enjoying the nice weather outside with others\" kind of person, really. I guess I'll catch up with him later."
+"He doesn't strike me as the 'enjoying the nice weather outside with others' kind of person, really. I guess I'll catch up with him later."
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -2904,7 +2904,7 @@ hi "If this is a very high class establishment, then they should have very high 
 scene ev shizu_shanghai
 with charachange
 
-"The perfect answer, there is no way they can stand against it. Shizune shrugs, as if to say \"well played.\""
+"The perfect answer, there is no way they can stand against it. Shizune shrugs, as if to say 'well played.'"
 
 "They still didn't answer my second question."
 
@@ -3840,9 +3840,9 @@ mi "When I came to this school, they just placed me next to Shicchan, and she lo
 show misha sign_smile_ss
 with charachange
 
-mi "And I thought, \"I'm going to be spending the rest of the year next to this person, maybe!\""
+mi "And I thought, 'I'm going to be spending the rest of the year next to this person, maybe!'"
 
-mi "“So it would be nice if we could be friends! But~, I wonder if she'll like me.\""
+mi "“So it would be nice if we could be friends! But~, I wonder if she'll like me.'"
 
 show misha hips_grin_ss
 with charachange
@@ -4124,7 +4124,7 @@ with charachange
 
 mi "A Chinese omelette? Okay, then."
 
-hi "Hey, Misha, does that really mean \"omelette\"? Can I see that again?"
+hi "Hey, Misha, does that really mean 'omelette'? Can I see that again?"
 
 show misha hips_grin
 with charachange
@@ -4429,7 +4429,7 @@ with charachange
 
 ha "I… I don't know."
 
-"Hanako answers in the way that people do when they don't want you to ask any more questions. I take it large crowds and loud music aren't really her \"thing.\""
+"Hanako answers in the way that people do when they don't want you to ask any more questions. I take it large crowds and loud music aren't really her 'thing.'"
 
 hi "Oh, okay."
 

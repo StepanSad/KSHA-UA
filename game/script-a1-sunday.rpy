@@ -40,9 +40,9 @@ with locationchange
 
 "Then again, I can picture him having built a soundproof shelter in his room."
 
-"Or possibly something like a fort, complete with \"No Girls Allowed\" sign."
+"Or possibly something like a fort, complete with 'No Girls Allowed' sign."
 
-"… and with the \"Girls\" crossed out and \"body\" crudely scrawled underneath it."
+"… and with the 'Girls' crossed out and 'body' crudely scrawled underneath it."
 
 stop music fadeout 2.0
 
@@ -775,7 +775,7 @@ with characlose
 
 mi "Come on! Come on! The prizes look really great this year, really really~! Wouldn't you like to win some prizes for two cute girls like us?"
 
-"Misha flashes her best \"cute\" look, which is admittedly pretty cute. I look at Shizune, expecting her to do the same, but she just looks at me like I'm insane."
+"Misha flashes her best 'cute' look, which is admittedly pretty cute. I look at Shizune, expecting her to do the same, but she just looks at me like I'm insane."
 
 show shizu cross_wut_close_ss
 with charachange
@@ -1694,7 +1694,7 @@ with locationskip
 
 "They're easy to spot."
 
-"The ones who can't stop staring, and behind their eyes you can tell they're thinking \"Now, what's wrong with {b}this{/b} one?\""
+"The ones who can't stop staring, and behind their eyes you can tell they're thinking 'Now, what's wrong with {b}this{/b} one?'"
 
 "I almost want to yell at them."
 
@@ -2385,7 +2385,7 @@ with charachange
 
 "Rin nods in agreement."
 
-rin "I won't say \"See you tomorrow\" because that would be like predicting the future, and I'm pretty sure I can't do that."
+rin "I won't say 'See you tomorrow' because that would be like predicting the future, and I'm pretty sure I can't do that."
 
 hi "…"
 
@@ -3761,7 +3761,7 @@ with charachange
 
 li "Everyone… has their reasons."
 
-"Something tells me that one of those with \"reasons\" is Hanako, hence her tiptoeing around the answer. My own predicament is yet another such case."
+"Something tells me that one of those with 'reasons' is Hanako, hence her tiptoeing around the answer. My own predicament is yet another such case."
 
 "I guess it's a choice everyone here would have to make for themselves… or, in my instance, have made for them."
 
@@ -3967,7 +3967,7 @@ li "You're right. It would be nice to go there when it comes."
 
 "Seeing these two reminds me of those words of advice Lilly had given me as we walked into town together."
 
-"“Cherish the opportunity to make new friends\", huh?"
+"“Cherish the opportunity to make new friends', huh?"
 
 hi "Hey, Lilly?"
 
@@ -4173,7 +4173,7 @@ with charachange
 
 ha "It… it's nothing."
 
-hi "You know, when you say \"nothing\" like that, people are inspired to ask further questions."
+hi "You know, when you say 'nothing' like that, people are inspired to ask further questions."
 
 "For a second I don't think she is going to answer."
 
@@ -4775,7 +4775,7 @@ with charachange
 
 ke "Damn, I forgot to bring my graphs."
 
-"I decide to play a drinking game with myself. Every time Kenji mentions \"female conspiracy\", I'll take a swig."
+"I decide to play a drinking game with myself. Every time Kenji mentions 'female conspiracy', I'll take a swig."
 
 $ wdt_off(False)
 
@@ -4821,7 +4821,7 @@ show ev kenji_rooftop_large:
 
 ke "No man, think. Think! Think of the deeper implications!"
 
-ke "People could afford to start saying \"Oh well, since two members of the family are now earning money as opposed to one, they can surely afford something like rising costs of ownership.\""
+ke "People could afford to start saying 'Oh well, since two members of the family are now earning money as opposed to one, they can surely afford something like rising costs of ownership.'"
 
 show ev kenji_rooftop_large:
     ease 1.0  crop (1024*2.4, 260*1.6, 1920, 1080) 

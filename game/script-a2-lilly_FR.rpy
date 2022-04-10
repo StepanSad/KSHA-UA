@@ -2081,7 +2081,7 @@ with None
 "Il hoche la tête et lui fait un signe de la main, Akira met une main sur l’épaule de Lilly et l’emmène hors de portée de voix."
 
 
-"Et donc, je suis seul avec \"Petit“."
+"Et donc, je suis seul avec 'Petit“."
 
 
 
@@ -3089,7 +3089,7 @@ li "Certains diraient que c'est une bonne technique pour éviter qu'on emprunte 
 "Elle dit ça sans y prêter attention, mais je suis un peu déçu. Avoir tous ces livres autour de moi sans aucun moyen de les lire me frustre un peu."
 
 
-"Hanako rit silencieusement alors que j'atteins la pile la plus proche, balayant du regard la couverture. \"Death on the Nile\", en lettres capitales sur la couverture, est le seul texte imprimé du livre."
+"Hanako rit silencieusement alors que j'atteins la pile la plus proche, balayant du regard la couverture. 'Death on the Nile', en lettres capitales sur la couverture, est le seul texte imprimé du livre."
 
 $ renpy.music.set_volume(0.5, 0.5, channel="music")
 play sound sfx_paper
@@ -3347,7 +3347,7 @@ show lilly basic_displeased_paj
 with charachange
 
 
-"Lilly se frotte le front, abandonnant le combat sachant qu'Akira gagnera en ignorant simplement ces \"règles\" et \"lois\" risibles."
+"Lilly se frotte le front, abandonnant le combat sachant qu'Akira gagnera en ignorant simplement ces 'règles' et 'lois' risibles."
 
 show lilly basic_displeased_paj
 with charachange
@@ -5422,7 +5422,7 @@ with charachange
 "Tout ce que je peux faire est lever un sourcil et lui adresser un sourire étourdi. Je ne crois pas que je l'avais déjà vue aussi joueuse auparavant."
 
 
-"Donc... je suis \"différent\". C'est dur de savoir en quoi exactement, mais la connaissant, l'ambiguïté était volontaire."
+"Donc... je suis 'différent'. C'est dur de savoir en quoi exactement, mais la connaissant, l'ambiguïté était volontaire."
 
 
 "Notre relation a changé, déjà parce que j'ai commencé à me débrouiller seul et à m’intéresser à la situation des gens autour de moi."
@@ -5622,7 +5622,7 @@ with Pause (1.0)
 "Le nom ornant le dos de l'enveloppe me paralyse. Ça fait si longtemps que je n'ai pas vu son écriture, que sans le nom, je n'aurais certainement pas pu l'identifier."
 
 
-"“Iwanako.\""
+"“Iwanako.'"
 
 
 "Pourquoi... m'a-t-elle écrit ? Je ne trouve pas de bonne raison pour qu'elle l'ait fait."
@@ -5655,7 +5655,7 @@ n " {vspace=90}Bien que j'aimerais dire que je ne sais pas pourquoi elle utilis
 n "Une lettre laisse une distance confortable entre l'expéditrice et le destinataire. Contrairement à un téléphone, il n'est pas requis d'engager une conversation, et contrairement à un mail, on attend moins une réponse immédiate."
 
 
-n " {vspace=30}Des phrases telles que \"les étudiants de troisième année semblent très inquiets pour les examens finaux\" ou \"c'est bizarre de penser qu'on est déjà en dernière année, non ?“ sont juste là pour parler de choses peu importantes. Des choses qui auraient pu être répondues à n'importe lequel des messages que je lui ai envoyés pendant que j’étais à l’hôpital."
+n " {vspace=30}Des phrases telles que 'les étudiants de troisième année semblent très inquiets pour les examens finaux' ou 'c'est bizarre de penser qu'on est déjà en dernière année, non ?“ sont juste là pour parler de choses peu importantes. Des choses qui auraient pu être répondues à n'importe lequel des messages que je lui ai envoyés pendant que j’étais à l’hôpital."
 
 
 
@@ -5672,7 +5672,7 @@ with locationchange
 nvl show dissolve
 
 
-n " {vspace=210}\"Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas.\""
+n " {vspace=210}'Je me demande si on se reverra. Peut-être que c'est mieux si on ne se revoit pas.'"
 
 
 
@@ -5684,7 +5684,7 @@ n "Ce qui est dans le texte précédent, qui n'est là que pour combler les lign
 nvl clear
 
 
-n " {vspace=240}\"Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles.\""
+n " {vspace=240}'Si tu veux correspondre avec moi, écris-moi par tous les moyens possibles.'"
 
 
 
@@ -6204,7 +6204,7 @@ hi "Le pa..."
 "Regardant autour, je vois un petit papillon jaune passer devant nous."
 
 
-hi "Donc dis-moi, comment est-ce que le papillon a aidé Lilly à \"voler\" cet endroit ?"
+hi "Donc dis-moi, comment est-ce que le papillon a aidé Lilly à 'voler' cet endroit ?"
 
 show rin basic_lucid
 with charachange
@@ -6725,7 +6725,7 @@ show rin basic_absent
 with charachange
 
 
-hi "“Tu vois\"..."
+hi "“Tu vois'..."
 
 show rin basic_awayabsent
 show emi basic_closedsweat
@@ -6958,7 +6958,7 @@ with locationskip
 "Je souris en réalisant la signification de l'oiseau."
 
 
-"“Tout le monde ici doit trouver ses propres moyens de gérer son handicap. Tu n'es pas seul ici quand tu as des problèmes.\""
+"“Tout le monde ici doit trouver ses propres moyens de gérer son handicap. Tu n'es pas seul ici quand tu as des problèmes.'"
 
 
 hi "Merci, Lilly. J’apprécie l'attention."
@@ -7233,7 +7233,7 @@ play ambient sfx_rooftop fadein 1.0
 play music music_tranquil fadein 3.0
 
 
-"Le long trajet en taxi jusqu’à l’aéroport est étonnamment agréable, malgré le fait qu'on soit un peu serrés sur la petite banquette arrière. Enfin, \"malgré\" n'est peut-être pas le bon mot."
+"Le long trajet en taxi jusqu’à l’aéroport est étonnamment agréable, malgré le fait qu'on soit un peu serrés sur la petite banquette arrière. Enfin, 'malgré' n'est peut-être pas le bon mot."
 
 
 "Lilly paie le chauffeur pour la course pendant que nous sortons, Hanako regardant dans tous les sens. Heureusement il n'y a pas beaucoup de monde, la plupart des gens étant à l’intérieur du bâtiment plutôt que dehors."

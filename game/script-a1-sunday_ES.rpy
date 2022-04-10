@@ -39,9 +39,9 @@ with locationchange
 
 "Por otra parte, puedo imaginármelo construyendo un refugio a prueba de ruido en su cuarto."
 
-"O posiblemente algo como un fuerte, con todo y una señal de \"No Se Admite A Las Chicas\"."
+"O posiblemente algo como un fuerte, con todo y una señal de 'No Se Admite A Las Chicas'."
 
-"… y con el \"Las Chicas\" tachado y \"Nadie\" garabateado crudamente bajo eso."
+"… y con el 'Las Chicas' tachado y 'Nadie' garabateado crudamente bajo eso."
 
 stop music fadeout 2.0
 
@@ -774,7 +774,7 @@ with characlose
 
 mi "¡Vamos! ¡Vamos! Los premios lucen de verdad grandiosos este año, de verdad ¡de verdad~! ¿No te gustaría ganar algunos premios para dos lindas chicas como nosotras?"
 
-"Misha lanza su mejor mirada \"linda\", que es ciertamente bastante linda. Miro a Shizune, esperando que haga lo mismo, pero solo me mira como si estuviera loco."
+"Misha lanza su mejor mirada 'linda', que es ciertamente bastante linda. Miro a Shizune, esperando que haga lo mismo, pero solo me mira como si estuviera loco."
 
 show shizu cross_wut_close_ss
 with charachange
@@ -1693,7 +1693,7 @@ with locationskip
 
 "Son fáciles de identificar."
 
-"Aquellos que no pueden parar de mirar, y detrás de sus ojos puede verse que están pensando \"Bien, ¿y qué hay de malo con {b}este{/b} de aquí?\"."
+"Aquellos que no pueden parar de mirar, y detrás de sus ojos puede verse que están pensando 'Bien, ¿y qué hay de malo con {b}este{/b} de aquí?'."
 
 "Casi me dan ganas de gritarles."
 
@@ -2384,7 +2384,7 @@ with charachange
 
 "Rin asiente en concordancia."
 
-rin "No diré \"nos vemos mañana\" porque eso sería como predecir el futuro, y estoy segura de que no puedo hacer eso."
+rin "No diré 'nos vemos mañana' porque eso sería como predecir el futuro, y estoy segura de que no puedo hacer eso."
 
 hi "…"
 
@@ -3186,7 +3186,7 @@ with charachange
 
 "No puedo evitar admirar su don para dormir, o su tranquilidad mental para usar a alguien que ha conocido por menos de una semana como almohada."
 
-"Los cohetes se levantan hasta el cielo uno a la vez, rompiendo en flores de rojo, verde y dorado, acompañadas por los \"oohs\" y \"aahs\" de la audiencia."
+"Los cohetes se levantan hasta el cielo uno a la vez, rompiendo en flores de rojo, verde y dorado, acompañadas por los 'oohs' y 'aahs' de la audiencia."
 
 "Trato de empujar la desconcertante proximidad de Rin fuera de mi mente, pues ¿qué puedo hacer al respecto? Solo espero que su corto rato sea justamente eso."
 
@@ -3774,7 +3774,7 @@ with charachange
 
 li "Todos… tienen sus motivos."
 
-"Algo me dice que una de esas personas con \"motivos\" es Hanako, por eso su cautela con respecto a una respuesta. Mi propio predicamento es otro más de tales casos."
+"Algo me dice que una de esas personas con 'motivos' es Hanako, por eso su cautela con respecto a una respuesta. Mi propio predicamento es otro más de tales casos."
 
 "Creo que es una decisión que cada uno aquí debe hacer por sí mismo… o, en mi caso, que la hagan por ellos."
 
@@ -3980,7 +3980,7 @@ li "Estás en lo cierto. Sería agradable ir ahí cuando llegue."
 
 "Ver a ellas dos me recuerda aquel consejo que Lilly me había dado mientras caminamos hacia el pueblo juntos."
 
-"“Atesora la oportunidad de hacer nuevos amigos\", ¿eh?"
+"“Atesora la oportunidad de hacer nuevos amigos', ¿eh?"
 
 hi "Oye, ¿Lilly?"
 
@@ -4186,7 +4186,7 @@ with charachange
 
 ha "Es… no es nada."
 
-hi "¿Sabes?, cuando dices \"nada\" de esa forma, las personas se sienten con necesidad de hacer más preguntas."
+hi "¿Sabes?, cuando dices 'nada' de esa forma, las personas se sienten con necesidad de hacer más preguntas."
 
 "Por un segundo no creo que ella vaya a contestar."
 
@@ -4788,7 +4788,7 @@ with charachange
 
 ke "Maldición, olvidé mis gráficas."
 
-"Decido jugar un juego conmigo mismo. Cada vez que Kenji mencione \"conspiración feminista\", tomaré un trago."
+"Decido jugar un juego conmigo mismo. Cada vez que Kenji mencione 'conspiración feminista', tomaré un trago."
 
 $ wdt_off(False)
 
@@ -4834,7 +4834,7 @@ show ev kenji_rooftop_large:
 
 ke "No hombre, piensa. ¡Piensa! ¡Piensa en las consecuencias más profundas!"
 
-ke "La gente podía darse el lujo de empezar a decir \"Oh bueno, ahora que dos miembros de la familia están ganando dinero, en lugar de uno, seguramente pueden costearse algo como incrementos al precio de propiedades\"."
+ke "La gente podía darse el lujo de empezar a decir 'Oh bueno, ahora que dos miembros de la familia están ganando dinero, en lugar de uno, seguramente pueden costearse algo como incrementos al precio de propiedades'."
 
 show ev kenji_rooftop_large:
     ease 1.0  crop (1024*2.4, 260*1.6, 1920, 1080)  

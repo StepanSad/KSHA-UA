@@ -637,7 +637,7 @@ with charachange
 
 mi "¿Cómo estuvo tu festival? ¿Te divertiste?"
 
-hi "Ehhh… todavía algo indeciso al respecto. Diría que \"probablemente\"."
+hi "Ehhh… todavía algo indeciso al respecto. Diría que 'probablemente'."
 
 hi "¿Por qué?"
 
@@ -698,7 +698,7 @@ with None
 "Distingo tan solo pequeños atisbos de azul; todo lo demás es un montón de ruido justo en medio de mi campo visual."
 
 
-"¿Qué \"experiencia\" quería obtener Rin de mirar el cielo? De seguro lo ha hecho antes. Todos lo han hecho."
+"¿Qué 'experiencia' quería obtener Rin de mirar el cielo? De seguro lo ha hecho antes. Todos lo han hecho."
 
 
 "No sirve de nada tratar de adivinar en lo que ella pensaba, pero si no lo hago, entonces no tengo excusa para no concentrarme en las palabras del maestro."
@@ -1287,7 +1287,7 @@ rin "Sabes, traté de hacer que te vieras como si pensaras mucho, ya que pensast
 show rin basic_deadpanamused_close
 with charachange
 
-rin "Y sí, puede que haya exagerado la expresión de \"estoy harto de la vida\", pero los cínicos son así, ¿no?"
+rin "Y sí, puede que haya exagerado la expresión de 'estoy harto de la vida', pero los cínicos son así, ¿no?"
 
 
 "Quiero replicar con algo cortante, pero Nomiya no me da tiempo de pensar al momento que nos conduce a la puerta."
@@ -1410,7 +1410,7 @@ with charachange
 
 ke "¿Hombre, de qué estás hablando? He estado liberándolos del opresivo movimiento feminista que controla la biblioteca."
 
-hi "Por favor di que el \"opresivo movimiento feminista\" no se refiere a esa pobre bibliotecaria, Yuuko. Ella no podría ni oprimir una toalla húmeda."
+hi "Por favor di que el 'opresivo movimiento feminista' no se refiere a esa pobre bibliotecaria, Yuuko. Ella no podría ni oprimir una toalla húmeda."
 
 show kenji invis:
     xpos 0.2 
@@ -1712,7 +1712,7 @@ show ev hisaobird_8
 with charachange
 
 
-"La clase de arte en la secundaria era la clase \"fácil\" entre materias agotadoras como matemáticas o japonés. Pero está este otro lado del arte, el que ves cuando no estás solamente haciéndote el tonto."
+"La clase de arte en la secundaria era la clase 'fácil' entre materias agotadoras como matemáticas o japonés. Pero está este otro lado del arte, el que ves cuando no estás solamente haciéndote el tonto."
 
 show ev hisaobird_9
 with charachange
@@ -1911,7 +1911,7 @@ nvl clear
 
 n " {vspace=60}Es un caso raro cuando veo a alguien sentarse solo, únicamente mirando al vacío o algo similar. Obviamente aquí también hay gente así; esa chica Hanako y yo, tan solo para nombrar dos de mi propio grupo. Pero en general, son la minoría."
 
-n "En cualquier caso, tampoco llamaría exactamente lo que Rin y yo hacemos \"socializar\", pero es algo, por lo menos."
+n "En cualquier caso, tampoco llamaría exactamente lo que Rin y yo hacemos 'socializar', pero es algo, por lo menos."
 
 n "Estas ocurrencias por sí mismas no me molestan, pero el hecho de que lleguen a ocurrir lo hace."
 
@@ -2997,7 +2997,7 @@ nvl show dissolve
 
 n " {vspace=120}Ese comentario que hizo antes todavía lo tengo en mente."
 
-n "“Emi es su más Emi cuando corre\"."
+n "“Emi es su más Emi cuando corre'."
 
 n "Sí tiene sentido, ya que me pongo a pensarlo. Ya que la vi correr, puedo creer que Emi da su mayor esfuerzo en la pista."
 
@@ -3006,7 +3006,7 @@ n "Los deportes son más que un pasatiempo, o incluso una competencia, para ella
 n "¿Qué hay de Rin, entonces? ¿Acaso ella siente lo mismo por el arte? Considerando la persistencia que mostró antes del festival, podría creerlo con facilidad."
 
 
-n "¿Vi a Rin en su \"más Rin\" cuando estaba pintando el mural?"
+n "¿Vi a Rin en su 'más Rin' cuando estaba pintando el mural?"
 
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
@@ -3157,7 +3157,7 @@ hi "¿Cuándo asignamos los trabajos?"
 show rin basic_deadpannormal
 with charachange
 
-rin "Cuando dije \"Ve si puedes encontrar una ramita de laurel\"."
+rin "Cuando dije 'Ve si puedes encontrar una ramita de laurel'."
 
 show rin basic_deadpandelight
 with charachange
@@ -3488,7 +3488,7 @@ with charachange
 
 play music music_another fadein 0.5
 
-no "Primero, pensemos en algunas preguntas que queremos contestadas, como “¿Qué es el arte?\" y “¿Por qué existe el arte?\"."
+no "Primero, pensemos en algunas preguntas que queremos contestadas, como “¿Qué es el arte?' y “¿Por qué existe el arte?'."
 
 show nomiya smile
 with charachange
@@ -3880,7 +3880,7 @@ hi "Me lo imaginé."
 show rin basic_deadpanupset
 with charachange
 
-rin "Hay gente que cree que debes venir aquí para regodearte en la miseria, si eres miserable, es solo que por \"gente\" me refiero a mí, y el árbol en realidad no tiene algún nombre."
+rin "Hay gente que cree que debes venir aquí para regodearte en la miseria, si eres miserable, es solo que por 'gente' me refiero a mí, y el árbol en realidad no tiene algún nombre."
 
 hi "Así que… si eres miserable, ¿hablas con un árbol sobre ello?"
 
@@ -4095,7 +4095,7 @@ label es_R9b:
 $ renpy.music.set_volume(0.5, 0.5, channel="ambient")
 "Emi probablemente lo ha hecho. Es tan alegre y enérgica, una chica corredora sin piernas."
 
-"Si alguien ha \"derrotado\" una discapacidad, debe de ser ella."
+"Si alguien ha 'derrotado' una discapacidad, debe de ser ella."
 
 label es_R9c:
 
@@ -4428,7 +4428,7 @@ play music music_rain fadein 4.0
 
 n " {vspace=90}La última vez que vi a Iwanako fue terriblemente incómodo; hasta vergonzoso. Vino a mi cuarto de hospital, me peló una manzana por cortesía y luego prácticamente nos sentamos en silencio por media hora."
 
-n "Ella dijo \"adiós\" y no me vio a los ojos cuando cerró la puerta."
+n "Ella dijo 'adiós' y no me vio a los ojos cuando cerró la puerta."
 
 n "Puede que haya sido un fin natural a la serie de visitas que probablemente fueron bastante dolorosas para ambos."
 
@@ -4685,7 +4685,7 @@ with locationchange
 window show
 
 
-"Cuando el par de chicas salen del salón del club con un alegre \"hasta luego\", Nomiya se levanta de su escritorio. Su silla sale lanzada hacia atrás con un fuerte chirrido que rompe la armonía de esta silenciosa tarde."
+"Cuando el par de chicas salen del salón del club con un alegre 'hasta luego', Nomiya se levanta de su escritorio. Su silla sale lanzada hacia atrás con un fuerte chirrido que rompe la armonía de esta silenciosa tarde."
 
 "Le da dos golpecitos a un montón de hojas que tiene en las manos contra la superficie de su escritorio para enderezarlas, luego estira su espalda."
 
@@ -5401,7 +5401,7 @@ no "¿Te has hecho amigo de ella, entonces, Nakai?"
 
 hi "Ah… bueno, algo por el estilo, supongo. Depende de cómo se le vea. Para ser honesto, realmente no estoy seguro."
 
-"Es más como si Rin y yo solo tendiéramos a pasar el rato alrededor uno del otro de modo irregular, hablando o no sobre algo que a menudo parece una retorcida burla de la filosofía, en lugar de una charla cotidiana y normal que \"amigos\" tendrían."
+"Es más como si Rin y yo solo tendiéramos a pasar el rato alrededor uno del otro de modo irregular, hablando o no sobre algo que a menudo parece una retorcida burla de la filosofía, en lugar de una charla cotidiana y normal que 'amigos' tendrían."
 
 show nomiya frown
 with charachange
@@ -5485,7 +5485,7 @@ no "Es tan tonto."
 show nomiya frown
 with charachange
 
-no "La gente siempre le pregunta a los artistas “¿De dónde sacas tus ideas?\" como si las ideas fueran algo en venta en el mercado por unas monedas."
+no "La gente siempre le pregunta a los artistas “¿De dónde sacas tus ideas?' como si las ideas fueran algo en venta en el mercado por unas monedas."
 
 show nomiya serious
 with charachange
@@ -6315,7 +6315,7 @@ rin "No es lo mismo. Estás comparando manzanas y calamares."
 
 "Me pregunto cómo es que ella misma siente esa desconexión."
 
-"Si Rin se está preguntando a sí misma cada día “¿Quién soy?\", y pinta obsesivamente imágenes para definirse a sí misma día tras día, ¿qué pensará ella de ese estilo de vida?"
+"Si Rin se está preguntando a sí misma cada día “¿Quién soy?', y pinta obsesivamente imágenes para definirse a sí misma día tras día, ¿qué pensará ella de ese estilo de vida?"
 
 hide ovl
 with charachange
@@ -6595,7 +6595,7 @@ hi "¿En la lluvia?"
 
 rin "En la lluvia."
 
-"Eso suena un poco exagerado solo para mantener el régimen de entrenamiento. Aunque Emi es una cabeza dura, así que puedo imaginarla corriendo en el aguacero solo porque \"tenía que hacerlo\"."
+"Eso suena un poco exagerado solo para mantener el régimen de entrenamiento. Aunque Emi es una cabeza dura, así que puedo imaginarla corriendo en el aguacero solo porque 'tenía que hacerlo'."
 
 hi "Bueno, eso es obviamente un exceso. Tal vez sea también la razón de que haya pescado ese resfriado."
 

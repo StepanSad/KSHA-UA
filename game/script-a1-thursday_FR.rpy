@@ -147,10 +147,10 @@ show emi excited_circle_gym
 with charachange
 
 
-emi "“Mademoiselle Ibarazaki ?\""
+emi "“Mademoiselle Ibarazaki ?'"
 
 
-"Elle imite Misha \"imitant\" Shizune, ne réussissant pas à obtenir le même genre de cadence modérée dans sa voix haut perchée."
+"Elle imite Misha 'imitant' Shizune, ne réussissant pas à obtenir le même genre de cadence modérée dans sa voix haut perchée."
 
 
 
@@ -184,7 +184,7 @@ emi "Super !"
 "Je ne suis pas sûr qu'elle ait réalisé que je blaguais."
 
 
-hi "Donc cet \"espion-conseiller\" dont parlait l'Infirmier... c'est toi ?"
+hi "Donc cet 'espion-conseiller' dont parlait l'Infirmier... c'est toi ?"
 
 show emi basic_closedgrin_gym
 with charachange
@@ -213,7 +213,7 @@ show emi excited_laugh_gym
 with charachange
 
 
-emi "Non, je suis là pour mes propres raisons, l'Infirmier m'a juste demandé si j'avais vu \"un étudiant transféré mal coiffé qui a l'air d'être un peu perdu\" autour de la piste."
+emi "Non, je suis là pour mes propres raisons, l'Infirmier m'a juste demandé si j'avais vu 'un étudiant transféré mal coiffé qui a l'air d'être un peu perdu' autour de la piste."
 
 
 hi "Du coup, tu es là pour quoi ?"
@@ -584,7 +584,7 @@ with charachange
 ke "C'est moi qui devrais dire ça. Je t'ai cherché partout mec."
 
 
-hi "Qu'est-ce que tu veux dire par \"partout\" ?"
+hi "Qu'est-ce que tu veux dire par 'partout' ?"
 
 
 "J'ai envie de lui demander s'il me cherchait comme ça, tout nu, mais je me retiens."
@@ -801,7 +801,7 @@ show kenji tsun_naked
 with charachange
 
 
-ke "Et ce jour viendra, où les féministes sortiront de leur quartier général international top secret féministe, et diront \"C'est parti, bande d'enculés !\""
+ke "Et ce jour viendra, où les féministes sortiront de leur quartier général international top secret féministe, et diront 'C'est parti, bande d'enculés !'"
 
 
 hi "N'importe quoi, il n'y a pas de gros building quartier général international féministe, où est-ce qu'elles iraient cacher ça ? Il faudrait que ce soit énorme, ça se verrait une grande forteresse avec uniquement des femmes dedans."
@@ -831,7 +831,7 @@ ke "Imagine ça, le champ de bataille sanglant. Un vicieux conflit sans fin."
 ke "J'ai presque abandonné, quand je pensais que cette cause était stupide... Quand je me suis lassé de la noirceur de notre combat... Quand j'ai cru qu'il y avait un raid féministe à cause d'une coupure de courant et que la fin était proche..."
 
 
-ke "Mais alors j'ai compris que si je renonçais, tout serait fini, et je me suis dit \"whoa\" et je savais que je devais prendre ça au sérieux. Parce que je suis le dernier homme sain d'esprit dans un monde de fous. C'est une question de devoir."
+ke "Mais alors j'ai compris que si je renonçais, tout serait fini, et je me suis dit 'whoa' et je savais que je devais prendre ça au sérieux. Parce que je suis le dernier homme sain d'esprit dans un monde de fous. C'est une question de devoir."
 
 
 hi "Ça doit être un mouvement assez merdique s'il repose sur un seul mec nu, divaguant dans une salle de bains face à un autre mec nu."
@@ -1080,7 +1080,7 @@ show lilly cane_smile
 with charachange
 
 
-"Lilly sourit, probablement amusée par Misha - ou Shizune - qui a utilisé le mot \"regarde\"."
+"Lilly sourit, probablement amusée par Misha - ou Shizune - qui a utilisé le mot 'regarde'."
 
 show lilly cane_smile
 with charachange
@@ -1113,7 +1113,7 @@ li "Effectivement."
 "Puis je me rends compte que Lilly pourrait en fait ne pas savoir si Shizune est présente ou non et qu'elle essaie de détecter si elle est là, pour savoir à qui elle parle."
 
 
-"Pour ce qu'elle en sait, elle parle à Misha, mais sachant qu'elle et Shizune sont pratiquement inséparables, elle pourrait s'attendre à ce que Shizune soit celle avec qui elle \"parle\" vraiment."
+"Pour ce qu'elle en sait, elle parle à Misha, mais sachant qu'elle et Shizune sont pratiquement inséparables, elle pourrait s'attendre à ce que Shizune soit celle avec qui elle 'parle' vraiment."
 
 
 "Rah, c'est vraiment compliqué. Je décide d'aider Lilly, pour ma propre conscience plus qu'autre chose."
@@ -1193,7 +1193,7 @@ show misha cross_frown
 with charachange
 
 
-mi "Aujourd'hui ! C'est aujourd'hui la date limite ! Tu prends ton temps, n'est-ce pas ? Si je l'avais fait moi-même, j'aurais eu tous les papiers nécessaires il y a des jours de ça, mais il a fallu que quelqu'un~ ! dise \"s'il vous plaît, repoussez la date limite !\""
+mi "Aujourd'hui ! C'est aujourd'hui la date limite ! Tu prends ton temps, n'est-ce pas ? Si je l'avais fait moi-même, j'aurais eu tous les papiers nécessaires il y a des jours de ça, mais il a fallu que quelqu'un~ ! dise 's'il vous plaît, repoussez la date limite !'"
 
 show lilly cane_displeased
 with charachange
@@ -1211,7 +1211,7 @@ show misha hips_frown
 with charachange
 
 
-mi "Tu veux savoir ce qui est plus dur que de distribuer des fonds pour l'évènement d'une classe ? Faire la même chose pour chaque classe de l'école~ ! Celle qui fait ça, c'est \"moi\" !"
+mi "Tu veux savoir ce qui est plus dur que de distribuer des fonds pour l'évènement d'une classe ? Faire la même chose pour chaque classe de l'école~ ! Celle qui fait ça, c'est 'moi' !"
 
 
 "Misha met ses mains sur ses hanches et se redresse. Woaw, elle est vraiment dans le rôle. Lilly ne semble pas être très amusée, cependant."
@@ -1593,7 +1593,7 @@ show misha hips_smile
 with charachange
 
 
-mi "Déléguée~ ! Shicchan dit : \"N'oublie pas le rapport, s'il te plaît~ !\""
+mi "Déléguée~ ! Shicchan dit : 'N'oublie pas le rapport, s'il te plaît~ !'"
 
 
 li "Je ne l'oublierai pas."
@@ -1988,7 +1988,7 @@ with charachange
 mi "Huh ?"
 
 
-"Le ton des actions de Shizune me fait penser qu'elle \"parle\" avec dédain, mais Misha interprète ça normalement, remplaçant le \"ton\" de départ de Shizune, par sa propre attitude face aux choses. Je ne pense pas m'y habituer un jour."
+"Le ton des actions de Shizune me fait penser qu'elle 'parle' avec dédain, mais Misha interprète ça normalement, remplaçant le 'ton' de départ de Shizune, par sa propre attitude face aux choses. Je ne pense pas m'y habituer un jour."
 
 
 hi "Laisse tomber."
@@ -2576,7 +2576,7 @@ with charachange
 mi "De plus, c'est toi le criminel ici, tu sais ce que tu as fait !"
 
 
-hi "Tu as déjà lu \"Le Procès\" de Kafka ?"
+hi "Tu as déjà lu 'Le Procès' de Kafka ?"
 
 show misha hips_grin
 with charachange
@@ -3510,7 +3510,7 @@ show misha sign_smile
 with charachange
 
 
-mi "C'est pourquoi il ne doit y avoir aucune faille, non... euh je pense que c'était \"empêchement\", et rien qui pourrait éloigner le festival de la perfection."
+mi "C'est pourquoi il ne doit y avoir aucune faille, non... euh je pense que c'était 'empêchement', et rien qui pourrait éloigner le festival de la perfection."
 
 
 "Le discours passionné de Shizune et le jeu théâtral de Misha vont curieusement bien ensemble."
@@ -4741,7 +4741,7 @@ with charachange
 ke "Ouais, des stands à l'extérieur. Ou un truc du genre."
 
 
-"“Ou un truc du genre ?\" Sa nature évasive ne fait que renforcer mes soupçons à son sujet. Mais la bannière passe avant, de toute façon."
+"“Ou un truc du genre ?' Sa nature évasive ne fait que renforcer mes soupçons à son sujet. Mais la bannière passe avant, de toute façon."
 
 
 hi "Alors, comment tu veux le partager ? On fait les bords pendant que tu fais le texte ? Ou tu veux échanger et faire les bords ?"

@@ -63,7 +63,7 @@ with charaenter
 ha "Les derniers qui sont sortis sont aussi bien ?"
 
 
-hi "Pas vraiment. Tu ferais mieux de te contenter de l'original. Ses derniers livres n'ont pas tenu le niveau, sauf peut-être \"Le Dieu Empereur\"."
+hi "Pas vraiment. Tu ferais mieux de te contenter de l'original. Ses derniers livres n'ont pas tenu le niveau, sauf peut-être 'Le Dieu Empereur'."
 
 show hanako basic_bashful at center
 with charachange
@@ -1057,7 +1057,7 @@ hi "Salut, Hanako. Mutou voulait que je te donne ces feuilles, vu que tu n'étai
 hi " Est-ce que... tu vas bien ? Si tu te sens mal ou si ça ne va pas, je peux aller chercher l'infirmier."
 
 
-"Ça me fait presque pitié de devoir sortir le classique \"prends soin de toi\". Je n'arrive pas à savoir ce que je pourrais faire d'autre pour elle."
+"Ça me fait presque pitié de devoir sortir le classique 'prends soin de toi'. Je n'arrive pas à savoir ce que je pourrais faire d'autre pour elle."
 
 show hanagown normal:
     xanchor 0.7
@@ -1697,7 +1697,7 @@ hi "Oui. Comment est la vie là-bas, alors ? On dirait que tu vis dans un manoi
 li "Je n'appellerais pas ça un manoir..."
 
 
-"Elle allait ajouter \"mais il est vrai que c'est grand\", mais la modestie l'a arrêtée. Je suis un peu envieux, mais ce sont ses vacances."
+"Elle allait ajouter 'mais il est vrai que c'est grand', mais la modestie l'a arrêtée. Je suis un peu envieux, mais ce sont ses vacances."
 
 
 li "Mais c'est une belle maison où il fait bon vivre. Il y a une plage pas loin, dont Akira est particulièrement fan."
@@ -2031,7 +2031,7 @@ show hanako cover_distant_cas at center
 with shorttimeskip
 
 
-"Il faut un moment avant que l'affichage change le statut de leur vol en \"débarquement\"."
+"Il faut un moment avant que l'affichage change le statut de leur vol en 'débarquement'."
 
 
 "Un grand bâillement monte et je n'ai pas le temps de le retenir. Mon rythme de sommeil a été, encore une fois, complètement chamboulé. C'est probablement dû à mes inquiétudes pour Hanako et aux effets secondaires de mes médicaments."
@@ -2604,7 +2604,7 @@ with charachange
 hi "Qu'est-ce que tu lis, Lilly ? Le titre semble être en anglais."
 
 
-li "Oui. Ça s'appelle \"And Then There Were None\", une vieille histoire anglaise. Je pourrai vous la lire, si vous voulez."
+li "Oui. Ça s'appelle 'And Then There Were None', une vieille histoire anglaise. Je pourrai vous la lire, si vous voulez."
 
 
 "Elle dit ça avec un petit sourire, un peu pour se moquer."
@@ -2655,7 +2655,7 @@ show lilly basic_smile_cas
 with charachange
 
 
-li "Tant mieux. Même si Akira avait dit que la maison était dans un état correct, j'étais inquiète qu'on ait pu avoir des critères différents pour \"correct\"."
+li "Tant mieux. Même si Akira avait dit que la maison était dans un état correct, j'étais inquiète qu'on ait pu avoir des critères différents pour 'correct'."
 
 
 hi "On dirait qu'il n'y a pas âme qui vive dans les environs. Je pensais qu'Akira serait du genre à préférer la ville."
@@ -5431,7 +5431,7 @@ with charachange
 "Tout ce que je peux faire, c'est les regarder. Sourire et regarder."
 
 
-"Si quelqu'un venait à me demander quand je suis tombé amoureux d'elle, je ne saurais pas répondre. La seule chose que je serais capable de dire est : \"C'est juste arrivé à un moment, mais je ne m'en suis pas rendu compte.\""
+"Si quelqu'un venait à me demander quand je suis tombé amoureux d'elle, je ne saurais pas répondre. La seule chose que je serais capable de dire est : 'C'est juste arrivé à un moment, mais je ne m'en suis pas rendu compte.'"
 
 
 "Si quelqu'un venait à me demander pourquoi je suis tombé amoureux d'elle, alors je pourrais répondre bien plus facilement."

@@ -1209,7 +1209,7 @@ mk "Pour être honnête, je trouve ça mignon. Si tu veux te lancer, ne me laiss
 hi "Merci."
 
 
-"Elle dit peut-être ça, mais elle vient de dire que Hanako a des \"problèmes\". Mais même, je préfère m’arrêter à sa dernière phrase. Les problèmes de Hanako ne comptent pas. Je ferai face à tout ce qui arrivera, parce que je veux l'aider."
+"Elle dit peut-être ça, mais elle vient de dire que Hanako a des 'problèmes'. Mais même, je préfère m’arrêter à sa dernière phrase. Les problèmes de Hanako ne comptent pas. Je ferai face à tout ce qui arrivera, parce que je veux l'aider."
 
 
 "S'il y a ne serait-ce que la plus infime possibilité que je puisse sortir Hanako de sa dépression et de son isolement, alors je continuerai, peu importe comment. Si elle a besoin d'un prince, alors je serai ce prince."
@@ -1317,7 +1317,7 @@ with charachange
 mk "Tu t'y feras, laisse-toi le temps. C'est un lycée comme un autre."
 
 
-"Elle dit cela si simplement, je n'y avais jamais pensé comme ça. Pour moi, Yamaku symbolise un changement dans ma vie. Je ne suis plus normal, je suis \"différent\" et je vais à l'école avec des gens \"différents\"."
+"Elle dit cela si simplement, je n'y avais jamais pensé comme ça. Pour moi, Yamaku symbolise un changement dans ma vie. Je ne suis plus normal, je suis 'différent' et je vais à l'école avec des gens 'différents'."
 
 
 "Et pourtant, je retourne en classe et parle avec une camarade de classe durant la pause déjeuner après en avoir regardé d'autres jouer au foot - tout est parfaitement normal. Peut-être qu'elle a raison, après tout."
@@ -1727,7 +1727,7 @@ hi "Pour être honnête, je n'y ai pensé que récemment."
 hi "Après mon accident et mes mois à l’hôpital, apprécier la vie ici avec Hanako et toi m'a suffit."
 
 
-"En fait, je n'ai pas pensé à un \"futur\" depuis bien longtemps. Ça semble presque futile."
+"En fait, je n'ai pas pensé à un 'futur' depuis bien longtemps. Ça semble presque futile."
 
 show lilly basic_sleepy_cas_close
 with charachange
@@ -1825,7 +1825,7 @@ with charaenter
 li "Je ne crois pas qu'elle ait vraiment besoin de ça ; et quel type de message ça lui enverrait ?"
 
 
-hi "Euh... \"cuisine plus\" ? Ce n'est peut-être pas une si mauvaise idée..."
+hi "Euh... 'cuisine plus' ? Ce n'est peut-être pas une si mauvaise idée..."
 
 show lilly cane_weaksmile_cas_close
 with charachange
@@ -1852,7 +1852,7 @@ show lilly cane_listen_cas_close
 with charachange
 
 
-li "Il n'y a rien de plus impersonnel qu'une carte cadeau. C'est comme dire \"Je ne te connais pas assez pour savoir ce que tu aimerais avoir.\""
+li "Il n'y a rien de plus impersonnel qu'une carte cadeau. C'est comme dire 'Je ne te connais pas assez pour savoir ce que tu aimerais avoir.'"
 
 
 hi "J'ai toujours pensé que c'était une bonne façon pour que la personne ait ce qu'elle veut."
@@ -2109,7 +2109,7 @@ li "On y va ?"
 "Avec un soupir, je me relève aussi de la rambarde et regarde autour de moi. On a des trucs à faire, j'essayerai juste de lui en reparler plus tard."
 
 
-"Coincé entre une épicerie et un kiosque, se trouve un petit magasin. Le signe au-dessus de la porte dit \"Othello's Antiques\" en lettres décoratives anglaises."
+"Coincé entre une épicerie et un kiosque, se trouve un petit magasin. Le signe au-dessus de la porte dit 'Othello's Antiques' en lettres décoratives anglaises."
 
 
 "Il serait facile de le louper si on marchait dans la rue, mais vu que je regarde, immobile, les environs, je le remarque."
@@ -3907,10 +3907,10 @@ with charachange
 li "Je ne sais pas exactement dans quel état elle est, bien que j'aie entendu dire que son état était stable. Je partirai samedi, c’était le prochain vol disponible."
 
 
-"“Stable.\" C'est un code pour \"a besoin de rester à l’hôpital\". J'ai été \"stable\" suffisamment longtemps pour le savoir, et aussi savoir que ça ne veut pas forcément dire en forme, mais qu'il garde juste la tête hors de l'eau."
+"“Stable.' C'est un code pour 'a besoin de rester à l’hôpital'. J'ai été 'stable' suffisamment longtemps pour le savoir, et aussi savoir que ça ne veut pas forcément dire en forme, mais qu'il garde juste la tête hors de l'eau."
 
 
-"D'un autre coté, \"stable\" est bien meilleur que \"état critique\". Au moins elle n'est pas sur le point de mourir."
+"D'un autre coté, 'stable' est bien meilleur que 'état critique'. Au moins elle n'est pas sur le point de mourir."
 
 
 hi "Stable... c'est déjà ça."
@@ -4116,7 +4116,7 @@ show lilly basic_surprised_ni
 with charachange
 
 
-"Lilly et moi sommes tous deux surpris par la prise de courage de Hanako. Je lui réponds un petit \"D'accord\", et m'assois sur la chaise de son bureau."
+"Lilly et moi sommes tous deux surpris par la prise de courage de Hanako. Je lui réponds un petit 'D'accord', et m'assois sur la chaise de son bureau."
 
 show lilly basic_concerned_ni
 with charachange
@@ -4283,7 +4283,7 @@ hi "Ça va ?"
 li "Je suis un peu fatiguée. Les choses ont été... trépidantes récemment."
 
 
-hi "Tu as dormi tout court ? \"Un peu fatiguée\" est un euphémisme, vu ton expression."
+hi "Tu as dormi tout court ? 'Un peu fatiguée' est un euphémisme, vu ton expression."
 
 show lilly basic_sleepy
 with charachange
@@ -4426,7 +4426,7 @@ mi "Tu l'as vue hier soir ?"
 hi "Ouais, Lilly et moi sommes allés lui parler."
 
 
-hi "Hum, ça va sembler bizarre, mais tu peux dire \"merci\" à Shizune ? De la part de... Lilly et de moi."
+hi "Hum, ça va sembler bizarre, mais tu peux dire 'merci' à Shizune ? De la part de... Lilly et de moi."
 
 
 "Je sais que Lilly n'a techniquement pas remercié Shizune, mais je pouvais voir à sa réaction hier soir qu'elle le voulait. Du moins, c'est comme ça que je l'ai interprété."
@@ -4443,7 +4443,7 @@ show misha sign_confused_close
 with charachange
 
 
-mi "Euh... Je crois que ce que Shicchan essaye de dire est \"de rien\"."
+mi "Euh... Je crois que ce que Shicchan essaye de dire est 'de rien'."
 
 
 "Les gestes rapides et les joues enflammées de Shizune m'indiquent qu'elle disait quelque chose de complètement différent. Son expression énervée est suffisamment drôle pour me faire rire cela dit."
@@ -4464,7 +4464,7 @@ with charachange
 mi "Wahahaha~ ! Tu as raison~ ! Shicchan est vraiment mignonne quand elle essaye de ne pas l’être !"
 
 
-"Je remarque que Misha a décidé de ne pas traduire sa réponse à Shizune. Peut-être que l’énervement de Shizune suffit sans qu'on dise \"mignonne\" à tout va."
+"Je remarque que Misha a décidé de ne pas traduire sa réponse à Shizune. Peut-être que l’énervement de Shizune suffit sans qu'on dise 'mignonne' à tout va."
 
 show shizu adjust_frown
 with charachange
@@ -6171,7 +6171,7 @@ play music music_happiness fadein 2.0
 "Je grimace et me tourne vers la voix qui ne se confond pas. La voix est bien trop joyeuse pour être naturelle, même de la part de Misha."
 
 
-"Que Misha sourie joyeusement n'est pas étrange. De la part de Shizune, c'est un très mauvais signe. Celui qu'elle affiche est lu dans mon esprit comme \"J'ai une dizaine de chefs d'accusations contre toi\"."
+"Que Misha sourie joyeusement n'est pas étrange. De la part de Shizune, c'est un très mauvais signe. Celui qu'elle affiche est lu dans mon esprit comme 'J'ai une dizaine de chefs d'accusations contre toi'."
 
 
 hi "Salut Shizune, salut Misha. Vous euh... semblez contentes de me voir."
@@ -6434,7 +6434,7 @@ $ renpy.music.set_volume(1.0, 1.0, channel="music")
 "Et donc, voilà. Notre relation est terminée. Clair, propre et sans ambiguïté."
 
 
-"Je n'étais pas dans l'illusion qu'on puisse être réunis un jour. La dernière fois qu'elle est venue me voir, aucun d'entre nous n'a ouvert la bouche, en dehors des derniers mots qu'elle a dit avant de partir : \"Au revoir.\""
+"Je n'étais pas dans l'illusion qu'on puisse être réunis un jour. La dernière fois qu'elle est venue me voir, aucun d'entre nous n'a ouvert la bouche, en dehors des derniers mots qu'elle a dit avant de partir : 'Au revoir.'"
 
 
 "Mais comme ça... ça ressemble plus à une fin. Le point final d'une expérience qu'on a voulu faire, et pour laquelle on a échoué."
@@ -8151,7 +8151,7 @@ with dissolvecharamove
 "Hanako se balade dans le magasin, regardant les divers objets présentés. Elle trouve la section des poupées et passe de longues minutes à les étudier une par une."
 
 
-"C'est un côté de Hanako que je ne connais que très peu. J'étais étonné quand Lilly a dit qu'elle aimait les poupées, et encore plus quand j'ai découvert sa \"collection\" sur son étagère."
+"C'est un côté de Hanako que je ne connais que très peu. J'étais étonné quand Lilly a dit qu'elle aimait les poupées, et encore plus quand j'ai découvert sa 'collection' sur son étagère."
 
 show hanako basic_normal_cas_close at center 
 with charaenter

@@ -28,7 +28,7 @@ play music music_dreamy fadein 8.0
 "Ma chambre..."
 
 
-"C'est la troisième pièce cette année que je suis supposé appeler la \"mienne.\""
+"C'est la troisième pièce cette année que je suis supposé appeler la 'mienne.'"
 
 
 "Il y a plusieurs choses ici qui me rappellent que, évidemment, c'est moi qui suis supposé vivre ici."
@@ -1031,7 +1031,7 @@ with charachange
 mi "Ce n'est pas vrai, Hicchan, Shicchan dit que quand leur vie est menacée, les gens sont capable d'avoir une vitesse surhumaine."
 
 
-hi "“Quand leur vie est menacée\" ?"
+hi "“Quand leur vie est menacée' ?"
 
 show shizu behind_smile
 with charachange
@@ -1083,7 +1083,7 @@ with charachange
 mi "Non~."
 
 
-hi "Qu'est-ce que tu veux dire par \"non\" ? Ça signifie que personne d'autre ne viendra aujourd'hui ?"
+hi "Qu'est-ce que tu veux dire par 'non' ? Ça signifie que personne d'autre ne viendra aujourd'hui ?"
 
 show shizu adjust_smug
 with charachange
@@ -1567,7 +1567,7 @@ show misha perky_smile
 with charachange
 
 
-mi "Okay, Hicchan, mais nous n'allons pas renoncer si facilement. Tu as dit \"peut-être\" ; il y a encore une chance que tu nous rejoignes~ !"
+mi "Okay, Hicchan, mais nous n'allons pas renoncer si facilement. Tu as dit 'peut-être' ; il y a encore une chance que tu nous rejoignes~ !"
 
 show shizu basic_angry
 with charachange
@@ -1709,7 +1709,7 @@ play sound sfx_door_creak
 "La porte grince lentement comme si elle se réveillait d'un sommeil profond, et est bien plus facile à ouvrir que ce que j'avais prévu."
 
 
-"Je me dépêche pour regarder dans l'entrebâillement de la porte, et ainsi, avoir une vue de la salle aussi vite que possible. Le humble \"Bonjour...?\" sur mes lèvres s'évanouit."
+"Je me dépêche pour regarder dans l'entrebâillement de la porte, et ainsi, avoir une vue de la salle aussi vite que possible. Le humble 'Bonjour...?' sur mes lèvres s'évanouit."
 
 window hide
 
@@ -2536,7 +2536,7 @@ ha_ "H… Hanako…"
 "Elle répond en bégayant et tellement faiblement que c'en est à peine audible, même dans la bibliothèque."
 
 
-"D'une certaine manière je pense que l'impression que j'avais d'elle en tant que \"délinquante\", était fausse."
+"D'une certaine manière je pense que l'impression que j'avais d'elle en tant que 'délinquante', était fausse."
 
 
 hi "Hanako, hein ? Qu'est-ce que tu lis ?"
@@ -2552,7 +2552,7 @@ with locationskip
 "Elle doit avoir vu que j'étais en train de la fixer juste avant."
 
 
-hi "“Life of Pi\" ? Je n'en ai jamais entendu parler. Ça parle de quoi ?"
+hi "“Life of Pi' ? Je n'en ai jamais entendu parler. Ça parle de quoi ?"
 
 
 ha "D'un garçon... et un tigre..."
@@ -2641,7 +2641,7 @@ with locationchange
 "Je m'assieds sur le siège à côté d'elle alors qu'elle se cache derrière son livre."
 
 
-"“Life of Pi\"... Jamais entendu parler."
+"“Life of Pi'... Jamais entendu parler."
 
 
 hi "Alors, euh... encore désolé de t'avoir fait peur. Je suis Hisao."
@@ -2662,7 +2662,7 @@ ha_ "Nous... sommes dans la même... même classe."
 "Sa réponse semble tellement forcée et elle parle si silencieusement que c'en est à peine audible, même dans la bibliothèque."
 
 
-"D'une certaine manière je pense que l'impression que j'avais d'elle, en tant que \"délinquante\", était fausse."
+"D'une certaine manière je pense que l'impression que j'avais d'elle, en tant que 'délinquante', était fausse."
 
 
 ha_ "H—h—hanako. Je suis... Hanako."
@@ -2673,7 +2673,7 @@ stop music fadeout 8.0
 "..."
 
 
-"Je résiste à l'envie de dire \"c'est un joli prénom\" juste pour avoir quelque chose à dire, mais vraiment, c'est la seule chose qui me vient à l'esprit."
+"Je résiste à l'envie de dire 'c'est un joli prénom' juste pour avoir quelque chose à dire, mais vraiment, c'est la seule chose qui me vient à l'esprit."
 
 
 "Je me sens idiot. Tout le monde ici doit être habitué à agir de manière différente suivant chaque personne, et moi je suis là, incommodé et gêné avec ce genre de chose."
@@ -2706,7 +2706,7 @@ show ev hana_library_read
 with locationchange
 
 
-"Au bout d'un moment, je me rends compte qu'elle fait de même, même si elle fait semblant de lire \"Life of Pi\"."
+"Au bout d'un moment, je me rends compte qu'elle fait de même, même si elle fait semblant de lire 'Life of Pi'."
 
 show ev hana_library
 with locationchange
@@ -2858,7 +2858,7 @@ with charachange
 "Yuuko soupire et semble terriblement gênée, encore plus qu'elle l'était plus tôt."
 
 
-yu "Je suppose que tu n'as rien fait de \"mal\" mais plutôt que tu as manqué de \"tact\"."
+yu "Je suppose que tu n'as rien fait de 'mal' mais plutôt que tu as manqué de 'tact'."
 
 
 hi "De tact ?"
@@ -2986,7 +2986,7 @@ yu "Je vois."
 "Mais elle n'ajoute rien d'autre, et enregistre simplement les livres pour moi."
 
 
-"Ça doit être ça qu'ils appellent le \"tact\"."
+"Ça doit être ça qu'ils appellent le 'tact'."
 
 stop music fadeout 2.0
 
@@ -3327,7 +3327,7 @@ with charachange
 ke "Où en étais-je ? Ah, oui, le vaste complot féministe."
 
 
-hi "Arrête ça. Arrête ! Je me suis perdu en chemin, bien avant. Quelque part vers \"l'infiltration féministe\"."
+hi "Arrête ça. Arrête ! Je me suis perdu en chemin, bien avant. Quelque part vers 'l'infiltration féministe'."
 
 show kenji happy
 with charachange
@@ -3363,7 +3363,7 @@ with charachange
 ke "Tu veux dire que c'est toi ? Ce n'est pas possible, parce que je suis le dernier homme sain d'esprit dans un monde de fous. C'est mon rêve, tu ne peux pas voler le rêve d'un homme. "
 
 
-ke "Diantre dieu, il ne peut pas y avoir deux derniers hommes sains d'esprit. Ça contredirait la partie \"dernier\"... et cette partie est plutôt importante."
+ke "Diantre dieu, il ne peut pas y avoir deux derniers hommes sains d'esprit. Ça contredirait la partie 'dernier'... et cette partie est plutôt importante."
 
 
 ke "Il ne peut y en avoir qu'un seul, comme dans ce film étranger où il ne pouvait y en avoir qu'un seul, et en fin de compte il n'y a qu'un mec restant, parce que c'était le but."
