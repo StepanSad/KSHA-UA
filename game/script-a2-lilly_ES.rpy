@@ -4608,7 +4608,7 @@ n "Cada clic del reloj tensa mis músculos aún más, cada minuto que pasa poni�
 n "Viene por mí, puedo sentirlo."
 
 play sound sfx_slide
-label sos:
+
 n " {vspace=360}{image=vfx/reddash.png}{color=#FF0000}{b}La muerte.{/b}{/color}"
 
 n " {vspace=60}Muerte con la forma de una hoja de papel."
@@ -5427,8 +5427,7 @@ emi "¡Ves! Solo alguien mitad extranjero podría haber obtenido un puntaje tan 
 
 show rin basic_absent
 with charachange
-
-hi "“Ves\"…"
+hi "\"Ves\"…"
 
 show rin basic_awayabsent
 show emi basic_closedsweat

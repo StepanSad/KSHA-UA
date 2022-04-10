@@ -6860,7 +6860,7 @@ with shorttimeskip
 window hide
 nvl clear
 nvl show dissolve
-label sos1:
+
 n " {vspace=60}“No puedo depender de ti”."
 
 
