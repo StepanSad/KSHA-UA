@@ -1562,7 +1562,7 @@ init 2 python:
 
     def doublespeak(char0, char1, msg0, msg1=False):
         _window_hide()
-        renpy.call_screen("dspeak", char0, char1, msg0, msg1=False)
+        renpy.call_screen("dspeak", char0, char1, msg0, msg1)
         renpy.checkpoint()
 
 
